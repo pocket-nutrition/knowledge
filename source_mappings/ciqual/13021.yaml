@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13021'
+canonical_ingredient_id: kiwi
+label: Kiwi, chair sans peau, avec pépins, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

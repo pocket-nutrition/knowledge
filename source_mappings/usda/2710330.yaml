@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710330'
+canonical_ingredient_id: chocolate_candy
+label: Chocolate candy with nuts
+match_method: ai_review
+confidence: 0.9

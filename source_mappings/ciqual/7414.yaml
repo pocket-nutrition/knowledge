@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Tartine craquante extrudées, source ou riche en fibres
+match_method: auto_name
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '7414'

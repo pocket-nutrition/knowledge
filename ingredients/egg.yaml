@@ -1,0 +1,16 @@
+id: egg
+name_en: egg
+name_fr: œuf
+name_en_plural: eggs
+name_fr_plural: œufs
+serving_mode: item
+unit_label_en: egg
+unit_label_fr: oeuf
+food_group: egg
+states:
+  raw:
+    portion_g: 58.0
+    density_g_ml: 1.029
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

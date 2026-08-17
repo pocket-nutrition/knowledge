@@ -1,0 +1,14 @@
+id: sweet_pepper
+name_en: sweet pepper
+name_fr: poivron
+serving_mode: item
+unit_label_en: pepper
+unit_label_fr: poivron
+food_group: vegetable
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

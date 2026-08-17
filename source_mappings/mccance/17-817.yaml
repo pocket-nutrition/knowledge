@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Onion sauce, made with whole milk, homemade
+match_method: auto_name
+meta:
+  group: WCD
+source: mccance
+source_id: 17-817

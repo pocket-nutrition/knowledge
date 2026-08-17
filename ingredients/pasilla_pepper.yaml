@@ -1,0 +1,18 @@
+id: pasilla_pepper
+name_en: pasilla pepper
+name_fr: piment pasilla séché
+serving_mode: item
+unit_label_en: pepper
+unit_label_fr: piment
+food_group: spice_herb
+states:
+  processed:
+    portion_g: 7.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- pasilla chile
+- chile pasilla
+display_unit: g

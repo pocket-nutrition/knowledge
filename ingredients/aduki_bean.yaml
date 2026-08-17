@@ -1,0 +1,14 @@
+id: aduki_bean
+name_en: Aduki bean
+name_fr: haricot aduki
+name_en_plural: Aduki beans
+name_fr_plural: Haricots aduki
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

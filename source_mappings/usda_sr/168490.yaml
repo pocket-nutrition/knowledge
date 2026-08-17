@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168490'
+canonical_ingredient_id: arrowroot
+label: Arrowroot, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36016'
+canonical_ingredient_id: chicken
+label: Poulet, viande et peau crues
+cooking_method: raw
+match_method: manual
+confidence: 1.0
+meta:
+  group: viandes, oeufs, poissons

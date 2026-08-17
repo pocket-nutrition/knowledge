@@ -1,0 +1,12 @@
+id: bean_sheet
+name_en: bean sheet
+name_fr: feuille de haricot mungo
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

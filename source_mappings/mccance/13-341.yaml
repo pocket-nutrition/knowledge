@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Seaweed, wakame, dried, raw
+match_method: auto_ai
+meta:
+  description: Analysis and literature sources
+  food_group: DG
+source: mccance
+source_id: 13-341

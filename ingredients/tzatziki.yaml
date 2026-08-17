@@ -1,0 +1,16 @@
+id: tzatziki
+name_en: tzatziki
+name_fr: tzatziki
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.021
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

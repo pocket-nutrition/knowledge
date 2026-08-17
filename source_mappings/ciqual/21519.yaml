@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '21519'
+canonical_ingredient_id: lamb
+label: Agneau, gigot braisé
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-421
+canonical_ingredient_id: lamb_sweetbread
+label: Sweetbread, lamb, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Thymus and pancreas, 12 samples
+  food_group: MG

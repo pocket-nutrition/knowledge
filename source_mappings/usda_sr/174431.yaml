@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174431'
+canonical_ingredient_id: venison
+label: Game meat, deer, top round, separable lean only, 1" steak, cooked, broiled
+cooking_method: grilled
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Lamb, Veal, and Game Products

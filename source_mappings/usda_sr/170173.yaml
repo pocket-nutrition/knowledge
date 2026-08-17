@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '170173'
+canonical_ingredient_id: coconut_milk
+label: Nuts, coconut milk, canned (liquid expressed from grated meat and water)
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

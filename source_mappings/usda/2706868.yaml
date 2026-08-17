@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706868'
+canonical_ingredient_id: _composite
+label: Fried fish with sauce, Puerto Rican style
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Seafood mixed dishes

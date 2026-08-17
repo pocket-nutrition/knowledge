@@ -1,0 +1,8 @@
+canonical_ingredient_id: ketchup
+confidence: 0.8
+label: Ketchup, préemballé
+match_method: auto_before_comma
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11008'

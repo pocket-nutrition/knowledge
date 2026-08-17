@@ -1,0 +1,8 @@
+canonical_ingredient_id: oolong_tea
+confidence: 0.9
+label: Thé oolong, infusé, non sucré
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18156'

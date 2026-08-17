@@ -1,0 +1,8 @@
+canonical_ingredient_id: lamb_brain
+confidence: 0.65
+label: Brain, lamb, boiled
+match_method: auto_token
+meta:
+  group: MG
+source: mccance
+source_id: 18-392

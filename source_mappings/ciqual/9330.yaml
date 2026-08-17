@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '9330'
+canonical_ingredient_id: millet
+label: Mil complet, cru
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits céréaliers
+  subgroup: pâtes, riz et céréales

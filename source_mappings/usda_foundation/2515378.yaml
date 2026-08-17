@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2515378'
+canonical_ingredient_id: macadamia_nut
+label: Nuts, macadamia nuts, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

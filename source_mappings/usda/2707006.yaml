@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707006'
+canonical_ingredient_id: _composite
+label: Chicken fillet sandwich, grilled, from fast food, with cheese
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Chicken fillet sandwiches

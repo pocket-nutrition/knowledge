@@ -1,0 +1,21 @@
+id: pigeon_pea
+name_en: pigeon pea
+name_fr: pois d'Angole
+name_en_plural: pigeon peas
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 60.0
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- red gram
+- toor dal
+aliases_fr:
+- ambérique
+- gandule
+display_unit: g

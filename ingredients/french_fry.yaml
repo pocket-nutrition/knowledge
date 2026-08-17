@@ -1,0 +1,20 @@
+id: french_fry
+name_en: french fry
+name_fr: frites
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.148
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+aliases_en:
+- fries
+- chips
+- french fries
+aliases_fr:
+- frite
+- frites
+- pommes frites
+display_unit: g

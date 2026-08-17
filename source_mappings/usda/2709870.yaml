@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709870'
+canonical_ingredient_id: wax_bean
+label: Yellow string beans, cooked
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: String beans

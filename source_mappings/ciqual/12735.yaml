@@ -1,0 +1,8 @@
+canonical_ingredient_id: mimolette_cheese
+confidence: 0.9
+label: Mimolette jeune (moins de 6 mois d'affinage)
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12735'

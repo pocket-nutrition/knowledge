@@ -1,0 +1,8 @@
+canonical_ingredient_id: brie_cheese
+confidence: 0.8
+label: Brie, sans précision
+match_method: auto_before_comma
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12020'

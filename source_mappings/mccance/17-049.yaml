@@ -1,0 +1,8 @@
+canonical_ingredient_id: glucose
+confidence: 0.9
+label: Glucose liquid, BP
+match_method: auto_ai
+meta:
+  group: SC
+source: mccance
+source_id: 17-049

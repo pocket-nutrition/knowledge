@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709239'
+canonical_ingredient_id: kiwi
+label: Kiwi fruit, raw
+cooking_method: raw
+match_method: name_en_partial
+confidence: 0.65

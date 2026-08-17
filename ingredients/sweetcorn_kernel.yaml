@@ -1,0 +1,7 @@
+food_group: vegetable
+id: sweetcorn_kernel
+name_en: sweetcorn kernel
+name_fr: maïs doux
+states:
+  raw:
+    portion_g: 80

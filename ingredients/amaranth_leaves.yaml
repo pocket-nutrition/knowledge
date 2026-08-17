@@ -1,0 +1,19 @@
+id: amaranth_leaves
+name_en: Amaranth leaves
+name_fr: Feuilles d'amarante
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 21.0
+    density_g_ml: 0.118
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- callaloo
+- Chinese spinach
+- amaranth greens
+aliases_fr:
+- épinard chinois
+display_unit: g

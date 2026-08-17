@@ -1,0 +1,8 @@
+canonical_ingredient_id: caribou
+confidence: 0.9
+label: Caribou
+match_method: auto_ai
+meta:
+  wweia_category: Lamb, goat, game
+source: usda
+source_id: '2705919'

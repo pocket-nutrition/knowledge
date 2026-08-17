@@ -1,0 +1,23 @@
+id: rice_malt_syrup
+name_en: rice malt syrup
+name_fr: sirop de malt de riz
+serving_mode: measure
+food_group: sweetener
+states:
+  processed:
+    portion_g: 21.0
+    density_g_ml: 1.4
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- brown rice syrup
+- rice syrup
+aliases_fr:
+- sirop de riz
+- sirop de riz brun
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

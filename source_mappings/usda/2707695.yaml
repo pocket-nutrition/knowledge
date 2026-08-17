@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707695'
+canonical_ingredient_id: _composite
+label: Breadsticks, soft, with parmesan cheese, fast food / restaurant
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Rolls and buns

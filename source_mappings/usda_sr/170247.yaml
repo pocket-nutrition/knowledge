@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '170247'
+canonical_ingredient_id: popcorn
+label: Snacks, popcorn, oil-popped, white popcorn, salt added
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Snacks

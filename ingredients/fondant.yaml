@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: false
+food_group: cereal
+id: fondant
+name_en: fondant
+name_fr: fondant
+states:
+  cooked:
+    density_g_ml: 1.091
+    portion_g: 60
+typical_state: grilled

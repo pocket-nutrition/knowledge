@@ -1,0 +1,6 @@
+canonical_ingredient_id: almond_butter
+confidence: 0.9
+label: Almond butter
+match_method: name_en_exact
+source: usda
+source_id: '2707533'

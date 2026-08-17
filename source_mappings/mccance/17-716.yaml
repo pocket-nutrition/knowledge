@@ -1,0 +1,8 @@
+canonical_ingredient_id: french_dressing
+confidence: 0.65
+label: Dressing, French, fat free
+match_method: auto_token
+meta:
+  group: WCG
+source: mccance
+source_id: 17-716

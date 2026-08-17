@@ -1,0 +1,14 @@
+id: vegan_chicken
+name_en: vegan chicken
+name_fr: poulet végan
+serving_mode: weight
+food_group: other
+states:
+  cooked:
+    portion_g: 100.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

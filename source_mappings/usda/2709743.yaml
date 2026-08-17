@@ -1,0 +1,6 @@
+canonical_ingredient_id: salsa
+confidence: 0.65
+label: Salsa verde or salsa, green
+match_method: name_en_partial
+source: usda
+source_id: '2709743'

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspberry,
+  strawberry)
+match_method: auto_name
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '172755'

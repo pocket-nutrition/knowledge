@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '23412'
+canonical_ingredient_id: brisee
+label: Pâte brisée, matière grasse végétale, préemballée, cuite
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: produits céréaliers

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709296'
+canonical_ingredient_id: _composite
+label: Fruit salad, excluding citrus fruits, with salad dressing or mayonnaise
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Other fruits and fruit salads

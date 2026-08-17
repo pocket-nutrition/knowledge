@@ -1,0 +1,8 @@
+canonical_ingredient_id: tzatziki
+confidence: 0.95
+label: Tzatziki
+match_method: auto_exact
+meta:
+  group: BN
+source: mccance
+source_id: 12-547

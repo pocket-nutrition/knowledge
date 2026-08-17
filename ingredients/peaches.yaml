@@ -1,0 +1,7 @@
+food_group: other
+id: peaches
+name_en: peach
+name_fr: pêche
+states:
+  raw:
+    portion_g: 100

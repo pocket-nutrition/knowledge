@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '170117'
+canonical_ingredient_id: french_fries
+label: Potatoes, frozen, french fried, par fried, cottage-cut, prepared, heated in oven, with salt
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

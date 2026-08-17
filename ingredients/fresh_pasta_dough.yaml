@@ -1,0 +1,12 @@
+id: fresh_pasta_dough
+name_en: fresh pasta dough
+name_fr: pâte à pâtes fraîche
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

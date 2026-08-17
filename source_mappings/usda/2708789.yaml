@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708789'
+canonical_ingredient_id: _composite
+label: Tortellini, cheese-filled, meatless, with vinaigrette dressing
+match_method: name_en_before_comma
+confidence: 0.75

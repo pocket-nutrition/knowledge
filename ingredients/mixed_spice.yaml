@@ -1,0 +1,10 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: spice_herb
+id: mixed_spice
+name_en: mixed spice
+name_fr: épices diverses
+states:
+  raw:
+    portion_g: 100
+typical_state: raw

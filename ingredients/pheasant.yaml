@@ -1,0 +1,13 @@
+id: pheasant
+name_en: pheasant
+name_fr: faisan
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 169.0
+    density_g_ml: 1.059
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+display_unit: g

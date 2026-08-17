@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '28501'
+canonical_ingredient_id: bacon
+label: Lardon nature, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: charcuteries et alternatives végétales

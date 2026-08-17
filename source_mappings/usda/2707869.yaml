@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707869'
+canonical_ingredient_id: chocolate_cake
+label: Cake or cupcake, German chocolate
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Cakes and pies

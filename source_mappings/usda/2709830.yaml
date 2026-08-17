@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709830'
+canonical_ingredient_id: _composite
+label: Greek Salad, no dressing
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Vegetable dishes

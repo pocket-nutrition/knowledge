@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709141'
+canonical_ingredient_id: _composite
+label: Spaghetti and meatballs dinner, NFS, frozen meal
+match_method: name_en_partial
+confidence: 0.65

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707747'
+canonical_ingredient_id: whole_wheat_roll
+label: Roll, wheat or cracked wheat, hot dog bun
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Rolls and buns

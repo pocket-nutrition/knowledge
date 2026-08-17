@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Turkey sticks, breaded, battered, fried
+match_method: auto_name
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '171103'

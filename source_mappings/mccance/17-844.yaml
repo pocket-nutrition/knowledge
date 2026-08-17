@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Barley water, diluted
+match_method: auto_ai
+meta:
+  group: PCC
+source: mccance
+source_id: 17-844

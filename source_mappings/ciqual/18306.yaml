@@ -1,0 +1,8 @@
+canonical_ingredient_id: aloe_vera_juice
+confidence: 0.65
+label: Boisson à l'aloe vera, sucrée
+match_method: auto_token
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18306'

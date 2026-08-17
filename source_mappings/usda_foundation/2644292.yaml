@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2644292'
+canonical_ingredient_id: pinto_bean
+label: Beans, pinto, canned, sodium added, drained and rinsed
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: 'Spécialité fromagère non affinée à tartiner environ 30-40 % MG aromatisée
+  (ex: ail et fines herbes)'
+match_method: auto_name
+meta:
+  group: produits laitiers et assimilés
+source: ciqual
+source_id: '19530'

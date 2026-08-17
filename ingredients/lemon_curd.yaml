@@ -1,0 +1,19 @@
+id: lemon_curd
+name_en: lemon curd
+name_fr: crème de citron
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- lemon curd
+- crème au citron
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

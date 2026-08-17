@@ -1,0 +1,16 @@
+confidence: 0.75
+cooking_method: grilled
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Beef, loin, top
+  loin steak, boneless, lip off, separable lean and fat, trimmed to 0" fat, all grades
+  / Grilled
+nutrient_retention:
+  iron_mg: 0.93
+  niacin_mg: 0.8
+  phosphorus_mg: 0.85
+  potassium_mg: 0.8
+  vitamin_b12_ug: 0.84
+  vitamin_b6_mg: 0.73
+  zinc_mg: 0.93
+raw_id: beef_top_round
+source: usda_yield_mp_r2
+yield_factor: 0.82

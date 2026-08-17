@@ -1,0 +1,8 @@
+canonical_ingredient_id: birch_sap
+confidence: 0.9
+label: Boisson à la sève de bouleau
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18347'

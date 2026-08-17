@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706472'
+canonical_ingredient_id: _composite
+label: Stewed, seasoned, ground beef and pork, Mexican style
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Meat mixed dishes

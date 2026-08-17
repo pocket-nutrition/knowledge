@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Udi's, Gluten Free, Soft & Delicious White Sandwich Bread
+match_method: auto_token
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '167598'

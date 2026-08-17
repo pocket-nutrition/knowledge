@@ -1,0 +1,17 @@
+id: rice_wine
+name_en: rice wine
+name_fr: alcool de riz
+serving_mode: volume
+food_group: alcohol
+states:
+  processed:
+    portion_g: 100.0
+    density_g_ml: 0.99
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- shot
+display_unit: ml

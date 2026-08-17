@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11045'
+canonical_ingredient_id: yeast
+label: Levure de boulanger déshydratée
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

@@ -1,0 +1,8 @@
+canonical_ingredient_id: blackcurrant_juice
+confidence: 0.65
+label: Blackcurrant juice drink/squash, undiluted
+match_method: auto_token
+meta:
+  group: PCC
+source: mccance
+source_id: 17-737

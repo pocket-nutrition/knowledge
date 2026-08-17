@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean
+  and fat, trimmed to 1/8" fat, cooked, grilled
+match_method: auto_before_comma
+meta:
+  category: Lamb, Veal, and Game Products
+source: usda_sr
+source_id: '174415'

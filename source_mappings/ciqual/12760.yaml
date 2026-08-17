@@ -1,0 +1,8 @@
+canonical_ingredient_id: tome_cheese
+confidence: 0.9
+label: Tomme ou tome, allégée en matière grasse
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12760'

@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '1750339'
+canonical_ingredient_id: apple
+label: Apples, red delicious, with skin, raw
+match_method: manual
+confidence: 1.0
+meta:
+  category: Fruits and Fruit Juices

@@ -1,0 +1,18 @@
+id: jackfruit
+name_en: jackfruit
+name_fr: jacquier
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 158.0
+    density_g_ml: 0.62
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- jack fruit
+aliases_fr:
+- jacque
+- jaque
+display_unit: g

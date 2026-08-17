@@ -1,0 +1,6 @@
+canonical_ingredient_id: bell_pepper
+confidence: 0.8
+label: Poivron, vert, jaune ou rouge, cru
+match_method: name_fr_before_comma
+source: ciqual
+source_id: '20041'

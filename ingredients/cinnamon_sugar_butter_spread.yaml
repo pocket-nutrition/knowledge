@@ -1,0 +1,12 @@
+id: cinnamon_sugar_butter_spread
+name_en: cinnamon sugar butter spread
+name_fr: beurre sucré à la cannelle à tartiner
+food_group: dairy
+states:
+  raw:
+    portion_g: 68.0
+    density_g_ml: 1.048
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

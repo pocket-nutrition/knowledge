@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+cooking_method: boiled
+label: Potatoes, old, boiled in salted water, flesh only
+match_method: auto_ai
+meta:
+  group: DAM
+source: mccance
+source_id: 13-605

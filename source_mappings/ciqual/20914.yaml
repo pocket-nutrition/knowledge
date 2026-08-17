@@ -1,0 +1,8 @@
+canonical_ingredient_id: soy_patty
+confidence: 0.9
+label: Galette ou pavé au soja
+match_method: auto_ai
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '20914'

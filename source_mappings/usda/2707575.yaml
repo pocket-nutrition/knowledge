@@ -1,0 +1,8 @@
+canonical_ingredient_id: keto_trail_mix
+confidence: 0.65
+label: Trail mix with nuts
+match_method: auto_token
+meta:
+  wweia_category: Nuts and seeds
+source: usda
+source_id: '2707575'

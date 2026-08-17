@@ -1,0 +1,16 @@
+id: bolognese_sauce
+name_en: bolognese sauce
+name_fr: sauce bolognaise
+serving_mode: weight
+food_group: sauce
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

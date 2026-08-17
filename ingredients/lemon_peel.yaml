@@ -1,0 +1,18 @@
+id: lemon_peel
+name_en: lemon peel
+name_fr: zeste de citron
+serving_mode: measure
+food_group: fruit
+states:
+  raw:
+    portion_g: 6.0
+    density_g_ml: 0.406
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- lemon zest
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

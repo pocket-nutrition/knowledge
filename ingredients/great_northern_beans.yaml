@@ -1,0 +1,17 @@
+id: great_northern_beans
+name_en: great northern beans
+name_fr: Haricots Great Northern
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- white beans
+- great northern bean
+aliases_fr:
+- haricots blancs
+display_unit: g

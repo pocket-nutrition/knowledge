@@ -1,0 +1,8 @@
+canonical_ingredient_id: feta_cheese
+confidence: 0.8
+label: Feta, au lait de brebis 70% minimum et lait de chèvre 30% maximum
+match_method: auto_before_comma
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12066'

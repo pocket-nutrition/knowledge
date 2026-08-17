@@ -1,0 +1,8 @@
+canonical_ingredient_id: spinach
+confidence: 0.8
+label: Spinach, mature
+match_method: auto_before_comma
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_foundation
+source_id: '1999633'

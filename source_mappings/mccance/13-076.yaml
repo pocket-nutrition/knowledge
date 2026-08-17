@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beans, chick peas, Kabuli, split, dried, raw
+match_method: auto_name
+meta:
+  description: No seed coat. Literature sources
+  food_group: DB
+source: mccance
+source_id: 13-076

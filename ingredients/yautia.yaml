@@ -1,0 +1,7 @@
+food_group: vegetable
+id: yautia
+name_en: yautia
+name_fr: yautia
+states:
+  raw:
+    portion_g: 80

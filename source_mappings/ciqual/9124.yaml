@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '9124'
+label: Riz thaï, cuit, sans sel ajouté
+cooking_method: cooked
+match_method: manual
+confidence: 0.9
+meta:
+  group: produits céréaliers

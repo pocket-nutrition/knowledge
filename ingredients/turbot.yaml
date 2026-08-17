@@ -1,0 +1,13 @@
+id: turbot
+name_en: turbot
+name_fr: turbot
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.055
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+display_unit: g

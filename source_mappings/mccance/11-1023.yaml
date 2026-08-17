@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Prawn crackers, takeaway
+match_method: auto_name
+meta:
+  group: AT
+source: mccance
+source_id: 11-1023

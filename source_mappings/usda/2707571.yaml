@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707571'
+canonical_ingredient_id: cream_of_coconut
+label: Coconut cream, canned, sweetened
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Plant-based milk

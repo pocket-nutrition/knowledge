@@ -1,0 +1,17 @@
+id: black_sugar
+name_en: black sugar
+name_fr: sucre noir
+serving_mode: weight
+food_group: sweetener
+states:
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.85
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

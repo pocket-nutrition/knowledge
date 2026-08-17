@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709949'
+canonical_ingredient_id: lettuce
+label: Lettuce, cooked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Lettuce and lettuce salads

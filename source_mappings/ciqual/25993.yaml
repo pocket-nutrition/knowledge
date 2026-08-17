@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '25993'
+canonical_ingredient_id: smoked_salmon
+label: Saumon fumé, à l'aneth et au citron
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

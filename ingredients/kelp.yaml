@@ -1,0 +1,15 @@
+id: kelp
+name_en: kelp
+name_fr: varech (kelp)
+serving_mode: weight
+food_group: seaweed
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+display_unit: g

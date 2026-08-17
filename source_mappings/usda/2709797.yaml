@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709797'
+canonical_ingredient_id: green_peas
+label: Green peas, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Other starchy vegetables

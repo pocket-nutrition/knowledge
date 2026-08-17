@@ -1,0 +1,16 @@
+id: bean_dip
+name_en: bean dip
+name_fr: trempette de haricots
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.217
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

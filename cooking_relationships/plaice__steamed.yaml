@@ -1,0 +1,14 @@
+confidence: 0.85
+cooking_method: steamed
+nutrient_retention:
+  iron_mg: 0.93
+  niacin_mg: 0.8
+  phosphorus_mg: 0.86
+  potassium_mg: 0.8
+  vitamin_b12_ug: 0.78
+  vitamin_b6_mg: 0.72
+  vitamin_d_ug: 0.85
+  zinc_mg: 0.93
+raw_id: plaice
+source: mccance_pair
+yield_factor: 0.8352

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '30309'
+canonical_ingredient_id: dry_sausage
+label: Saucisse sèche
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

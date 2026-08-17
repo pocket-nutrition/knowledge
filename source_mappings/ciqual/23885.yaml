@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Beignet ou donut fourré ou nappé goût chocolat ou chocolat noisette, préemballé
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '23885'

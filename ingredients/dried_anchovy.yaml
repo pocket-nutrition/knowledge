@@ -1,0 +1,18 @@
+id: dried_anchovy
+name_en: dried anchovy
+name_fr: anchois séché
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- tablespoon
+display_unit: g

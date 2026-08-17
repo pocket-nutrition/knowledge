@@ -1,0 +1,8 @@
+canonical_ingredient_id: water
+confidence: 0.9
+label: Water, enhanced, regular
+match_method: auto_ai
+meta:
+  wweia_category: Enhanced water
+source: usda
+source_id: '2710711'

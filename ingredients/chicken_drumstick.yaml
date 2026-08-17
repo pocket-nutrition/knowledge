@@ -1,0 +1,15 @@
+id: chicken_drumstick
+name_en: chicken drumstick
+name_fr: pilon de poulet
+serving_mode: item
+unit_label_en: drumstick
+unit_label_fr: pilon
+food_group: meat
+states:
+  cooked:
+    portion_g: 90.0
+    density_g_ml: 1.053
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-112
+canonical_ingredient_id: runner_beans
+label: Beans, runner, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Ends and sides trimmed
+  food_group: DB

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Macadamia nuts, salted
+match_method: auto_ai
+meta:
+  group: G
+source: mccance
+source_id: 14-891

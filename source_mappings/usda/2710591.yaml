@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710591'
+canonical_ingredient_id: _composite
+label: Apple juice beverage, 40-50% juice, light
+match_method: name_en_partial
+confidence: 0.65

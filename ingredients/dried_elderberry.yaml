@@ -1,0 +1,18 @@
+id: dried_elderberry
+name_en: dried elderberry
+name_fr: baie de sureau séchée
+serving_mode: weight
+food_group: fruit
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.5
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- tablespoon
+display_unit: g

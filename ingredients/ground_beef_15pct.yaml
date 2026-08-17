@@ -1,0 +1,15 @@
+id: ground_beef_15pct
+name_en: ground beef 15% fat
+name_fr: bœuf haché 15% MG
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- steak haché 15%
+- viande hachée de boeuf 15%
+display_unit: g

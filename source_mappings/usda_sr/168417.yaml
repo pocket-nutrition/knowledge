@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168417'
+canonical_ingredient_id: drumstick_leaves
+label: Drumstick leaves, cooked, boiled, drained, without salt
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Vegetables and Vegetable Products

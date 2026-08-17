@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Chapatis, made with fat, retail
+match_method: auto_name
+meta:
+  group: AF
+source: mccance
+source_id: 11-987

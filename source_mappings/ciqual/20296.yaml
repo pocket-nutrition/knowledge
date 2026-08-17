@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20296'
+canonical_ingredient_id: bok_choy
+label: Brèdes chou de Chine ou bok choy ou pak choï, tiges et feuilles, cuites à la vapeur, prélevées à La Réunion (Brassica rapa subsp. Chinensis)
+cooking_method: steamed
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

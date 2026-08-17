@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Dessert infantile lacté, sucré, nature ou aux fruits
+match_method: auto_name
+meta:
+  group: aliments infantiles
+  subgroup: desserts infantiles
+source: ciqual
+source_id: '13166'

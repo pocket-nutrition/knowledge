@@ -1,0 +1,21 @@
+id: poultry_ham
+name_en: poultry ham
+name_fr: jambon de volaille
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 32.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- chicken ham
+- turkey ham
+aliases_fr:
+- blanc de volaille en tranche
+- jambon de dinde
+display_unit: g

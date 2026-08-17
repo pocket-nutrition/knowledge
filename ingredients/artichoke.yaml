@@ -1,0 +1,13 @@
+id: artichoke
+name_en: artichoke
+name_fr: artichaut
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 204.0
+    density_g_ml: 1.031
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

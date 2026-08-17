@@ -1,0 +1,19 @@
+id: pork_back_rib
+name_en: pork back rib
+name_fr: travers de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.042
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- pork ribs
+- spare ribs
+aliases_fr:
+- travers de porc
+- ribs de porc
+display_unit: g

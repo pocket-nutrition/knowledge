@@ -1,0 +1,8 @@
+canonical_ingredient_id: goat_cheese
+confidence: 0.9
+label: Fromage de chèvre lactique affiné, au lait pasteurisé (type bûchette ou crottin)
+match_method: auto_ai
+meta:
+  group: produits laitiers et assimilés
+source: ciqual
+source_id: '12802'

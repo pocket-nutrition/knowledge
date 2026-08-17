@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707570'
+canonical_ingredient_id: almond_yogurt
+label: Yogurt, almond milk
+match_method: ai_review
+confidence: 0.9

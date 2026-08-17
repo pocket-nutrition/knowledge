@@ -1,0 +1,16 @@
+id: almond_milk
+name_en: almond milk
+name_fr: lait d'amande
+serving_mode: volume
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.003
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

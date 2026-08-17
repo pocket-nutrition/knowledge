@@ -1,0 +1,20 @@
+id: enoki_mushroom
+name_en: enoki mushroom
+name_fr: champignon enoki
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- enokitake
+- golden needle mushroom
+aliases_fr:
+- enokitake
+- champignon des neiges
+display_unit: g

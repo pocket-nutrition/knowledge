@@ -1,0 +1,8 @@
+canonical_ingredient_id: tome
+confidence: 0.9
+label: Tomme ou tome de vache
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12758'

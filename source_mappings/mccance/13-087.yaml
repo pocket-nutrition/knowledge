@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beans, haricot, whole, dried, boiled in unsalted water
+match_method: auto_name
+meta:
+  description: Soaked 24 hours, boiled 2 hours
+  food_group: DB
+source: mccance
+source_id: 13-087

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708795'
+canonical_ingredient_id: _composite
+label: Cannelloni, cheese- and spinach-filled, no sauce
+match_method: name_en_before_comma
+confidence: 0.75

@@ -1,0 +1,17 @@
+id: dried_prawn
+name_en: dried prawn
+name_fr: crevette séchée
+serving_mode: weight
+food_group: shellfish
+states:
+  processed:
+    portion_g: 15.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

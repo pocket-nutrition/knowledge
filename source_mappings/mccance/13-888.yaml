@@ -1,0 +1,8 @@
+source: mccance
+source_id: 13-888
+canonical_ingredient_id: cilantro
+label: Coriander leaves, fresh
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: H

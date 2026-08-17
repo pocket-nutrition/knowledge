@@ -1,0 +1,13 @@
+confidence: 0.85
+cooking_method: fried
+nutrient_retention:
+  iron_mg: 0.92
+  niacin_mg: 0.78
+  phosphorus_mg: 0.83
+  potassium_mg: 0.78
+  vitamin_b12_ug: 0.8
+  vitamin_b6_mg: 0.7
+  zinc_mg: 0.92
+raw_id: pig_kidney
+source: mccance_pair
+yield_factor: 0.4257

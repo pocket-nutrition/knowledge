@@ -1,0 +1,9 @@
+canonical_ingredient_id: potato
+confidence: 0.8
+cooking_method: boiled
+label: Pomme de terre, bouillie/cuite à l'eau
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '4003'

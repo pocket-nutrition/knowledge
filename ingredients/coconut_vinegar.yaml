@@ -1,0 +1,16 @@
+id: coconut_vinegar
+name_en: coconut vinegar
+name_fr: vinaigre de coco
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 1.01
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

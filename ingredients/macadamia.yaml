@@ -1,0 +1,11 @@
+can_eat_cooked: false
+can_eat_raw: true
+food_group: fat
+id: macadamia
+name_en: macadamia
+name_fr: Noix de macadamia
+states:
+  raw:
+    density_g_ml: 1.005
+    portion_g: 30
+typical_state: raw

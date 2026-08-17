@@ -1,0 +1,6 @@
+canonical_ingredient_id: fromage_blanc_cheese
+confidence: 0.8
+label: Fromage blanc, nature, 7-8% MG
+match_method: name_fr_before_comma
+source: ciqual
+source_id: '19711'

@@ -1,0 +1,14 @@
+id: sea_bream
+name_en: sea bream
+name_fr: daurade
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.048
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- dorade
+display_unit: g

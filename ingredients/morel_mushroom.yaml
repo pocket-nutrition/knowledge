@@ -1,0 +1,13 @@
+id: morel_mushroom
+name_en: morel mushroom
+name_fr: morille
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+    density_g_ml: 0.45
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

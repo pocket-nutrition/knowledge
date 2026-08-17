@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169001'
+canonical_ingredient_id: kidney
+label: Sea lion, Steller, kidney (Alaska Native)
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

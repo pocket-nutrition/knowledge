@@ -1,0 +1,17 @@
+id: puffed_kamut
+name_en: puffed kamut
+name_fr: kamut soufflé
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 15.0
+    density_g_ml: 0.2
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

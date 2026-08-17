@@ -1,0 +1,13 @@
+id: vanilla_milk
+name_en: vanilla milk
+name_fr: lait vanillé
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 128.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: ml

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Pasta with ham and mushroom sauce, homemade
+match_method: auto_token
+meta:
+  group: MR
+source: mccance
+source_id: 19-611

@@ -1,0 +1,8 @@
+source: mccance
+source_id: 15-186
+canonical_ingredient_id: _composite
+label: Lasagne, spinach, wholemeal, homemade
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: DR

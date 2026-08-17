@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706823'
+canonical_ingredient_id: _composite
+label: Chicken or turkey fricassee, no sauce, no potatoes, Puerto Rican style
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Poultry mixed dishes

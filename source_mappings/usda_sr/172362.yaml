@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '172362'
+canonical_ingredient_id: soybean_oil
+label: Oil, industrial, soy ( partially hydrogenated), all purpose
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Fats and Oils

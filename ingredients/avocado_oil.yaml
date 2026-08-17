@@ -1,0 +1,16 @@
+id: avocado_oil
+name_en: avocado oil
+name_fr: huile d'avocat
+serving_mode: volume
+food_group: fat
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.925
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

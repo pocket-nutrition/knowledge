@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-041
+canonical_ingredient_id: adzuki_bean
+label: Beans, aduki, whole, dried, raw
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: 6 samples, whole beans
+  food_group: DB

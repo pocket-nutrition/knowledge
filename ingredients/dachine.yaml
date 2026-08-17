@@ -1,0 +1,7 @@
+food_group: vegetable
+id: dachine
+name_en: dachine
+name_fr: Dachine
+states:
+  raw:
+    portion_g: 80

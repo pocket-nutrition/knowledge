@@ -1,0 +1,18 @@
+id: pork_liver
+name_en: pork liver
+name_fr: foie de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 33.0
+    density_g_ml: 1.09
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- pig liver
+- pig's liver
+aliases_fr:
+- foie de cochon
+display_unit: g

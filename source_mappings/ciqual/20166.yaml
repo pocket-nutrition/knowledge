@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20166'
+canonical_ingredient_id: pumpkin
+label: Citrouille, chair sans peau, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

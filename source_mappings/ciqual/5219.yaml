@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Alcool fort (type rhum), cuisiné (alcool évaporé)
+match_method: auto_name
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '5219'

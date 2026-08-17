@@ -1,0 +1,8 @@
+source: mccance
+source_id: 15-636
+canonical_ingredient_id: _composite
+label: Coleslaw, with reduced calorie dressing, retail
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: DR

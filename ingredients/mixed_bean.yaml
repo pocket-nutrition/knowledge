@@ -1,0 +1,10 @@
+can_eat_cooked: true
+can_eat_raw: false
+food_group: vegetable
+id: mixed_bean
+name_en: mixed bean
+name_fr: mixed bean
+states:
+  cooked:
+    portion_g: 60
+typical_state: grilled

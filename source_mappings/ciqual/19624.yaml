@@ -1,0 +1,6 @@
+canonical_ingredient_id: yogurt
+confidence: 0.7
+label: Yaourt ou lait fermenté, nature ou aux fruits (aliment moyen)
+match_method: name_fr_partial
+source: ciqual
+source_id: '19624'

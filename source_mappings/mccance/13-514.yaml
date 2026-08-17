@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beans, green, raw
+match_method: auto_ai
+meta:
+  description: 22 samples, autumn and winter, UK grown and imported, pre-packed and
+    loose, including dwarf, fine and extra fine, not runner bean
+  food_group: DB
+source: mccance
+source_id: 13-514

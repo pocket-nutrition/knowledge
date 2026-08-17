@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26016'
+canonical_ingredient_id: lemon_sole
+label: Limande-sole, panée, frite
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

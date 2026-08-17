@@ -1,0 +1,14 @@
+id: veal_cutlet
+name_en: veal cutlet
+name_fr: escalope de veau
+serving_mode: item
+unit_label_en: cutlet
+unit_label_fr: escalope
+food_group: meat
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

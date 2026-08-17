@@ -1,0 +1,16 @@
+id: espresso
+name_en: espresso
+name_fr: expresso
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- shot
+- cup
+display_unit: ml

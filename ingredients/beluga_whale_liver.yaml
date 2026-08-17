@@ -1,0 +1,12 @@
+id: beluga_whale_liver
+name_en: beluga whale liver
+name_fr: foie de béluga
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709607'
+canonical_ingredient_id: mustard_greens
+label: Mustard greens, fresh, cooked, no added fat
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Other dark green vegetables

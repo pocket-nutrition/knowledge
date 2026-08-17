@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: cabbage
+name_en: cabbage
+name_fr: chou
+states:
+  raw:
+    density_g_ml: 1.02
+    portion_g: 150
+typical_state: raw

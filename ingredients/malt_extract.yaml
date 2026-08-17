@@ -1,0 +1,16 @@
+id: malt_extract
+name_en: malt extract
+name_fr: extrait de malt
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

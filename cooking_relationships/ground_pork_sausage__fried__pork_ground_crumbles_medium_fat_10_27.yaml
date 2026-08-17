@@ -1,0 +1,7 @@
+confidence: 0.75
+cooking_method: fried
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Pork, ground,
+  crumbles, medium fat (10%-27%) / Pan-browned
+raw_id: ground_pork_sausage
+source: usda_yield_mp_r2
+yield_factor: 0.67

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710738'
+canonical_ingredient_id: nutritional_powder
+label: Nutritional powder mix, sugar free (Slim Fast)
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Protein and nutritional powders

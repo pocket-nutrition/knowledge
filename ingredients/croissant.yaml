@@ -1,0 +1,11 @@
+id: croissant
+name_en: croissant
+name_fr: croissant
+food_group: baked_good
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.3
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

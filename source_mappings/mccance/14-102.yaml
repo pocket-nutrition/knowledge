@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-102
+canonical_ingredient_id: gooseberry
+label: Gooseberries, cooking, stewed without sugar
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: FA

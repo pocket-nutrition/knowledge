@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709184'
+canonical_ingredient_id: lime_juice
+label: Lime juice, 100%, freshly squeezed
+match_method: ai_review
+confidence: 0.9

@@ -1,0 +1,13 @@
+id: mont_d_or_vacherin
+name_en: mont d'or vacherin
+name_fr: Vacherin Mont D'Or
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.052
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

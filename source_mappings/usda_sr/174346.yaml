@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Game meat, rabbit, domesticated, composite of cuts, cooked, stewed
+match_method: auto_name
+meta:
+  category: Lamb, Veal, and Game Products
+source: usda_sr
+source_id: '174346'

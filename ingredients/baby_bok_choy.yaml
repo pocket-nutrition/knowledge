@@ -1,0 +1,13 @@
+id: baby_bok_choy
+name_en: baby bok choy
+name_fr: bok choy jeune
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.018
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

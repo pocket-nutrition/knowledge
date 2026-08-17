@@ -1,0 +1,8 @@
+canonical_ingredient_id: egg_roll_wrapper
+confidence: 0.65
+label: Roll, egg bread
+match_method: auto_token
+meta:
+  wweia_category: Rolls and buns
+source: usda
+source_id: '2707659'

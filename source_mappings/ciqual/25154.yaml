@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Gratin de poisson et purée ou brandade aux pommes de terre ou parmentier de
+  poisson, préemballé
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '25154'

@@ -1,0 +1,16 @@
+id: honey_roasted_cashew
+name_en: honey-roasted cashew
+name_fr: noix de cajou grillée au miel
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 29.0
+    density_g_ml: 0.55
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

@@ -1,0 +1,12 @@
+id: stir_fry_sauce
+name_en: stir-fry sauce
+name_fr: sauce pour wok
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: ml

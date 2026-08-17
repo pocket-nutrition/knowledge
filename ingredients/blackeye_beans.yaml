@@ -1,0 +1,7 @@
+food_group: vegetable
+id: blackeye_beans
+name_en: blackeye beans
+name_fr: fèves noires
+states:
+  raw:
+    portion_g: 80

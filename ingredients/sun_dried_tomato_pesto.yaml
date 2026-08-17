@@ -1,0 +1,16 @@
+id: sun_dried_tomato_pesto
+name_en: sun-dried tomato pesto
+name_fr: pesto de tomates séchées
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

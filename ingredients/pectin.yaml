@@ -1,0 +1,21 @@
+id: pectin
+name_en: pectin
+name_fr: pectine
+serving_mode: measure
+food_group: other
+states:
+  cooked:
+    portion_g: 28.0
+    density_g_ml: 0.96
+  processed:
+    portion_g: 10.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- fruit pectin
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

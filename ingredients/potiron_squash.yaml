@@ -1,0 +1,13 @@
+id: potiron_squash
+name_en: pumpkin squash
+name_fr: potiron
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 73.0
+    density_g_ml: 1.047
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

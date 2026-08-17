@@ -1,0 +1,15 @@
+id: chocolate_cookie
+name_en: chocolate cookie
+name_fr: cookie au chocolat
+serving_mode: item
+unit_label_en: cookie
+unit_label_fr: cookie
+food_group: baked_good
+states:
+  raw:
+    portion_g: 25.0
+    density_g_ml: 0.7
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

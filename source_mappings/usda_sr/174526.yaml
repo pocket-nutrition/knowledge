@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174526'
+canonical_ingredient_id: bechamel_sauce
+label: Sauce, homemade, white, thick
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Soups, Sauces, and Gravies

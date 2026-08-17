@@ -1,0 +1,10 @@
+source: mccance
+source_id: 14-895
+canonical_ingredient_id: breadnut_seed
+label: Breadnut seeds, dried
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Literature sources
+  food_group: G

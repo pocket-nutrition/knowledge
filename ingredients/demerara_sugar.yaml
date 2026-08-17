@@ -1,0 +1,19 @@
+id: demerara_sugar
+name_en: demerara sugar
+name_fr: sucre demerara
+serving_mode: weight
+food_group: sweetener
+states:
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.85
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- sucre roux
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

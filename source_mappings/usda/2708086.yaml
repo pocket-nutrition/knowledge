@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708086'
+canonical_ingredient_id: _composite
+label: Milk 'n Cereal bar
+match_method: name_en_partial
+confidence: 0.65

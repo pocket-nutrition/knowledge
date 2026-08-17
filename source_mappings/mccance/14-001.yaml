@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-001
+canonical_ingredient_id: amla
+label: Amla
+cooking_method: raw
+match_method: auto_exact
+confidence: 0.95
+meta:
+  group: FA

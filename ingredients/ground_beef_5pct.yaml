@@ -1,0 +1,18 @@
+id: ground_beef_5pct
+name_en: ground beef 5% fat
+name_fr: bœuf haché 5% MG
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- lean ground beef
+- lean minced beef
+aliases_fr:
+- steak haché 5% MG
+- viande hachée 5% MG
+display_unit: g

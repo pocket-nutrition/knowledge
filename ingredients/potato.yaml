@@ -1,0 +1,19 @@
+id: potato
+name_en: potato
+name_fr: pomme de terre
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.097
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- spud
+- spuds
+aliases_fr:
+- patate
+- patates
+display_unit: g

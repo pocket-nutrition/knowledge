@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Granola bar, soft, milk chocolate coated, peanut butter
+match_method: auto_token
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '168095'

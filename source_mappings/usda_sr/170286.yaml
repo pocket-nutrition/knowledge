@@ -1,0 +1,8 @@
+canonical_ingredient_id: buckwheat
+confidence: 0.95
+label: Buckwheat
+match_method: auto_exact
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '170286'

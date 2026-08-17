@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '746783'
+canonical_ingredient_id: sausage
+label: Sausage, turkey, breakfast links, mild, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Sausages and Luncheon Meats

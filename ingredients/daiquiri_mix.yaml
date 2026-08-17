@@ -1,0 +1,16 @@
+id: daiquiri_mix
+name_en: daiquiri mix
+name_fr: préparation pour daiquiri
+serving_mode: volume
+food_group: beverage
+states:
+  processed:
+    portion_g: 40.0
+    density_g_ml: 1.05
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- shot
+display_unit: ml

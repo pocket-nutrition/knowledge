@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '173043'
+canonical_ingredient_id: physali
+label: Groundcherries, (cape-gooseberries or poha), raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Fruits and Fruit Juices

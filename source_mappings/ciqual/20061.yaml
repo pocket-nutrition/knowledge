@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20061'
+canonical_ingredient_id: green_bean
+label: Haricot vert, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

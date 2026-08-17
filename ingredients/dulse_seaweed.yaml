@@ -1,0 +1,17 @@
+id: dulse_seaweed
+name_en: dulse seaweed
+name_fr: dulse
+serving_mode: weight
+food_group: seaweed
+states:
+  processed:
+    portion_g: 10.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

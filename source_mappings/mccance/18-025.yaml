@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, flank, raw, lean and fat
+match_method: auto_before_comma
+meta:
+  description: Calculated from 76% lean and 23% fat
+  food_group: MAC
+source: mccance
+source_id: 18-025

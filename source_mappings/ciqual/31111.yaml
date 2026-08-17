@@ -1,0 +1,9 @@
+canonical_ingredient_id: bee_pollen
+confidence: 0.9
+label: Pollen, frais
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+  subgroup: aides culinaires
+source: ciqual
+source_id: '31111'

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20015'
+canonical_ingredient_id: cabbage
+label: Chou vert, cuit
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

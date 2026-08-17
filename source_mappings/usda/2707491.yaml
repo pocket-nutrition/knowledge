@@ -1,0 +1,8 @@
+canonical_ingredient_id: honey_roasted_almond
+confidence: 0.65
+label: Almonds, honey roasted
+match_method: auto_token
+meta:
+  category: Nuts and seeds
+source: usda
+source_id: '2707491'

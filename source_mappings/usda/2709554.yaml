@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Stewed potatoes
+match_method: auto_name
+meta:
+  category: Mashed potatoes and white potato mixtures
+source: usda
+source_id: '2709554'

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168202'
+canonical_ingredient_id: null
+label: Apples, raw, golden delicious, with skin
+match_method: manual
+confidence: 1.0
+meta:
+  category: Fruits and Fruit Juices

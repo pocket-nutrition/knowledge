@@ -1,0 +1,15 @@
+id: tartlet_shell
+name_en: tartlet shell
+name_fr: fond de tartelette
+serving_mode: item
+unit_label_en: shell
+unit_label_fr: fond
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 15.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

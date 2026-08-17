@@ -1,0 +1,21 @@
+id: tartiflette
+name_en: tartiflette
+name_fr: tartiflette
+aliases_fr:
+- tartiflette savoyarde
+components:
+- ingredient_id: potato
+  weight_g: 200
+  cooking_method: boiled
+- ingredient_id: reblochon_cheese
+  weight_g: 80
+  cooking_method: roasted
+- ingredient_id: bacon
+  weight_g: 50
+  cooking_method: fried
+- ingredient_id: onion
+  weight_g: 50
+  cooking_method: fried
+- ingredient_id: creme_fraiche
+  weight_g: 30
+  cooking_method: raw

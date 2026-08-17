@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708427'
+label: Rice, brown and wild, cooked, no added fat
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Rice

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26247'
+canonical_ingredient_id: halibut
+label: Flétan du Groënland ou flétan noir ou flétan commun, cuit à la vapeur
+cooking_method: steamed
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

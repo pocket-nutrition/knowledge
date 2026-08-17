@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707367'
+canonical_ingredient_id: broad_bean
+label: Fava beans, cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beans, peas, legumes

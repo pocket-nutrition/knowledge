@@ -1,0 +1,16 @@
+id: lean_pocket
+name_en: lean pocket
+name_fr: chausson fourré (lean pocket)
+serving_mode: item
+unit_label_en: pocket
+unit_label_fr: chausson
+food_group: prepared_dish
+states:
+  cooked:
+    portion_g: 127.0
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

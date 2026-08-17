@@ -1,0 +1,7 @@
+source: usda
+source_id: '2707588'
+canonical_ingredient_id: flax
+label: Flax seeds
+cooking_method: dry
+match_method: name_en_partial
+confidence: 0.65

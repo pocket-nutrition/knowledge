@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708288'
+canonical_ingredient_id: pretzel
+label: Pretzels, soft, gluten free, cinnamon sugar coated
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Pretzels/snack mix

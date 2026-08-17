@@ -1,0 +1,13 @@
+id: vegetable_beef_soup
+name_en: vegetable beef soup
+name_fr: soupe de bœuf aux légumes
+serving_mode: volume
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 306.0
+    density_g_ml: 1.044
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: ml

@@ -1,0 +1,13 @@
+id: canned_cannellini_bean
+name_en: canned cannellini bean
+name_fr: haricot cannellini en conserve
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.75
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

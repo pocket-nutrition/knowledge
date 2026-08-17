@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Cookies, oatmeal, soft, with raisins
+match_method: auto_name
+meta:
+  category: Baked Products
+source: usda_foundation
+source_id: '333008'

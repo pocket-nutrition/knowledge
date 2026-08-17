@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709658'
+canonical_ingredient_id: chinese_broccoli
+label: Broccoli, Chinese, cooked
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Broccoli

@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Mushrooms, white, raw
+match_method: auto_ai
+meta:
+  description: 11 samples, closed cap and button, UK grown and imported, pre-packed
+    and loose
+  food_group: DG
+source: mccance
+source_id: 13-505

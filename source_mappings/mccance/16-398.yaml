@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Kippers, flesh only, boil in the bag, with butter, cooked
+match_method: auto_name
+meta:
+  group: JC
+source: mccance
+source_id: 16-398

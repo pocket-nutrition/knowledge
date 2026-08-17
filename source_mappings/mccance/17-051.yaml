@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Honey and comb
+match_method: auto_name
+meta:
+  group: SC
+source: mccance
+source_id: 17-051

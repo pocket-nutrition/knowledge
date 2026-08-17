@@ -1,0 +1,8 @@
+canonical_ingredient_id: bell_pepper
+confidence: 0.9
+label: Poivron rouge, appertisé, égoutté
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '20275'

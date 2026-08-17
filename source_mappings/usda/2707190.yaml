@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707190'
+canonical_ingredient_id: _composite
+label: Egg Salad, made with any type of fat free dressing
+match_method: name_en_partial
+confidence: 0.65

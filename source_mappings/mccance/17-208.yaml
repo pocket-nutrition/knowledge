@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beer, bitter, best, premium
+match_method: auto_before_comma
+meta:
+  group: QA
+source: mccance
+source_id: 17-208

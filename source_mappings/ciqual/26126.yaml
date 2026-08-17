@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26126'
+canonical_ingredient_id: haddock
+label: Églefin, grillé/poêlé
+cooking_method: grilled
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

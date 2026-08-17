@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707448'
+canonical_ingredient_id: tofu
+label: Soybean curd, deep fried
+cooking_method: fried
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Soy and meat-alternative products

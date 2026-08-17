@@ -1,0 +1,7 @@
+source: mccance
+source_id: 13-061
+canonical_ingredient_id: black_gram
+label: Black gram, duhli urad dahl, split, dried, boiled in unsalted water
+cooking_method: boiled
+match_method: name_en_before_comma
+confidence: 0.75

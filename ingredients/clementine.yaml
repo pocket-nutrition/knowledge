@@ -1,0 +1,17 @@
+id: clementine
+name_en: clementine
+name_fr: clémentine
+name_en_plural: clementines
+name_fr_plural: clémentines
+serving_mode: item
+unit_label_en: clementine
+unit_label_fr: clémentine
+food_group: fruit
+states:
+  raw:
+    portion_g: 74.0
+    density_g_ml: 1.047
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

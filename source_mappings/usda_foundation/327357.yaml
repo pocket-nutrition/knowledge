@@ -1,0 +1,8 @@
+canonical_ingredient_id: nectarine
+confidence: 1.0
+label: Nectarines, raw
+match_method: auto_ai
+meta:
+  category: Fruits and Fruit Juices
+source: usda_foundation
+source_id: '327357'

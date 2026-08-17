@@ -1,0 +1,11 @@
+id: foie_gra
+name_en: foie gra
+name_fr: foie gras
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 0.986
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

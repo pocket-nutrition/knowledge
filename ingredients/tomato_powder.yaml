@@ -1,0 +1,17 @@
+id: tomato_powder
+name_en: tomato powder
+name_fr: poudre de tomate
+serving_mode: measure
+food_group: vegetable
+states:
+  processed:
+    portion_g: 10.0
+    density_g_ml: 0.45
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

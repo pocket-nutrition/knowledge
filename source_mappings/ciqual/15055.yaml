@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '15055'
+canonical_ingredient_id: cashews
+label: Noix de cajou, grillée à sec, sans sel ajouté
+cooking_method: roasted
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

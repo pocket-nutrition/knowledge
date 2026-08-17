@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-635
+canonical_ingredient_id: baby_corn
+label: Sweetcorn, baby, stir-fried in rapeseed oil
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: DG

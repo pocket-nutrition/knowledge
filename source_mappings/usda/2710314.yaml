@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710314'
+canonical_ingredient_id: jello
+label: Gelatin dessert, sugar free, with fruit
+match_method: ai_review
+confidence: 0.9

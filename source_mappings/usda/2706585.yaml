@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Vienna sausages stewed with potatoes, Puerto Rican style
+match_method: auto_name
+meta:
+  category: Meat mixed dishes
+source: usda
+source_id: '2706585'

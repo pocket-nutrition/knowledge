@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Viande cuite (aliment moyen)
+match_method: auto_name
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '6999'

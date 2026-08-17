@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26081'
+canonical_ingredient_id: monkfish
+label: Lotte ou baudroie, grillée/poêlée
+cooking_method: grilled
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

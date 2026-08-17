@@ -1,0 +1,7 @@
+canonical_ingredient_id: cabbage
+confidence: 0.7
+label: Chou chinois pak choï ou pak choy (feuilles vertes ressemblant à des blettes),
+  cru
+match_method: name_fr_partial
+source: ciqual
+source_id: '20340'

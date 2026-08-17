@@ -1,0 +1,10 @@
+source: mccance
+source_id: 16-003
+canonical_ingredient_id: bele
+label: Bele, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Literature sources. Imported frozen from Bangladesh
+  food_group: JA

@@ -1,0 +1,15 @@
+id: creme_de_menthe
+name_en: creme de menthe
+name_fr: crème de menthe
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 42.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- shot
+display_unit: ml

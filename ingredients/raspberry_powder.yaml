@@ -1,0 +1,15 @@
+id: raspberry_powder
+name_en: raspberry powder
+name_fr: poudre de framboise
+serving_mode: measure
+food_group: fruit
+states:
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.4
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon

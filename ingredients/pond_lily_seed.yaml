@@ -1,0 +1,18 @@
+id: pond_lily_seed
+name_en: pond lily seed
+name_fr: graines de nénuphar
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- wocas
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

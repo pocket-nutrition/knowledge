@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169706'
+canonical_ingredient_id: null
+label: Rice, brown, medium-grain, raw (Includes foods for USDA's Food Distribution
+  Program)
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

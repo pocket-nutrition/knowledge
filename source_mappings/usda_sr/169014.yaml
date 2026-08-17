@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169014'
+canonical_ingredient_id: sirloin_steak
+label: T.G.I. FRIDAY'S, classic sirloin steak (10 oz)
+cooking_method: grilled
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Restaurant Foods

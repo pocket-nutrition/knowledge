@@ -1,0 +1,8 @@
+canonical_ingredient_id: oat
+confidence: 0.95
+label: Oats (Includes foods for USDA's Food Distribution Program)
+match_method: auto_precise
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '169705'

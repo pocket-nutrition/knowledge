@@ -1,0 +1,8 @@
+canonical_ingredient_id: crab
+confidence: 0.9
+label: Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated
+match_method: auto_ai
+meta:
+  category: Finfish and Shellfish Products
+source: usda_foundation
+source_id: '2684446'

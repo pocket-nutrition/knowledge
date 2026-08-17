@@ -1,0 +1,20 @@
+id: cinnamon_roll
+name_en: cinnamon roll
+name_fr: roulé à la cannelle
+name_en_plural: cinnamon rolls
+name_fr_plural: roulés à la cannelle
+serving_mode: item
+unit_label_en: roll
+unit_label_fr: roulé
+food_group: baked_good
+states:
+  raw:
+    portion_g: 85.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- cinnamon bun
+aliases_fr:
+- brioche à la cannelle
+display_unit: g

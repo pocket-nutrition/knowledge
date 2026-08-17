@@ -1,0 +1,19 @@
+id: roast_beef
+name_en: roast beef
+name_fr: rosbif
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 25.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- deli roast beef
+aliases_fr:
+- rôti de bœuf
+display_unit: g

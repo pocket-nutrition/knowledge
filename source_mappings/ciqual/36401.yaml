@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '36401'
+canonical_ingredient_id: pheasant
+label: Faisan, viande crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

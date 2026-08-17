@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708311'
+canonical_ingredient_id: ready_made_pancake
+label: Pancakes, gluten free
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Pancakes, waffles, French toast

@@ -1,0 +1,7 @@
+source: usda
+source_id: '2705878'
+canonical_ingredient_id: ham
+label: Ham
+cooking_method: cooked
+match_method: name_en_exact
+confidence: 0.9

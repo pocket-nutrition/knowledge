@@ -1,0 +1,8 @@
+canonical_ingredient_id: puffed_wheat
+confidence: 0.65
+label: Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat
+match_method: auto_token
+meta:
+  category: Breakfast Cereals
+source: usda_sr
+source_id: '171669'

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Chicken, leg quarter, raw, meat and skin
+match_method: auto_ai
+meta:
+  description: Calculated from 77% dark meat and 23% skin
+  food_group: MCA
+source: mccance
+source_id: 18-293

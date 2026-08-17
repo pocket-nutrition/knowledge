@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Céréales pour petit déjeuner, non enrichies en vitamines et minéraux (aliment
+  moyen)
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '32032'

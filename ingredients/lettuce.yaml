@@ -1,0 +1,15 @@
+id: lettuce
+name_en: lettuce
+name_fr: laitue
+food_group: vegetable
+states:
+  raw:
+    portion_g: 8.0
+    density_g_ml: 1.013
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- salad
+aliases_fr:
+- salade

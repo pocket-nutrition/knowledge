@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705891'
+canonical_ingredient_id: smoked_pork_bacon
+label: Pork bacon, smoked or cured, reduced sodium, cooked
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Bacon

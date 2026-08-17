@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '22004'
+canonical_ingredient_id: egg_white_powder
+label: Oeuf, blanc (blanc d'oeuf), en poudre
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

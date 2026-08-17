@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Margarine, industrial, soy and partially hydrogenated soy oil, use for baking,
+  sauces and candy
+match_method: auto_before_comma
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '172369'

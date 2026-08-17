@@ -1,0 +1,7 @@
+food_group: other
+id: pinon_nut
+name_en: Pinon nut
+name_fr: Noix de pinon
+states:
+  raw:
+    portion_g: 100

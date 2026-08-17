@@ -1,0 +1,16 @@
+id: nectar
+name_en: nectar
+name_fr: nectar
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

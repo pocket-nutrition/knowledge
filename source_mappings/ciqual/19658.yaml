@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '19658'
+canonical_ingredient_id: _composite
+label: Fromage blanc ou spécialité laitière, aux fruits, sucré, 3% MG environ, au bifidus
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: produits laitiers et assimilés

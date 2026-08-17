@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Cereals, MALT-O-MEAL, chocolate, prepared with water, without salt
+match_method: auto_before_comma
+meta:
+  category: Breakfast Cereals
+source: usda_sr
+source_id: '173004'

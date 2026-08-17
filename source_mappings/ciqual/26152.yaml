@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26152'
+canonical_ingredient_id: pollock
+label: Lieu ou colin d'Alaska, fumé
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

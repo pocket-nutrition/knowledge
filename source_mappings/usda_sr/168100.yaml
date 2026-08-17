@@ -1,0 +1,9 @@
+canonical_ingredient_id: creamy_dressing
+confidence: 0.8
+label: Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie,
+  cholesterol-free
+match_method: auto_before_comma
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '168100'

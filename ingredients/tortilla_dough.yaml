@@ -1,0 +1,13 @@
+id: tortilla_dough
+name_en: tortilla dough
+name_fr: pâte à tortilla
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 1.1
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

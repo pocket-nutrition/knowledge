@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Beans, navy, canned, sodium added, drained and rinsed
+match_method: auto_name
+meta:
+  category: Legumes and Legume Products
+source: usda_foundation
+source_id: '2644286'

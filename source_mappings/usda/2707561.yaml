@@ -1,0 +1,6 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Peanut butter and jelly sandwich, frozen commercial product without crusts
+match_method: name_en_partial
+source: usda
+source_id: '2707561'

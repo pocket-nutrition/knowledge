@@ -1,0 +1,6 @@
+canonical_ingredient_id: waffle
+confidence: 0.7
+label: Gaufre moelleuse (type bruxelloise ou liégeoise), nature ou sucrée, préemballée
+match_method: name_fr_partial
+source: ciqual
+source_id: '23851'

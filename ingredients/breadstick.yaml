@@ -1,0 +1,16 @@
+id: breadstick
+name_en: breadstick
+name_fr: gressin
+serving_mode: item
+unit_label_en: stick
+unit_label_fr: gressin
+food_group: baked_good
+states:
+  raw:
+    portion_g: 7.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- grissini
+display_unit: g

@@ -1,0 +1,16 @@
+id: steel_cut_oat
+name_en: steel cut oat
+name_fr: flocons d'avoine épais (steel-cut)
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.5
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

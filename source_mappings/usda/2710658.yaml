@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Whiskey and diet cola
+match_method: auto_name
+meta:
+  wweia_category: Liquor and cocktails
+source: usda
+source_id: '2710658'

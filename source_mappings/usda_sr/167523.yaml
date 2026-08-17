@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '167523'
+canonical_ingredient_id: pie_crust
+label: Pie crust, deep dish, frozen, unbaked, made with enriched flour
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Baked Products

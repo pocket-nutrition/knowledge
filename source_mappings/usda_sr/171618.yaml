@@ -1,0 +1,8 @@
+canonical_ingredient_id: blood_sausage
+confidence: 0.95
+label: Blood sausage
+match_method: auto_exact
+meta:
+  category: Sausages and Luncheon Meats
+source: usda_sr
+source_id: '171618'

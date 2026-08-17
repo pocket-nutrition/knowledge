@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Potato chips, fine cut, from fast food outlets
+match_method: auto_name
+meta:
+  group: DAP
+source: mccance
+source_id: 13-486

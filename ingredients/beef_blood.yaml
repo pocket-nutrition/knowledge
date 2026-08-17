@@ -1,0 +1,13 @@
+id: beef_blood
+name_en: beef blood
+name_fr: sang de bœuf
+serving_mode: volume
+food_group: other
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.05
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: ml

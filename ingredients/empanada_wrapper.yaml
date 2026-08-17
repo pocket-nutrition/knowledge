@@ -1,0 +1,14 @@
+id: empanada_wrapper
+name_en: empanada wrapper
+name_fr: pâte à empanada
+serving_mode: item
+unit_label_en: wrapper
+unit_label_fr: disque
+food_group: cereal
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

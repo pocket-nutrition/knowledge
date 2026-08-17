@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '19647'
+canonical_ingredient_id: fromage_blanc_cheese
+label: Fromage blanc nature, 3% MG environ, au bifidus
+match_method: ai_review
+confidence: 0.9

@@ -1,0 +1,7 @@
+source: usda
+source_id: '2707827'
+canonical_ingredient_id: taco_shell
+label: Taco shell, flour
+cooking_method: fried
+match_method: name_en_before_comma
+confidence: 0.75

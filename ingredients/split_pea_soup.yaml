@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: legume
+id: split_pea_soup
+name_en: split pea soup
+name_fr: split pea soup
+states:
+  raw:
+    density_g_ml: 1.014
+    portion_g: 253
+typical_state: raw

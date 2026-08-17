@@ -1,0 +1,7 @@
+food_group: vegetable
+id: butterfly_pea
+name_en: butterfly pea
+name_fr: Orphie commun
+states:
+  raw:
+    portion_g: 80

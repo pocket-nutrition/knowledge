@@ -1,0 +1,8 @@
+canonical_ingredient_id: ground_poultry
+confidence: 0.9
+label: Haché de volaille
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '28927'

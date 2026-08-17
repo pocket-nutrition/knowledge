@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '13410'
+canonical_ingredient_id: lemon_juice
+label: Jus de citron punch (variété petit calibre), pur jus, prélevé à la Martinique
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

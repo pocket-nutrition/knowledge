@@ -1,0 +1,13 @@
+id: canned_bean
+name_en: canned bean
+name_fr: haricots en boîte
+name_en_plural: Canned beans
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

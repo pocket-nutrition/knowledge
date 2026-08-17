@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, New Zealand, imported, bolar blade, separable lean and fat, cooked, fast
+  roasted
+match_method: auto_before_comma
+meta:
+  category: Beef Products
+source: usda_sr
+source_id: '173097'

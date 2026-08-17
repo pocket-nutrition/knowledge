@@ -1,0 +1,11 @@
+id: tomato_soup
+name_en: tomato soup
+name_fr: soupe de tomate
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 248.0
+    density_g_ml: 1.048
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

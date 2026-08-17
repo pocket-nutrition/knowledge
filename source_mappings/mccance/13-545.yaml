@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-545
+canonical_ingredient_id: button_mushroom
+label: Mushrooms, white, fried in salted butter
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: DG

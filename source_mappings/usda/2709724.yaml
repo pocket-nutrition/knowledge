@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709724'
+canonical_ingredient_id: canned_tomato
+label: Tomatoes, canned, reduced sodium, cooked
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Tomatoes

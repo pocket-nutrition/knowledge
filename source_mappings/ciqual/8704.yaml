@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '8704'
+canonical_ingredient_id: blood_sausage
+label: Boudin noir, grillé/poêlé
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

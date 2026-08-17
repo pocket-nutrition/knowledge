@@ -1,0 +1,8 @@
+canonical_ingredient_id: rice_flour
+confidence: 0.95
+label: Farine de riz
+match_method: auto_exact
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '9520'

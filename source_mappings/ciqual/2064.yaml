@@ -1,0 +1,8 @@
+canonical_ingredient_id: nectar
+confidence: 0.9
+label: Nectar, avec édulcorants, allégé en sucres
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '2064'

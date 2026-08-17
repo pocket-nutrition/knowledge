@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, Australian, imported, Wagyu, loin, tenderloin steak/roast, boneless,
+  separable lean and fat, Aust. marble score 4/5, raw
+match_method: auto_before_comma
+meta:
+  category: Beef Products
+source: usda_sr
+source_id: '171732'

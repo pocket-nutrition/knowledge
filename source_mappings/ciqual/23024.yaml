@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Macaron moelleux fourré à la confiture ou à la crème
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '23024'

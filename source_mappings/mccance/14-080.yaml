@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-080
+canonical_ingredient_id: damson
+label: Damsons, stewed with sugar, weighed with stones
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: FA

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706362'
+canonical_ingredient_id: shrimp
+label: Shrimp, grilled
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Shellfish

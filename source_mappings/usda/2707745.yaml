@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707745'
+canonical_ingredient_id: breadstick
+label: Breadsticks, hard, whole wheat
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Crackers, excludes saltines

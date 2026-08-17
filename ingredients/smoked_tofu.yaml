@@ -1,0 +1,14 @@
+id: smoked_tofu
+name_en: smoked tofu
+name_fr: tofu fumé
+serving_mode: weight
+food_group: legume
+states:
+  processed:
+    portion_g: 100.0
+    density_g_ml: 1.055
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

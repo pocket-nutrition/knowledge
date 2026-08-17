@@ -1,0 +1,13 @@
+id: scarlet_runner_bean
+name_en: scarlet runner bean
+name_fr: haricot d'Espagne
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 70.0
+    density_g_ml: 0.8
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Potatoes, new, frozen, `roast' in corn oil
+match_method: auto_token
+meta:
+  group: DAE
+source: mccance
+source_id: 13-619

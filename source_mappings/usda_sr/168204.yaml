@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168204'
+canonical_ingredient_id: null
+label: Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)
+match_method: manual
+confidence: 1.0
+meta:
+  category: Fruits and Fruit Juices

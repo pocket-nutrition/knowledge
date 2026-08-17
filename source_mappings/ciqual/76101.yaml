@@ -1,0 +1,8 @@
+canonical_ingredient_id: mineral_water
+confidence: 0.9
+label: Eau minérale Mont-Blanc, embouteillée, plate, faiblement minéralisée (Italie)
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '76101'

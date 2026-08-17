@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2685582'
+canonical_ingredient_id: tomato_puree
+label: Tomato, puree, canned
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

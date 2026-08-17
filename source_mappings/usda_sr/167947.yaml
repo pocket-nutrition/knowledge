@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '167947'
+canonical_ingredient_id: chocolate_candy
+label: Candies, TOBLERONE, milk chocolate with honey and almond nougat
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Sweets

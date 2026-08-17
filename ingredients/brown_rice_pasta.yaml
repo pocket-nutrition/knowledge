@@ -1,0 +1,17 @@
+id: brown_rice_pasta
+name_en: brown rice pasta
+name_fr: pâtes de riz complet
+name_fr_plural: pâtes de riz complet
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- rice pasta
+aliases_fr:
+- pâtes de riz
+display_unit: g

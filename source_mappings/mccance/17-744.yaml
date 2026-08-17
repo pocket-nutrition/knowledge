@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Cranberry fruit juice drink
+match_method: auto_token
+meta:
+  group: PE
+source: mccance
+source_id: 17-744

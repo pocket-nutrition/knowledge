@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Cinnamon buns, frosted (includes honey buns)
+match_method: auto_name
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '167940'

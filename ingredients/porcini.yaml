@@ -1,0 +1,17 @@
+id: porcini
+name_en: porcini
+name_fr: cèpe
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked: {}
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- cep
+- porcini mushroom
+aliases_fr:
+- bolet

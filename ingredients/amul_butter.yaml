@@ -1,0 +1,12 @@
+id: amul_butter
+name_en: amul butter
+name_fr: beurre amul
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 14.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

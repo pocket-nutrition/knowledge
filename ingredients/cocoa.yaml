@@ -1,0 +1,23 @@
+id: cocoa
+name_en: cocoa
+name_fr: cacao
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- cocoa powder
+- unsweetened cocoa
+aliases_fr:
+- poudre de cacao
+- cacao en poudre
+serving_unit_types:
+- teaspoon
+- tablespoon
+- cup
+display_unit: g

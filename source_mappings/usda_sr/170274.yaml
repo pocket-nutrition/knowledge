@@ -1,0 +1,9 @@
+canonical_ingredient_id: dark_chocolate
+confidence: 0.65
+label: Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids
+  5%; 70-85% cacao solids 5%)
+match_method: auto_token
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '170274'

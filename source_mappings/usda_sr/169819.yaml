@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169819'
+canonical_ingredient_id: stinging_nettle
+label: Stinging Nettles, blanched (Northern Plains Indians)
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

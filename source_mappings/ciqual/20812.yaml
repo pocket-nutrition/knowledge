@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '20812'
+canonical_ingredient_id: flour
+label: Farine de pulpe de patate douce, prélevée à la Martinique
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

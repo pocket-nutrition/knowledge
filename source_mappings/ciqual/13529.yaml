@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '13529'
+canonical_ingredient_id: durian
+label: Dourian ou durian, chair sans peau, sans noyau, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits

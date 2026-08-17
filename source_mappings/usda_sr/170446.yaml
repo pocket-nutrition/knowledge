@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk
+  and butter added
+match_method: auto_name
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '170446'

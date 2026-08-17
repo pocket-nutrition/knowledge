@@ -1,0 +1,11 @@
+can_eat_cooked: false
+can_eat_raw: true
+food_group: fat
+id: hemp_seed_oil
+name_en: hemp seed oil
+name_fr: hemp seed oil
+states:
+  raw:
+    density_g_ml: 0.676
+    portion_g: 30
+typical_state: raw

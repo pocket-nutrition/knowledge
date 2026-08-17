@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '19538'
+canonical_ingredient_id: fermented_milk_drink
+label: Lait fermenté à boire, nature, sucré, au L Casei
+match_method: ai_review
+confidence: 0.9

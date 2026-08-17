@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '333281'
+canonical_ingredient_id: canned_tomato
+label: Tomatoes, canned, red, ripe, diced
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

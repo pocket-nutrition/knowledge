@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Nuts, almonds, honey roasted, unblanched
+match_method: auto_token
+meta:
+  category: Nut and Seed Products
+source: usda_sr
+source_id: '168592'

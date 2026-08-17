@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Vienna sausage, canned
+match_method: auto_name
+meta:
+  category: Sausages
+source: usda
+source_id: '2706203'

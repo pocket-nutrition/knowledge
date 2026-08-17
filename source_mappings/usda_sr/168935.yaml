@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+cooking_method: cooked
+label: Rice, white, long-grain, regular, cooked, unenriched, with salt
+match_method: auto_before_comma
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '168935'

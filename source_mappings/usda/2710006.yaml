@@ -1,0 +1,6 @@
+canonical_ingredient_id: yeast_extract_spread
+confidence: 0.9
+label: Yeast extract spread
+match_method: name_en_exact
+source: usda
+source_id: '2710006'

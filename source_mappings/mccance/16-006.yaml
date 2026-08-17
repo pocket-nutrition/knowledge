@@ -1,0 +1,9 @@
+canonical_ingredient_id: sea_bream
+confidence: 0.9
+label: Bream, Sea, raw
+match_method: auto_precise
+meta:
+  description: Literature sources
+  food_group: JA
+source: mccance
+source_id: 16-006

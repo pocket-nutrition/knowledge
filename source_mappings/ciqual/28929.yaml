@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '28929'
+canonical_ingredient_id: _composite
+label: Dés, allumettes, râpé ou haché de jambon de volaille
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,16 @@
+id: marinara_sauce
+name_en: marinara sauce
+name_fr: sauce marinara
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

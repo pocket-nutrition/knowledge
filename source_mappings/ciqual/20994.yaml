@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20994'
+canonical_ingredient_id: fucus_vesiculosus
+label: Fucus vésiculeux (Fucus serratus ou Fucus vesiculosus), séché ou déshydraté
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

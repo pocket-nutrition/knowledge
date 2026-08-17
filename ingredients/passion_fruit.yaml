@@ -1,0 +1,14 @@
+id: passion_fruit
+name_en: passion fruit
+name_fr: fruit de la passion
+food_group: fruit
+states:
+  raw:
+    portion_g: 127.0
+    density_g_ml: 1.091
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_fr:
+- maracuja
+- maracudja

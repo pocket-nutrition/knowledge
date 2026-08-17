@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707348'
+canonical_ingredient_id: dried_beans
+label: Beans, from dried, NS as to type, fat added
+cooking_method: boiled
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Beans, peas, legumes

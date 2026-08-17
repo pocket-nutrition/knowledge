@@ -1,0 +1,8 @@
+canonical_ingredient_id: blue_cheese
+confidence: 0.9
+label: Fromage bleu au lait de vache, non allégé en matière grasse
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12520'

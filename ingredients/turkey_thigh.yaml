@@ -1,0 +1,12 @@
+id: turkey_thigh
+name_en: turkey thigh
+name_fr: cuisse de dinde
+food_group: meat
+states:
+  cooked:
+    portion_g: 314.0
+    density_g_ml: 1.133
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

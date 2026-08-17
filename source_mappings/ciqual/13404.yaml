@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13404'
+canonical_ingredient_id: acerola
+label: Cerise acérola, chair et peau, sans noyau, crue, prélevée à la Martinique
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

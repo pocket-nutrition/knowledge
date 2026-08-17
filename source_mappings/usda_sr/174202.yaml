@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174202'
+canonical_ingredient_id: king_crab
+label: Crustaceans, crab, alaska king, cooked, moist heat
+cooking_method: steamed
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Finfish and Shellfish Products

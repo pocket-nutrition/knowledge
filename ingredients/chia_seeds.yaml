@@ -1,0 +1,16 @@
+id: chia_seeds
+name_en: chia seeds
+name_fr: graines de chia
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

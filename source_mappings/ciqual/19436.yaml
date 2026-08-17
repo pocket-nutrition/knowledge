@@ -1,0 +1,6 @@
+canonical_ingredient_id: cream
+confidence: 0.7
+label: Crème 12 à 20% MG, légère, fluide, rayon frais
+match_method: name_fr_partial
+source: ciqual
+source_id: '19436'

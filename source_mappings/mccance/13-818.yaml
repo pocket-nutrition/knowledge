@@ -1,0 +1,7 @@
+source: mccance
+source_id: 13-818
+canonical_ingredient_id: dried_cilantro
+label: Coriander leaves, dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9

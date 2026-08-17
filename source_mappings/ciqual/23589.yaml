@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '23589'
+canonical_ingredient_id: _composite
+label: Gâteau au fromage blanc
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: produits sucrés

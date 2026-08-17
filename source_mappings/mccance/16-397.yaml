@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Kippers, flesh only, grilled
+match_method: auto_ai
+meta:
+  group: JC
+source: mccance
+source_id: 16-397

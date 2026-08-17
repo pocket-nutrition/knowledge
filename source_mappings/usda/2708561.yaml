@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Burrito bowl, chicken, with rice
+match_method: auto_token
+meta:
+  wweia_category: Other Mexican mixed dishes
+source: usda
+source_id: '2708561'

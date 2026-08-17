@@ -1,0 +1,8 @@
+canonical_ingredient_id: mineral_water
+confidence: 0.9
+label: Eau minérale Chaudfontaine, embouteillée, plate, faiblement minéralisée (Belgique)
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '76065'

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Mussels, raw
+match_method: auto_ai
+meta:
+  description: Purchased alive
+  food_group: JM
+source: mccance
+source_id: 16-497

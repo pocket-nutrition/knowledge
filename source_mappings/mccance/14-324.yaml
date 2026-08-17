@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Strawberries, raw
+match_method: auto_ai
+meta:
+  description: 19 samples, summer and autumn, UK grown and imported, including Elsanta,
+    Sonata, Ava, Portola and unspecified varieties
+  food_group: FA
+source: mccance
+source_id: 14-324

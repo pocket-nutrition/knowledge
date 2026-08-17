@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706052'
+canonical_ingredient_id: chicken_thigh
+label: Chicken thigh, fried, coated, skin / coating eaten, from restaurant
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Chicken, whole pieces

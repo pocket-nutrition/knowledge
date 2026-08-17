@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Boisson infantile céréales lactées aux légumes pour diner dès 12 mois
+match_method: auto_name
+meta:
+  group: aliments infantiles
+source: ciqual
+source_id: '13172'

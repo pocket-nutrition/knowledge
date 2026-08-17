@@ -1,0 +1,15 @@
+id: fire_roasted_green_chile
+name_en: fire-roasted green chile
+name_fr: piment vert grillé
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.9
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+serving_unit_types:
+- tablespoon
+display_unit: g

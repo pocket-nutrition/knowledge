@@ -1,0 +1,13 @@
+id: candied_fruit
+name_en: candied fruit
+name_fr: fruit confit
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.393
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

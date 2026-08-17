@@ -1,0 +1,9 @@
+canonical_ingredient_id: chicken_noodle_soup
+confidence: 0.9
+label: Soup, chicken noodle, dried
+match_method: auto_precise
+meta:
+  description: 10 packets, 4 brands
+  food_group: WAE
+source: mccance
+source_id: 17-850

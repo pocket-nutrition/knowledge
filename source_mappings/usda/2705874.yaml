@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705874'
+canonical_ingredient_id: pork_steak
+label: Pork, steak, lean and fat eaten
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Pork

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, spare ribs, 'barbecue style', meat only, retail, reheated
+match_method: auto_before_comma
+meta:
+  group: MR
+source: mccance
+source_id: 19-264

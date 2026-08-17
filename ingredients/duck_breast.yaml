@@ -1,0 +1,12 @@
+id: duck_breast
+name_en: duck breast
+name_fr: magret de canard
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

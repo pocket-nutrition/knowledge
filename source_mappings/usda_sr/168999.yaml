@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168999'
+canonical_ingredient_id: chokecherry
+label: Chokecherries, raw, pitted (Northern Plains Indians)
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Matière grasse laitière à 15-25% MG, légère, "à tartiner", doux, enrichie en
+  vitamine(s)
+match_method: auto_name
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16713'

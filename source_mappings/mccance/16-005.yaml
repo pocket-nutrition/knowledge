@@ -1,0 +1,8 @@
+canonical_ingredient_id: bombay_duck
+confidence: 0.95
+label: Bombay duck
+match_method: auto_exact
+meta:
+  group: JA
+source: mccance
+source_id: 16-005

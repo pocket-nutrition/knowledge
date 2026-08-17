@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Soup, chicken noodle, dried, as served
+match_method: auto_token
+meta:
+  description: Calculated from 35g soup powder to 570ml water
+  food_group: WAE
+source: mccance
+source_id: 17-714

@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Confiture ou marmelade ou gelée, tout type de fruits, non allégée en sucres
+  (aliment moyen)
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31006'

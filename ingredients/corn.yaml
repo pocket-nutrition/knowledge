@@ -1,0 +1,15 @@
+id: corn
+name_en: Corn
+name_fr: maïs
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- maize
+- sweet corn
+display_unit: g

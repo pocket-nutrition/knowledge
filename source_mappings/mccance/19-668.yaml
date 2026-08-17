@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, sweet and sour, made with lean pork, homemade
+match_method: auto_before_comma
+meta:
+  group: MR
+source: mccance
+source_id: 19-668

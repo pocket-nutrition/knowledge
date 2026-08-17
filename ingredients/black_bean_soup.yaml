@@ -1,0 +1,13 @@
+id: black_bean_soup
+name_en: black bean soup
+name_fr: soupe de haricots noirs
+serving_mode: volume
+food_group: legume
+states:
+  raw:
+    portion_g: 284.0
+    density_g_ml: 1.044
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

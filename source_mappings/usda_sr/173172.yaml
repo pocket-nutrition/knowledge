@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Beverages, UNILEVER, SLIMFAST Shake Mix, powder, 3-2-1 Plan
+match_method: auto_name
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '173172'

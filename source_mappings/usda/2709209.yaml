@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709209'
+canonical_ingredient_id: dried_persimmon
+label: Persimmon, dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9

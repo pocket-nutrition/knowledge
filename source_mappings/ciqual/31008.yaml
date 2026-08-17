@@ -1,0 +1,8 @@
+canonical_ingredient_id: honey
+confidence: 0.9
+label: Miel
+match_method: auto_ai
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31008'

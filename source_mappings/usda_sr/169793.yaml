@@ -1,0 +1,8 @@
+canonical_ingredient_id: bear_meat
+confidence: 0.9
+label: Bear, black, meat (Alaska Native)
+match_method: auto_ai
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '169793'

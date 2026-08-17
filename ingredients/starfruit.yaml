@@ -1,0 +1,7 @@
+food_group: vegetable
+id: starfruit
+name_en: starfruit
+name_fr: Starfruit
+states:
+  raw:
+    portion_g: 80

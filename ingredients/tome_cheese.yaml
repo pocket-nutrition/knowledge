@@ -1,0 +1,13 @@
+id: tome_cheese
+name_en: low-fat tome cheese
+name_fr: tomme allégée
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.112
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

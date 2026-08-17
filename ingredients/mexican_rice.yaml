@@ -1,0 +1,11 @@
+id: mexican_rice
+name_en: mexican rice
+name_fr: riz mexicain
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 114.0
+    density_g_ml: 0.49
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

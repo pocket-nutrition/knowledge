@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Boisson gazeuse aux fruits (teneur en fruits >= 10% et < 50%), sucrée
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18019'

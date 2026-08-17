@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Sardines, flesh only, grilled, weighed with skin and bones
+match_method: auto_ai
+meta:
+  group: JC
+source: mccance
+source_id: 16-488

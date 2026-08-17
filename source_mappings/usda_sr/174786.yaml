@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar,
+  Caramel Nut Rush
+match_method: auto_name
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '174786'

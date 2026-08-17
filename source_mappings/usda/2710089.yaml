@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710089'
+canonical_ingredient_id: green_olive
+label: Olives, green
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Olives, pickles, pickled vegetables

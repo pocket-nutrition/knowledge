@@ -1,0 +1,18 @@
+id: dill_pickle_relish
+name_en: dill pickle relish
+name_fr: relish à l'aneth
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 1.031
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- dill relish
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

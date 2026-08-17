@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '17900'
+canonical_ingredient_id: argan_oil
+label: Huile d'argan ou d'argane
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: matières grasses

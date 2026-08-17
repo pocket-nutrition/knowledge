@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Noodles, egg, fine, dried, boiled in unsalted water
+match_method: auto_name
+meta:
+  description: Calculated from medium cooked noodles
+  food_group: AD
+source: mccance
+source_id: 11-941

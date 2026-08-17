@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '9102'
+canonical_ingredient_id: brown_rice
+label: Riz complet, cru
+cooking_method: dry
+match_method: manual
+confidence: 1.0

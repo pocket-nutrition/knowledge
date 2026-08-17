@@ -1,0 +1,12 @@
+id: edible_flower
+name_en: edible flower
+name_fr: fleur comestible
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 5.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

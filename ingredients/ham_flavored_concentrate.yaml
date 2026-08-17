@@ -1,0 +1,15 @@
+id: ham_flavored_concentrate
+name_en: ham-flavored concentrate
+name_fr: concentré arôme jambon
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 10.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

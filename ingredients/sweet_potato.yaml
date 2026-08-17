@@ -1,0 +1,11 @@
+id: sweet_potato
+name_en: sweet potato
+name_fr: patate douce
+food_group: vegetable
+states:
+  raw:
+    portion_g: 151.0
+    density_g_ml: 1.083
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

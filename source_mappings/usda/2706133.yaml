@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706133'
+canonical_ingredient_id: ground_turkey
+label: Turkey, ground
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Turkey, duck, other poultry

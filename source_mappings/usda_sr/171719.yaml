@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Cherries, sweet, raw
+match_method: auto_ai
+meta:
+  category: Fruits and Fruit Juices
+source: usda_sr
+source_id: '171719'

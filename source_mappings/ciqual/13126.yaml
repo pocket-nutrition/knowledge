@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Sureau, baie, crue
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits
+source: ciqual
+source_id: '13126'

@@ -1,0 +1,11 @@
+id: hash_brown
+name_en: hash brown
+name_fr: pommes de terre rissolées
+food_group: vegetable
+states:
+  raw:
+    portion_g: 340.0
+    density_g_ml: 0.659
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried

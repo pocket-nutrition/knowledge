@@ -1,0 +1,13 @@
+id: almond_coconut_milk
+name_en: almond-coconut milk
+name_fr: lait d'amande-coco
+serving_mode: volume
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 559.0
+    density_g_ml: 1.014
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

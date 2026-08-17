@@ -1,0 +1,14 @@
+id: ham_steak
+name_en: ham steak
+name_fr: steak de jambon
+serving_mode: item
+unit_label_en: steak
+unit_label_fr: steak
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

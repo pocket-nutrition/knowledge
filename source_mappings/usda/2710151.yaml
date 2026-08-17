@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Fruit and vegetable smoothie, no dairy
+match_method: auto_name
+meta:
+  wweia_category: Smoothies and grain drinks
+source: usda
+source_id: '2710151'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: turkey_neck
+confidence: 0.9
+label: Turkey, neck
+match_method: auto_ai
+meta:
+  wweia_category: Turkey, duck, other poultry
+source: usda
+source_id: '2706127'

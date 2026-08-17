@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '747444'
+canonical_ingredient_id: black_bean
+label: Beans, Dry, Black (0% moisture)
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

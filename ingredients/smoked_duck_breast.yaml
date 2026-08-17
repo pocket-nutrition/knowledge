@@ -1,0 +1,12 @@
+id: smoked_duck_breast
+name_en: smoked duck breast
+name_fr: magret de canard fumé
+serving_mode: weight
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 50.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

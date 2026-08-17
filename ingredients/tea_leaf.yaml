@@ -1,0 +1,15 @@
+id: tea_leaf
+name_en: tea leaf
+name_fr: feuille de thé
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.3
+can_eat_raw: false
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pasta, egg, fresh, filled with cheese and tomato, boiled in unsalted water
+match_method: auto_before_comma
+meta:
+  group: AD
+source: mccance
+source_id: 11-729

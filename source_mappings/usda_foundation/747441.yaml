@@ -1,0 +1,8 @@
+canonical_ingredient_id: navy_beans
+confidence: 0.9
+label: Beans, Dry, Navy (0% moisture)
+match_method: auto_ai
+meta:
+  category: Legumes and Legume Products
+source: usda_foundation
+source_id: '747441'

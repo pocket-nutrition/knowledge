@@ -1,0 +1,12 @@
+id: black_olive
+name_en: black olive
+name_fr: olive noire
+name_en_plural: black olives
+food_group: vegetable
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.005
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed

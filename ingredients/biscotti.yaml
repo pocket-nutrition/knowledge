@@ -1,0 +1,15 @@
+id: biscotti
+name_en: biscotti
+name_fr: biscotti
+serving_mode: item
+unit_label_en: biscotti
+unit_label_fr: biscotti
+food_group: baked_good
+states:
+  processed:
+    portion_g: 15.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

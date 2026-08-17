@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Biscuits, oat based, chocolate, half coated
+match_method: auto_name
+meta:
+  group: AM
+source: mccance
+source_id: 11-1060

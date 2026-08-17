@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709472'
+canonical_ingredient_id: potato
+label: Potato, home fries, NFS
+cooking_method: fried
+match_method: name_en_before_comma
+confidence: 0.75

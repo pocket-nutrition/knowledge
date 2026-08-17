@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '6212'
+canonical_ingredient_id: beef
+label: Boeuf, bavette d'aloyau crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: viandes crues

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11052'
+canonical_ingredient_id: clove
+label: Clou de girofle
+cooking_method: dry
+match_method: auto_exact
+confidence: 0.95
+meta:
+  group: aides culinaires et ingrédients divers

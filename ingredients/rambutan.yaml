@@ -1,0 +1,15 @@
+id: rambutan
+name_en: rambutan
+name_fr: ramboutan
+serving_mode: item
+unit_label_en: rambutan
+unit_label_fr: ramboutan
+food_group: fruit
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.085
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Chilli sauce
+match_method: auto_name
+meta:
+  group: WC
+source: mccance
+source_id: 17-719

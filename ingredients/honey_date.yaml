@@ -1,0 +1,14 @@
+id: honey_date
+name_en: honey date
+name_fr: datte miel
+serving_mode: item
+unit_label_en: date
+unit_label_fr: datte
+food_group: fruit
+states:
+  raw:
+    portion_g: 7.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169203'
+canonical_ingredient_id: arrowhead
+label: Arrowhead, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Vegetables and Vegetable Products

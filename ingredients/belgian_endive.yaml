@@ -1,0 +1,20 @@
+id: belgian_endive
+name_en: belgian endive
+name_fr: endive
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.016
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- chicory
+- witloof
+- endive
+aliases_fr:
+- chicon
+- endive belge
+display_unit: g

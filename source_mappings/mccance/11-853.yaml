@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Pastry, shortcrust, retail, cooked
+match_method: auto_name
+meta:
+  group: AO
+source: mccance
+source_id: 11-853

@@ -1,0 +1,8 @@
+canonical_ingredient_id: cotija_cheese
+confidence: 0.9
+label: Queso cotija
+match_method: auto_ai
+meta:
+  wweia_category: Cheese
+source: usda
+source_id: '2705746'

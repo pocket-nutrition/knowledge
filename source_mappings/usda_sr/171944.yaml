@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beverages, Fruit flavored drink, reduced sugar, greater than 3% fruit juice,
+  high vitamin C, added calcium
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '171944'

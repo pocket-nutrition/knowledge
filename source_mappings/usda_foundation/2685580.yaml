@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2685580'
+canonical_ingredient_id: tomato_paste
+label: Tomato, paste, canned, without salt added
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

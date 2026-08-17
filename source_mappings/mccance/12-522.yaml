@@ -1,0 +1,8 @@
+canonical_ingredient_id: evaporated_milk
+confidence: 0.9
+label: Milk, evaporated, whole
+match_method: auto_precise
+meta:
+  group: BAR
+source: mccance
+source_id: 12-522

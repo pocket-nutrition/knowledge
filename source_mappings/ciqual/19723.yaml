@@ -1,0 +1,6 @@
+canonical_ingredient_id: yogurt
+confidence: 0.7
+label: Yaourt ou lait fermenté, nature, enrichi en vitamine D
+match_method: name_fr_partial
+source: ciqual
+source_id: '19723'

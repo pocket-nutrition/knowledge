@@ -1,0 +1,15 @@
+id: bread
+name_en: bread
+name_fr: pain
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: baked_good
+states:
+  raw:
+    portion_g: 38.0
+    density_g_ml: 1.308
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

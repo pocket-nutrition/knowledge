@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-063
+canonical_ingredient_id: black_eyed_pea
+label: Beans, blackeye, whole, dried, boiled in unsalted water
+cooking_method: boiled
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: Soaked and boiled
+  food_group: DB

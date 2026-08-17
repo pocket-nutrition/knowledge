@@ -1,0 +1,13 @@
+id: halibut
+name_en: halibut
+name_fr: flétan
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.057
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: boiled
+display_unit: g

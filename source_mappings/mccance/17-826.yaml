@@ -1,0 +1,8 @@
+canonical_ingredient_id: treacle
+confidence: 0.8
+label: Treacle, black
+match_method: auto_before_comma
+meta:
+  group: SC
+source: mccance
+source_id: 17-826

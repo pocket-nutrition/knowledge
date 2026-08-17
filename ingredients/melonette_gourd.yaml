@@ -1,0 +1,12 @@
+id: melonette_gourd
+name_en: melonette gourd
+name_fr: courge melonnette
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.03
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

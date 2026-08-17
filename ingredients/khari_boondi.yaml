@@ -1,0 +1,15 @@
+id: khari_boondi
+name_en: khari boondi
+name_fr: khari boondi
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 25.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: fried
+serving_unit_types:
+- small_handful
+display_unit: g

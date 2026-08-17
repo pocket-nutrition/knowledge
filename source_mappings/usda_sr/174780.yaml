@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Chewy Chocolate Peanut
+  Bar
+match_method: auto_token
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '174780'

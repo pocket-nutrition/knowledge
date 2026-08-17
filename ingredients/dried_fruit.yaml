@@ -1,0 +1,16 @@
+id: dried_fruit
+name_en: dried fruit
+name_fr: fruit séché
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

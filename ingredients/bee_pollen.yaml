@@ -1,0 +1,18 @@
+id: bee_pollen
+name_en: bee pollen
+name_fr: pollen d'abeille
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- pollen
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

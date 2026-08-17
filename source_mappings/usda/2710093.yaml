@@ -1,0 +1,8 @@
+canonical_ingredient_id: black_pepper_sauce
+confidence: 0.65
+label: Hot pepper sauce
+match_method: auto_token
+meta:
+  wweia_category: Mustard and other condiments
+source: usda
+source_id: '2710093'

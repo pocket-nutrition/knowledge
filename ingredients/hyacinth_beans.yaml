@@ -1,0 +1,7 @@
+food_group: vegetable
+id: hyacinth_beans
+name_en: Hyacinth-beans
+name_fr: Hyacinthe-beans
+states:
+  raw:
+    portion_g: 80

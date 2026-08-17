@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '23410'
+canonical_ingredient_id: brisee
+label: Pâte brisée, matière grasse végétale, préemballée, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

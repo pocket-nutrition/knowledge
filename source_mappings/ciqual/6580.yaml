@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '6580'
+canonical_ingredient_id: calf_foot
+label: Veau, pied cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: viandes crues

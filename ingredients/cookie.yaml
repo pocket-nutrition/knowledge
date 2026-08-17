@@ -1,0 +1,16 @@
+id: cookie
+name_en: cookie
+name_fr: biscuit
+serving_mode: item
+unit_label_en: cookie
+unit_label_fr: biscuit
+food_group: baked_good
+states:
+  raw:
+    portion_g: 29.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- cookie
+display_unit: g

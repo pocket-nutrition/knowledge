@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beef, lean, average, raw
+match_method: auto_ai
+meta:
+  description: Average of 10 different cuts, trimmed of fat
+  food_group: MAC
+source: mccance
+source_id: 18-468

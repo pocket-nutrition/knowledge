@@ -1,0 +1,24 @@
+id: spaghetti_bolognese
+name_en: spaghetti bolognese
+name_fr: spaghetti bolognaise
+aliases_en:
+- spaghetti with meat sauce
+aliases_fr:
+- pâtes bolognaise
+- spaghettis bolognaise
+components:
+- ingredient_id: pasta
+  weight_g: 100
+  cooking_method: boiled
+- ingredient_id: ground_beef
+  weight_g: 100
+  cooking_method: fried
+- ingredient_id: tomato
+  weight_g: 120
+  cooking_method: boiled
+- ingredient_id: onion
+  weight_g: 40
+  cooking_method: fried
+- ingredient_id: carrot
+  weight_g: 30
+  cooking_method: boiled

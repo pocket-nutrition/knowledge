@@ -1,0 +1,8 @@
+canonical_ingredient_id: olive_oil
+confidence: 0.9
+label: Oil, olive
+match_method: auto_precise
+meta:
+  group: OC
+source: mccance
+source_id: 17-038

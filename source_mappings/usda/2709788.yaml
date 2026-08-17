@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709788'
+canonical_ingredient_id: kohlrabi
+label: Kohlrabi, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

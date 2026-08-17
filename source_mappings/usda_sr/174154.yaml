@@ -1,0 +1,9 @@
+canonical_ingredient_id: non_dairy_creamer
+confidence: 0.65
+label: Beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy
+  creamer
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '174154'

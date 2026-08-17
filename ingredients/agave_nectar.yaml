@@ -1,0 +1,20 @@
+id: agave_nectar
+name_en: agave nectar
+name_fr: sirop d'agave
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- agave syrup
+aliases_fr:
+- nectar d'agave
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

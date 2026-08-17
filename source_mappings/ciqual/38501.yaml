@@ -1,0 +1,8 @@
+canonical_ingredient_id: crouton
+confidence: 0.8
+label: Croûton, au fromage, préemballé
+match_method: auto_before_comma
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '38501'

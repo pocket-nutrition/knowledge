@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Peppers and onions, cooked, no added fat
+match_method: auto_name
+meta:
+  category: Other vegetables and combinations
+source: usda
+source_id: '2710010'

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '25525'
+canonical_ingredient_id: tomato_sauce
+label: Sauce tomate cuisinée pour pizza
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

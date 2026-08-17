@@ -1,0 +1,18 @@
+id: saint_felicien
+name_en: Saint-Félicien
+name_fr: Saint-Félicien
+serving_mode: weight
+food_group: dairy
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 1.029
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- Saint-Félicien cheese
+aliases_fr:
+- fromage Saint-Félicien
+display_unit: g

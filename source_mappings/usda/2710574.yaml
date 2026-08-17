@@ -1,0 +1,8 @@
+canonical_ingredient_id: pina_colada_mix
+confidence: 0.65
+label: Pina Colada, nonalcoholic
+match_method: auto_token
+meta:
+  wweia_category: Fruit drinks
+source: usda
+source_id: '2710574'

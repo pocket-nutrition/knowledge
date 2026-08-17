@@ -1,0 +1,15 @@
+id: roasted_red_pepper
+name_en: roasted red pepper
+name_fr: poivron rouge grillé
+serving_mode: weight
+food_group: vegetable
+states:
+  processed:
+    portion_g: 50.0
+    density_g_ml: 0.6
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: roasted
+display_unit: g

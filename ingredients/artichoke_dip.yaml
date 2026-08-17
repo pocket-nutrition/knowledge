@@ -1,0 +1,10 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: other
+id: artichoke_dip
+name_en: artichoke dip
+name_fr: artichoke dip
+states:
+  raw:
+    portion_g: 100
+typical_state: raw

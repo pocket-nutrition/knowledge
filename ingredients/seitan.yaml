@@ -1,0 +1,19 @@
+id: seitan
+name_en: seitan
+name_fr: seitan
+serving_mode: weight
+food_group: other
+states:
+  processed:
+    portion_g: 100.0
+    density_g_ml: 1.091
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- wheat gluten
+- wheat meat
+aliases_fr:
+- gluten de blé
+display_unit: g

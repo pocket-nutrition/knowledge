@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '324317'
+canonical_ingredient_id: frozen_onion_ring
+label: Onion rings, breaded, par fried, frozen, prepared, heated in oven
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

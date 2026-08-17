@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705895'
+canonical_ingredient_id: pork_fat
+label: Pork, cracklings
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Pork

@@ -1,0 +1,8 @@
+source: mccance
+source_id: 15-859
+canonical_ingredient_id: null
+label: Rice and red kidney beans
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: DR

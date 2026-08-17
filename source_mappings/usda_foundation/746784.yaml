@@ -1,0 +1,8 @@
+canonical_ingredient_id: granulated_sugar
+confidence: 0.9
+label: Sugars, granulated
+match_method: auto_ai
+meta:
+  category: Sweets
+source: usda_foundation
+source_id: '746784'

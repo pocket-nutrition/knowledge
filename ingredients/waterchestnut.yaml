@@ -1,0 +1,7 @@
+food_group: vegetable
+id: waterchestnut
+name_en: Waterchestnut
+name_fr: Germes de waterchestnuts
+states:
+  raw:
+    portion_g: 80

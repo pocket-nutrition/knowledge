@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Mission Foods, Mission Flour Tortillas, Soft Taco, 8 inch
+match_method: auto_name
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '175082'

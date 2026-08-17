@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-084
+canonical_ingredient_id: beef_topside
+label: Beef, topside, raw, lean
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: 10 samples
+  food_group: MAC

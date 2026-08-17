@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-631
+canonical_ingredient_id: bechamel_sauce
+label: Sauce, traditional cook in, white sauce based
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: WC

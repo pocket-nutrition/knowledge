@@ -1,0 +1,13 @@
+id: veal_kidney
+name_en: veal kidney
+name_fr: rognon de veau
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.061
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

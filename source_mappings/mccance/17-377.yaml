@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Water, distilled
+match_method: auto_ai
+meta:
+  group: WY
+source: mccance
+source_id: 17-377

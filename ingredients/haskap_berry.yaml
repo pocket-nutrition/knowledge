@@ -1,0 +1,21 @@
+id: haskap_berry
+name_en: haskap berry
+name_fr: camérise
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- honeyberry
+- blue honeysuckle
+aliases_fr:
+- baie de mai
+- chèvrefeuille bleu
+serving_unit_types:
+- small_handful
+display_unit: g

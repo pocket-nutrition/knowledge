@@ -1,0 +1,14 @@
+id: peri_peri
+name_en: peri peri
+name_fr: peri peri
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 5.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: g

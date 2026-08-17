@@ -1,0 +1,8 @@
+canonical_ingredient_id: worcestershire_sauce
+confidence: 0.95
+label: Worcestershire sauce
+match_method: auto_exact
+meta:
+  group: WCN
+source: mccance
+source_id: 17-723

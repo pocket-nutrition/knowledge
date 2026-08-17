@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706359'
+canonical_ingredient_id: scallop
+label: Scallops, fried
+cooking_method: fried
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Shellfish

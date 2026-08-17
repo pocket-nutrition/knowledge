@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20081'
+canonical_ingredient_id: salsify
+label: Salsifis, appertisé, égoutté
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

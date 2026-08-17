@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Sauce, barbecue, KRAFT, original
+match_method: auto_name
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_sr
+source_id: '174544'

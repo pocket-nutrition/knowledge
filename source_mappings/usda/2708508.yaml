@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Taco or tostada salad with meat
+match_method: auto_token
+meta:
+  wweia_category: Burritos and tacos
+source: usda
+source_id: '2708508'

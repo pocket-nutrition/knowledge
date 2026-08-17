@@ -1,0 +1,8 @@
+canonical_ingredient_id: almond_oil
+confidence: 0.9
+label: Huile d'amande
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '17030'

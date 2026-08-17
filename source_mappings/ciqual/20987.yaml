@@ -1,0 +1,8 @@
+canonical_ingredient_id: nori
+confidence: 0.9
+label: Nori (Porphyra sp., Pyropia), séchée ou déshydratée
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '20987'

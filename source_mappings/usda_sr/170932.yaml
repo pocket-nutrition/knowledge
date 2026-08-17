@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Spices, pepper, red or cayenne
+match_method: auto_token
+meta:
+  category: Spices and Herbs
+source: usda_sr
+source_id: '170932'

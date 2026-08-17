@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707468'
+canonical_ingredient_id: _composite
+label: Chicken, meatless, NFS
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  wweia_category: Soy and meat-alternative products

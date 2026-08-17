@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Mangoes, ripe, flesh only, raw
+match_method: auto_ai
+meta:
+  description: 11 samples, imported, whole and prepacked chunks
+  food_group: FA
+source: mccance
+source_id: 14-378

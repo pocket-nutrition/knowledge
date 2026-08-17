@@ -1,0 +1,9 @@
+canonical_ingredient_id: marine_frill
+confidence: 0.9
+label: Criste marine, fraîche, crue
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+  subgroup: algues
+source: ciqual
+source_id: '20983'

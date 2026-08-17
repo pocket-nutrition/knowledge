@@ -1,0 +1,18 @@
+id: crosne
+name_en: Chinese artichoke
+name_fr: crosne
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.076
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- crosne
+- Japanese artichoke
+aliases_fr:
+- crosne du Japon
+display_unit: g

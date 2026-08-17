@@ -1,0 +1,15 @@
+id: strawberry_extract
+name_en: strawberry extract
+name_fr: extrait de fraise
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.9
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: ml

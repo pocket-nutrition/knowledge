@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710208'
+canonical_ingredient_id: avocado_lime_dressing
+label: Avocado dressing
+match_method: ai_review
+confidence: 0.9

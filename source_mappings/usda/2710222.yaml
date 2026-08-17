@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710222'
+canonical_ingredient_id: salad_dressing
+label: Mayonnaise-type salad dressing, light
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Mayonnaise

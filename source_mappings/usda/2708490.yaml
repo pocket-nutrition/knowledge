@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708490'
+canonical_ingredient_id: oat_bran
+label: Cereal, oat bran, ready-to-eat
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Not included in a food category

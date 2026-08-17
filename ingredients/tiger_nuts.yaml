@@ -1,0 +1,24 @@
+id: tiger_nuts
+name_en: tiger nuts
+name_fr: souchet
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- tigernuts
+- chufa
+- earth almond
+aliases_fr:
+- noix tigrée
+- amande de terre
+- chufa
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

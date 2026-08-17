@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '11084'
+canonical_ingredient_id: agar_agar
+label: Agar (algue), frais, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers
+  subgroup: algues

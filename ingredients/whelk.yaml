@@ -1,0 +1,16 @@
+id: whelk
+name_en: whelk
+name_fr: bulot
+serving_mode: weight
+food_group: shellfish
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- sea snail
+aliases_fr:
+- buccin
+display_unit: g

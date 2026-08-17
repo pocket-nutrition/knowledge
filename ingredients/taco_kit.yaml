@@ -1,0 +1,14 @@
+id: taco_kit
+name_en: taco kit
+name_fr: kit à tacos
+serving_mode: item
+unit_label_en: kit
+unit_label_fr: kit
+food_group: other
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Peas, canned in water, re-heated, drained
+match_method: auto_token
+meta:
+  group: DF
+source: mccance
+source_id: 13-564

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707008'
+canonical_ingredient_id: _composite
+label: Chicken fillet sandwich, fried, on white bun
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Chicken fillet sandwiches

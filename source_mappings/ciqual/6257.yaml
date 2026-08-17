@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '6257'
+canonical_ingredient_id: ground_beef_20pct
+label: Boeuf, steak haché 20% MG cuit
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

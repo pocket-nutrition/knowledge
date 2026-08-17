@@ -1,0 +1,13 @@
+id: pork_belly
+name_en: pork belly
+name_fr: poitrine de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.949
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

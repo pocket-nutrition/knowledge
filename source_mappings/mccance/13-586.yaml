@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-586
+canonical_ingredient_id: chicory
+label: Chicory, pale variety, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: DG

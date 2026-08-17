@@ -1,0 +1,19 @@
+id: scallion
+name_en: scallion
+name_fr: oignon vert
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.065
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- green onion
+- spring onion
+aliases_fr:
+- ciboule
+- cébette
+display_unit: g

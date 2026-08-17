@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pork, diced, raw, lean and fat
+match_method: auto_ai
+meta:
+  description: Extra lean types. Calculated from 98% lean and 2% fat
+  food_group: MAG
+source: mccance
+source_id: 18-530

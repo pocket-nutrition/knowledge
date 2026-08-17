@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709604'
+canonical_ingredient_id: kale
+label: Kale, frozen, cooked, fat added
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Other dark green vegetables

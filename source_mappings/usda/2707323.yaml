@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707323'
+canonical_ingredient_id: _composite
+label: Egg sandwich on biscuit
+match_method: name_en_partial
+confidence: 0.65

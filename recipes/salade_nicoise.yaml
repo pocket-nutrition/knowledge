@@ -1,0 +1,24 @@
+id: salade_nicoise
+name_en: nicoise salad
+name_fr: salade niçoise
+aliases_fr:
+- salade nicoise
+components:
+- ingredient_id: lettuce
+  weight_g: 50
+  cooking_method: raw
+- ingredient_id: tomato
+  weight_g: 100
+  cooking_method: raw
+- ingredient_id: egg
+  weight_g: 60
+  cooking_method: boiled
+- ingredient_id: tuna
+  weight_g: 70
+  cooking_method: raw
+- ingredient_id: green_bean
+  weight_g: 80
+  cooking_method: boiled
+- ingredient_id: black_olive
+  weight_g: 20
+  cooking_method: raw

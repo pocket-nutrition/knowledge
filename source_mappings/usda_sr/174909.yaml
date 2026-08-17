@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs
+match_method: auto_before_comma
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '174909'

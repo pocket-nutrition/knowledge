@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '172024'
+canonical_ingredient_id: null
+label: Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes
+  foods for USDA's Food Distribution Program)
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

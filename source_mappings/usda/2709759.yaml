@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Soup, tomato, canned
+match_method: auto_token
+meta:
+  category: Soups, broth-based
+source: usda
+source_id: '2709759'

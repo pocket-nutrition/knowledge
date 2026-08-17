@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '32130'
+canonical_ingredient_id: puffed_khorasan_wheat
+label: Blé khorasan complet soufflé
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits sucrés

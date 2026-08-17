@@ -1,0 +1,5 @@
+source: ciqual
+source_id: '32006'
+label: Riz soufflé nature, enrichi en vitamines et minéraux
+match_method: name_fr_partial
+confidence: 0.7

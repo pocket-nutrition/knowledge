@@ -1,0 +1,17 @@
+id: ube_flavoring
+name_en: ube flavoring
+name_fr: arôme d'ube
+serving_mode: measure
+food_group: spice_herb
+states:
+  processed:
+    portion_g: 5.0
+    density_g_ml: 1.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: ml

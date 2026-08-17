@@ -1,0 +1,8 @@
+canonical_ingredient_id: condensed_milk
+confidence: 0.9
+label: Milk, canned, condensed, sweetened
+match_method: auto_precise
+meta:
+  category: Dairy and Egg Products
+source: usda_sr
+source_id: '171275'

@@ -1,0 +1,12 @@
+id: gluten_free_baking_flour
+name_en: gluten-free baking flour
+name_fr: farine sans gluten
+food_group: cereal
+states:
+  cooked:
+    portion_g: 30.0
+  processed:
+    portion_g: 30.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

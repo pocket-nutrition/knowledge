@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-697
+canonical_ingredient_id: _composite
+label: Chicken soup, cream of, canned, condensed, as served
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: WAC

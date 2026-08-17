@@ -1,0 +1,8 @@
+canonical_ingredient_id: marzipan
+confidence: 0.8
+label: Marzipan, white and yellow, retail
+match_method: auto_before_comma
+meta:
+  group: GA
+source: mccance
+source_id: 14-875

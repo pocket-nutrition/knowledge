@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '30110'
+canonical_ingredient_id: sausage
+label: Saucisse de Toulouse crue
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

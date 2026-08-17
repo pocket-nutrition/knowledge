@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Caesar salad, with romaine, no dressing
+match_method: auto_token
+meta:
+  wweia_category: Lettuce and lettuce salads
+source: usda
+source_id: '2709591'

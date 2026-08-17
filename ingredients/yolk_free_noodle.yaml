@@ -1,0 +1,13 @@
+id: yolk_free_noodle
+name_en: yolk-free noodle
+name_fr: nouilles sans jaune d'œuf
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

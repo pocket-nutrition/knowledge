@@ -1,0 +1,8 @@
+canonical_ingredient_id: white_sugar
+confidence: 0.9
+label: Sugar, white
+match_method: auto_precise
+meta:
+  group: SC
+source: mccance
+source_id: 17-063

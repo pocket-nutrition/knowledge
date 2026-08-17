@@ -1,0 +1,13 @@
+id: smoked_salmon
+name_en: smoked salmon
+name_fr: saumon fumé
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

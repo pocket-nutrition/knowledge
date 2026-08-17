@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20589'
+canonical_ingredient_id: red_lentil
+label: Lentille corail, bouillie/cuite à l'eau
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

@@ -1,0 +1,8 @@
+canonical_ingredient_id: kohl_rabi
+confidence: 0.8
+label: Kohlrabi, cooked
+match_method: auto_before_comma
+meta:
+  category: Other vegetables and combinations
+source: usda
+source_id: '2709934'

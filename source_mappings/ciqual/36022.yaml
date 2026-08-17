@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '36022'
+canonical_ingredient_id: chicken_drumstick
+label: Poulet, pilon cru
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: viandes crues

@@ -1,0 +1,13 @@
+id: arctic_char
+name_en: arctic char
+name_fr: omble chevalier
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.048
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

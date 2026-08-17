@@ -1,0 +1,15 @@
+id: guava
+name_en: guava
+name_fr: goyave
+serving_mode: item
+unit_label_en: guava
+unit_label_fr: goyave
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.067
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

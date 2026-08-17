@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36503'
+canonical_ingredient_id: goose
+label: Oie, viande et peau rôties/cuites au four
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Eggs, chicken, yolk, raw
+match_method: auto_ai
+meta:
+  description: 12 samples from 3 egg distribution centres, including enriched cage,
+    barn, free-range and organic
+  food_group: CA
+source: mccance
+source_id: 12-939

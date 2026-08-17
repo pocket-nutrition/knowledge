@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708705'
+canonical_ingredient_id: _composite
+label: Wonton, dumpling or pot sticker, fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Egg rolls, dumplings, sushi

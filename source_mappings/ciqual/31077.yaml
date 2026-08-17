@@ -1,0 +1,8 @@
+canonical_ingredient_id: fructose
+confidence: 0.95
+label: Fructose
+match_method: auto_exact
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31077'

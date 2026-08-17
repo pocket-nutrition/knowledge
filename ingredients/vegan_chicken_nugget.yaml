@@ -1,0 +1,16 @@
+id: vegan_chicken_nugget
+name_en: vegan chicken nugget
+name_fr: nugget végan de poulet
+serving_mode: item
+unit_label_en: nugget
+unit_label_fr: nugget
+food_group: other
+states:
+  cooked:
+    portion_g: 60.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

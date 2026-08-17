@@ -1,0 +1,17 @@
+id: avocado
+name_en: avocado
+name_fr: avocat
+name_en_plural: avocados
+name_fr_plural: avocats
+serving_mode: item
+unit_label_en: avocado
+unit_label_fr: avocat
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.018
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,20 @@
+id: yogurt
+name_en: yogurt
+name_fr: yaourt
+serving_mode: item
+unit_label_en: pot
+unit_label_fr: pot
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.048
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- yoghurt
+aliases_fr:
+- yogourt
+- yoghourt
+display_unit: g

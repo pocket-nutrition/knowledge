@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '19014'
+canonical_ingredient_id: infant_formula
+label: Lait 2e âge, prêt à consommer (préparation de suite)
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: aliments infantiles

@@ -1,0 +1,8 @@
+canonical_ingredient_id: beef_steak_raw
+confidence: 0.9
+label: Swiss steak
+match_method: auto_ai
+meta:
+  wweia_category: Meat mixed dishes
+source: usda
+source_id: '2706732'

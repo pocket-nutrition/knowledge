@@ -1,0 +1,6 @@
+canonical_ingredient_id: beer
+confidence: 0.9
+label: Beer
+match_method: name_en_exact
+source: usda
+source_id: '2710616'

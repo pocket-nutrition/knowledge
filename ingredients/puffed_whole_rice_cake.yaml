@@ -1,0 +1,20 @@
+id: puffed_whole_rice_cake
+name_en: puffed whole rice cake
+name_fr: galette de riz complet soufflé
+serving_mode: item
+unit_label_en: cake
+unit_label_fr: galette
+food_group: cereal
+states:
+  cooked:
+    portion_g: 9.0
+    density_g_ml: 0.15
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- rice cake
+aliases_fr:
+- galette de riz soufflé
+display_unit: g

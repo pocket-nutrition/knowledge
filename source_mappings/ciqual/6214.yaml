@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '6214'
+canonical_ingredient_id: beef
+label: Boeuf, boule de macreuse rôtie/cuite au four
+cooking_method: roasted
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

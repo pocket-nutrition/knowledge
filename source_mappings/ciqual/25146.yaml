@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Poisson blanc sauce oseille, préemballé
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '25146'

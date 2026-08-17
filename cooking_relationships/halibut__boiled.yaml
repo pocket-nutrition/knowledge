@@ -1,0 +1,14 @@
+confidence: 0.85
+cooking_method: boiled
+nutrient_retention:
+  iron_mg: 0.9
+  niacin_mg: 0.72
+  phosphorus_mg: 0.72
+  potassium_mg: 0.68
+  vitamin_b12_ug: 0.73
+  vitamin_b6_mg: 0.62
+  vitamin_d_ug: 0.8
+  zinc_mg: 0.88
+raw_id: halibut
+source: mccance_pair
+yield_factor: 0.6688

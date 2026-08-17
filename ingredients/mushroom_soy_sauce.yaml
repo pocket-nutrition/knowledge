@@ -1,0 +1,16 @@
+id: mushroom_soy_sauce
+name_en: mushroom soy sauce
+name_fr: sauce soja aux champignons
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 1.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

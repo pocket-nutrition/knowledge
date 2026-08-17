@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Snow cone, no sugar added
+match_method: auto_name
+meta:
+  wweia_category: Gelatins, ices, sorbets
+source: usda
+source_id: '2710324'

@@ -1,0 +1,15 @@
+id: red_mullet
+name_en: red mullet
+name_fr: rouget
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.049
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- rouget
+display_unit: g

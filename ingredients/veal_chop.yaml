@@ -1,0 +1,15 @@
+id: veal_chop
+name_en: veal chop
+name_fr: côte de veau
+serving_mode: item
+unit_label_en: chop
+unit_label_fr: côte
+food_group: meat
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.051
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

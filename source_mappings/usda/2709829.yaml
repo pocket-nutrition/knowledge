@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709829'
+canonical_ingredient_id: _composite
+label: Seven-layer salad, lettuce salad made with a combination of onion, celery, green pepper, peas, mayonnaise, cheese, eggs, and/or bacon
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Vegetable dishes

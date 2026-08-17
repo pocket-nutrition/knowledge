@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706298'
+canonical_ingredient_id: fish_raw
+label: Fish, bass, fried
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Fish

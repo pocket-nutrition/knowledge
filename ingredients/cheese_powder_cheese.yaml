@@ -1,0 +1,16 @@
+id: cheese_powder_cheese
+name_en: cheese powder
+name_fr: fromage en poudre
+serving_mode: measure
+food_group: dairy
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

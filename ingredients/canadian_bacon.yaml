@@ -1,0 +1,12 @@
+id: canadian_bacon
+name_en: canadian bacon
+name_fr: bacon canadien
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 126.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

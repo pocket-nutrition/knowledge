@@ -1,0 +1,9 @@
+canonical_ingredient_id: brie_cheese
+confidence: 0.8
+label: Fromage rond à pâte molle et croûte fleurie 5 à 11% MG type camembert allégé
+  en matière grasse
+match_method: auto_ai
+meta:
+  group: produits laitiers et assimilés
+source: ciqual
+source_id: '12009'

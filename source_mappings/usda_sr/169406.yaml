@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169406'
+canonical_ingredient_id: tahini
+label: Seeds, sesame butter, tahini, from unroasted kernels (non-chemically removed seed coat)
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

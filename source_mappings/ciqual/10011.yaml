@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '10011'
+canonical_ingredient_id: oyster
+label: Huître, sans précision, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

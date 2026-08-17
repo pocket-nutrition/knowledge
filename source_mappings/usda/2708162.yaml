@@ -1,0 +1,6 @@
+canonical_ingredient_id: rice_cake
+confidence: 0.9
+label: Rice cake
+match_method: name_en_exact
+source: usda
+source_id: '2708162'

@@ -1,0 +1,12 @@
+id: marine_frill
+name_en: rock samphire
+name_fr: criste marine
+food_group: vegetable
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.044
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: sweetened_condensed_milk
+confidence: 0.8
+label: Lait concentré sucré, entier
+match_method: auto_before_comma
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19027'

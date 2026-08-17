@@ -1,0 +1,24 @@
+id: sparkling_water
+name_en: plain carbonated water
+name_fr: eau gazeuse nature
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- sparkling water
+- carbonated water
+- seltzer
+- soda water
+aliases_fr:
+- eau pétillante
+- eau gazéifiée
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

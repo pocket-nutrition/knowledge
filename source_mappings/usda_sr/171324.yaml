@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '171324'
+canonical_ingredient_id: fenugreek_seed
+label: Spices, fenugreek seed
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Spices and Herbs

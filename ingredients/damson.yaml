@@ -1,0 +1,11 @@
+id: damson
+name_en: Damson
+name_fr: prune de Damas
+food_group: fruit
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

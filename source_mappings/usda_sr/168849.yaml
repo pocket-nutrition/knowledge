@@ -1,0 +1,8 @@
+canonical_ingredient_id: banana_chip
+confidence: 0.9
+label: Snacks, banana chips
+match_method: auto_ai
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '168849'

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26148'
+canonical_ingredient_id: rascase_fillet
+label: Rascasse ou rascasse de profondeur, cuite à la vapeur
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,15 @@
+id: thc
+name_en: thc
+name_fr: thc
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 0.5
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+display_unit: g

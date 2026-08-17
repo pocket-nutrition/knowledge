@@ -1,0 +1,7 @@
+source: usda
+source_id: '2707206'
+canonical_ingredient_id: egg
+label: Egg omelet or scrambled egg, from fast food / restaurant
+cooking_method: fried
+match_method: name_en_partial
+confidence: 0.65

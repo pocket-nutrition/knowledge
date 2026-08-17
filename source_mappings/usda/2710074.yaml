@@ -1,0 +1,8 @@
+canonical_ingredient_id: cauliflower
+confidence: 0.8
+label: Cauliflower, pickled
+match_method: auto_before_comma
+meta:
+  category: Olives, pickles, pickled vegetables
+source: usda
+source_id: '2710074'

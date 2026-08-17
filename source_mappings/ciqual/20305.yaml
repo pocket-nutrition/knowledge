@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20305'
+canonical_ingredient_id: carrot
+label: Carotte, bouillie/cuite à l'eau, croquante
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

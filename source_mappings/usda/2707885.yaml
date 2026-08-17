@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707885'
+canonical_ingredient_id: spice_cake
+label: Cake or cupcake, spice
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Cakes and pies

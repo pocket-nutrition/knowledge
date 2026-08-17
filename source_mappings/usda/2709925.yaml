@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709925'
+canonical_ingredient_id: canned_corn
+label: Corn, canned, reduced sodium, cooked, fat added, NS as to fat type
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Corn

@@ -1,0 +1,16 @@
+id: prune_juice
+name_en: prune juice
+name_fr: jus de pruneaux
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 144.0
+    density_g_ml: 1.028
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

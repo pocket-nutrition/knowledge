@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708056'
+canonical_ingredient_id: fried_dough
+label: Pastry, mainly flour and water, fried
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Doughnuts, sweet rolls, pastries

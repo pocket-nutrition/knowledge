@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Lamb, lean only, raw, average, extra trimmed
+match_method: auto_ai
+meta:
+  description: Weighted average of 7 different cuts
+  food_group: MAE
+source: mccance
+source_id: 18-097

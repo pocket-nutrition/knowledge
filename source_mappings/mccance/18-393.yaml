@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-393
+canonical_ingredient_id: chicken_giblet
+label: Giblets, chicken, raw
+cooking_method: raw
+match_method: auto_token
+confidence: 0.65
+meta:
+  description: Mixed sample including heart, liver and gizzard
+  food_group: MG

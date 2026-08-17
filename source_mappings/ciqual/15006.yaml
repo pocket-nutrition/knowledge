@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '15006'
+canonical_ingredient_id: coconut
+label: Noix de coco, chair, fraîche
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

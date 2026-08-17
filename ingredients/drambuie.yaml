@@ -1,0 +1,17 @@
+id: drambuie
+name_en: drambuie
+name_fr: drambuie
+serving_mode: volume
+food_group: alcohol
+states:
+  processed:
+    portion_g: 40.0
+    density_g_ml: 1.05
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- shot
+display_unit: ml

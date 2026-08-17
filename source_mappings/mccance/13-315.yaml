@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-315
+canonical_ingredient_id: taro_leaves
+label: Patra leaves, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: 3 samples
+  food_group: DG

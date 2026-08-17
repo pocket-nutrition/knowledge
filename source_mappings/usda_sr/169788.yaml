@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169788'
+canonical_ingredient_id: infant_formula
+label: Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, Soy, Toddler transitions, with ARA and DHA,  powder
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Baby Foods

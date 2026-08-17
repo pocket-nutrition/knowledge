@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705596'
+canonical_ingredient_id: half_and_half
+label: Cream, half and half, fat free
+match_method: ai_review
+confidence: 0.9

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '6100'
+canonical_ingredient_id: beef_steak_raw
+label: Boeuf, entrecôte, partie maigre grillée/poêlée
+cooking_method: grilled
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

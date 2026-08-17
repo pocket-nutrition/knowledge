@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Galette de sarrasin, nature, souple (à garnir) préemballée
+match_method: auto_name
+meta:
+  group: produits sucrés
+  subgroup: gâteaux et pâtisseries
+source: ciqual
+source_id: '23801'

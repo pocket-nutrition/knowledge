@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705408'
+canonical_ingredient_id: _composite
+label: Almond milk, chocolate
+match_method: name_en_before_comma
+confidence: 0.75

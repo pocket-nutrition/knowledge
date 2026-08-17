@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Carrots, frozen, cooked with oil
+match_method: auto_name
+meta:
+  category: Carrots
+source: usda
+source_id: '2709673'

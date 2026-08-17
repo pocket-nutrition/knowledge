@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '175186'
+canonical_ingredient_id: black_bean
+label: Beans, black turtle, mature seeds, raw
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

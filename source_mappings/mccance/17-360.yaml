@@ -1,0 +1,8 @@
+canonical_ingredient_id: gelatin
+confidence: 0.95
+label: Gelatine
+match_method: auto_exact
+meta:
+  group: WY
+source: mccance
+source_id: 17-360

@@ -1,0 +1,17 @@
+id: baking_chip
+name_en: baking chip
+name_fr: pépites à pâtisser
+serving_mode: weight
+food_group: sweetener
+states:
+  cooked: {}
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

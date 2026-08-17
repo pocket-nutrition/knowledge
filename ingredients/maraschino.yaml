@@ -1,0 +1,15 @@
+id: maraschino
+name_en: maraschino
+name_fr: marasquin
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.97
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- shot
+display_unit: ml

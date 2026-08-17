@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708298'
+canonical_ingredient_id: ready_made_pancake
+label: Pancakes, whole grain, frozen
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Pancakes, waffles, French toast

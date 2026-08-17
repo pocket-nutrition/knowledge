@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beans, navy, mature seeds, cooked, boiled, without salt
+match_method: auto_ai
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '173746'

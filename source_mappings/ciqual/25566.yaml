@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '25566'
+canonical_ingredient_id: pork_chop
+label: Brochette de porc, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.7
+meta:
+  group: entrées et plats composés
+  subgroup: plats composés

@@ -1,0 +1,12 @@
+id: cucumber
+name_en: cucumber
+name_fr: concombre
+food_group: vegetable
+states:
+  raw:
+    portion_g: 301.0
+    density_g_ml: 1.01
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

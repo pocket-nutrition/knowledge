@@ -1,0 +1,9 @@
+canonical_ingredient_id: coulommiers
+confidence: 0.8
+label: Fromage rond à pâte molle et croûte fleurie environ 11% MG type coulommiers
+  allégé en matière grasse
+match_method: auto_ai
+meta:
+  group: produits laitiers et assimilés
+source: ciqual
+source_id: '12012'

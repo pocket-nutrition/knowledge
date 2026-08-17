@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Peas, sugar-snap, raw
+match_method: auto_ai
+meta:
+  description: Whole pods, ends trimmed; 4 samples
+  food_group: DF
+source: mccance
+source_id: 13-143

@@ -1,0 +1,11 @@
+id: nacho_cheese_soup
+name_en: nacho cheese soup
+name_fr: nacho cheese soup
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 28.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

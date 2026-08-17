@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709217'
+canonical_ingredient_id: applesauce
+label: Applesauce, unsweetened
+cooking_method: cooked
+match_method: manual
+confidence: 1.0

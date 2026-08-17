@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '167731'
+canonical_ingredient_id: baby_cereal
+label: Babyfood, cereal, rice with pears and apple, dry, instant fortified
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Baby Foods

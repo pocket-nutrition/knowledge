@@ -1,0 +1,8 @@
+canonical_ingredient_id: black_soy_sauce
+confidence: 0.65
+label: Gravy, made with soy sauce
+match_method: auto_token
+meta:
+  wweia_category: Dips, gravies, other sauces
+source: usda
+source_id: '2707148'

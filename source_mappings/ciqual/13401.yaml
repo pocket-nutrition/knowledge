@@ -1,0 +1,6 @@
+canonical_ingredient_id: apricot
+confidence: 0.7
+label: Abricot pays, chair et peau, sans noyau, cru, prélevé à la Martinique
+match_method: name_fr_partial
+source: ciqual
+source_id: '13401'

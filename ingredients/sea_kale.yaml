@@ -1,0 +1,16 @@
+id: sea_kale
+name_en: sea kale
+name_fr: chou marin
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- seakale
+aliases_fr:
+- crambe maritime
+display_unit: g

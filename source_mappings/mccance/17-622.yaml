@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pesto, green
+match_method: auto_before_comma
+meta:
+  group: WC
+source: mccance
+source_id: 17-622

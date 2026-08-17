@@ -1,0 +1,24 @@
+id: drinking_chocolate
+name_en: drinking chocolate
+name_fr: chocolat en poudre
+serving_mode: measure
+food_group: beverage
+states:
+  raw:
+    portion_g: 18.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- drinking chocolate powder
+- hot chocolate powder
+- cocoa drink mix
+aliases_fr:
+- chocolat en poudre à boire
+- poudre chocolatée
+- cacao en poudre sucré
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

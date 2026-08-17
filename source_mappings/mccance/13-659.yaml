@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beans, red kidney, dried, boiled in unsalted water
+match_method: auto_ai
+meta:
+  description: 10 samples, 9 products, soaked and boiled for 40-70 minutes
+  food_group: DB
+source: mccance
+source_id: 13-659

@@ -1,0 +1,13 @@
+id: duck
+name_en: duck
+name_fr: canard
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.083
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+display_unit: g

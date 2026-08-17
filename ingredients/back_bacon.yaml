@@ -1,0 +1,12 @@
+id: back_bacon
+name_en: back bacon
+name_fr: bacon de dos
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- bacon anglais

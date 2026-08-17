@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '175108'
+canonical_ingredient_id: sports_drink
+label: Beverages, COCA-COLA, POWERADE, lemon-lime flavored, ready-to-drink
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

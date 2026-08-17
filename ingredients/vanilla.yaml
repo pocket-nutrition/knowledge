@@ -1,0 +1,20 @@
+id: vanilla
+name_en: vanilla
+name_fr: vanille
+serving_mode: item
+unit_label_en: pod
+unit_label_fr: gousse
+food_group: spice_herb
+states:
+  processed:
+    portion_g: 3.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- vanilla bean
+- vanilla pod
+aliases_fr:
+- gousse de vanille
+display_unit: g

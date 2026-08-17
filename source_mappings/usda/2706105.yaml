@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706105'
+canonical_ingredient_id: turkey_breast
+label: Turkey, light meat, skin not eaten
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Turkey, duck, other poultry

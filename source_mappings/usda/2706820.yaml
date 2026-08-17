@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706820'
+canonical_ingredient_id: _composite
+label: Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, cheese sauce
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Poultry mixed dishes

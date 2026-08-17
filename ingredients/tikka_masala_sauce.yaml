@@ -1,0 +1,21 @@
+id: tikka_masala_sauce
+name_en: tikka masala sauce
+name_fr: sauce tikka masala
+serving_mode: volume
+food_group: sauce
+states:
+  processed:
+    portion_g: 100.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- tandoori sauce
+aliases_fr:
+- sauce tandoori
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

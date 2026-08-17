@@ -1,0 +1,18 @@
+id: salmon_roe
+name_en: salmon roe
+name_fr: œufs de saumon
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  processed:
+    portion_g: 25.0
+    density_g_ml: 1.123
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_en:
+- ikura
+aliases_fr:
+- ikura
+display_unit: g

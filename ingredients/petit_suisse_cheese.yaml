@@ -1,0 +1,15 @@
+id: petit_suisse_cheese
+name_en: petit-suisse cheese
+name_fr: fromage petit-suisse
+serving_mode: item
+unit_label_en: pot
+unit_label_fr: pot
+food_group: dairy
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

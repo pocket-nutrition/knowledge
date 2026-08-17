@@ -1,0 +1,9 @@
+canonical_ingredient_id: flying_fish
+confidence: 0.9
+label: Flying fish, raw
+match_method: auto_ai
+meta:
+  description: Literature sources
+  food_group: JA
+source: mccance
+source_id: 16-043

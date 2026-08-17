@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-351
+canonical_ingredient_id: spring_onion
+label: Spring onions, bulbs only, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Peeled
+  food_group: DG

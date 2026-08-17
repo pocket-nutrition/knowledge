@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '20090'
+canonical_ingredient_id: endive_leaf
+label: Scarole, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumes

@@ -1,0 +1,9 @@
+canonical_ingredient_id: chicken_breast
+confidence: 0.8
+cooking_method: grilled
+label: Chicken breast, grilled with sauce, skin not eaten
+match_method: auto_before_comma
+meta:
+  category: Chicken, whole pieces
+source: usda
+source_id: '2705970'

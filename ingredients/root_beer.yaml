@@ -1,0 +1,16 @@
+id: root_beer
+name_en: root beer
+name_fr: racinette
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

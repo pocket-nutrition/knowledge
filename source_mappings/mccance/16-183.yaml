@@ -1,0 +1,8 @@
+canonical_ingredient_id: pickled_herring
+confidence: 0.9
+label: Herring, pickled
+match_method: auto_precise
+meta:
+  group: JC
+source: mccance
+source_id: 16-183

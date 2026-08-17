@@ -1,0 +1,15 @@
+id: liquid_stevia
+name_en: liquid stevia
+name_fr: stévia liquide
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: ml

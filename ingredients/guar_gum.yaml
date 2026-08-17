@@ -1,0 +1,16 @@
+id: guar_gum
+name_en: guar gum
+name_fr: gomme de guar
+serving_mode: measure
+food_group: other
+states:
+  cooked: {}
+  raw:
+    portion_g: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

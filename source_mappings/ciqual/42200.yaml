@@ -1,0 +1,8 @@
+canonical_ingredient_id: soy_lecithin
+confidence: 0.9
+label: Lécithine de soja
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '42200'

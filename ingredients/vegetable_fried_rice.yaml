@@ -1,0 +1,11 @@
+id: vegetable_fried_rice
+name_en: vegetable fried rice
+name_fr: riz cantonais aux légumes
+food_group: other
+states:
+  raw:
+    portion_g: 137.0
+    density_g_ml: 0.579
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

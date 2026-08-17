@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710266'
+canonical_ingredient_id: artificial_sweetener
+label: Sugar substitute, monk fruit, powder
+match_method: ai_review
+confidence: 0.9

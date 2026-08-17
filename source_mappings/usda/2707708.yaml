@@ -1,0 +1,6 @@
+canonical_ingredient_id: bagel
+confidence: 0.75
+label: Bagel, whole grain white
+match_method: name_en_before_comma
+source: usda
+source_id: '2707708'

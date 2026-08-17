@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20243'
+canonical_ingredient_id: snap_pea
+label: Pois mange-tout ou pois gourmands, cuits
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

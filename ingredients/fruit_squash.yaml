@@ -1,0 +1,19 @@
+id: fruit_squash
+name_en: fruit squash
+name_fr: sirop de fruits
+serving_mode: volume
+food_group: beverage
+states:
+  processed:
+    portion_g: 40.0
+    density_g_ml: 1.1
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_en:
+- high juice drink
+- cordial
+serving_unit_types:
+- tablespoon
+display_unit: ml

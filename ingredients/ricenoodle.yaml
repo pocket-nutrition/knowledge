@@ -1,0 +1,7 @@
+food_group: cereal
+id: ricenoodle
+name_en: rice noodle
+name_fr: nouilles de riz
+states:
+  raw:
+    portion_g: 60

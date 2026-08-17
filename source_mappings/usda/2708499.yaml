@@ -1,0 +1,8 @@
+canonical_ingredient_id: rice_cereal
+confidence: 0.65
+label: Baby Toddler cereal, rice, ready-to-eat
+match_method: auto_token
+meta:
+  wweia_category: 'Baby food: cereals'
+source: usda
+source_id: '2708499'

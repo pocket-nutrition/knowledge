@@ -1,0 +1,9 @@
+canonical_ingredient_id: potato
+confidence: 0.8
+cooking_method: roasted
+label: Potato, french fries, from fresh, baked
+match_method: auto_before_comma
+meta:
+  category: French fries and other fried white potatoes
+source: usda
+source_id: '2709459'

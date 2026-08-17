@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706003'
+canonical_ingredient_id: chicken_drumstick
+label: Chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Chicken, whole pieces

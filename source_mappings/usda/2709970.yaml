@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709970'
+canonical_ingredient_id: canned_pea
+label: Green peas, canned, cooked with oil
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Other starchy vegetables

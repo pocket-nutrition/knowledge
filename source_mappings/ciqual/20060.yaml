@@ -1,0 +1,8 @@
+canonical_ingredient_id: spinach
+confidence: 0.8
+label: Épinard, appertisé, égoutté
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '20060'

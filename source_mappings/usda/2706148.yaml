@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Dove, fried
+match_method: auto_name
+meta:
+  category: Turkey, duck, other poultry
+source: usda
+source_id: '2706148'

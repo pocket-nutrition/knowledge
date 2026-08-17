@@ -1,0 +1,17 @@
+id: tartar_sauce
+name_en: Tartar sauce
+name_fr: Sauce tartare
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 1.014
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

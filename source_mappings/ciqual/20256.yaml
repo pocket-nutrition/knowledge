@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20256'
+canonical_ingredient_id: sun_dried_tomato
+label: Tomate, séchée, à l'huile
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

@@ -1,0 +1,17 @@
+id: chicken_stock_paste
+name_en: chicken stock paste
+name_fr: pâte de fond de volaille
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 10.0
+    density_g_ml: 1.2
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

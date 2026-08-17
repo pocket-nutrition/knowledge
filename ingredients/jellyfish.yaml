@@ -1,0 +1,12 @@
+id: jellyfish
+name_en: jellyfish
+name_fr: méduse
+food_group: fish
+states:
+  raw:
+    portion_g: 58.0
+    density_g_ml: 0.245
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: mango
+confidence: 0.9
+label: Baby Toddler mangoes
+match_method: auto_ai
+meta:
+  wweia_category: 'Baby food: fruit'
+source: usda
+source_id: '2709372'

@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Crêpe, nature, préemballée, rayon température ambiante
+match_method: auto_name
+meta:
+  group: produits sucrés
+  subgroup: gâteaux et pâtisseries
+source: ciqual
+source_id: '23800'

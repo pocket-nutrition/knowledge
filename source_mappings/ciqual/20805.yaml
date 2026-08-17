@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20805'
+canonical_ingredient_id: chayote
+label: Chayote ou christophine ou chouchou à peau verte, chair sans peau, sans noyau, cuite à la vapeur, prélevée à la Martinique
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

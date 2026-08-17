@@ -1,0 +1,8 @@
+canonical_ingredient_id: crispbread
+confidence: 0.8
+label: Crispbread, rye
+match_method: auto_before_comma
+meta:
+  group: AM
+source: mccance
+source_id: 11-822

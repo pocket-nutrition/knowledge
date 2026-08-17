@@ -1,0 +1,12 @@
+id: stellar_sea_lion_liver
+name_en: Steller sea lion liver
+name_fr: foie de lion de mer Steller
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

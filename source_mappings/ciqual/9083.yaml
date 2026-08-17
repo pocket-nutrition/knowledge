@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9083'
+canonical_ingredient_id: durum_wheat
+label: Blé dur précuit, grains entiers, cuisiné, à poêler
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: entrées et plats composés

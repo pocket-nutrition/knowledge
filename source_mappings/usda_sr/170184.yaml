@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Nuts, pistachio nuts, raw
+match_method: auto_ai
+meta:
+  category: Nut and Seed Products
+source: usda_sr
+source_id: '170184'

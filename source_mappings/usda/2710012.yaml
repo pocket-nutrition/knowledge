@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710012'
+canonical_ingredient_id: mixed_vegetables
+label: Classic mixed vegetables, cooked, from restaurant
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Other vegetables and combinations

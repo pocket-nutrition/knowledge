@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13005'
+canonical_ingredient_id: banana
+label: Banane, chair sans peau, crue
+cooking_method: raw
+match_method: manual
+confidence: 1.0

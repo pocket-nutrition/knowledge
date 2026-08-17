@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Restaurant, family style, macaroni & cheese, from kids' menu
+match_method: auto_name
+meta:
+  category: Restaurant Foods
+source: usda_sr
+source_id: '169839'

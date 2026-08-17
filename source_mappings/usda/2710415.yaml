@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710415'
+canonical_ingredient_id: _composite
+label: Coffee, Cafe Mocha, decaffeinated, with non-dairy milk
+match_method: name_en_before_comma
+confidence: 0.75

@@ -1,0 +1,15 @@
+id: tater_tot
+name_en: tater tot
+name_fr: pomme de terre noisette
+serving_mode: item
+unit_label_en: tot
+unit_label_fr: pomme noisette
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 10.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+display_unit: g

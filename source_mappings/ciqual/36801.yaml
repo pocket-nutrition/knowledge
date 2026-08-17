@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36801'
+canonical_ingredient_id: ostrich
+label: Autruche, viande cuite
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Eggs, chicken, yolk, boiled
+match_method: auto_ai
+meta:
+  group: CA
+source: mccance
+source_id: 12-942

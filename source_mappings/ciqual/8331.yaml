@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '8331'
+canonical_ingredient_id: foie_gra
+label: Foie gras, canard, bloc (aliment moyen)
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

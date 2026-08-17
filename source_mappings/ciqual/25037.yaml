@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Gratin ou cassolette de poisson et / ou fruits de mer, préemballé, cru
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+  subgroup: plats composés
+source: ciqual
+source_id: '25037'

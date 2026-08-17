@@ -1,0 +1,14 @@
+id: peppermint_candy
+name_en: peppermint candy
+name_fr: bonbon à la menthe poivrée
+serving_mode: item
+unit_label_en: candy
+unit_label_fr: bonbon
+food_group: sweetener
+states:
+  raw:
+    portion_g: 3.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

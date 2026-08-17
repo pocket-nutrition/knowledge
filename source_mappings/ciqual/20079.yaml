@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20079'
+canonical_ingredient_id: button_mushroom
+label: Champignon de Paris ou champignon de couche, appertisé, égoutté
+cooking_method: cooked
+match_method: manual
+confidence: 1.0
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

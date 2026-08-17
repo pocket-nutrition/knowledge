@@ -1,0 +1,15 @@
+id: ice_cream
+name_en: ice cream
+name_fr: glace
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 86.0
+    density_g_ml: 0.727
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- scoop
+display_unit: ml

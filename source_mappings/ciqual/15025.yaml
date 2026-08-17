@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '15025'
+canonical_ingredient_id: pine_nut
+label: Pignon de pin
+cooking_method: raw
+match_method: auto_exact
+confidence: 0.95
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

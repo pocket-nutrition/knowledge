@@ -1,0 +1,14 @@
+id: duck_bacon
+name_en: duck bacon
+name_fr: lard de canard
+serving_mode: weight
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 150.0
+  processed:
+    portion_g: 30.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

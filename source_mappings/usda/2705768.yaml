@@ -1,0 +1,6 @@
+canonical_ingredient_id: cheese_spread
+confidence: 0.75
+label: Cheese spread, American or Cheddar cheese base, reduced fat
+match_method: name_en_before_comma
+source: usda
+source_id: '2705768'

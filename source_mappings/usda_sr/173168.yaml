@@ -1,0 +1,8 @@
+canonical_ingredient_id: creme_de_menthe
+confidence: 0.65
+label: Alcoholic beverage, creme de menthe, 72 proof
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '173168'

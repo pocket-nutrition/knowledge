@@ -1,0 +1,6 @@
+canonical_ingredient_id: milk
+confidence: 0.7
+label: Lait gélifié aromatisé, nappé caramel, rayon frais
+match_method: name_fr_partial
+source: ciqual
+source_id: '19679'

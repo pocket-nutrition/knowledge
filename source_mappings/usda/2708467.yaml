@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Cereal, frosted oats with marshmallows
+match_method: auto_name
+meta:
+  wweia_category: Ready-to-eat cereal, higher sugar (>21.2g/100g)
+source: usda
+source_id: '2708467'

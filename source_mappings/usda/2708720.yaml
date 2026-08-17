@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708720'
+canonical_ingredient_id: _composite
+label: Pierogi
+match_method: name_en_exact
+confidence: 0.9

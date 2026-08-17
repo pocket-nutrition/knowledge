@@ -1,0 +1,14 @@
+id: calamansi
+name_en: calamansi
+name_fr: citron des Philippines
+serving_mode: item
+unit_label_en: calamansi
+unit_label_fr: calamansi
+food_group: fruit
+states:
+  raw:
+    portion_g: 15.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710795'
+canonical_ingredient_id: tomato
+label: Tomatoes, cooked, as ingredient
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Not included in a food category

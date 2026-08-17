@@ -1,0 +1,17 @@
+id: demi_glace
+name_en: demi-glace
+name_fr: demi-glace
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 1.1
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: ml

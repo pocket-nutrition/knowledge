@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20832'
+canonical_ingredient_id: sweet_potato
+label: Patate douce, pulpe, cuite à la vapeur, prélevée à la Martinique
+cooking_method: steamed
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

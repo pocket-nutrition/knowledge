@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Potatoes, old, potato wedges, with skin, cooked in sunflower oil, homemade
+match_method: auto_token
+meta:
+  group: DAM
+source: mccance
+source_id: 13-566

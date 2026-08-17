@@ -1,0 +1,8 @@
+canonical_ingredient_id: muesli
+confidence: 0.8
+label: Muesli, Swiss style, no added sugar or salt, unfortified
+match_method: auto_before_comma
+meta:
+  group: AI
+source: mccance
+source_id: 11-781

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Wheat cereal, chocolate flavored, cooked
+match_method: auto_name
+meta:
+  category: Grits and other cooked cereals
+source: usda
+source_id: '2708443'

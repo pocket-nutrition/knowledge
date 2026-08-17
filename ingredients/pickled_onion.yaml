@@ -1,0 +1,12 @@
+id: pickled_onion
+name_en: pickled onion
+name_fr: oignon mariné
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 20.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

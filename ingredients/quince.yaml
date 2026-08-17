@@ -1,0 +1,17 @@
+id: quince
+name_en: quince
+name_fr: coing
+serving_mode: item
+unit_label_en: quince
+unit_label_fr: coing
+food_group: fruit
+states:
+  raw:
+    portion_g: 220.0
+    density_g_ml: 1.062
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- coing commun
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Margarine, industrial, non-dairy, cottonseed, soy oil (partially hydrogenated
+  ), for flaky pastries
+match_method: auto_before_comma
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173605'

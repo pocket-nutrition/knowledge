@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20097'
+canonical_ingredient_id: shallot
+label: Échalote, crue
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

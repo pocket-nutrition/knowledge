@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)
+match_method: auto_name
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173568'

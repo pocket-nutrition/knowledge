@@ -1,0 +1,8 @@
+canonical_ingredient_id: cumin
+confidence: 0.8
+label: Cumin, graine
+match_method: auto_before_comma
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11042'

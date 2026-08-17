@@ -1,0 +1,19 @@
+id: lotus_seed
+name_en: lotus seed
+name_fr: graine de lotus
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 28.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- makhana
+- fox nut
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

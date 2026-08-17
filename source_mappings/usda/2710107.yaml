@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710107'
+canonical_ingredient_id: _composite
+label: Soup, cream of mushroom
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Soups, cream-based

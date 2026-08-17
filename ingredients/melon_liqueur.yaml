@@ -1,0 +1,15 @@
+id: melon_liqueur
+name_en: melon liqueur
+name_fr: liqueur de melon
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- shot
+display_unit: ml

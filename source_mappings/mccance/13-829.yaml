@@ -1,0 +1,8 @@
+canonical_ingredient_id: garam_masala
+confidence: 0.95
+label: Garam masala
+match_method: auto_exact
+meta:
+  group: H
+source: mccance
+source_id: 13-829

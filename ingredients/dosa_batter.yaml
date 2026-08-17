@@ -1,0 +1,14 @@
+id: dosa_batter
+name_en: dosa batter
+name_fr: pâte à dosa
+serving_mode: weight
+food_group: cereal
+states:
+  processed:
+    portion_g: 100.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

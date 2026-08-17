@@ -1,0 +1,9 @@
+source: mccance
+source_id: 11-885
+canonical_ingredient_id: null
+label: Rice, egg fried, ready cooked, re-heated, retail, not takeaway
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: AC

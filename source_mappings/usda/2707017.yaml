@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707017'
+canonical_ingredient_id: _composite
+label: Chicken fillet wrap sandwich, grilled, from fast food
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Chicken fillet sandwiches

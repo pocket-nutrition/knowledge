@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '172565'
+canonical_ingredient_id: bison
+label: Game meat, bison, ribeye, separable lean only, trimmed to 0" fat, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Lamb, Veal, and Game Products

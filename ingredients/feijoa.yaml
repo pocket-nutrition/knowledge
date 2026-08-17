@@ -1,0 +1,12 @@
+id: feijoa
+name_en: feijoa
+name_fr: goyave du Brésil
+food_group: fruit
+states:
+  raw:
+    portion_g: 205.0
+    density_g_ml: 1.054
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

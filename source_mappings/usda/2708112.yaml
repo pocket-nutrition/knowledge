@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708112'
+canonical_ingredient_id: granola_bar
+label: Cereal or granola bar, high fiber, coated with non-chocolate yogurt coating
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Cereal bars

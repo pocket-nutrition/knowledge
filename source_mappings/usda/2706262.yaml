@@ -1,0 +1,8 @@
+canonical_ingredient_id: fish_raw
+confidence: 0.8
+label: Fish, pickled
+match_method: auto_before_comma
+meta:
+  category: Fish
+source: usda
+source_id: '2706262'

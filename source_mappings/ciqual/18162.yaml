@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Chicorée et café, instantané, sans sucres ajoutés, prête à boire (reconstituée
+  avec de l'eau)
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18162'

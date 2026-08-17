@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Potato powder, instant, made up with skimmed milk
+match_method: auto_token
+meta:
+  group: DAR
+source: mccance
+source_id: 13-616

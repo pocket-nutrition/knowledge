@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Succotash, (corn and limas), frozen, cooked, boiled, drained, without salt
+match_method: auto_name
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '168481'

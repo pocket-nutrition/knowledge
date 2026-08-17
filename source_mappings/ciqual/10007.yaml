@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '10007'
+canonical_ingredient_id: prawn
+label: Crevette, cuite
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

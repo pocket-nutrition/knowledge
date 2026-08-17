@@ -1,0 +1,8 @@
+canonical_ingredient_id: khorasan_wheat
+confidence: 0.9
+label: Wheat, khorasan, uncooked
+match_method: auto_precise
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '169743'

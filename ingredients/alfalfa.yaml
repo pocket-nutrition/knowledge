@@ -1,0 +1,21 @@
+id: alfalfa
+name_en: alfalfa
+name_fr: luzerne
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.25
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- alfalfa sprouts
+aliases_fr:
+- pousses de luzerne
+- germes de luzerne
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

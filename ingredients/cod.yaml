@@ -1,0 +1,11 @@
+id: cod
+name_en: cod
+name_fr: morue
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.054
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

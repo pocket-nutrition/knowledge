@@ -1,0 +1,14 @@
+id: pickled_cherry_pepper
+name_en: pickled cherry pepper
+name_fr: piment cerise mariné
+serving_mode: item
+unit_label_en: pepper
+unit_label_fr: piment
+food_group: vegetable
+states:
+  raw:
+    portion_g: 15.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

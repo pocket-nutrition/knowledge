@@ -1,0 +1,8 @@
+canonical_ingredient_id: honey
+confidence: 0.95
+label: Honey
+match_method: auto_exact
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '169640'

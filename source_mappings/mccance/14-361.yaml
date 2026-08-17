@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pears, average, flesh and skin, raw, weighed with core and stalk
+match_method: auto_ai
+meta:
+  description: Calculated from 14-321 using edible conversion factor of 0.85
+  food_group: FA
+source: mccance
+source_id: 14-361

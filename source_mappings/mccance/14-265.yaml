@@ -1,0 +1,8 @@
+canonical_ingredient_id: tamarind
+confidence: 0.95
+label: Tamarind
+match_method: auto_exact
+meta:
+  group: FA
+source: mccance
+source_id: 14-265

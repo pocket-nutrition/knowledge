@@ -1,0 +1,13 @@
+id: chicken_tender
+name_en: chicken tender
+name_fr: aiguillette de poulet
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.059
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

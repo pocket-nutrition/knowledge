@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.9
+label: Mushrooms, for use on a sandwich
+match_method: auto_ai
+meta:
+  wweia_category: Vegetables on a sandwich
+source: usda
+source_id: '2710251'

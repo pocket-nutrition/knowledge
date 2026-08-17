@@ -1,0 +1,10 @@
+source: mccance
+source_id: 14-205
+canonical_ingredient_id: asian_pear
+label: Pears, Nashi, flesh and skin, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: 6 samples;
+  food_group: FA

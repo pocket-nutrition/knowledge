@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168432'
+canonical_ingredient_id: mountain_yam
+label: Mountain yam, hawaii, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

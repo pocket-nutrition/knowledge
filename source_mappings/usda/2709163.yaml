@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709163'
+canonical_ingredient_id: textured_vegetable_protein
+label: Meat substitute, cereal- and vegetable protein-based, fried
+cooking_method: fried
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soy and meat-alternative products

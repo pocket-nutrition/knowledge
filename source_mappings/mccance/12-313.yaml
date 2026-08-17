@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Milk, semi-skimmed, pasteurised, average
+match_method: auto_before_comma
+meta:
+  group: BAH
+source: mccance
+source_id: 12-313

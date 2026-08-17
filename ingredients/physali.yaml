@@ -1,0 +1,18 @@
+id: physali
+name_en: physalis
+name_fr: physalis
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- cape gooseberry
+- ground cherry
+aliases_fr:
+- amour en cage
+- coqueret du Pérou
+display_unit: g

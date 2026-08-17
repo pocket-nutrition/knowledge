@@ -1,0 +1,12 @@
+id: cluster_bean
+name_en: cluster bean
+name_fr: haricot guar
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

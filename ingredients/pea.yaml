@@ -1,0 +1,17 @@
+id: pea
+name_en: pea
+name_fr: pois
+name_en_plural: peas
+name_fr_plural: petits pois
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 1.067
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

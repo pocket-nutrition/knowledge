@@ -1,0 +1,13 @@
+id: chocolate_pudding
+name_en: chocolate pudding
+name_fr: pudding au chocolat
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707384'
+canonical_ingredient_id: canned_kidney_bean
+label: Kidney beans, from canned, reduced sodium
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Beans, peas, legumes

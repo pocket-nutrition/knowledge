@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, fillet steak, from steakhouse, lean and fat
+match_method: auto_before_comma
+meta:
+  group: MAC
+source: mccance
+source_id: 18-023

@@ -1,0 +1,8 @@
+canonical_ingredient_id: saint_felicien
+confidence: 0.9
+label: Saint-Félicien
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12052'

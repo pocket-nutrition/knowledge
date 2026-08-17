@@ -1,0 +1,11 @@
+id: green_peas
+name_en: green peas
+name_fr: petits pois
+food_group: legume
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.068
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

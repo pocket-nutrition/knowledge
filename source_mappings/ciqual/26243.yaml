@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '26243'
+canonical_ingredient_id: _composite
+label: Thon, à la catalane ou à l'escabèche (sauce tomate), appertisé
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

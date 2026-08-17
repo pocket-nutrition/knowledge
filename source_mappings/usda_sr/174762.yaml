@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, tenderloin, steak, separable lean only, trimmed to 1/8" fat, choice,
+  raw
+match_method: auto_before_comma
+meta:
+  category: Beef Products
+source: usda_sr
+source_id: '174762'

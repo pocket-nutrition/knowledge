@@ -1,0 +1,15 @@
+id: limeade_concentrate
+name_en: limeade concentrate
+name_fr: concentré de limeade
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 1.045
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: ml

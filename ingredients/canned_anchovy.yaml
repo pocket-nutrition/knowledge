@@ -1,0 +1,14 @@
+id: canned_anchovy
+name_en: canned anchovy
+name_fr: anchois en conserve
+serving_mode: weight
+food_group: fish
+states:
+  processed:
+    portion_g: 30.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

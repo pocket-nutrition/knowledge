@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '13176'
+canonical_ingredient_id: apple
+label: Pomme, chair sans peau, bouillie/cuite à l'eau
+cooking_method: boiled
+match_method: manual
+confidence: 1.0
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

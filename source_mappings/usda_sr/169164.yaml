@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, cured, ham -- water added, rump, bone-in, separable lean and fat, heated,
+  roasted
+match_method: auto_before_comma
+meta:
+  category: Pork Products
+source: usda_sr
+source_id: '169164'

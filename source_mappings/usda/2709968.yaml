@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709968'
+canonical_ingredient_id: green_peas
+label: Green peas, frozen, cooked with oil
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Other starchy vegetables

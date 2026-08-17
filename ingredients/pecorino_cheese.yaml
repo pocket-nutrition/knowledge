@@ -1,0 +1,19 @@
+id: pecorino_cheese
+name_en: pecorino cheese
+name_fr: pecorino
+serving_mode: weight
+food_group: dairy
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 1.113
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- pecorino romano
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

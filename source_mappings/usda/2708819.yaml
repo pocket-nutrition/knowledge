@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708819'
+canonical_ingredient_id: _composite
+label: Macaroni or noodles with cheese and meat, prepared from Hamburger Helper mix
+match_method: name_en_partial
+confidence: 0.65

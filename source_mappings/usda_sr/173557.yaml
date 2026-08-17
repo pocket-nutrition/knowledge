@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173557'
+canonical_ingredient_id: infant_formula
+label: Infant formula, PBM PRODUCTS, store brand, soy, powder
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Baby Foods

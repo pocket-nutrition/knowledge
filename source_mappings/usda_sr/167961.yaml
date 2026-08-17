@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '167961'
+canonical_ingredient_id: pork_rind
+label: Snacks, pork skins, plain
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Snacks

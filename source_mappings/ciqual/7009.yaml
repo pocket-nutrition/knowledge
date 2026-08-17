@@ -1,0 +1,8 @@
+canonical_ingredient_id: bread
+confidence: 0.9
+label: Pain blanc précuit, à finir de cuire, préemballé
+match_method: auto_ai
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '7009'

@@ -1,0 +1,13 @@
+id: faisselle
+name_en: faisselle cheese
+name_fr: faisselle
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.033
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

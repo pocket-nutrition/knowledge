@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '170672'
+canonical_ingredient_id: null
+label: Sweeteners, for baking, brown, contains sugar and sucralose
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Sweets

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Sprouts, NFS
+match_method: auto_name
+meta:
+  wweia_category: Other vegetables and combinations
+source: usda
+source_id: '2709764'

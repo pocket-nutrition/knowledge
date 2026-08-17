@@ -1,0 +1,16 @@
+id: curd
+name_en: curd
+name_fr: caillé
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.069
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- lait caillé
+- caillé frais
+display_unit: g

@@ -1,0 +1,15 @@
+id: onion_gravy
+name_en: onion gravy
+name_fr: sauce à l'oignon
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- tablespoon
+display_unit: ml

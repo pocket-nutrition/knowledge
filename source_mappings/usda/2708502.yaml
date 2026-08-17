@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Baby Toddler cereal, multigrain with fruit, ready-to-eat
+match_method: auto_name
+meta:
+  wweia_category: 'Baby food: cereals'
+source: usda
+source_id: '2708502'

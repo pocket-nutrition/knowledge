@@ -1,0 +1,21 @@
+id: passion_fruit_juice
+name_en: passion-fruit juice
+name_fr: jus de fruit de la passion
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.06
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- maracuja juice
+aliases_fr:
+- jus de maracudja
+- jus de maracuja
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

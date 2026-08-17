@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-359
+canonical_ingredient_id: swede
+label: Swede, flesh only, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Peeled thinly
+  food_group: DG

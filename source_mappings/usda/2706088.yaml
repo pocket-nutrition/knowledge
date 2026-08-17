@@ -1,0 +1,7 @@
+source: usda
+source_id: '2706088'
+canonical_ingredient_id: chicken_patty
+label: Chicken patty, breaded
+cooking_method: cooked
+match_method: name_en_before_comma
+confidence: 0.75

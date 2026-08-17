@@ -1,0 +1,16 @@
+id: beef_stock
+name_en: beef stock
+name_fr: fond de bœuf
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 418.0
+    density_g_ml: 1.014
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- cup
+- tablespoon
+display_unit: ml

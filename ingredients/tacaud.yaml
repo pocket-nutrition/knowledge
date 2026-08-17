@@ -1,0 +1,13 @@
+id: tacaud
+name_en: pouting
+name_fr: tacaud
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.056
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '22070'
+canonical_ingredient_id: goose_egg
+label: Oeuf d'oie, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: oeufs

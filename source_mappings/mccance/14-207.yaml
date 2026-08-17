@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-207
+canonical_ingredient_id: physali
+label: Physalis, fruit only
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: FA

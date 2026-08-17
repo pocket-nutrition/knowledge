@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Bière forte (>8° alcool)
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '5002'

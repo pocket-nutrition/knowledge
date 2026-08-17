@@ -1,0 +1,17 @@
+id: shredded_wheat
+name_en: shredded wheat
+name_fr: flocons de blé type shredded wheat
+serving_mode: weight
+food_group: cereal
+states:
+  processed:
+    portion_g: 45.0
+    density_g_ml: 0.15
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

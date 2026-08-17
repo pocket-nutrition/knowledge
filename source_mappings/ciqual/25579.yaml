@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '25579'
+canonical_ingredient_id: gnocchi
+label: Gnocchi, cuit (aliment moyen)
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: produits céréaliers

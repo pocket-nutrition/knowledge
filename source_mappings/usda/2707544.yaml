@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707544'
+canonical_ingredient_id: chocolate_peanut_butter
+label: Peanut butter and chocolate spread
+match_method: ai_review
+confidence: 0.9

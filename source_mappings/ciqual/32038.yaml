@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Céréales pour petit déjeuner au chocolat et caramel, extrudées, non enrichies
+  en vitamines et minéraux
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '32038'

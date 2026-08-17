@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707108'
+canonical_ingredient_id: _composite
+label: Chicken, fried, with potatoes, vegetable, dessert, frozen meal, large meat portion
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Poultry mixed dishes

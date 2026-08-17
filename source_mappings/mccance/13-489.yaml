@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Potatoes, old, raw, flesh only
+match_method: auto_ai
+meta:
+  description: 22 samples, autumn and winter, including white and red varieties, pre-packed
+    and loose
+  food_group: DAM
+source: mccance
+source_id: 13-489

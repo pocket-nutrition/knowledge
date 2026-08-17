@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '40403'
+canonical_ingredient_id: beef_kidney
+label: Rognon, boeuf, cuit
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

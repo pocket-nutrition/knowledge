@@ -1,0 +1,20 @@
+id: puff_pastry_shell
+name_en: puff pastry shell
+name_fr: fond de pâte feuilletée
+serving_mode: item
+unit_label_en: shell
+unit_label_fr: croûte
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 48.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- vol-au-vent shell
+aliases_fr:
+- croûte de vol-au-vent
+- vol-au-vent
+display_unit: g

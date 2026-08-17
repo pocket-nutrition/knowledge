@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Rock Salmon/Dogfish, in batter, fried in sunflower oil, weighed with bones
+match_method: auto_token
+meta:
+  group: JA
+source: mccance
+source_id: 16-141

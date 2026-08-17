@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Beverages, ABBOTT, ENSURE PLUS, ready-to-drink
+match_method: auto_name
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '167727'

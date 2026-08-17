@@ -1,0 +1,8 @@
+canonical_ingredient_id: tempeh
+confidence: 0.95
+label: Tempeh
+match_method: auto_exact
+meta:
+  group: DB
+source: mccance
+source_id: 13-118

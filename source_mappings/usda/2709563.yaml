@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709563'
+canonical_ingredient_id: plantain
+label: Plantain chips
+cooking_method: fried
+match_method: name_en_partial
+confidence: 0.65

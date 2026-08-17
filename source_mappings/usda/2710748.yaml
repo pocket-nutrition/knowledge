@@ -1,0 +1,6 @@
+canonical_ingredient_id: energy_drink
+confidence: 0.9
+label: Energy drink (Mountain Dew AMP)
+match_method: name_en_exact
+source: usda
+source_id: '2710748'

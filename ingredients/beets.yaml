@@ -1,0 +1,12 @@
+id: beets
+name_en: beets
+name_fr: betterave
+name_fr_plural: betteraves
+food_group: vegetable
+states:
+  raw:
+    portion_g: 246.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

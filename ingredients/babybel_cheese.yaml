@@ -1,0 +1,16 @@
+id: babybel_cheese
+name_en: babybel cheese
+name_fr: fromage babybel
+serving_mode: item
+unit_label_en: piece
+unit_label_fr: portion
+food_group: dairy
+states:
+  processed:
+    portion_g: 20.0
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

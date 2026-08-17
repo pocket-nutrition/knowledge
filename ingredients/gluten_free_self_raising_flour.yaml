@@ -1,0 +1,17 @@
+id: gluten_free_self_raising_flour
+name_en: gluten-free self-raising flour
+name_fr: farine sans gluten à levure incorporée
+serving_mode: weight
+food_group: cereal
+states:
+  cooked: {}
+  processed:
+    portion_g: 60.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

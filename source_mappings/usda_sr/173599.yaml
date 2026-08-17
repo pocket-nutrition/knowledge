@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Margarine-like shortening, industrial, soy (partially hydrogenated), cottonseed,
+  and soy, principal use flaky pastries
+match_method: auto_name
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173599'

@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-269
+canonical_ingredient_id: whelk
+label: Whelks, boiled, weighed with shells
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: JM

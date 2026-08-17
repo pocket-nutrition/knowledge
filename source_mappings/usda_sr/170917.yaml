@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '170917'
+canonical_ingredient_id: bay_leaf
+label: Spices, bay leaf
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Spices and Herbs

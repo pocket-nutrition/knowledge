@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Crackers, gluten-free, multigrain and vegetable, made with corn starch and
+  white rice flour
+match_method: auto_token
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '174103'

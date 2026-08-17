@@ -1,0 +1,17 @@
+id: grouse
+name_en: grouse
+name_fr: tétras
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- gélinotte
+- lagopède
+display_unit: g

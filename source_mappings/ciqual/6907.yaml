@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '6907'
+canonical_ingredient_id: horse_meat
+label: Cheval, faux-filet grillé/poêlé
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

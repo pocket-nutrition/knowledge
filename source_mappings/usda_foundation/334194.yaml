@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '334194'
+canonical_ingredient_id: fish_raw
+label: Fish, tuna, light, canned in water, drained solids
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Finfish and Shellfish Products

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707000'
+canonical_ingredient_id: _composite
+label: Chicken fillet sandwich, NFS
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Chicken fillet sandwiches

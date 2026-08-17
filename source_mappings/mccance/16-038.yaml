@@ -1,0 +1,9 @@
+canonical_ingredient_id: dab
+confidence: 0.92
+label: Dab, raw
+match_method: auto_precise
+meta:
+  description: Literature sources
+  food_group: JA
+source: mccance
+source_id: 16-038

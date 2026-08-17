@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Margarine-like spread, SMART BEAT Super Light without saturated fat
+match_method: auto_name
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173608'

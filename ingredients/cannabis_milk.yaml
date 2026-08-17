@@ -1,0 +1,14 @@
+id: cannabis_milk
+name_en: cannabis milk
+name_fr: lait au cannabis
+serving_mode: volume
+food_group: other
+states:
+  processed:
+    portion_g: 250.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

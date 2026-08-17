@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710472'
+canonical_ingredient_id: _composite
+label: Coffee, Cappuccino
+match_method: name_en_before_comma
+confidence: 0.75

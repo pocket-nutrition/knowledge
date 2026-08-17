@@ -1,0 +1,17 @@
+id: buffalo_meat
+name_en: buffalo meat
+name_fr: viande de buffle
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- water buffalo meat
+aliases_fr:
+- buffle
+- viande de bufflonne
+display_unit: g

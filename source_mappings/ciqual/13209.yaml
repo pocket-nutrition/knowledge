@@ -1,0 +1,11 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Spécialité de fruits, tout type de fruits, sans sucres ajoutés (mélange chairs
+  et/ou purées de fruits, mais toujours avec autre ingrédient), préemballée, rayon
+  frais
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits
+source: ciqual
+source_id: '13209'

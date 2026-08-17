@@ -1,0 +1,11 @@
+id: plantain
+name_en: plantain
+name_fr: Banane plantain
+food_group: fruit
+states:
+  raw:
+    portion_g: 267.0
+    density_g_ml: 1.133
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

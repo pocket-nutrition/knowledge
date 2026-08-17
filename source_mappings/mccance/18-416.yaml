@@ -1,0 +1,9 @@
+source: mccance
+source_id: 18-416
+canonical_ingredient_id: beef_liver
+label: Liver, ox, stewed
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: MG

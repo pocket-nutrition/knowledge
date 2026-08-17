@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '37001'
+canonical_ingredient_id: pizza_dough
+label: Pâte à pizza, préemballée, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

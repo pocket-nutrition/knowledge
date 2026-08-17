@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Green beans, dried
+match_method: auto_ai
+meta:
+  description: Calculated from raw beans (13-514)
+  food_group: DI
+source: mccance
+source_id: 13-608

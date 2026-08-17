@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, heated,
+  pan-broil
+match_method: auto_before_comma
+meta:
+  category: Pork Products
+source: usda_sr
+source_id: '169166'

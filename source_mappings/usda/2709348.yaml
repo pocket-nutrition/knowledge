@@ -1,0 +1,8 @@
+canonical_ingredient_id: passion_fruit
+confidence: 0.65
+label: Passion fruit nectar
+match_method: auto_token
+meta:
+  wweia_category: Fruit drinks
+source: usda
+source_id: '2709348'

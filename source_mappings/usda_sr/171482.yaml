@@ -1,0 +1,8 @@
+canonical_ingredient_id: turkey_skin
+confidence: 0.92
+label: Turkey, whole, skin (light and dark), raw
+match_method: auto_precise
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '171482'

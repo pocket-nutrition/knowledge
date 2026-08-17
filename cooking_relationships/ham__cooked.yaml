@@ -1,0 +1,5 @@
+confidence: 0.75
+cooking_method: cooked
+raw_id: ham
+source: ciqual_pair
+yield_factor: 1.8222

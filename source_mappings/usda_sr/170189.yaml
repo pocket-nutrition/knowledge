@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '170189'
+canonical_ingredient_id: tahini
+label: Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

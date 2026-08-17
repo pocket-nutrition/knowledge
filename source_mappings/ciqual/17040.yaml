@@ -1,0 +1,8 @@
+canonical_ingredient_id: peanut_oil
+confidence: 0.9
+label: Huile d'arachide
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '17040'

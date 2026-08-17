@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708761'
+canonical_ingredient_id: _composite
+label: Ravioli, NS as to filling, with tomato sauce
+match_method: name_en_before_comma
+confidence: 0.75

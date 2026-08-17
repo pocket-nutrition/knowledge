@@ -1,0 +1,8 @@
+canonical_ingredient_id: grey_sea_salt
+confidence: 0.9
+label: Sel marin gris, non iodé, non fluoré
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11083'

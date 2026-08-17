@@ -1,0 +1,15 @@
+id: spiral_pasta
+name_en: spiral pasta
+name_fr: pâtes spirales
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- fusilli
+- rotini
+display_unit: g

@@ -1,0 +1,12 @@
+id: pimiento_pepper
+name_en: pimento pepper
+name_fr: piment doux
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 66.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

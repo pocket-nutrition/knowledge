@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-654
+canonical_ingredient_id: runner_beans
+label: Beans, runner, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: DB

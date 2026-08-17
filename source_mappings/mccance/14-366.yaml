@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pears, raw, flesh only, peeled, weighed with skin and core
+match_method: auto_ai
+meta:
+  description: Calculated from raw, flesh only using edible conversion factor
+  food_group: F
+source: mccance
+source_id: 14-366

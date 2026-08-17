@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '9311'
+canonical_ingredient_id: rolled_oat
+label: Flocon d'avoine
+cooking_method: dry
+match_method: auto_exact
+confidence: 0.95

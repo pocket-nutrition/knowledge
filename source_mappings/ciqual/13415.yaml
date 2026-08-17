@@ -1,0 +1,8 @@
+canonical_ingredient_id: lime_juice
+confidence: 0.8
+label: Jus de lime, pur jus, prélevé à la Martinique
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13415'

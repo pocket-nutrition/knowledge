@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706009'
+canonical_ingredient_id: chicken_drumstick
+label: Chicken drumstick, rotisserie, skin not eaten
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Chicken, whole pieces

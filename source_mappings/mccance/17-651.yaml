@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Maltesers and similar products
+match_method: auto_name
+meta:
+  group: SEA
+source: mccance
+source_id: 17-651

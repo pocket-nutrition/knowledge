@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708432'
+canonical_ingredient_id: _composite
+label: Rice, white, cooked with fat, Puerto Rican style
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Rice

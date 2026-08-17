@@ -1,0 +1,20 @@
+id: bigorneau
+name_en: periwinkle
+name_fr: Bigorneau
+serving_mode: weight
+food_group: shellfish
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.065
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- periwinkle
+- winkle
+- sea snail
+aliases_fr:
+- vignot
+- littorine
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Sweetbreads
+match_method: auto_name
+meta:
+  wweia_category: Liver and organ meats
+source: usda
+source_id: '2706158'

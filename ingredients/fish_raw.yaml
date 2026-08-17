@@ -1,0 +1,13 @@
+id: fish_raw
+name_en: Fish
+name_fr: poisson
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 0.575
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

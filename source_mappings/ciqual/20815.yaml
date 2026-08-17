@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20815'
+canonical_ingredient_id: giraumon
+label: Giraumon (variété locale), chair sans peau, cuit à la vapeur, surgelé, prélevé à la Martinique
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

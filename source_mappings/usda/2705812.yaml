@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Alfredo sauce with meat and added vegetables
+match_method: auto_name
+meta:
+  wweia_category: Dips, gravies, other sauces
+source: usda
+source_id: '2705812'

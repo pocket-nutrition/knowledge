@@ -1,0 +1,18 @@
+id: smoked_haddock
+name_en: smoked haddock
+name_fr: haddock fumé
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.068
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- finnan haddie
+aliases_fr:
+- églefin fumé
+- haddock
+display_unit: g

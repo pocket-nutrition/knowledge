@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11307'
+canonical_ingredient_id: garlic
+label: Ail, grillé/poêlé, sans matière grasse
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: aides culinaires et ingrédients divers

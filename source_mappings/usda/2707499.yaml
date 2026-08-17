@@ -1,0 +1,8 @@
+canonical_ingredient_id: chestnut
+confidence: 0.9
+label: Chestnuts
+match_method: auto_ai
+meta:
+  wweia_category: Nuts and seeds
+source: usda
+source_id: '2707499'

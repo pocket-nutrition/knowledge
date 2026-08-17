@@ -1,0 +1,8 @@
+canonical_ingredient_id: chickpea_flour
+confidence: 0.95
+label: Chickpea flour (besan)
+match_method: auto_precise
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '174288'

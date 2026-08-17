@@ -1,0 +1,6 @@
+canonical_ingredient_id: spinach
+confidence: 0.8
+label: Epinard, haché ou purée ou en branches, surgelé, cru
+match_method: name_fr_before_comma
+source: ciqual
+source_id: '20083'

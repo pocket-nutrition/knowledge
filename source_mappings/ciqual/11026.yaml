@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11026'
+canonical_ingredient_id: coriander_seeds
+label: Coriandre, graine
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

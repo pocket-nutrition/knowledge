@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '172110'
+canonical_ingredient_id: _composite
+label: Chili with beans, microwavable bowls
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Meals, Entrees, and Side Dishes

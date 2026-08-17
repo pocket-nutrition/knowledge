@@ -1,0 +1,8 @@
+canonical_ingredient_id: dill_pickle_relish
+confidence: 0.65
+label: Pickle relish, hamburger
+match_method: auto_token
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '169386'

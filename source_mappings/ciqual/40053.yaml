@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '40053'
+canonical_ingredient_id: beef_heart
+label: Coeur, boeuf, cuit
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,13 @@
+id: langres
+name_en: Langres cheese
+name_fr: Langres
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

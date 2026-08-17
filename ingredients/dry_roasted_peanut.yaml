@@ -1,0 +1,16 @@
+id: dry_roasted_peanut
+name_en: dry-roasted peanut
+name_fr: cacahuète grillée à sec
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

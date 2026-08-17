@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710311'
+canonical_ingredient_id: jello
+label: Gelatin dessert with fruit
+match_method: ai_review
+confidence: 0.9

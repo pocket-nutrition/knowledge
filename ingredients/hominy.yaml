@@ -1,0 +1,14 @@
+id: hominy
+name_en: hominy
+name_fr: maïs nixtamalisé
+serving_mode: weight
+food_group: cereal
+states:
+  processed:
+    portion_g: 165.0
+    density_g_ml: 0.676
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

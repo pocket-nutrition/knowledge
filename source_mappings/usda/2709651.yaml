@@ -1,0 +1,9 @@
+canonical_ingredient_id: broccoli
+confidence: 0.8
+cooking_method: cooked
+label: Broccoli, fresh, cooked with butter or margarine
+match_method: auto_before_comma
+meta:
+  category: Broccoli
+source: usda
+source_id: '2709651'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: lemonade
+confidence: 0.92
+label: Lemonade, homemade
+match_method: auto_precise
+meta:
+  group: PCC
+source: mccance
+source_id: 17-807

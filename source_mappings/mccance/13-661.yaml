@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Lentils, green and brown, whole, dried, boiled in unsalted water
+match_method: auto_ai
+meta:
+  description: 11 samples, 10 products, soaked and boiled for 15-50 minutes
+  food_group: DB
+source: mccance
+source_id: 13-661

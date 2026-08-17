@@ -1,0 +1,11 @@
+id: canned_baby_corn
+name_en: canned baby corn
+name_fr: maïs miniature en conserve
+food_group: vegetable
+states:
+  raw:
+    portion_g: 227.0
+    density_g_ml: 0.888
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

@@ -1,0 +1,20 @@
+id: papad
+name_en: papad
+name_fr: papad
+serving_mode: item
+unit_label_en: papad
+unit_label_fr: papad
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 13.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- papadum
+- papadam
+aliases_fr:
+- papadum
+display_unit: g

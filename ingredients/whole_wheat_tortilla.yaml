@@ -1,0 +1,15 @@
+id: whole_wheat_tortilla
+name_en: whole-wheat tortilla
+name_fr: tortilla de blé complet
+serving_mode: item
+unit_label_en: tortilla
+unit_label_fr: tortilla
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 50.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

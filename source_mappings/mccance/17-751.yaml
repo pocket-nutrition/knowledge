@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Lager, premium
+match_method: auto_name
+meta:
+  group: QA
+source: mccance
+source_id: 17-751

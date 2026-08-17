@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '10048'
+canonical_ingredient_id: bay_scallop
+label: Pecten d'Amérique ou peigne du Canada, noix, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: mollusques et crustacés crus

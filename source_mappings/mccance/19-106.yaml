@@ -1,0 +1,8 @@
+canonical_ingredient_id: liver_sausage
+confidence: 0.9
+label: Liver sausage
+match_method: auto_ai
+meta:
+  group: MI
+source: mccance
+source_id: 19-106

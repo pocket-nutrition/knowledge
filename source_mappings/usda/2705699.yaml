@@ -1,0 +1,6 @@
+canonical_ingredient_id: dulce_de_leche
+confidence: 0.9
+label: Dulce de leche
+match_method: name_en_exact
+source: usda
+source_id: '2705699'

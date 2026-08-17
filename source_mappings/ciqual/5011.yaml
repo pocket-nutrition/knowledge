@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Bière "de spécialités" ou d'abbaye, régionales ou d'une brasserie (degré d'alcool
+  variable)
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '5011'

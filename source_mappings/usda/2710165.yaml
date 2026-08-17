@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710165'
+canonical_ingredient_id: animal_fat
+label: Animal fat or drippings
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Butter and animal fats

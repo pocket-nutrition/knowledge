@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Boisson au(x) fruit(s) et au lait
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18343'

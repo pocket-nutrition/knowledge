@@ -1,0 +1,13 @@
+id: butter_chicken_sauce
+name_en: butter chicken sauce
+name_fr: sauce butter chicken
+serving_mode: volume
+food_group: sauce
+states:
+  processed:
+    portion_g: 125.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

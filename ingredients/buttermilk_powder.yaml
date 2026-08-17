@@ -1,0 +1,16 @@
+id: buttermilk_powder
+name_en: buttermilk powder
+name_fr: babeurre en poudre
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

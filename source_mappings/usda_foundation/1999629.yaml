@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '1999629'
+canonical_ingredient_id: button_mushroom
+label: Mushrooms, white button
+match_method: manual
+confidence: 1.0
+meta:
+  category: Vegetables and Vegetable Products

@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-342
+canonical_ingredient_id: null
+label: Apples, cooking, baked without sugar, flesh only
+cooking_method: cooked
+match_method: manual
+confidence: 1.0
+meta:
+  group: FA

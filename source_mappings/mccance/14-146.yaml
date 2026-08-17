@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-146
+canonical_ingredient_id: canned_mandarin_orange
+label: Mandarin oranges, canned in juice, whole contents
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: FA

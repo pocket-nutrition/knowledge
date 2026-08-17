@@ -1,0 +1,13 @@
+id: lamb_cutlet
+name_en: lamb cutlet
+name_fr: côtelette d'agneau
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.06
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+display_unit: g

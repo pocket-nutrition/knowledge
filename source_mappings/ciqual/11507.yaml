@@ -1,0 +1,8 @@
+canonical_ingredient_id: baking_soda
+confidence: 0.95
+label: Bicarbonate de soude
+match_method: auto_exact
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11507'

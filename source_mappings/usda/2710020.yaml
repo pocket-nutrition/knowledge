@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710020'
+canonical_ingredient_id: mixed_vegetables
+label: Classic mixed vegetables, canned, cooked with oil
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Other vegetables and combinations

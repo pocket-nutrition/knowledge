@@ -1,0 +1,16 @@
+id: hot_dog
+name_en: hot dog
+name_fr: hot dog
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 56.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- frankfurter
+- wiener
+display_unit: g

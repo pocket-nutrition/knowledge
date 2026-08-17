@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710121'
+canonical_ingredient_id: baby_squash
+label: Baby Toddler squash, Stage 2
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: 'Baby food: vegetables'

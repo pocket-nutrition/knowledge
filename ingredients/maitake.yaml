@@ -1,0 +1,20 @@
+id: maitake
+name_en: maitake
+name_fr: maitake
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- hen of the woods
+- hen-of-the-woods
+aliases_fr:
+- poule des bois
+- champignon maitake
+display_unit: g

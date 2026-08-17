@@ -1,0 +1,17 @@
+id: whipped_cream_stabilizer
+name_en: whipped cream stabilizer
+name_fr: stabilisateur de crème fouettée
+serving_mode: measure
+food_group: other
+states:
+  cooked:
+    portion_g: 60.0
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: g

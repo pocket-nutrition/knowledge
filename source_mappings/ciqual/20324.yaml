@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20324'
+canonical_ingredient_id: red_onion
+label: Oignon rouge, sauté/poêlé
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

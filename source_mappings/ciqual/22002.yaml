@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '22002'
+canonical_ingredient_id: egg_yolk
+label: Oeuf, jaune (jaune d'oeuf), cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: oeufs

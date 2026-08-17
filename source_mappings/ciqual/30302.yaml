@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '30302'
+canonical_ingredient_id: dry_sausage
+label: Saucisson sec pur porc, qualité supérieure
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

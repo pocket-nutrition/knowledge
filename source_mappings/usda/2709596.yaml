@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Greens, fresh, cooked, fat added
+match_method: auto_name
+meta:
+  category: Other dark green vegetables
+source: usda
+source_id: '2709596'

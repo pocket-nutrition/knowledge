@@ -1,0 +1,20 @@
+id: deli_turkey
+name_en: deli turkey
+name_fr: blanc de dinde
+serving_mode: weight
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- turkey slices
+- turkey lunch meat
+- sliced turkey
+aliases_fr:
+- dinde tranchée
+- jambon de dinde
+- blanc de dinde en tranches
+display_unit: g

@@ -1,0 +1,20 @@
+id: pigs_feet
+name_en: pig's feet
+name_fr: pieds de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- pork trotters
+- trotters
+- pig trotters
+aliases_fr:
+- pieds de cochon
+- pied de porc
+- trotters
+display_unit: g

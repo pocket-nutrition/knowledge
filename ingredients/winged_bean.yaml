@@ -1,0 +1,18 @@
+id: winged_bean
+name_en: winged bean
+name_fr: pois carré
+name_en_plural: winged beans
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 62.0
+    density_g_ml: 0.65
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_fr:
+- haricot ailé
+display_unit: g

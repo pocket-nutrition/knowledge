@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13430'
+canonical_ingredient_id: cantaloupe
+label: Melon, chair sans peau, sans pépins, cru, prélevé à la Martinique
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

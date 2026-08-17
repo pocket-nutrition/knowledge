@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709068'
+canonical_ingredient_id: _composite
+label: Rice, brown, with other vegetables, NS as to fat
+match_method: name_en_before_comma
+confidence: 0.75

@@ -1,0 +1,15 @@
+id: sherbet
+name_en: sherbet
+name_fr: sorbet
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 66.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- scoop
+display_unit: g

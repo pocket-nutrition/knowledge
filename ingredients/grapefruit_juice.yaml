@@ -1,0 +1,16 @@
+id: grapefruit_juice
+name_en: grapefruit juice
+name_fr: jus de pamplemousse
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 251.0
+    density_g_ml: 1.038
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

@@ -1,0 +1,13 @@
+id: coconut_whipped_cream
+name_en: coconut whipped cream
+name_fr: crème chantilly à la noix de coco
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.338
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

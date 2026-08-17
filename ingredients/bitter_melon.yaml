@@ -1,0 +1,20 @@
+id: bitter_melon
+name_en: Bitter Melon
+name_fr: Melon amer
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 124.0
+    density_g_ml: 0.524
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- bitter gourd
+- karela
+aliases_fr:
+- margose
+- momordique
+- karela
+display_unit: g

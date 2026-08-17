@@ -1,0 +1,17 @@
+id: queso_quesadilla_cheese
+name_en: queso quesadilla cheese
+name_fr: queso quesadilla
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- queso asadero
+- quesadilla cheese
+aliases_fr:
+- fromage à quesadilla
+display_unit: g

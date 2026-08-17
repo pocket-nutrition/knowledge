@@ -1,0 +1,14 @@
+id: gluten_free_pita
+name_en: gluten-free pita
+name_fr: pita sans gluten
+serving_mode: item
+unit_label_en: pita
+unit_label_fr: pita
+food_group: baked_good
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

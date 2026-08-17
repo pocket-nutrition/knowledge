@@ -1,0 +1,8 @@
+canonical_ingredient_id: bell_pepper
+confidence: 0.9
+label: Peppers, bell, orange, raw
+match_method: auto_ai
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_foundation
+source_id: '2258591'

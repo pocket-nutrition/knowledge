@@ -1,0 +1,9 @@
+source: mccance
+source_id: 18-394
+canonical_ingredient_id: chicken_giblet
+label: Giblets, chicken, boiled
+cooking_method: boiled
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: MG

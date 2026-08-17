@@ -1,0 +1,8 @@
+food_group: vegetable
+id: sugar_snap_pea
+name_en: sugar snap pea
+name_fr: pois mange-tout
+states:
+  raw:
+    density_g_ml: 1.041
+    portion_g: 80

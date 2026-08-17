@@ -1,0 +1,8 @@
+canonical_ingredient_id: tomato_sauce
+confidence: 0.92
+label: Tomato sauce, homemade
+match_method: auto_precise
+meta:
+  group: WCN
+source: mccance
+source_id: 50-1173

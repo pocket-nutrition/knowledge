@@ -1,0 +1,16 @@
+id: chicken_gizzard
+name_en: chicken gizzard
+name_fr: gésier de poulet
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.041
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- gizzard
+- chicken gizzards
+display_unit: g

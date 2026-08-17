@@ -1,0 +1,14 @@
+id: blueberry
+name_en: blueberry
+name_fr: myrtille
+name_en_plural: Blueberries
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.058
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- bleuet

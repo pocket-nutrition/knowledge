@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173962'
+canonical_ingredient_id: _composite
+label: Cranberry-orange relish, canned
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Fruits and Fruit Juices

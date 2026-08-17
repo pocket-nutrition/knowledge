@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708717'
+canonical_ingredient_id: _composite
+label: Bacalaitos fritos
+match_method: auto_ai
+confidence: 0.8
+meta:
+  wweia_category: Seafood mixed dishes

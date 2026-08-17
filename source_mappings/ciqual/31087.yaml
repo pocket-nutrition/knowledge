@@ -1,0 +1,8 @@
+canonical_ingredient_id: stevia
+confidence: 0.9
+label: Édulcorant à base d'extrait de stévia
+match_method: auto_ai
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31087'

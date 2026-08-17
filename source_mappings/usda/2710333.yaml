@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710333'
+canonical_ingredient_id: chocolate_chip
+label: Chocolate chips
+match_method: ai_review
+confidence: 0.9

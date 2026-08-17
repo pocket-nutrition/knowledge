@@ -1,0 +1,20 @@
+id: prosciutto
+name_en: prosciutto
+name_fr: prosciutto
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 15.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- parma ham
+aliases_fr:
+- jambon de Parme
+- jambon sec italien
+display_unit: g

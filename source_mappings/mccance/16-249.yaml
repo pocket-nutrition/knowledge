@@ -1,0 +1,10 @@
+source: mccance
+source_id: 16-249
+canonical_ingredient_id: dried_shrimp
+label: Shrimps, dried
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: 5 packets from Chinese supermarkets. Shrimps and prawns
+  food_group: JK

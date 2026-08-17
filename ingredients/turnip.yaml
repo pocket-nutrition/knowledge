@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: turnip
+name_en: turnip
+name_fr: navet
+states:
+  raw:
+    density_g_ml: 1.016
+    portion_g: 80
+typical_state: raw

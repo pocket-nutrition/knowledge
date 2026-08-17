@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705415'
+canonical_ingredient_id: greek_yogurt
+label: Yogurt, Greek, NS as to type of milk or flavor
+match_method: ai_review
+confidence: 0.9

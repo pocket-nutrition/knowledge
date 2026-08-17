@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710789'
+label: Rice, brown, cooked, as ingredient
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Not included in a food category

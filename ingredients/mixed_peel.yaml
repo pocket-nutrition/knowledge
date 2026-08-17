@@ -1,0 +1,15 @@
+id: mixed_peel
+name_en: mixed peel
+name_fr: écorces d'agrumes confits
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

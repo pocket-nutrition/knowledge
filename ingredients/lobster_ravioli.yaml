@@ -1,0 +1,16 @@
+id: lobster_ravioli
+name_en: lobster ravioli
+name_fr: ravioli au homard
+serving_mode: weight
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 0.7
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

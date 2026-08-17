@@ -1,0 +1,6 @@
+canonical_ingredient_id: pineapple_juice
+confidence: 0.75
+label: Pineapple juice, 100%
+match_method: name_en_before_comma
+source: usda
+source_id: '2709329'

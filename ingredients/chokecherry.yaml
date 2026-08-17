@@ -1,0 +1,18 @@
+id: chokecherry
+name_en: chokecherry
+name_fr: cerise de Virginie
+name_en_plural: chokecherries
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- choke cherry
+- Virginia bird cherry
+aliases_fr:
+- cerisier de Virginie
+display_unit: g

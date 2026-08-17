@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-131
+canonical_ingredient_id: dry_peas
+label: Peas, dried, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Whole peas; soaked 24 hours, boiled 2 hours
+  food_group: DF

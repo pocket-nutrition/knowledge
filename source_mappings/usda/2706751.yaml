@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706751'
+canonical_ingredient_id: _composite
+label: Stir fried beef and vegetables in soy sauce
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Stir-fry and soy-based sauce mixtures

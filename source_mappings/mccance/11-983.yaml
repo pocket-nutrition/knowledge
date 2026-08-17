@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Bread rolls, brown, soft
+match_method: auto_name
+meta:
+  group: AG
+source: mccance
+source_id: 11-983

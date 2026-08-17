@@ -1,0 +1,14 @@
+id: duck_egg
+name_en: duck egg
+name_fr: œuf de canard
+serving_mode: item
+unit_label_en: egg
+unit_label_fr: oeuf
+food_group: egg
+states:
+  raw:
+    portion_g: 70.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Rolls, gluten-free, white, made with brown rice flour, tapioca starch, and
+  potato starch
+match_method: auto_token
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '171861'

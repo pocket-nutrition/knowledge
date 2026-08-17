@@ -1,0 +1,16 @@
+id: rice_pudding
+name_en: rice pudding
+name_fr: riz au lait
+serving_mode: weight
+food_group: dairy
+states:
+  cooked:
+    portion_g: 125.0
+    density_g_ml: 1.071
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.071
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

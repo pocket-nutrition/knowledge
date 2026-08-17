@@ -1,0 +1,14 @@
+id: dried_apricot
+name_en: dried apricot
+name_fr: abricot sec
+name_en_plural: dried apricots
+name_fr_plural: abricots secs
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 0.65
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

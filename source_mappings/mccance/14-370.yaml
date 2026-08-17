@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Orange juice, freshly squeezed, weighed as whole fruit
+match_method: auto_before_comma
+meta:
+  group: FC
+source: mccance
+source_id: 14-370

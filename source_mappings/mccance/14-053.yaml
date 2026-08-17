@@ -1,0 +1,10 @@
+source: mccance
+source_id: 14-053
+canonical_ingredient_id: blackcurrant
+label: Blackcurrants, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Whole fruit, stalks removed
+  food_group: FA

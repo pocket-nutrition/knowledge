@@ -1,0 +1,8 @@
+confidence: 0.75
+cooking_method: grilled
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Beef, chuck, shoulder
+  clod, shoulder tender, medallion, separable lean and fat, trimmed to 0" fat, all
+  grades / Broiled or Grilled
+raw_id: beef_shoulder
+source: usda_yield_mp_r2
+yield_factor: 0.77

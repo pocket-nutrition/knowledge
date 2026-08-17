@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '15039'
+canonical_ingredient_id: chestnut
+label: Châtaigne ou marron, appertisé
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

@@ -1,0 +1,9 @@
+canonical_ingredient_id: jam
+confidence: 0.8
+label: Confiture, autres fruits ou mélange de fruits, allégée en sucres (extra ou
+  classique)
+match_method: auto_before_comma
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '30887'

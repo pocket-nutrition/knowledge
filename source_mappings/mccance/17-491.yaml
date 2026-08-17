@@ -1,0 +1,8 @@
+canonical_ingredient_id: chocolate
+confidence: 0.92
+label: Chocolate, plain
+match_method: auto_precise
+meta:
+  group: SEA
+source: mccance
+source_id: 17-491

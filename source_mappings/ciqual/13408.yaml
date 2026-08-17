@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '13408'
+canonical_ingredient_id: carambola_juice
+label: Jus de carambole, prélevé à la Martinique, jus filtré
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

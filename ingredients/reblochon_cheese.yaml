@@ -1,0 +1,14 @@
+id: reblochon_cheese
+name_en: reblochon cheese
+name_fr: reblochon
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- fromage reblochon
+display_unit: g

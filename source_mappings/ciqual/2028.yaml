@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '2028'
+canonical_ingredient_id: lemon_juice
+label: Jus de citron, pur jus
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: eaux et autres boissons

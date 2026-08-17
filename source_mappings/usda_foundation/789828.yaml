@@ -1,0 +1,8 @@
+canonical_ingredient_id: butter
+confidence: 0.8
+label: Butter, stick, unsalted
+match_method: auto_before_comma
+meta:
+  category: Dairy and Egg Products
+source: usda_foundation
+source_id: '789828'

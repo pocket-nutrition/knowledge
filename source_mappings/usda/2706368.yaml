@@ -1,0 +1,8 @@
+canonical_ingredient_id: snail
+confidence: 0.9
+label: Escargot
+match_method: auto_ai
+meta:
+  wweia_category: Shellfish
+source: usda
+source_id: '2706368'

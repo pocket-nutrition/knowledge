@@ -1,0 +1,8 @@
+canonical_ingredient_id: peanut_brittle
+confidence: 0.65
+label: Candies, peanut brittle, prepared-from-recipe
+match_method: auto_token
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '169586'

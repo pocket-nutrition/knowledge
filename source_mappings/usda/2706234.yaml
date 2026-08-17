@@ -1,0 +1,8 @@
+canonical_ingredient_id: catfish
+confidence: 0.9
+label: Fish, catfish, NFS
+match_method: auto_ai
+meta:
+  wweia_category: Fish
+source: usda
+source_id: '2706234'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Puerto Rican seasoning with ham
+match_method: auto_name
+meta:
+  wweia_category: Mustard and other condiments
+source: usda
+source_id: '2709754'

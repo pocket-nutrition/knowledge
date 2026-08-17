@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Chicken drumstick, fried, coated, prepared skinless, coating eaten, from raw
+match_method: auto_name
+meta:
+  category: Chicken, whole pieces
+source: usda
+source_id: '2706020'

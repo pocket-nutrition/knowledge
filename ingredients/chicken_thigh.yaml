@@ -1,0 +1,15 @@
+id: chicken_thigh
+name_en: chicken thigh
+name_fr: cuisse de poulet
+serving_mode: item
+unit_label_en: thigh
+unit_label_fr: cuisse
+food_group: meat
+states:
+  cooked:
+    portion_g: 120.0
+    density_g_ml: 1.053
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+display_unit: g

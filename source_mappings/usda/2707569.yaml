@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707569'
+canonical_ingredient_id: coconut_yogurt
+label: Yogurt, coconut milk
+match_method: ai_review
+confidence: 0.9

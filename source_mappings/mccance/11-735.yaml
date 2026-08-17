@@ -1,0 +1,8 @@
+source: mccance
+source_id: 11-735
+canonical_ingredient_id: null
+label: Pasta, spaghetti, canned, in tomato sauce
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: AD

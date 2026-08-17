@@ -1,0 +1,16 @@
+id: dogfish
+name_en: dogfish
+name_fr: aiguillat
+serving_mode: weight
+food_group: fish
+states:
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- rock salmon
+aliases_fr:
+- roussette
+- saumonette
+display_unit: g

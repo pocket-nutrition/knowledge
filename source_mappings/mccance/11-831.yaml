@@ -1,0 +1,8 @@
+canonical_ingredient_id: sponge_cake
+confidence: 0.65
+label: Cake, sponge, with jam and butter cream, retail
+match_method: auto_token
+meta:
+  group: AN
+source: mccance
+source_id: 11-831

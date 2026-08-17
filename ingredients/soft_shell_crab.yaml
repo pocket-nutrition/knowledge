@@ -1,0 +1,12 @@
+id: soft_shell_crab
+name_en: soft-shell crab
+name_fr: crabe à carapace molle
+serving_mode: weight
+food_group: shellfish
+states:
+  raw:
+    portion_g: 85.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11094'
+canonical_ingredient_id: cilantro
+label: Coriandre, fraiche
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: aides culinaires et ingrédients divers

@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: asparagus
+name_en: asparagus
+name_fr: asperge
+states:
+  raw:
+    density_g_ml: 1.018
+    portion_g: 16
+typical_state: raw

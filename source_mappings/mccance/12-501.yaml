@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Cooking fat, compound, not polyunsaturated
+match_method: auto_name
+meta:
+  group: BTM
+source: mccance
+source_id: 12-501

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Noodles, egg, spinach, enriched, cooked
+match_method: auto_name
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '169734'

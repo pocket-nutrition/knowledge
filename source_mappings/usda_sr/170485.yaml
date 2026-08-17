@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '170485'
+canonical_ingredient_id: leek
+label: Leeks, (bulb and lower-leaf portion), freeze-dried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

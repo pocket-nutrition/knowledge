@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Sandwich, white bread, bacon, lettuce and tomato
+match_method: auto_name
+meta:
+  group: AB
+source: mccance
+source_id: 11-955

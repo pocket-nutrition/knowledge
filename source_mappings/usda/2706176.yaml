@@ -1,0 +1,6 @@
+canonical_ingredient_id: bologna
+confidence: 0.9
+label: Bologna
+match_method: name_en_exact
+source: usda
+source_id: '2706176'

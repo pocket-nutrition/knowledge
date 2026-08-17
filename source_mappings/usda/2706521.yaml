@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Lamb or mutton loaf
+match_method: auto_name
+meta:
+  wweia_category: Meat mixed dishes
+source: usda
+source_id: '2706521'

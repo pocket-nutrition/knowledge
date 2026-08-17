@@ -1,0 +1,9 @@
+canonical_ingredient_id: agar_seaweed
+confidence: 0.92
+label: Agar, dried
+match_method: auto_precise
+meta:
+  description: Literature sources
+  food_group: DG
+source: mccance
+source_id: 13-146

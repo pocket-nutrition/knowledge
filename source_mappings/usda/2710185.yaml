@@ -1,0 +1,6 @@
+canonical_ingredient_id: flaxseed_oil
+confidence: 0.9
+label: Flaxseed oil
+match_method: name_en_exact
+source: usda
+source_id: '2710185'

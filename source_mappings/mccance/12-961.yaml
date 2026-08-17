@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Eggs, chicken, whole, dried
+match_method: auto_name
+meta:
+  description: Calculated from whole raw egg (12-937) and old code (12-807)
+  food_group: CA
+source: mccance
+source_id: 12-961

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Snacks, NUTRI-GRAIN FRUIT AND NUT BAR
+match_method: auto_name
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '173151'

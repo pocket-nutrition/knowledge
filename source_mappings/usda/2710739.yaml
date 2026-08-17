@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710739'
+canonical_ingredient_id: protein_powder
+label: Nutritional powder mix, high protein (Slim Fast)
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Protein and nutritional powders

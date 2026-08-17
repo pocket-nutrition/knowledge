@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Boisson concentrée à diluer, sans sucres ajoutés, avec édulcorants, type "sirop
+  0%"
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18059'

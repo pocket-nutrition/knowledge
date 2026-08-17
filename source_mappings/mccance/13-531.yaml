@@ -1,0 +1,8 @@
+canonical_ingredient_id: tomato_puree
+confidence: 0.95
+label: Tomato puree
+match_method: auto_exact
+meta:
+  group: DG
+source: mccance
+source_id: 13-531

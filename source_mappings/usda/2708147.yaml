@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708147'
+canonical_ingredient_id: cracker
+label: Crackers, butter, flavored
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Crackers, excludes saltines

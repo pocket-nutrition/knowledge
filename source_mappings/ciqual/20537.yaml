@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '20537'
+canonical_ingredient_id: flageolet_bean
+label: Haricot flageolet, frais, surgelé, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumineuses

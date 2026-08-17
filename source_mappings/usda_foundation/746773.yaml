@@ -1,0 +1,8 @@
+canonical_ingredient_id: pear
+confidence: 0.9
+label: Pears, raw, bartlett
+match_method: auto_ai
+meta:
+  category: Fruits and Fruit Juices
+source: usda_foundation
+source_id: '746773'

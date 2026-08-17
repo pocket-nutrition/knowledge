@@ -1,0 +1,5 @@
+source: usda
+source_id: '2709071'
+label: Rice croquette
+match_method: name_en_partial
+confidence: 0.65

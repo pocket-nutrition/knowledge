@@ -1,0 +1,8 @@
+source: mccance
+source_id: 19-663
+canonical_ingredient_id: _composite
+label: Chicken chasseur, homemade, weighed with bone
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: MR

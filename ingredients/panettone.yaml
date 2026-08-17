@@ -1,0 +1,14 @@
+id: panettone
+name_en: panettone
+name_fr: panettone
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: baked_good
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

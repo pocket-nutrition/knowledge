@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Eggs, chicken, white, dried
+match_method: auto_name
+meta:
+  description: Calculated from egg white, raw (12-938) and old code (17-414)
+  food_group: CA
+source: mccance
+source_id: 12-960

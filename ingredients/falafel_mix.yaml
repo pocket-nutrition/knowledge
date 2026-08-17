@@ -1,0 +1,16 @@
+id: falafel_mix
+name_en: falafel mix
+name_fr: préparation pour falafel
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

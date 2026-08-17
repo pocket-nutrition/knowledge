@@ -1,0 +1,14 @@
+id: raclette_cheese
+name_en: raclette cheese
+name_fr: raclette
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- fromage à raclette
+display_unit: g

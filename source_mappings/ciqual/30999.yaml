@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Confiture ou marmelade, tout type de fruits, sans précision sur la teneur en
+  sucres (aliment moyen)
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '30999'

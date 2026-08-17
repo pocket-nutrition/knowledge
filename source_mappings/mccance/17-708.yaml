@@ -1,0 +1,8 @@
+canonical_ingredient_id: corn_relish
+confidence: 0.65
+label: Relish, corn/cucumber/onion
+match_method: auto_token
+meta:
+  group: WCN
+source: mccance
+source_id: 17-708

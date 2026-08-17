@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Industrial oil as ingredient in food
+match_method: auto_name
+meta:
+  wweia_category: Not included in a food category
+source: usda
+source_id: '2710814'

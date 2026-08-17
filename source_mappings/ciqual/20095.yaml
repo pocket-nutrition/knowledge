@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20095'
+canonical_ingredient_id: red_cabbage
+label: Chou rouge, bouilli/cuit à l'eau
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707444'
+canonical_ingredient_id: soy_yogurt
+label: Yogurt, soy
+match_method: ai_review
+confidence: 0.9

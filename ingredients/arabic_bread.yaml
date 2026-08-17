@@ -1,0 +1,16 @@
+id: arabic_bread
+name_en: arabic bread
+name_fr: pain arabe
+serving_mode: item
+unit_label_en: piece
+unit_label_fr: pain
+food_group: baked_good
+states:
+  processed:
+    portion_g: 60.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

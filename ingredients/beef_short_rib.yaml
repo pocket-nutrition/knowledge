@@ -1,0 +1,12 @@
+id: beef_short_rib
+name_en: beef short rib
+name_fr: plat-de-côtes
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

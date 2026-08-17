@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: false
+food_group: meat
+id: turkey_wing
+name_en: turkey wing
+name_fr: aile de dinde
+states:
+  cooked:
+    density_g_ml: 1.047
+    portion_g: 150
+typical_state: roasted

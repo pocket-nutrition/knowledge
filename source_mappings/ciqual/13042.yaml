@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '13042'
+canonical_ingredient_id: prune
+label: Pruneau, sans noyau, sec
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

@@ -1,0 +1,13 @@
+id: gingerbread_cookie_dough
+name_en: gingerbread cookie dough
+name_fr: pâte à biscuits de pain d'épice
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.05
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

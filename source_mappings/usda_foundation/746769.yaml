@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '746769'
+canonical_ingredient_id: lettuce
+label: Lettuce, cos or romaine, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Vegetables and Vegetable Products

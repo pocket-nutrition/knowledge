@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708431'
+label: Rice, brown and wild, cooked, NS as to fat
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Rice

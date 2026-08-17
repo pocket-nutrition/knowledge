@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Saucisse végétale au tofu (convient aux véganes ou végétaliens), préemballée
+match_method: auto_name
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '20337'

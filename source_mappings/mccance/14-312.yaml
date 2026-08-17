@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Peaches, flesh and skin, raw, weighed with stone
+match_method: auto_ai
+meta:
+  description: Calculated from 14-299
+  food_group: FA
+source: mccance
+source_id: 14-312

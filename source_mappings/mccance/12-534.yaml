@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Fromage frais, fruit, children's, fortified
+match_method: auto_name
+meta:
+  group: BNS
+source: mccance
+source_id: 12-534

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168544'
+canonical_ingredient_id: corn_on_the_cob
+label: Corn, sweet, white, frozen, kernels cut off cob, unprepared
+cooking_method: raw
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Vegetables and Vegetable Products

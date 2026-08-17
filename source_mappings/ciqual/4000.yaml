@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '4000'
+canonical_ingredient_id: tapioca_pearl
+label: Tapioca ou perles du Japon, cru
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: pommes de terre et autres tubercules

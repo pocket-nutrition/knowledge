@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Macédoine ou cocktail ou salade de fruits, au sirop, appertisé, non égoutté
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13707'

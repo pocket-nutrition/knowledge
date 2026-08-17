@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Tea, herbal, infusion
+match_method: auto_before_comma
+meta:
+  group: PAC
+source: mccance
+source_id: 17-172

@@ -1,0 +1,11 @@
+id: pistachio_pudding
+name_en: pistachio pudding
+name_fr: pudding aux pistaches
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed

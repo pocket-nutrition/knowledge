@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2003598'
+canonical_ingredient_id: portobello_mushroom
+label: Mushroom, portabella
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

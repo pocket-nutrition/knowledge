@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Potato snacks, pringle-type, fried in vegetable oil
+match_method: auto_token
+meta:
+  group: SNA
+source: mccance
+source_id: 17-642

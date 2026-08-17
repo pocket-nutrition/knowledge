@@ -1,0 +1,18 @@
+id: deviled_ham_spread
+name_en: deviled ham spread
+name_fr: pâte de jambon épicée
+serving_mode: measure
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 22.0
+    density_g_ml: 1.014
+  raw:
+    portion_g: 22.0
+    density_g_ml: 1.014
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

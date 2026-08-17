@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Duck, roasted, meat only, weighed with fat, skin and bone
+match_method: auto_before_comma
+meta:
+  group: MCC
+source: mccance
+source_id: 18-373

@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: other
+id: crawfish
+name_en: crawfish
+name_fr: écrevisse
+states:
+  raw:
+    density_g_ml: 1.047
+    portion_g: 100
+typical_state: raw

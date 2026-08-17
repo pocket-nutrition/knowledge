@@ -1,0 +1,8 @@
+canonical_ingredient_id: wheat_germ_oil
+confidence: 0.9
+label: Oil, wheat germ
+match_method: auto_precise
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '171014'

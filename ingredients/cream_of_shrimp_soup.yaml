@@ -1,0 +1,11 @@
+id: cream_of_shrimp_soup
+name_en: cream of shrimp soup
+name_fr: velouté de crevettes
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 305.0
+    density_g_ml: 1.069
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '173298'
+canonical_ingredient_id: hash_brown
+label: McDONALD'S, Hash Brown
+cooking_method: fried
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Fast Foods

@@ -1,0 +1,14 @@
+id: spelt
+name_en: spelt
+name_fr: épeautre
+serving_mode: weight
+food_group: cereal
+states:
+  cooked: {}
+  raw:
+    portion_g: 75.0
+    density_g_ml: 0.85
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

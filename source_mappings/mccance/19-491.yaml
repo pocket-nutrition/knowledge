@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Burger, beef, 98-99% beef, grilled
+match_method: auto_name
+meta:
+  group: MBG
+source: mccance
+source_id: 19-491

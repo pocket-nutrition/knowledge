@@ -1,0 +1,8 @@
+canonical_ingredient_id: corn_flour
+confidence: 0.9
+label: Flour, corn
+match_method: auto_precise
+meta:
+  group: AA
+source: mccance
+source_id: 11-1045

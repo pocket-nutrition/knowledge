@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '28800'
+canonical_ingredient_id: deli_ham
+label: Jambon cru
+cooking_method: cooked
+match_method: name_fr_exact
+confidence: 0.95

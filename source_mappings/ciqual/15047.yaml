@@ -1,0 +1,8 @@
+canonical_ingredient_id: chia
+confidence: 0.8
+label: Chia, graine, séchée
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '15047'

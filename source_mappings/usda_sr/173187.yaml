@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173187'
+canonical_ingredient_id: almond_milk
+label: Beverages, chocolate almond milk, unsweetened, shelf-stable, fortified with vitamin D2 and E
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

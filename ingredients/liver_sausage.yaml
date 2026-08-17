@@ -1,0 +1,11 @@
+id: liver_sausage
+name_en: Liver sausage
+name_fr: saucisse de foie
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

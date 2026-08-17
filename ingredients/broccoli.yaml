@@ -1,0 +1,15 @@
+id: broccoli
+name_en: broccoli
+name_fr: brocoli
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 41.0
+    density_g_ml: 1.017
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- calabrese
+display_unit: g

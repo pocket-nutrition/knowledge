@@ -1,0 +1,8 @@
+canonical_ingredient_id: fruit_juice
+confidence: 0.65
+label: Fruit juice blend, citrus, 100% juice
+match_method: auto_token
+meta:
+  wweia_category: Other fruit juice
+source: usda
+source_id: '2709194'

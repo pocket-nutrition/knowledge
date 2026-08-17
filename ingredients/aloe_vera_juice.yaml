@@ -1,0 +1,21 @@
+id: aloe_vera_juice
+name_en: aloe vera juice
+name_fr: jus d'aloe vera
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 240.0
+    density_g_ml: 1.014
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- aloe juice
+- aloe vera drink
+aliases_fr:
+- boisson à l'aloe vera
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

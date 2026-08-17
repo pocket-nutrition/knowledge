@@ -1,0 +1,12 @@
+id: dried_chinese_mushroom
+name_en: dried chinese mushroom
+name_fr: shiitaké séché
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 28.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710804'
+canonical_ingredient_id: summer_squash
+label: Summer squash, cooked, as ingredient
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Not included in a food category

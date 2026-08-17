@@ -1,0 +1,18 @@
+id: baking_mix
+name_en: baking mix
+name_fr: préparation pour pâtisserie
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 60.0
+  processed:
+    portion_g: 60.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

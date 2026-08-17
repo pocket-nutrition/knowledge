@@ -1,0 +1,16 @@
+id: anchovy_stock
+name_en: anchovy stock
+name_fr: fumet d'anchois
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- cup
+- bowl
+display_unit: ml

@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '20162'
+canonical_ingredient_id: chicory
+label: Chicorée rouge, crue
+match_method: ai_review
+confidence: 0.9

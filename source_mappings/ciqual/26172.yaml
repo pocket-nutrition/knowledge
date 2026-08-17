@@ -1,0 +1,9 @@
+canonical_ingredient_id: grouper
+confidence: 0.9
+label: Loup tacheté, cru
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: poissons crus
+source: ciqual
+source_id: '26172'

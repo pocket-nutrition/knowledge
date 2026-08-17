@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Pétales de céréales au chocolat, avec ou sans fruits à coque, enrichis en vitamines
+  et minéraux
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '32022'

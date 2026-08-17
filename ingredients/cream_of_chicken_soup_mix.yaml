@@ -1,0 +1,12 @@
+id: cream_of_chicken_soup_mix
+name_en: 'cream of chicken soup mix:'
+name_fr: préparation pour soupe crème de poulet
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 18.0
+    density_g_ml: 1.048
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

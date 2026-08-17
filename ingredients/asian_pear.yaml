@@ -1,0 +1,14 @@
+id: asian_pear
+name_en: asian pear
+name_fr: nashi
+serving_mode: item
+unit_label_en: pear
+unit_label_fr: nashi
+food_group: fruit
+states:
+  raw:
+    portion_g: 198.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

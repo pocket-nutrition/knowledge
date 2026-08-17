@@ -1,0 +1,17 @@
+id: coconut_chip
+name_en: coconut chip
+name_fr: copeau de noix de coco
+serving_mode: weight
+food_group: nut_seed
+states:
+  cooked: {}
+  raw:
+    portion_g: 25.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

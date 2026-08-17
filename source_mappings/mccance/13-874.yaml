@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Cinnamon, ground
+match_method: auto_before_comma
+meta:
+  group: H
+source: mccance
+source_id: 13-874

@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13435'
+canonical_ingredient_id: sugar_apple
+label: Pomme cannelle, chair sans peau, sans pépins, crue, prélevée à la Martinique
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

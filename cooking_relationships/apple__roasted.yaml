@@ -1,0 +1,10 @@
+confidence: 0.9
+cooking_method: roasted
+nutrient_retention:
+  niacin_mg: 0.82
+  potassium_mg: 0.82
+  vitamin_b6_mg: 0.72
+  vitamin_c_mg: 0.65
+raw_id: apple
+source: ciqual_pair
+yield_factor: 0.85

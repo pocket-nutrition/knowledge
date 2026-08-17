@@ -1,0 +1,11 @@
+id: sole
+name_en: sole
+name_fr: sole
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.058
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

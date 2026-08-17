@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-409
+canonical_ingredient_id: scampi
+label: Scampi, coated in breadcrumbs, baked
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: JR

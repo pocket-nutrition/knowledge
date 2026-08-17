@@ -1,0 +1,6 @@
+source: usda
+source_id: '2706471'
+canonical_ingredient_id: _composite
+label: Spaghetti sauce with meat and added vegetables
+match_method: name_en_partial
+confidence: 0.65

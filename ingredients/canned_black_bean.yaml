@@ -1,0 +1,12 @@
+id: canned_black_bean
+name_en: canned black bean
+name_fr: haricot noir en conserve
+food_group: legume
+states:
+  raw:
+    portion_g: 240.0
+    density_g_ml: 1.014
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

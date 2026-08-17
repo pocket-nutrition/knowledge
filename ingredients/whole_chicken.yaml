@@ -1,0 +1,11 @@
+id: whole_chicken
+name_en: whole chicken
+name_fr: poulet entier
+food_group: meat
+states:
+  cooked:
+    portion_g: 88.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

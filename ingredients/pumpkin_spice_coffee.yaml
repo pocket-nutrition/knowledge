@@ -1,0 +1,16 @@
+id: pumpkin_spice_coffee
+name_en: pumpkin spice coffee
+name_fr: café aux épices de citrouille
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

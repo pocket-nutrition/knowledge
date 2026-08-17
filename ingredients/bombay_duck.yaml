@@ -1,0 +1,12 @@
+id: bombay_duck
+name_en: bombay duck
+name_fr: scopelidé
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

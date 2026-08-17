@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Mixed herbs, dried
+match_method: auto_name
+meta:
+  description: Recipe; Equal quantities of Marjoram, Parsley, Sage and Thyme
+  food_group: H
+source: mccance
+source_id: 13-884

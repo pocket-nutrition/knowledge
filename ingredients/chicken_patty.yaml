@@ -1,0 +1,20 @@
+id: chicken_patty
+name_en: chicken patty
+name_fr: galette de poulet panée
+serving_mode: item
+unit_label_en: patty
+unit_label_fr: galette
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 86.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- breaded chicken patty
+- chicken burger patty
+aliases_fr:
+- galette de poulet
+- galette de poulet panée
+display_unit: g

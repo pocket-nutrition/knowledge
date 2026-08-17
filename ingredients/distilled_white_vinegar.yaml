@@ -1,0 +1,18 @@
+id: distilled_white_vinegar
+name_en: distilled white vinegar
+name_fr: vinaigre blanc distillé
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 1.01
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

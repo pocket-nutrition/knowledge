@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Chocolate, dark, 45- 59% cacao solids
+match_method: auto_before_comma
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '170271'

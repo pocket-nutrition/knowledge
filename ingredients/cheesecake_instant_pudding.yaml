@@ -1,0 +1,15 @@
+id: cheesecake_instant_pudding
+name_en: cheesecake instant pudding
+name_fr: pudding instantané au cheesecake
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 25.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

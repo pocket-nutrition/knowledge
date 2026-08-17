@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Turkey and ham sandwich on wheat, with cheese
+match_method: auto_token
+meta:
+  wweia_category: Deli and cured meat sandwiches
+source: usda
+source_id: '2707092'

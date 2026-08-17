@@ -1,0 +1,8 @@
+canonical_ingredient_id: goose_egg
+confidence: 0.9
+label: Egg, goose, whole, fresh, raw
+match_method: auto_precise
+meta:
+  category: Dairy and Egg Products
+source: usda_sr
+source_id: '172190'

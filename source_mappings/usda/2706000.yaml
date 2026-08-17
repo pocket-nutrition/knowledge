@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706000'
+canonical_ingredient_id: chicken_drumstick
+label: Chicken drumstick, NS as to cooking method, skin eaten
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Chicken, whole pieces

@@ -1,0 +1,8 @@
+id: fromage_effilocher
+name_en: string cheese
+name_fr: fromage à effilocher
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.084

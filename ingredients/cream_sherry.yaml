@@ -1,0 +1,16 @@
+id: cream_sherry
+name_en: cream sherry
+name_fr: xérès crème
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- shot
+- glass
+display_unit: ml

@@ -1,0 +1,14 @@
+id: pois_d_angole
+name_en: pigeon pea
+name_fr: Pois d'Angole
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 70.0
+    density_g_ml: 0.85
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- pois cajan

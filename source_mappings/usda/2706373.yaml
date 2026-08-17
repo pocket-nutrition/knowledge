@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706373'
+canonical_ingredient_id: _composite
+label: Chili, NFS
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Meat mixed dishes

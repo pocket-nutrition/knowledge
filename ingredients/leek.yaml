@@ -1,0 +1,12 @@
+id: leek
+name_en: leek
+name_fr: poireau
+name_en_plural: leeks
+food_group: vegetable
+states:
+  raw:
+    portion_g: 124.0
+    density_g_ml: 1.045
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

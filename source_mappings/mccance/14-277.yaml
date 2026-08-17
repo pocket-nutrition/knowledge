@@ -1,0 +1,8 @@
+canonical_ingredient_id: lemon_juice
+confidence: 0.92
+label: Lemon juice, fresh
+match_method: auto_precise
+meta:
+  group: PE
+source: mccance
+source_id: 14-277

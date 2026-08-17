@@ -1,0 +1,6 @@
+canonical_ingredient_id: yogurt
+confidence: 0.75
+label: Yogurt, whole milk, fruit
+match_method: name_en_before_comma
+source: usda
+source_id: '2705426'

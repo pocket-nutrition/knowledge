@@ -1,0 +1,8 @@
+canonical_ingredient_id: golden_syrup
+confidence: 0.9
+label: Syrup, golden
+match_method: auto_ai
+meta:
+  group: SC
+source: mccance
+source_id: 17-065

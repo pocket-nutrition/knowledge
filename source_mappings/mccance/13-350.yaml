@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-350
+canonical_ingredient_id: spring_greens
+label: Spring greens, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: DG

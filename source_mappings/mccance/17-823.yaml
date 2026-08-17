@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Build up, powder, shake, assorted flavours
+match_method: auto_name
+meta:
+  group: PAA
+source: mccance
+source_id: 17-823

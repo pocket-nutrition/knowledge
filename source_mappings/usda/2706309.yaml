@@ -1,0 +1,8 @@
+canonical_ingredient_id: albacore_tuna
+confidence: 0.7
+label: Fish, tuna, NFS
+match_method: auto_ai
+meta:
+  wweia_category: Fish
+source: usda
+source_id: '2706309'

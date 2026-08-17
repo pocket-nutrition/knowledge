@@ -1,0 +1,6 @@
+canonical_ingredient_id: caesar_dressing
+confidence: 0.9
+label: Caesar dressing
+match_method: name_en_exact
+source: usda
+source_id: '2710199'

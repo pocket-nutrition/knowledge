@@ -1,0 +1,19 @@
+id: pasta
+name_en: pasta
+name_fr: pâtes
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 116.0
+    density_g_ml: 1.094
+  raw:
+    portion_g: 75.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- noodles
+aliases_fr:
+- nouilles
+display_unit: g

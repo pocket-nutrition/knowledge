@@ -1,0 +1,8 @@
+canonical_ingredient_id: lime_cordial
+confidence: 0.65
+label: Lime juice cordial, diluted
+match_method: auto_token
+meta:
+  group: PCC
+source: mccance
+source_id: 17-201

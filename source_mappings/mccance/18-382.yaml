@@ -1,0 +1,9 @@
+source: mccance
+source_id: 18-382
+canonical_ingredient_id: partridge
+label: Partridge, meat only, roasted, weighed with bone
+cooking_method: roasted
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: MCI

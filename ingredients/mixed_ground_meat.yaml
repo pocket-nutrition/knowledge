@@ -1,0 +1,19 @@
+id: mixed_ground_meat
+name_en: mixed ground meat
+name_fr: mélange de viande hachée
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 57.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- ground meat
+- minced meat
+- mince
+aliases_fr:
+- viande hachée
+- hachis
+display_unit: g

@@ -1,0 +1,13 @@
+confidence: 0.65
+cooking_method: boiled
+nutrient_retention:
+  iron_mg: 0.9
+  niacin_mg: 0.7
+  phosphorus_mg: 0.7
+  potassium_mg: 0.65
+  vitamin_b12_ug: 0.75
+  vitamin_b6_mg: 0.6
+  zinc_mg: 0.85
+raw_id: beef_tongue
+source: usda_sr_pair
+yield_factor: 0.7887

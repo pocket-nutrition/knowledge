@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13202'
+canonical_ingredient_id: papaya
+label: Papaye Colombo (fruit mûr), chair sans peau, sans pépins, crue, prélevée à La Réunion (Carica papaya L.)
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

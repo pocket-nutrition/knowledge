@@ -1,0 +1,7 @@
+source: usda
+source_id: '2707626'
+canonical_ingredient_id: garlic_bread
+label: Garlic bread, NFS
+cooking_method: roasted
+match_method: name_en_before_comma
+confidence: 0.75

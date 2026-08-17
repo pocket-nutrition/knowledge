@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Poudre maltée, cacaotée ou au chocolat pour boisson, sucrée, enrichie en vitamines
+  et minéraux
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18102'

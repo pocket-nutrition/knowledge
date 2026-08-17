@@ -1,0 +1,8 @@
+food_group: fish
+id: eglefing_fish
+name_en: Eglefing fish
+name_fr: Églefin
+states:
+  raw:
+    density_g_ml: 1.05
+    portion_g: 130

@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '18904'
+label: Boisson au riz, nature, préemballée
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: eaux et autres boissons
+  subgroup: boissons sans alcool

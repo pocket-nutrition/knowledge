@@ -1,0 +1,8 @@
+food_group: vegetable
+id: bulot_buccin_mushroom
+name_en: Bulot or buccin mushroom
+name_fr: Bulot ou buccin
+states:
+  raw:
+    density_g_ml: 1.077
+    portion_g: 80

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169266'
+canonical_ingredient_id: french_fries
+label: Potatoes, french fried, cottage-cut, salt not added in processing, frozen, oven-heated
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

@@ -1,0 +1,16 @@
+id: milk_powder
+name_en: milk powder
+name_fr: lait en poudre
+serving_mode: measure
+food_group: dairy
+states:
+  raw:
+    portion_g: 25.0
+    density_g_ml: 0.45
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+- scoop
+display_unit: g

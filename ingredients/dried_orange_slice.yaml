@@ -1,0 +1,16 @@
+id: dried_orange_slice
+name_en: dried orange slice
+name_fr: tranche d'orange séchée
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: fruit
+states:
+  processed:
+    portion_g: 3.0
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

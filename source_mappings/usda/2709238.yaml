@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709238'
+canonical_ingredient_id: guava
+label: Guava, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

@@ -1,0 +1,8 @@
+canonical_ingredient_id: beef_brisket
+confidence: 0.9
+label: Beef, brisket
+match_method: auto_ai
+meta:
+  wweia_category: Beef, excludes ground
+source: usda
+source_id: '2705851'

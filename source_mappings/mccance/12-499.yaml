@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Fat spread, low fat (26-39%), polyunsaturated
+match_method: auto_name
+meta:
+  group: OA
+source: mccance
+source_id: 12-499

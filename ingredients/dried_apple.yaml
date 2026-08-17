@@ -1,0 +1,13 @@
+id: dried_apple
+name_en: dried apple
+name_fr: pomme séchée
+name_en_plural: dried apples
+name_fr_plural: pommes séchées
+food_group: fruit
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

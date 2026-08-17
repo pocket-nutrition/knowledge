@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Apricots, dried, stewed without sugar
+match_method: auto_ai
+meta:
+  description: Calculated from 450g fruit, 770g water
+  food_group: FA
+source: mccance
+source_id: 14-033

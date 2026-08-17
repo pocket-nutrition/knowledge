@@ -1,0 +1,17 @@
+id: kiwi
+name_en: kiwi
+name_fr: kiwi
+name_en_plural: kiwis
+name_fr_plural: kiwis
+serving_mode: item
+unit_label_en: kiwi
+unit_label_fr: kiwi
+food_group: fruit
+states:
+  raw:
+    portion_g: 75.0
+    density_g_ml: 1.06
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

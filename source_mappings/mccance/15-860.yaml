@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Rice and red kidney beans, brown rice
+match_method: auto_token
+meta:
+  group: DR
+source: mccance
+source_id: 15-860

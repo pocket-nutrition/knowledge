@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Tarte normande aux pommes (garniture farine, oeufs, crème, sucre, calvados),
+  artisanale
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '23481'

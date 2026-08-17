@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Lentils, green and brown, whole, dried, raw
+match_method: auto_ai
+meta:
+  description: 10 samples, 6 brands. Continental type
+  food_group: DB
+source: mccance
+source_id: 13-089

@@ -1,0 +1,8 @@
+canonical_ingredient_id: chili_garlic_sauce
+confidence: 0.65
+label: Sauce, tomato chili sauce, bottled, with salt
+match_method: auto_token
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_sr
+source_id: '171595'

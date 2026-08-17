@@ -1,0 +1,19 @@
+id: goose_egg
+name_en: goose egg
+name_fr: oeuf d'oie
+name_en_plural: goose eggs
+name_fr_plural: oeufs d'oie
+serving_mode: item
+unit_label_en: egg
+unit_label_fr: oeuf
+food_group: egg
+states:
+  raw:
+    portion_g: 144.0
+    density_g_ml: 1.035
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- œuf d'oie
+display_unit: g

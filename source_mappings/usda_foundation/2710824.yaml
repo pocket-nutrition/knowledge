@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2710824'
+canonical_ingredient_id: avocado
+label: Avocado, Hass, peeled, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Fruits and Fruit Juices

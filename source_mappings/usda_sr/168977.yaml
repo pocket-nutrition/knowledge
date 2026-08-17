@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Agutuk, meat-caribou (Alaskan ice cream) (Alaska Native)
+match_method: auto_token
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '168977'

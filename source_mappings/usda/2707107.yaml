@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707107'
+canonical_ingredient_id: _composite
+label: Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal
+match_method: name_en_before_comma
+confidence: 0.75

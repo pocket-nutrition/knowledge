@@ -1,0 +1,8 @@
+canonical_ingredient_id: turkey_fat
+confidence: 0.9
+label: Fat, turkey
+match_method: auto_precise
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173571'

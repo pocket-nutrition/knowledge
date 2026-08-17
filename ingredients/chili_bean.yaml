@@ -1,0 +1,13 @@
+id: chili_bean
+name_en: chili bean
+name_fr: haricots chili
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 130.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

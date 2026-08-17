@@ -1,0 +1,26 @@
+id: couscous
+name_en: couscous with merguez
+name_fr: couscous merguez
+aliases_en:
+- couscous royal
+aliases_fr:
+- couscous royal
+components:
+- ingredient_id: couscous
+  weight_g: 80
+  cooking_method: steamed
+- ingredient_id: merguez
+  weight_g: 60
+  cooking_method: grilled
+- ingredient_id: zucchini
+  weight_g: 60
+  cooking_method: boiled
+- ingredient_id: carrot
+  weight_g: 60
+  cooking_method: boiled
+- ingredient_id: chickpea
+  weight_g: 40
+  cooking_method: boiled
+- ingredient_id: onion
+  weight_g: 30
+  cooking_method: boiled

@@ -1,0 +1,6 @@
+canonical_ingredient_id: sports_drink
+confidence: 0.9
+label: Sports drink (Powerade)
+match_method: name_en_exact
+source: usda
+source_id: '2710770'

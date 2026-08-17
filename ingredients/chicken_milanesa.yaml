@@ -1,0 +1,14 @@
+id: chicken_milanesa
+name_en: chicken milanesa
+name_fr: poulet milanaise
+serving_mode: item
+unit_label_en: cutlet
+unit_label_fr: escalope
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+display_unit: g

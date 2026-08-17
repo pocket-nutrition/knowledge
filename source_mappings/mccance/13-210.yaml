@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Cassava, boiled in unsalted water
+match_method: auto_before_comma
+meta:
+  group: DG
+source: mccance
+source_id: 13-210

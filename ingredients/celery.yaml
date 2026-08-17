@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: celery
+name_en: celery
+name_fr: céleri
+states:
+  raw:
+    density_g_ml: 1.018
+    portion_g: 110
+typical_state: raw

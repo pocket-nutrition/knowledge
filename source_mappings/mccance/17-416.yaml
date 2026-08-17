@@ -1,0 +1,10 @@
+source: mccance
+source_id: 17-416
+canonical_ingredient_id: dried_mushroom
+label: Mushroom, dried
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from raw mushroom
+  food_group: DI

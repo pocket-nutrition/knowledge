@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2644294'
+canonical_ingredient_id: great_northern_beans
+label: Beans, great northern, canned, sodium added, drained and rinsed
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

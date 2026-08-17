@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Bread, white, farmhouse or split tin
+match_method: auto_before_comma
+meta:
+  group: AF
+source: mccance
+source_id: 11-977

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706816'
+canonical_ingredient_id: _composite
+label: Asian chicken or turkey garden salad, chicken and/or turkey, lettuce, fruit, nuts, no dressing
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Poultry mixed dishes

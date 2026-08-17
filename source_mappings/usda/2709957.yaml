@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709957'
+canonical_ingredient_id: canned_black_eyed_pea
+label: Blackeyed peas, from canned
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Other starchy vegetables

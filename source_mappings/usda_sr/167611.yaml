@@ -1,0 +1,8 @@
+canonical_ingredient_id: bearded_seal_oil
+confidence: 0.9
+label: Oil, bearded seal (Oogruk) (Alaska Native)
+match_method: auto_ai
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '167611'

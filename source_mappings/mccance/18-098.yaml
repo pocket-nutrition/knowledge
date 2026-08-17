@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Lamb, fat, average, raw
+match_method: auto_before_comma
+meta:
+  description: Average of 8 different cuts, trimmed of lean
+  food_group: MAE
+source: mccance
+source_id: 18-098

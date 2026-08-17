@@ -1,0 +1,8 @@
+canonical_ingredient_id: ground_pork
+confidence: 0.9
+label: Pork, fresh, ground, raw
+match_method: auto_precise
+meta:
+  category: Pork Products
+source: usda_sr
+source_id: '167902'

@@ -1,0 +1,6 @@
+canonical_ingredient_id: pear
+confidence: 0.8
+label: Poire, chair, crue (aliment moyen)
+match_method: name_fr_before_comma
+source: ciqual
+source_id: '13397'

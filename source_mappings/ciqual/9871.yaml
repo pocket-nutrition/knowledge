@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9871'
+canonical_ingredient_id: whole_wheat_pasta
+label: Pâtes sèches, au blé complet, cuites, sans sel ajouté
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

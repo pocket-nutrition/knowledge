@@ -1,0 +1,12 @@
+id: horse_meat
+name_en: horse meat
+name_fr: cheval
+food_group: meat
+states:
+  cooked:
+    portion_g: 241.0
+    density_g_ml: 1.074
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

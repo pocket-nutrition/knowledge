@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '10045'
+canonical_ingredient_id: scallop
+label: Coquille Saint-Jacques, noix, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, round, tip round, roast, separable lean only, trimmed to 0" fat, select,
+  cooked, roasted
+match_method: auto_before_comma
+meta:
+  category: Beef Products
+source: usda_sr
+source_id: '170637'

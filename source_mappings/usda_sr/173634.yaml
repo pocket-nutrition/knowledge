@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '173634'
+canonical_ingredient_id: canada_goose_breast
+label: Canada Goose, breast meat only, skinless, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Poultry Products

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169281'
+canonical_ingredient_id: sesbania_flower
+label: Sesbania flower, cooked, steamed, without salt
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

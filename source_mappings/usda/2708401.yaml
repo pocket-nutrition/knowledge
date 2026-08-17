@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708401'
+canonical_ingredient_id: quinoa
+label: Quinoa, fat added
+cooking_method: cooked
+match_method: name_en_before_comma
+confidence: 0.75

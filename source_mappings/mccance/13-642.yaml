@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Peas, mange-tout, stir-fried in rapeseed oil
+match_method: auto_name
+meta:
+  group: DF
+source: mccance
+source_id: 13-642

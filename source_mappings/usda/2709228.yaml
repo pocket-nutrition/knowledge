@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709228'
+canonical_ingredient_id: carambola
+label: Starfruit, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Other fruits and fruit salads

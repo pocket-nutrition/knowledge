@@ -1,0 +1,8 @@
+canonical_ingredient_id: condensed_milk
+confidence: 0.9
+label: Milk, condensed, whole, sweetened
+match_method: auto_precise
+meta:
+  group: BAR
+source: mccance
+source_id: 12-520

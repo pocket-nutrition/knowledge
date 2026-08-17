@@ -1,0 +1,15 @@
+id: prawn_cracker
+name_en: prawn cracker
+name_fr: chips de crevette
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: fried
+serving_unit_types:
+- small_handful
+display_unit: g

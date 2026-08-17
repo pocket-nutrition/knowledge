@@ -1,0 +1,19 @@
+id: seed_butter
+name_en: seed butter
+name_fr: beurre de graine
+serving_mode: measure
+food_group: nut_seed
+states:
+  processed:
+    portion_g: 22.0
+    density_g_ml: 0.947
+  raw:
+    portion_g: 22.0
+    density_g_ml: 0.947
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

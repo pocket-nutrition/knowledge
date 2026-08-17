@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2644282'
+canonical_ingredient_id: chickpea
+label: Chickpeas, (garbanzo beans, bengal gram), dry
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

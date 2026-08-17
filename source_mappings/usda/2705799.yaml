@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705799'
+canonical_ingredient_id: _composite
+label: Cheese sandwich, reduced fat cheese, on white bread
+match_method: name_en_partial
+confidence: 0.65

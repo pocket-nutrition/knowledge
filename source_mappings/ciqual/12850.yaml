@@ -1,0 +1,9 @@
+canonical_ingredient_id: goat_cheese
+confidence: 0.9
+label: Fromage de chèvre à pâte pressée non cuite, type tomme ou tome ou gouda de
+  chèvre
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12850'

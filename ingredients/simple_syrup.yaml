@@ -1,0 +1,21 @@
+id: simple_syrup
+name_en: simple syrup
+name_fr: sirop de sucre
+serving_mode: volume
+food_group: sweetener
+states:
+  processed:
+    portion_g: 20.0
+    density_g_ml: 1.23
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- sugar syrup
+aliases_fr:
+- sirop simple
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

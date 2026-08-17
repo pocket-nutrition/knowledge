@@ -1,0 +1,9 @@
+canonical_ingredient_id: skate
+confidence: 0.92
+cooking_method: grilled
+label: Skate, grilled
+match_method: auto_precise
+meta:
+  group: JA
+source: mccance
+source_id: 16-144

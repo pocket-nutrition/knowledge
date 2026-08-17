@@ -1,0 +1,15 @@
+id: frozen_yogurt
+name_en: frozen yogurt
+name_fr: yaourt glacé
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- scoop
+display_unit: g

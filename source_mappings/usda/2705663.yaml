@@ -1,0 +1,8 @@
+source: usda
+source_id: '2705663'
+canonical_ingredient_id: _composite
+label: Ice cream, fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Ice cream and frozen dairy desserts

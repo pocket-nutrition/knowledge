@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Frankfurter, beef, unheated
+match_method: auto_name
+meta:
+  category: Sausages and Luncheon Meats
+source: usda_foundation
+source_id: '323121'

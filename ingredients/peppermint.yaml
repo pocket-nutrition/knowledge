@@ -1,0 +1,15 @@
+id: peppermint
+name_en: peppermint
+name_fr: menthe poivrée
+serving_mode: weight
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- mint leaves
+display_unit: g

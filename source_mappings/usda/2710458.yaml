@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710458'
+canonical_ingredient_id: _composite
+label: Coffee, instant, pre-lightened and pre-sweetened with low calorie sweetener, reconstituted
+match_method: name_en_before_comma
+confidence: 0.75

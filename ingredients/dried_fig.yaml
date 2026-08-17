@@ -1,0 +1,10 @@
+id: dried_fig
+name_en: dried fig
+name_fr: figue séchée
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed

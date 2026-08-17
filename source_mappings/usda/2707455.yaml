@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707455'
+canonical_ingredient_id: _composite
+label: Soup, miso or tofu
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Ramen and Asian broth-based soups

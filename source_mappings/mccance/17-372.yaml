@@ -1,0 +1,7 @@
+source: mccance
+source_id: 17-372
+canonical_ingredient_id: stuffing_mix
+label: Stuffing mix, dried, assorted flavours, made up
+cooking_method: cooked
+match_method: name_en_before_comma
+confidence: 0.75

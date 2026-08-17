@@ -1,0 +1,16 @@
+id: hollandaise_sauce
+name_en: hollandaise sauce
+name_fr: sauce hollandaise
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.016
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

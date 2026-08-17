@@ -1,0 +1,8 @@
+source: mccance
+source_id: 15-716
+canonical_ingredient_id: _composite
+label: Cauliflower in white sauce, made with skimmed milk, homemade
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: DR

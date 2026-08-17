@@ -1,0 +1,9 @@
+canonical_ingredient_id: dogfish
+confidence: 0.9
+label: Rock Salmon/Dogfish, raw
+match_method: auto_ai
+meta:
+  description: Data from Seafish Industry Authority and literature sources
+  food_group: JA
+source: mccance
+source_id: 16-133

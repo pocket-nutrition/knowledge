@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Bean salad, yellow and/or green string beans
+match_method: auto_token
+meta:
+  wweia_category: Coleslaw, non-lettuce salads
+source: usda
+source_id: '2710009'

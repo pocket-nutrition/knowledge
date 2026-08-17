@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '167670'
+canonical_ingredient_id: sirloin_steak
+label: CRACKER BARREL, grilled sirloin steak
+cooking_method: grilled
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Restaurant Foods

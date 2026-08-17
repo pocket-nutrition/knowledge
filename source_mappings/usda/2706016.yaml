@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706016'
+canonical_ingredient_id: chicken_drumstick
+label: Chicken drumstick, sauteed, skin eaten
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Chicken, whole pieces

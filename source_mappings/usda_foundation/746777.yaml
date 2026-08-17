@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Sauce, salsa, ready-to-serve
+match_method: auto_name
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_foundation
+source_id: '746777'

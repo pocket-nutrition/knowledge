@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Pork, tofu, and vegetables including carrots, broccoli, and/or dark-green leafy;
+  no potatoes, soy-base sauce
+match_method: auto_name
+meta:
+  wweia_category: Stir-fry and soy-based sauce mixtures
+source: usda
+source_id: '2706760'

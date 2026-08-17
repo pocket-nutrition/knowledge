@@ -1,0 +1,7 @@
+source: usda
+source_id: '2710296'
+canonical_ingredient_id: sweet_and_sour_sauce
+label: Sweet and sour sauce
+cooking_method: cooked
+match_method: name_en_exact
+confidence: 0.9

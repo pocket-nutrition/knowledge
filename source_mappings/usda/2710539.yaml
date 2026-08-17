@@ -1,0 +1,8 @@
+canonical_ingredient_id: sparkling_water
+confidence: 0.9
+label: Water, carbonated, plain
+match_method: auto_ai
+meta:
+  wweia_category: Flavored or carbonated water
+source: usda
+source_id: '2710539'

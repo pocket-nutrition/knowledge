@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Tongue, ox, meat only, stewed
+match_method: auto_before_comma
+meta:
+  group: MG
+source: mccance
+source_id: 18-426

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '172457'
+canonical_ingredient_id: peanut_butter
+label: Peanut spread, reduced sugar
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

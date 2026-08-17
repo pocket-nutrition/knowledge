@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: fennel
+name_en: fennel
+name_fr: fenouil
+states:
+  raw:
+    density_g_ml: 1.019
+    portion_g: 160
+typical_state: raw

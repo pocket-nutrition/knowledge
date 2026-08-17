@@ -1,0 +1,8 @@
+canonical_ingredient_id: cancoillotte_cheese
+confidence: 0.9
+label: Cancoillotte (spécialité fromagère fondue)
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12325'

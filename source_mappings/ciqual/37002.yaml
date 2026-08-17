@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Base de pizza (pâte et sauce à la tomate), crue
+match_method: auto_name
+meta:
+  group: aides culinaires et ingrédients divers
+  subgroup: aides culinaires
+source: ciqual
+source_id: '37002'

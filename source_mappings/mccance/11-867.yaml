@@ -1,0 +1,8 @@
+source: mccance
+source_id: 11-867
+label: Rice, brown, basmati, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: AC

@@ -1,0 +1,20 @@
+id: semolina_flour
+name_en: semolina flour
+name_fr: semoule de blé dur
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.114
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- semolina
+aliases_fr:
+- semoule
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

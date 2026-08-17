@@ -1,0 +1,8 @@
+canonical_ingredient_id: black_olive
+confidence: 0.8
+label: Olive noire, à l'huile (à la grecque)
+match_method: auto_before_comma
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '13131'

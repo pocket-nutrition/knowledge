@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Beverages, FUZE, orange mango, fortified with vitamins A, C, E, B6
+match_method: auto_name
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '173173'

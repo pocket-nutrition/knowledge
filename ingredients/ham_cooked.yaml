@@ -1,0 +1,15 @@
+id: ham_cooked
+name_en: cooked ham
+name_fr: jambon cuit
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 30.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, ground, 80% lean meat / 20% fat, loaf, cooked, baked
+match_method: auto_before_comma
+meta:
+  category: Beef Products
+source: usda_sr
+source_id: '171800'

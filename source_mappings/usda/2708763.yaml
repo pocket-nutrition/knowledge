@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708763'
+canonical_ingredient_id: ravioli
+label: Ravioli, meat-filled, no sauce
+cooking_method: boiled
+match_method: name_en_before_comma
+confidence: 0.75

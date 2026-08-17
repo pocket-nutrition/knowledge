@@ -1,0 +1,8 @@
+canonical_ingredient_id: brioche
+confidence: 0.8
+label: Brioche, sans précision (aliment moyen)
+match_method: auto_before_comma
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '7746'

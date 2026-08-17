@@ -1,0 +1,12 @@
+id: red_cabbage
+name_en: red cabbage
+name_fr: chou rouge
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.035
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

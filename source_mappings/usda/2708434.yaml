@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708434'
+canonical_ingredient_id: cream_of_wheat
+label: Cream of wheat, regular or quick, made with water, no added fat
+cooking_method: boiled
+match_method: name_en_before_comma
+confidence: 0.75

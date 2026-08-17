@@ -1,0 +1,8 @@
+canonical_ingredient_id: saccharin_sweetener
+confidence: 0.9
+label: Édulcorant à la saccharine
+match_method: auto_ai
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31064'

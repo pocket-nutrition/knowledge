@@ -1,0 +1,6 @@
+source: mccance
+source_id: 11-865
+canonical_ingredient_id: null
+label: Rice, white, pudding, raw
+match_method: name_en_before_comma
+confidence: 0.75

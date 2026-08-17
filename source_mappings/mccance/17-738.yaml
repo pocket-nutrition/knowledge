@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Fruit juice drink/squash, undiluted
+match_method: auto_token
+meta:
+  group: PCC
+source: mccance
+source_id: 17-738

@@ -1,0 +1,13 @@
+id: soy_curl
+name_en: soy curl
+name_fr: lamelles de soja texturé
+serving_mode: weight
+food_group: legume
+states:
+  processed:
+    portion_g: 30.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

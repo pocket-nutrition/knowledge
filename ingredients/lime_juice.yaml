@@ -1,0 +1,18 @@
+id: lime_juice
+name_en: lime juice
+name_fr: jus de lime
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 138.0
+    density_g_ml: 1.039
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- jus de citron vert
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

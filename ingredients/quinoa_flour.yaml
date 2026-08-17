@@ -1,0 +1,15 @@
+id: quinoa_flour
+name_en: quinoa flour
+name_fr: farine de quinoa
+food_group: cereal
+states:
+  cooked: {}
+  processed:
+    portion_g: 70.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup

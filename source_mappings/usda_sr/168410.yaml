@@ -1,0 +1,8 @@
+canonical_ingredient_id: edamame
+confidence: 0.92
+label: Edamame, frozen, unprepared
+match_method: auto_precise
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '168410'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: brie
+confidence: 0.9
+label: Brie de Meaux
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12021'

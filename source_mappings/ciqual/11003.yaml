@@ -1,0 +1,9 @@
+canonical_ingredient_id: chive
+confidence: 0.9
+label: Ciboule ou ciboulette, fraîche
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+  subgroup: herbes
+source: ciqual
+source_id: '11003'

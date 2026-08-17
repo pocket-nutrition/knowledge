@@ -1,0 +1,16 @@
+id: gluten_free_bread
+name_en: gluten free bread
+name_fr: pain sans gluten
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: baked_good
+states:
+  processed:
+    portion_g: 34.0
+  raw:
+    portion_g: 34.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

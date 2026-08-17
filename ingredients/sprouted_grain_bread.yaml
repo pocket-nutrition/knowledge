@@ -1,0 +1,16 @@
+id: sprouted_grain_bread
+name_en: sprouted grain bread
+name_fr: pain aux céréales germées
+name_en_plural: sprouted grain breads
+name_fr_plural: pains aux céréales germées
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: baked_good
+states:
+  raw:
+    portion_g: 35.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

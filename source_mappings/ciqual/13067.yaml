@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13067'
+canonical_ingredient_id: lime
+label: Citron vert ou lime, chair sans peau, sans pépins, cru
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

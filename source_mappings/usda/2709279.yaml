@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709279'
+canonical_ingredient_id: cranberry
+label: Cranberries, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Blueberries and other berries

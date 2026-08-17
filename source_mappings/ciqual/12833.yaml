@@ -1,0 +1,9 @@
+canonical_ingredient_id: goat_cheese
+confidence: 0.9
+label: Crottin de chèvre, sans précision sur le type de lait - pasteurisé ou cru -
+match_method: auto_ai
+meta:
+  group: produits laitiers
+  subgroup: fromages et alternatives végétales
+source: ciqual
+source_id: '12833'

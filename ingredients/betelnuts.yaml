@@ -1,0 +1,14 @@
+id: betelnuts
+name_en: betel nut
+name_fr: noix de bétel
+serving_mode: item
+unit_label_en: nut
+unit_label_fr: noix
+food_group: other
+states:
+  raw:
+    portion_g: 5.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+display_unit: g

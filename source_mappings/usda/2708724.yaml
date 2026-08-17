@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708724'
+canonical_ingredient_id: bao_bun
+label: Bao bun
+cooking_method: steamed
+match_method: name_en_exact
+confidence: 0.9

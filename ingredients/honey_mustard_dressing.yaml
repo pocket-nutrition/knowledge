@@ -1,0 +1,16 @@
+id: honey_mustard_dressing
+name_en: honey mustard dressing
+name_fr: sauce miel-moutarde
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.014
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

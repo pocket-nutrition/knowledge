@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28010'
+canonical_ingredient_id: pork
+label: Porc, épaule cuite
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

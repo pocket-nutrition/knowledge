@@ -1,0 +1,7 @@
+source: mccance
+source_id: 13-240
+canonical_ingredient_id: endive
+label: Endive, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

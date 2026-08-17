@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Beverages, carbonated, low calorie, other than cola or pepper, with aspartame,
+  contains caffeine
+match_method: auto_name
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '173207'

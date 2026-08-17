@@ -1,0 +1,16 @@
+id: tome
+name_en: tomme cheese
+name_fr: tomme de vache
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.065
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- tomme
+- tomme des Pyrénées
+display_unit: g

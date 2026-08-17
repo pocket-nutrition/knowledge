@@ -1,0 +1,16 @@
+id: palm_oil
+name_en: palm oil
+name_fr: huile de palme
+serving_mode: measure
+food_group: fat
+states:
+  raw:
+    portion_g: 14.0
+    density_g_ml: 0.925
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

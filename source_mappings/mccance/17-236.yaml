@@ -1,0 +1,8 @@
+canonical_ingredient_id: sherry
+confidence: 0.8
+label: Sherry, medium
+match_method: auto_before_comma
+meta:
+  group: QF
+source: mccance
+source_id: 17-236

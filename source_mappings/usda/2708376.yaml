@@ -1,0 +1,8 @@
+canonical_ingredient_id: masa_harina
+confidence: 0.8
+label: Masa harina, cooked
+match_method: auto_before_comma
+meta:
+  category: Grits and other cooked cereals
+source: usda
+source_id: '2708376'

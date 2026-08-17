@@ -1,0 +1,17 @@
+id: saupe
+name_en: salema porgy
+name_fr: saupe
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.05
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- salema
+aliases_fr:
+- saupe commune
+display_unit: g

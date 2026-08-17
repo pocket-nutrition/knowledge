@@ -1,0 +1,15 @@
+id: lentil_sprout
+name_en: lentil sprout
+name_fr: Graine germée de lentille
+name_en_plural: lentil sprouts
+name_fr_plural: lentilles germées
+food_group: vegetable
+states:
+  cooked: {}
+  raw:
+    portion_g: 60.0
+    density_g_ml: 1.118
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

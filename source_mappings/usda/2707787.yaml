@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707787'
+canonical_ingredient_id: english_muffin
+label: Muffin, English, multigrain
+match_method: ai_review
+confidence: 0.9

@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: prepared_dish
+id: beefy_mushroom_soup
+name_en: beefy mushroom soup
+name_fr: beefy mushroom soup
+states:
+  raw:
+    density_g_ml: 1.061
+    portion_g: 251
+typical_state: raw

@@ -1,0 +1,8 @@
+canonical_ingredient_id: bechamel_sauce
+confidence: 0.65
+label: Sauce béchamel au beurre, faite maison
+match_method: auto_token
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11143'

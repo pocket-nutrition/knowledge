@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11095'
+canonical_ingredient_id: chive
+label: Ciboulette, séchée
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: aides culinaires et ingrédients divers

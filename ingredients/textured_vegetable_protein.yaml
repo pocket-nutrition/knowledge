@@ -1,0 +1,15 @@
+id: textured_vegetable_protein
+name_en: textured vegetable protein
+name_fr: protéine végétale texturée
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- TVP
+- textured soy protein
+display_unit: g

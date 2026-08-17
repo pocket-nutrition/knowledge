@@ -1,0 +1,18 @@
+id: activated_charcoal
+name_en: activated charcoal
+name_fr: charbon actif
+serving_mode: measure
+food_group: other
+states:
+  processed:
+    portion_g: 1.0
+    density_g_ml: 0.4
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

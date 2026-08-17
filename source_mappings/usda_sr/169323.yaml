@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169323'
+canonical_ingredient_id: yellow_snap_beans
+label: Beans, snap, yellow, cooked, boiled, drained, with salt
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

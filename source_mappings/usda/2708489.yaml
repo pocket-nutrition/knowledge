@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708489'
+canonical_ingredient_id: oat
+label: Oats, raw
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  wweia_category: Not included in a food category

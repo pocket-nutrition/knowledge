@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-277
+canonical_ingredient_id: marrow
+label: Marrow, parwal, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: 5 samples. Ends trimmed
+  food_group: DG

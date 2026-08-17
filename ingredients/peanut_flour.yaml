@@ -1,0 +1,21 @@
+id: peanut_flour
+name_en: peanut flour
+name_fr: farine d'arachide
+serving_mode: weight
+food_group: nut_seed
+states:
+  cooked:
+    portion_g: 44.0
+    density_g_ml: 0.254
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- defatted peanut flour
+- groundnut flour
+aliases_fr:
+- farine de cacahuète
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

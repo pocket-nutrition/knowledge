@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '19501'
+canonical_ingredient_id: _composite
+label: Fromage blanc, nature ou aux fruits (aliment moyen)
+match_method: name_fr_before_comma
+confidence: 0.8

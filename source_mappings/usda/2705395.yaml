@@ -1,0 +1,6 @@
+canonical_ingredient_id: goat_milk
+confidence: 0.9
+label: Goat milk
+match_method: name_en_exact
+source: usda
+source_id: '2705395'

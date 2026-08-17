@@ -1,0 +1,12 @@
+id: canned_carrot
+name_en: canned carrot
+name_fr: carotte en conserve
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

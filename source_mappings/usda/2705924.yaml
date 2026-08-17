@@ -1,0 +1,8 @@
+source: usda
+source_id: '2705924'
+canonical_ingredient_id: beaver_meat
+label: Beaver
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Lamb, goat, game

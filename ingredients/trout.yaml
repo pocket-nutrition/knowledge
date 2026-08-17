@@ -1,0 +1,11 @@
+id: trout
+name_en: trout
+name_fr: truite
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.098
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

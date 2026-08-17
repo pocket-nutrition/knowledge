@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13066'
+canonical_ingredient_id: persimmon
+label: Kaki, chair et peau, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

@@ -1,0 +1,12 @@
+id: fig_leaf
+name_en: fig leaf
+name_fr: feuille de figuier
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 10.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

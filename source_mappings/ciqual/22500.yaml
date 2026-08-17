@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Omelette nature, faite maison
+match_method: auto_name
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: oeufs
+source: ciqual
+source_id: '22500'

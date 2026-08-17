@@ -1,0 +1,16 @@
+id: beef_gravy
+name_en: beef gravy
+name_fr: sauce au jus de bœuf
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 57.0
+    density_g_ml: 0.985
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

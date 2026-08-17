@@ -1,0 +1,12 @@
+id: biscuit_dough
+name_en: biscuit dough
+name_fr: pâte à biscuit
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

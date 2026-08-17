@@ -1,0 +1,17 @@
+id: vegetable_soup_mix
+name_en: vegetable soup mix
+name_fr: préparation pour soupe de légumes
+serving_mode: measure
+food_group: prepared_dish
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.4
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

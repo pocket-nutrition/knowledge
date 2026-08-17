@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-234
+canonical_ingredient_id: kale
+label: Curly kale, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: Main ribs and stalks removed
+  food_group: DG

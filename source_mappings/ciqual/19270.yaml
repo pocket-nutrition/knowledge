@@ -1,0 +1,8 @@
+canonical_ingredient_id: buffalo_milk
+confidence: 0.9
+label: Lait de bufflesse, entier
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19270'

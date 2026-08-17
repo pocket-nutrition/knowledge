@@ -1,0 +1,19 @@
+id: peanut_butter_powder
+name_en: peanut butter powder
+name_fr: beurre de cacahuète en poudre
+serving_mode: measure
+food_group: nut_seed
+states:
+  processed:
+    portion_g: 13.0
+    density_g_ml: 0.45
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- powdered peanut butter
+serving_unit_types:
+- tablespoon
+- scoop
+display_unit: g

@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '26074'
+canonical_ingredient_id: dogfish
+label: Roussette ou petite roussette ou saumonette, crue
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: poissons crus

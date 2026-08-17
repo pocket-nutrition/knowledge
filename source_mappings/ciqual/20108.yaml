@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20108'
+canonical_ingredient_id: sweet_corn
+label: Maïs doux, en épis, surgelé, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

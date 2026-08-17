@@ -1,0 +1,18 @@
+id: squid
+name_en: squid
+name_fr: calamar
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.052
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- calamari
+aliases_fr:
+- encornet
+- calmar
+display_unit: g

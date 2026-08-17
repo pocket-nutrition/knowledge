@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Poppy seeds
+match_method: auto_ai
+meta:
+  group: G
+source: mccance
+source_id: 13-849

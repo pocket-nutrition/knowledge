@@ -1,0 +1,22 @@
+id: soy_patty
+name_en: soy patty
+name_fr: galette au soja
+serving_mode: item
+unit_label_en: patty
+unit_label_fr: galette
+food_group: legume
+states:
+  processed:
+    portion_g: 100.0
+    density_g_ml: 1.085
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- veggie patty
+- soya patty
+aliases_fr:
+- pavé au soja
+- steak de soja
+display_unit: g

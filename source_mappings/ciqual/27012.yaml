@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '27012'
+canonical_ingredient_id: sturgeon
+label: Esturgeon d’Europe occidentale, cru
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

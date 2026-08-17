@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Tofu, soya bean, steamed, fried
+match_method: auto_before_comma
+meta:
+  group: DB
+source: mccance
+source_id: 13-571

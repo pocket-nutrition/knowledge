@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709978'
+canonical_ingredient_id: chili_pepper
+label: Peppers, hot, cooked
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Mustard and other condiments

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beans, chick peas, canned, re-heated, drained
+match_method: auto_token
+meta:
+  group: DB
+source: mccance
+source_id: 13-670

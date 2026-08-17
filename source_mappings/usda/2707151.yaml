@@ -1,0 +1,6 @@
+canonical_ingredient_id: mole_sauce
+confidence: 0.9
+label: Mole sauce
+match_method: name_en_exact
+source: usda
+source_id: '2707151'

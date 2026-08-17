@@ -1,0 +1,8 @@
+canonical_ingredient_id: mayonnaise
+confidence: 0.92
+label: Mayonnaise, homemade
+match_method: auto_precise
+meta:
+  group: WC
+source: mccance
+source_id: 17-809

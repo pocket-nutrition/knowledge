@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710735'
+canonical_ingredient_id: chocolate_protein_powder
+label: Nutritional powder mix (Muscle Milk)
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Protein and nutritional powders

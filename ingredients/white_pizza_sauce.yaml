@@ -1,0 +1,15 @@
+id: white_pizza_sauce
+name_en: white pizza sauce
+name_fr: sauce blanche pour pizza
+serving_mode: weight
+food_group: sauce
+states:
+  raw:
+    portion_g: 63.0
+    density_g_ml: 1.046
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: pickled_green_bean
+confidence: 0.65
+label: Green beans, pickled
+match_method: auto_token
+meta:
+  category: Olives, pickles, pickled vegetables
+source: usda
+source_id: '2710070'

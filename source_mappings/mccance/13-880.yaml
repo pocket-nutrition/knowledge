@@ -1,0 +1,8 @@
+canonical_ingredient_id: black_pepper
+confidence: 0.9
+label: Pepper, black
+match_method: auto_precise
+meta:
+  group: H
+source: mccance
+source_id: 13-880

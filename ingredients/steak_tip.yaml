@@ -1,0 +1,12 @@
+id: steak_tip
+name_en: steak tip
+name_fr: pointe de steak
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

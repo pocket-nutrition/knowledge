@@ -1,0 +1,16 @@
+id: fresno_chile
+name_en: fresno chile
+name_fr: piment fresno
+name_en_plural: fresno chiles
+name_fr_plural: piments fresno
+serving_mode: item
+unit_label_en: chile
+unit_label_fr: piment
+food_group: vegetable
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

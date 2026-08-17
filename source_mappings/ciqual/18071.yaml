@@ -1,0 +1,8 @@
+canonical_ingredient_id: coffee
+confidence: 0.9
+label: Café expresso, non instantané, sans sucres ajoutés, prêt à boire
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18071'

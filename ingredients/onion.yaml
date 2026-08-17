@@ -1,0 +1,15 @@
+id: onion
+name_en: onion
+name_fr: oignon
+serving_mode: item
+unit_label_en: onion
+unit_label_fr: oignon
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.039
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

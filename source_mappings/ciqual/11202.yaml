@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11202'
+canonical_ingredient_id: tikka_masala_sauce
+label: Sauce indienne type tandoori ou tikka masala, préemballée
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: aides culinaires et ingrédients divers

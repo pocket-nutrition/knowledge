@@ -1,0 +1,19 @@
+id: pearl_onion
+name_en: pearl onion
+name_fr: oignon grelot
+serving_mode: item
+unit_label_en: onion
+unit_label_fr: oignon
+food_group: vegetable
+states:
+  raw:
+    portion_g: 7.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- button onion
+- baby onion
+aliases_fr:
+- petit oignon blanc
+display_unit: g

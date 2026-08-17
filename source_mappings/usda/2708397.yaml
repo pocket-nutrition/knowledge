@@ -1,0 +1,8 @@
+canonical_ingredient_id: oatmeal
+confidence: 0.9
+label: Oatmeal, reduced sugar
+match_method: auto_ai
+meta:
+  wweia_category: Oatmeal
+source: usda
+source_id: '2708397'

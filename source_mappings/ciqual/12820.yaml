@@ -1,0 +1,8 @@
+canonical_ingredient_id: goat_cheese
+confidence: 0.9
+label: Fromage de chèvre à pâte molle et croûte fleurie (type camembert, cabécou)
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12820'

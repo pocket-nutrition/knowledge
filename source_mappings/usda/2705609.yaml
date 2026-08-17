@@ -1,0 +1,6 @@
+canonical_ingredient_id: coffee_creamer
+confidence: 0.75
+label: Coffee creamer,powder, sugar free, flavored
+match_method: name_en_before_comma
+source: usda
+source_id: '2705609'

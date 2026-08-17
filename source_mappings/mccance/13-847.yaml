@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Pepper, cayenne, ground
+match_method: auto_token
+meta:
+  group: H
+source: mccance
+source_id: 13-847

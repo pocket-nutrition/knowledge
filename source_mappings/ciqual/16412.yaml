@@ -1,0 +1,9 @@
+canonical_ingredient_id: butter
+confidence: 0.9
+label: Beurre ou assimilé allégé (léger ou à teneur réduite en matière grasse), doux
+  (aliment moyen)
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16412'

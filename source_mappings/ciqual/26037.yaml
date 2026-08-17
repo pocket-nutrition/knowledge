@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26037'
+canonical_ingredient_id: smoked_salmon
+label: Saumon fumé
+cooking_method: cooked
+match_method: auto_exact
+confidence: 0.95
+meta:
+  group: viandes, oeufs, poissons

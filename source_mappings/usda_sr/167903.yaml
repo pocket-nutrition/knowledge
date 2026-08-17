@@ -1,0 +1,9 @@
+canonical_ingredient_id: ground_pork
+confidence: 0.9
+cooking_method: cooked
+label: Pork, fresh, ground, cooked
+match_method: auto_precise
+meta:
+  category: Pork Products
+source: usda_sr
+source_id: '167903'

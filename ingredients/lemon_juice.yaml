@@ -1,0 +1,16 @@
+id: lemon_juice
+name_en: lemon juice
+name_fr: jus de citron
+serving_mode: volume
+food_group: fruit
+states:
+  raw:
+    portion_g: 18.0
+    density_g_ml: 1.025
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

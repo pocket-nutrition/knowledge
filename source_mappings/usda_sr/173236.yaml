@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173236'
+canonical_ingredient_id: orange_drink
+label: Beverages, orange-flavor drink, breakfast type, powder, prepared with water
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Boisson à l'eau minérale ou de source, aromatisée, sans précision sur la teneur
+  en sucres et édulcorants (aliment moyen)
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18326'

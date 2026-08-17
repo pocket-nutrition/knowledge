@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '746779'
+canonical_ingredient_id: sausage
+label: Sausage, breakfast sausage, beef, pre-cooked, unprepared
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Sausages and Luncheon Meats

@@ -1,0 +1,6 @@
+canonical_ingredient_id: biscuit
+confidence: 0.7
+label: Biscuit ou cracker apéritif, à base de blé, nature, allégé en matière grasse
+match_method: name_fr_partial
+source: ciqual
+source_id: '38403'

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '2019'
+canonical_ingredient_id: grape_juice
+label: Jus de raisin, à base de concentré
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: eaux et autres boissons

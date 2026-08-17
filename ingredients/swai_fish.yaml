@@ -1,0 +1,14 @@
+id: swai_fish
+name_en: swai fish
+name_fr: pangasius (swai)
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

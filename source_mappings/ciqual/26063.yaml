@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '26063'
+canonical_ingredient_id: rascase_fillet
+label: Rascasse ou rascasse de profondeur, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: poissons crus

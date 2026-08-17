@@ -1,0 +1,13 @@
+id: andouille
+name_en: andouille
+name_fr: andouille
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.072
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '13056'
+canonical_ingredient_id: anona_cherimola_flesh
+label: Anone ou chérimole, chair sans peau, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits

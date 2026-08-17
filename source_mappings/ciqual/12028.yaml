@@ -1,0 +1,8 @@
+canonical_ingredient_id: chaource
+confidence: 0.9
+label: Chaource
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12028'

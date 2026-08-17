@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707800'
+canonical_ingredient_id: bread
+label: Roll, gluten free
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Rolls and buns

@@ -1,0 +1,16 @@
+id: napa_cabbage
+name_en: napa cabbage
+name_fr: chou chinois
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- chinese cabbage
+aliases_fr:
+- chou nappa
+display_unit: g

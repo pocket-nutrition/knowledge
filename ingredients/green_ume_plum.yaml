@@ -1,0 +1,14 @@
+id: green_ume_plum
+name_en: green ume plum
+name_fr: prune ume verte
+serving_mode: item
+unit_label_en: plum
+unit_label_fr: prune
+food_group: fruit
+states:
+  raw:
+    portion_g: 10.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

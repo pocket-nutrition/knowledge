@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707799'
+canonical_ingredient_id: breadstick
+label: Breadsticks, hard, gluten free
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Crackers, excludes saltines

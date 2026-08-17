@@ -1,0 +1,7 @@
+confidence: 0.75
+cooking_method: fried
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Pork, fresh, loin,
+  top loin (chops), boneless, separable lean and fat / Pan-fried
+raw_id: pork_loin
+source: usda_yield_mp_r2
+yield_factor: 0.77

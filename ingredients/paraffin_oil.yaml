@@ -1,0 +1,19 @@
+id: paraffin_oil
+name_en: paraffin oil
+name_fr: huile de paraffine
+serving_mode: volume
+food_group: fat
+states:
+  processed:
+    portion_g: 13.0
+    density_g_ml: 0.85
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_en:
+- mineral oil
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

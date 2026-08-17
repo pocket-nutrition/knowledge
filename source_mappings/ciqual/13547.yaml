@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13547'
+canonical_ingredient_id: persimmon
+label: Kaki de brousse, fruit, cru
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '20280'
+canonical_ingredient_id: broccoli
+label: Chou romanesco ou brocoli à pomme, cru
+match_method: ai_review
+confidence: 0.9

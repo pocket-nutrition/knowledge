@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Pâte feuilletée, pur beurre, préemballée, crue
+match_method: auto_name
+meta:
+  group: produits céréaliers
+  subgroup: pâtes à tarte
+source: ciqual
+source_id: '23424'

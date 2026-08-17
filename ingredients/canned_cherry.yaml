@@ -1,0 +1,12 @@
+id: canned_cherry
+name_en: canned cherry
+name_fr: cerise en conserve
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

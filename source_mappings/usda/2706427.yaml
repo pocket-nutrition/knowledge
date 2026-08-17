@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706427'
+canonical_ingredient_id: _composite
+label: Chili, white
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Poultry mixed dishes

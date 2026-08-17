@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28965'
+canonical_ingredient_id: poultry_ham
+label: Jambon de volaille ou blanc de volaille, à teneur réduite en sel, en tranche
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

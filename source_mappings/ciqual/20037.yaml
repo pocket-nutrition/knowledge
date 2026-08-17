@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20037'
+canonical_ingredient_id: pea
+label: Petits pois, cuits
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

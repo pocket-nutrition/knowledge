@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-513
+canonical_ingredient_id: pork_leg_joint
+label: Pork, leg joint, raw, lean and fat, trimmed
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 96% lean and 4% fat. Subcutaneous fat and skin removed.
+  food_group: MAG

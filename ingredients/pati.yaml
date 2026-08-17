@@ -1,0 +1,12 @@
+id: pati
+name_en: pati
+name_fr: pati
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

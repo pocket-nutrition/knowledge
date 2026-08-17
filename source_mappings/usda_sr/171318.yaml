@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Spices, chervil, dried
+match_method: auto_name
+meta:
+  category: Spices and Herbs
+source: usda_sr
+source_id: '171318'

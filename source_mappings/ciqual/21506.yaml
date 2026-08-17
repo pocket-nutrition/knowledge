@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '21506'
+canonical_ingredient_id: lamb
+label: Agneau, épaule rôtie/cuite au four
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

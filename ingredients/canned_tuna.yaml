@@ -1,0 +1,14 @@
+id: canned_tuna
+name_en: canned tuna
+name_fr: thon en conserve
+serving_mode: weight
+food_group: fish
+states:
+  processed:
+    portion_g: 80.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

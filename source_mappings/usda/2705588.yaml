@@ -1,0 +1,7 @@
+source: usda
+source_id: '2705588'
+canonical_ingredient_id: chocolate_milk_powder
+label: Chocolate beverage powder, dry mix, not reconstituted
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9

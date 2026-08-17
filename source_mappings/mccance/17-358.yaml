@@ -1,0 +1,8 @@
+canonical_ingredient_id: cream_of_tartar
+confidence: 0.95
+label: Cream of tartar
+match_method: auto_exact
+meta:
+  group: WY
+source: mccance
+source_id: 17-358

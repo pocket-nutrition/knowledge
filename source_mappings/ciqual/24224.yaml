@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Biscuit au chocolat fourré ("sandwiché") parfum vanille, rond, noir et blanc
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24224'

@@ -1,0 +1,15 @@
+id: marshmallow_creme
+name_en: marshmallow creme
+name_fr: pâte de guimauve
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 13.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

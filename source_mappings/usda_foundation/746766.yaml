@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '746766'
+canonical_ingredient_id: ricotta
+label: Cheese, ricotta, whole milk
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Dairy and Egg Products

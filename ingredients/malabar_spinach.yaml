@@ -1,0 +1,11 @@
+id: malabar_spinach
+name_en: Malabar spinach
+name_fr: baselle
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

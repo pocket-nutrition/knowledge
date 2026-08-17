@@ -1,0 +1,14 @@
+id: chocolate_frosting
+name_en: chocolate frosting
+name_fr: glaçage au chocolat
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- tablespoon

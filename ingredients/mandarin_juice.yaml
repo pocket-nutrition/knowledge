@@ -1,0 +1,16 @@
+id: mandarin_juice
+name_en: mandarin orange juice
+name_fr: jus de mandarine
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.044
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

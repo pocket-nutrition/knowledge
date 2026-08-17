@@ -1,0 +1,20 @@
+id: chicken_breast
+name_en: chicken breast
+name_fr: poitrine de poulet
+serving_mode: item
+unit_label_en: breast
+unit_label_fr: blanc
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.039
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+aliases_en:
+- chicken fillet
+aliases_fr:
+- blanc de poulet
+- filet de poulet
+display_unit: g

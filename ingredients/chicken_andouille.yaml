@@ -1,0 +1,14 @@
+id: chicken_andouille
+name_en: chicken andouille
+name_fr: andouille de poulet
+serving_mode: item
+unit_label_en: sausage
+unit_label_fr: saucisse
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 50.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

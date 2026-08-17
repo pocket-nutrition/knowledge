@@ -1,0 +1,8 @@
+canonical_ingredient_id: whey_cheese_sheep_goat
+confidence: 0.9
+label: Fromage de lactosérum de brebis
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12828'

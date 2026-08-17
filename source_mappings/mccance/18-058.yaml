@@ -1,0 +1,9 @@
+canonical_ingredient_id: beef_silverside
+confidence: 0.9
+label: Beef, silverside, salted, raw, lean
+match_method: auto_ai
+meta:
+  description: Calculated from 80% lean and 19% fat
+  food_group: MAC
+source: mccance
+source_id: 18-058

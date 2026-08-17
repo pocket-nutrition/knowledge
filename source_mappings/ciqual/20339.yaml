@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20339'
+canonical_ingredient_id: bok_choy
+label: Chou chinois pak choï ou pak choy (feuilles vertes ressemblant à des blettes), cuit
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

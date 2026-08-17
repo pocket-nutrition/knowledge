@@ -1,0 +1,12 @@
+id: gammon_joint
+name_en: gammon joint
+name_fr: gammon (jambon à cuire)
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.05
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

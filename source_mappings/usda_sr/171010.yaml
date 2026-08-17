@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '171010'
+canonical_ingredient_id: mayonnaise
+label: Salad dressing, mayonnaise, soybean and safflower oil, with salt
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Fats and Oils

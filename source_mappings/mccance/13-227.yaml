@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-227
+canonical_ingredient_id: chayote
+label: Cho cho, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: Also known as chayote, belongs to the gourd family Cucurbitaceae. Literature sources
+  food_group: DG

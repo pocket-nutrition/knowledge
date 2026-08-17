@@ -1,0 +1,7 @@
+food_group: vegetable
+id: black_turtle_bean
+name_en: black turtle bean
+name_fr: haricot de tortue noir
+states:
+  raw:
+    portion_g: 80

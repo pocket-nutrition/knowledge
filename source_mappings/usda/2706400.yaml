@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706400'
+canonical_ingredient_id: pork
+label: Barbecue pork, no sauce
+cooking_method: roasted
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Pork

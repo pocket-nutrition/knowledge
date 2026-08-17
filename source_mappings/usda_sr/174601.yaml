@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174601'
+canonical_ingredient_id: smoked_sausage
+label: Swisswurst, pork and beef, with swiss cheese, smoked
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Sausages and Luncheon Meats

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168952'
+canonical_ingredient_id: _composite
+label: Rice and vermicelli mix, rice pilaf flavor, prepared with 80% margarine
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Meals, Entrees, and Side Dishes

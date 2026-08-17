@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2262073'
+canonical_ingredient_id: tahini
+label: Sesame butter, creamy
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

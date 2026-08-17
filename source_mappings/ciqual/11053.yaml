@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '11053'
+canonical_ingredient_id: bay_leaf
+label: Laurier, feuille
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

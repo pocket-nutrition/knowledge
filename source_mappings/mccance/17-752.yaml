@@ -1,0 +1,8 @@
+canonical_ingredient_id: red_wine
+confidence: 0.9
+label: Wine, red
+match_method: auto_precise
+meta:
+  group: QE
+source: mccance
+source_id: 17-752

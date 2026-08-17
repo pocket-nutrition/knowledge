@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Flour, chapati, brown
+match_method: auto_before_comma
+meta:
+  group: AA
+source: mccance
+source_id: 11-895

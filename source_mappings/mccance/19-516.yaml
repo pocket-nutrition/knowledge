@@ -1,0 +1,8 @@
+canonical_ingredient_id: chorizo
+confidence: 0.95
+label: Chorizo
+match_method: auto_exact
+meta:
+  group: MI
+source: mccance
+source_id: 19-516

@@ -1,0 +1,18 @@
+id: tomato_bisque
+name_en: tomato bisque
+name_fr: bisque de tomate
+serving_mode: volume
+food_group: other
+states:
+  cooked:
+    portion_g: 250.0
+    density_g_ml: 1.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- cup
+- bowl
+display_unit: ml

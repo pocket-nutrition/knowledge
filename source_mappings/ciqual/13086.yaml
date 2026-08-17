@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '13086'
+canonical_ingredient_id: apple
+label: Pomme Golden, chair sans peau, crue
+match_method: manual
+confidence: 1.0

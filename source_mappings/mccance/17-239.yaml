@@ -1,0 +1,8 @@
+canonical_ingredient_id: vermouth
+confidence: 0.8
+label: Vermouth, dry
+match_method: auto_before_comma
+meta:
+  group: QG
+source: mccance
+source_id: 17-239

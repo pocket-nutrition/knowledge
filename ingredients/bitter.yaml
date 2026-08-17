@@ -1,0 +1,18 @@
+id: bitter
+name_en: bitter
+name_fr: bitter (bière anglaise)
+serving_mode: volume
+food_group: alcohol
+states:
+  processed:
+    portion_g: 330.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- bitter ale
+serving_unit_types:
+- glass
+display_unit: ml

@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '19709'
+canonical_ingredient_id: _composite
+label: Fromage blanc ou spécialité laitière, aromatisé, 0% MG, avec édulcorants, sans sucres ajoutés
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: produits laitiers

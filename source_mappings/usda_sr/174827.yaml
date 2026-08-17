@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beverages, GEROLSTEINER BRUNNEN GmbH & Co. KG,Gerolsteiner naturally sparkling
+  mineral water,
+match_method: auto_ai
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '174827'

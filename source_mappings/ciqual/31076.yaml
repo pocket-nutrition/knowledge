@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Edulcorant à base de sucre et aspartame (petits morceaux)
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31076'

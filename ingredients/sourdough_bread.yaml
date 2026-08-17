@@ -1,0 +1,16 @@
+id: sourdough_bread
+name_en: sourdough bread
+name_fr: pain au levain
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 50.0
+    density_g_ml: 0.27
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

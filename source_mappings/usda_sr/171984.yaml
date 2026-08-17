@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '171984'
+canonical_ingredient_id: whelk
+label: Mollusks, whelk, unspecified, cooked, moist heat
+cooking_method: boiled
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Finfish and Shellfish Products

@@ -1,0 +1,15 @@
+id: american_cheese
+name_en: american cheese
+name_fr: Fromage américain
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: dairy
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707357'
+canonical_ingredient_id: white_bean
+label: White beans, from canned, no added fat
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Beans, peas, legumes

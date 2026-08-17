@@ -1,0 +1,8 @@
+canonical_ingredient_id: milk_cream
+confidence: 0.92
+label: Cream, half, fresh
+match_method: auto_precise
+meta:
+  group: BJC
+source: mccance
+source_id: 12-112

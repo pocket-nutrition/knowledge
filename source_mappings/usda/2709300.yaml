@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Fruit salad, including citrus fruits, with pudding
+match_method: auto_name
+meta:
+  wweia_category: Other fruits and fruit salads
+source: usda
+source_id: '2709300'

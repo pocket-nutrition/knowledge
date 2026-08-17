@@ -1,0 +1,6 @@
+canonical_ingredient_id: tea
+confidence: 0.75
+label: Tea, iced, bottled, green
+match_method: name_en_before_comma
+source: usda
+source_id: '2710533'

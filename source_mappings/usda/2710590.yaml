@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710590'
+canonical_ingredient_id: orange_juice
+label: Orange juice beverage, 40-50% juice, light
+match_method: ai_review
+confidence: 0.9

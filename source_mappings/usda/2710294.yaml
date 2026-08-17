@@ -1,0 +1,6 @@
+canonical_ingredient_id: chocolate
+confidence: 0.65
+label: Chocolate dip
+match_method: name_en_partial
+source: usda
+source_id: '2710294'

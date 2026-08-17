@@ -1,0 +1,11 @@
+id: dirty_rice_mix
+name_en: dirty rice mix
+name_fr: mélange pour dirty rice
+food_group: other
+states:
+  raw:
+    portion_g: 128.0
+    density_g_ml: 0.595
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

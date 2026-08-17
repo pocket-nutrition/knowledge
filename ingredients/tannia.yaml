@@ -1,0 +1,20 @@
+id: tannia
+name_en: Tannia
+name_fr: Macabo
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- yautia
+- macabo
+- new cocoyam
+aliases_fr:
+- chou caraïbe
+- yautia
+- tannia
+display_unit: g

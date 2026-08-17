@@ -1,0 +1,6 @@
+canonical_ingredient_id: pistachio
+confidence: 0.65
+label: Pistachio nuts, unsalted
+match_method: name_en_partial
+source: usda
+source_id: '2707530'

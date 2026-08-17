@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174941'
+canonical_ingredient_id: _composite
+label: Cake, shortcake, biscuit-type, prepared from recipe
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Baked Products

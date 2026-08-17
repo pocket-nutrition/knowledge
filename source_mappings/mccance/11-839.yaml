@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Cakes, fancy iced, individual, retail
+match_method: auto_name
+meta:
+  group: AN
+source: mccance
+source_id: 11-839

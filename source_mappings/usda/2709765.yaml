@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709765'
+canonical_ingredient_id: alfalfa
+label: Alfalfa sprouts, raw
+cooking_method: raw
+match_method: name_en_partial
+confidence: 0.65

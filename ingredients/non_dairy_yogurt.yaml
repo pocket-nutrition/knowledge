@@ -1,0 +1,15 @@
+id: non_dairy_yogurt
+name_en: non-dairy yogurt
+name_fr: yaourt végétal
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_fr:
+- yaourt non lacté
+display_unit: g

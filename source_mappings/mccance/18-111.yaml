@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Lamb, breast, raw, lean
+match_method: auto_before_comma
+meta:
+  description: 10 samples
+  food_group: MAE
+source: mccance
+source_id: 18-111

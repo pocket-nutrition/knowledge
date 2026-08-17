@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709664'
+canonical_ingredient_id: carrot
+label: Carrots, fresh, cooked, no added fat
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Carrots

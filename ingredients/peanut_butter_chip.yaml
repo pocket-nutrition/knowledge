@@ -1,0 +1,17 @@
+id: peanut_butter_chip
+name_en: peanut butter chip
+name_fr: pépites de beurre de cacahuète
+serving_mode: weight
+food_group: sweetener
+states:
+  cooked: {}
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

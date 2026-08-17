@@ -1,0 +1,8 @@
+canonical_ingredient_id: pickle
+confidence: 0.8
+label: Cornichon, au vinaigre
+match_method: auto_before_comma
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11004'

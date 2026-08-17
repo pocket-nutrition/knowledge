@@ -1,0 +1,13 @@
+id: alaskan_white_fish
+name_en: alaskan white fish
+name_fr: lieu et colin de l'Alaska
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.063
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

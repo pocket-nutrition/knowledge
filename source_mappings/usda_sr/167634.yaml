@@ -1,0 +1,9 @@
+canonical_ingredient_id: mutton
+confidence: 0.92
+cooking_method: roasted
+label: Mutton, cooked, roasted (Navajo)
+match_method: auto_precise
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '167634'

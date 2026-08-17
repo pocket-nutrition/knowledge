@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Fromage type feta, au lait de vache 100%, à l'huile et aux aromates, égoutté
+match_method: auto_name
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12067'

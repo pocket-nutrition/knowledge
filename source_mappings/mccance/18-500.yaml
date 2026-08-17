@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Chicken portions, battered, deep fried, takeaway
+match_method: auto_name
+meta:
+  group: MCA
+source: mccance
+source_id: 18-500

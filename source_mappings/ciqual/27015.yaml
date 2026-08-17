@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '27015'
+canonical_ingredient_id: rainbow_trout
+label: Truite arc en ciel, élevage, cuite à la vapeur
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

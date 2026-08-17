@@ -1,0 +1,8 @@
+canonical_ingredient_id: kiwano_melon
+confidence: 0.9
+label: Horned melon (Kiwano)
+match_method: auto_ai
+meta:
+  category: Fruits and Fruit Juices
+source: usda_sr
+source_id: '167791'

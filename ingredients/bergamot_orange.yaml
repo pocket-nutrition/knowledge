@@ -1,0 +1,16 @@
+id: bergamot_orange
+name_en: bergamot orange
+name_fr: bergamote
+serving_mode: item
+unit_label_en: bergamot
+unit_label_fr: bergamote
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- bergamote
+display_unit: g

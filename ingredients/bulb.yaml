@@ -1,0 +1,8 @@
+food_group: vegetable
+id: bulb
+name_en: bulb
+name_fr: bulot
+states:
+  raw:
+    density_g_ml: 1.108
+    portion_g: 80

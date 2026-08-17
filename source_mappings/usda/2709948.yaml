@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709948'
+canonical_ingredient_id: okra
+label: Okra, frozen, cooked, fat added
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Other vegetables and combinations

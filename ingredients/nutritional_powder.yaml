@@ -1,0 +1,17 @@
+id: nutritional_powder
+name_en: nutritional powder mix
+name_fr: poudre nutritionnelle
+serving_mode: measure
+food_group: other
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.5
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- scoop
+- tablespoon
+display_unit: g

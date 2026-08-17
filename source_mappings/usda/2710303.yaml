@@ -1,0 +1,6 @@
+canonical_ingredient_id: marmalade
+confidence: 0.9
+label: Marmalade
+match_method: name_en_exact
+source: usda
+source_id: '2710303'

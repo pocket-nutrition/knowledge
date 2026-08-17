@@ -1,0 +1,8 @@
+canonical_ingredient_id: grenadilla
+confidence: 0.9
+label: Grenadillas, flesh and seeds
+match_method: auto_ai
+meta:
+  group: FA
+source: mccance
+source_id: 14-117

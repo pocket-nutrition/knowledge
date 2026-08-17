@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: McDONALD'S, McFLURRY with M&M'S CANDIES
+match_method: auto_name
+meta:
+  category: Fast Foods
+source: usda_sr
+source_id: '173303'

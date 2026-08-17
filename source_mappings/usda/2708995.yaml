@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Pinto beans and white rice
+match_method: auto_name
+meta:
+  wweia_category: Bean, pea, legume dishes
+source: usda
+source_id: '2708995'

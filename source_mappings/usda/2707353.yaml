@@ -1,0 +1,8 @@
+canonical_ingredient_id: white_bean
+confidence: 0.9
+label: White beans, NFS
+match_method: auto_ai
+meta:
+  wweia_category: Beans, peas, legumes
+source: usda
+source_id: '2707353'

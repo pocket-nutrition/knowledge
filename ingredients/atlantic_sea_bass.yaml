@@ -1,0 +1,13 @@
+id: atlantic_sea_bass
+name_en: atlantic sea bass
+name_fr: loup de l'atlantique
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.063
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

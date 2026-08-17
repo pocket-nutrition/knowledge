@@ -1,0 +1,9 @@
+canonical_ingredient_id: dove
+confidence: 0.92
+cooking_method: cooked
+label: Dove, cooked (includes squab)
+match_method: auto_precise
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '169905'

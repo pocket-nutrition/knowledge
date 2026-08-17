@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Turkey, self-basting, light meat, roasted
+match_method: auto_before_comma
+meta:
+  group: MCO
+source: mccance
+source_id: 18-360

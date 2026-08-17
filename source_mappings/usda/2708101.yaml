@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708101'
+canonical_ingredient_id: granola_bar
+label: Cereal or Granola bar, NFS
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Cereal bars

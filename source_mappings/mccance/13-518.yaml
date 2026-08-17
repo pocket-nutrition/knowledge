@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-518
+canonical_ingredient_id: fire_roasted_tomato
+label: Tomatoes, standard, grilled, flesh and seeds only
+cooking_method: grilled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: DG

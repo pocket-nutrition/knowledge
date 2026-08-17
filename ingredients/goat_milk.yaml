@@ -1,0 +1,18 @@
+id: goat_milk
+name_en: goat milk
+name_fr: lait de chèvre
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.025
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- goat's milk
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

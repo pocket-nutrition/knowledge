@@ -1,0 +1,17 @@
+id: currant
+name_en: currant
+name_fr: groseille
+name_en_plural: currants
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.067
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- redcurrant
+- red currant
+display_unit: g

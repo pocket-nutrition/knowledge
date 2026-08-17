@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28844'
+canonical_ingredient_id: prosciutto
+label: Jambon sec de Parme
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,12 @@
+id: boneless_chicken
+name_en: boneless chicken
+name_fr: poulet désossé
+food_group: meat
+states:
+  cooked:
+    portion_g: 320.0
+    density_g_ml: 1.076
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,7 @@
+source: mccance
+source_id: 18-419
+canonical_ingredient_id: oxtail
+label: Oxtail, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

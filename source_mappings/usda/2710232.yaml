@@ -1,0 +1,8 @@
+canonical_ingredient_id: catalina_dressing
+confidence: 0.65
+label: French or Catalina dressing, fat free
+match_method: auto_token
+meta:
+  wweia_category: Salad dressings and vegetable oils
+source: usda
+source_id: '2710232'

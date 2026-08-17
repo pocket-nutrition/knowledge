@@ -1,0 +1,13 @@
+id: bread_butter_pickle
+name_en: bread & butter pickle
+name_fr: cornichons aigres-doux
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 35.0
+    density_g_ml: 0.676
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

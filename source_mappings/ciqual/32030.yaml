@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Pétales de céréales, nature, sucrées, enrichies en vitamines et minéraux
+match_method: auto_name
+meta:
+  group: produits sucrés
+  subgroup: céréales de petit-déjeuner
+source: ciqual
+source_id: '32030'

@@ -1,0 +1,13 @@
+id: rough_puff_pastry
+name_en: rough-puff pastry
+name_fr: pâte feuilletée rapide
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 50.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

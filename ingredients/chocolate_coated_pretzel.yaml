@@ -1,0 +1,17 @@
+id: chocolate_coated_pretzel
+name_en: chocolate-coated pretzel
+name_fr: bretzel enrobé de chocolat
+serving_mode: weight
+food_group: baked_good
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.55
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

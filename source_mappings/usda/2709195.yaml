@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709195'
+canonical_ingredient_id: dried_fruit
+label: Dried, fruit, NFS
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Dried fruits

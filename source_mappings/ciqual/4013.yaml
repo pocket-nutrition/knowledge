@@ -1,0 +1,8 @@
+canonical_ingredient_id: potato
+confidence: 0.9
+label: Pomme de terre noisette, surgelée, à cuire
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '4013'

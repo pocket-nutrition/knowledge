@@ -1,0 +1,13 @@
+id: fucus_vesiculosus
+name_en: bladderwrack
+name_fr: Fucus vésiculeux
+serving_mode: weight
+food_group: seaweed
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.3
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

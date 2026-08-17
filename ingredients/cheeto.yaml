@@ -1,0 +1,16 @@
+id: cheeto
+name_en: cheeto
+name_fr: cheeto
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.1
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

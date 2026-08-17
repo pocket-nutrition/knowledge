@@ -1,0 +1,18 @@
+id: cereal_flake
+name_en: cereal flakes
+name_fr: pétales de céréales
+name_en_plural: cereal flakes
+name_fr_plural: pétales de céréales
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.12
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

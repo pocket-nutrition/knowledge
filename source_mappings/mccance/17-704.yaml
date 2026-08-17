@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Salad cream, reduced fat
+match_method: auto_name
+meta:
+  group: WCG
+source: mccance
+source_id: 17-704

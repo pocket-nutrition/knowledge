@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Curry, lentil, red/masoor dahl and tomato, with vegetable oil, homemade
+match_method: auto_before_comma
+meta:
+  group: DR
+source: mccance
+source_id: 15-760

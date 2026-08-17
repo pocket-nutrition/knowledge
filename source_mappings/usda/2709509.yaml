@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709509'
+canonical_ingredient_id: _composite
+label: Potato, mashed, ready-to-heat, with gravy
+match_method: name_en_before_comma
+confidence: 0.75

@@ -1,0 +1,8 @@
+canonical_ingredient_id: barley_flour
+confidence: 0.9
+label: Farine d'orge
+match_method: auto_ai
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '9550'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: maple_syrup
+confidence: 0.95
+label: Sirop d'érable
+match_method: auto_exact
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31034'

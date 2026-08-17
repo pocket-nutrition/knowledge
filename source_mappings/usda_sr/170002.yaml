@@ -1,0 +1,8 @@
+canonical_ingredient_id: onion_flake
+confidence: 0.9
+label: Onions, dehydrated flakes
+match_method: auto_ai
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '170002'

@@ -1,0 +1,19 @@
+id: choux_pastry_shell
+name_en: choux pastry shell
+name_fr: coque de pâte à choux
+serving_mode: item
+unit_label_en: shell
+unit_label_fr: coque
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 15.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- cream puff shell
+aliases_fr:
+- chou pâtissier
+display_unit: g

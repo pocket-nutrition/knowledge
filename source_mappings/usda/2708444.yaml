@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708444'
+canonical_ingredient_id: oat_bran
+label: Oat bran cereal, cooked
+cooking_method: boiled
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Grits and other cooked cereals

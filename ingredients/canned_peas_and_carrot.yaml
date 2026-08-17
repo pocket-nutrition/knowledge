@@ -1,0 +1,13 @@
+id: canned_peas_and_carrot
+name_en: canned peas and carrot
+name_fr: petits pois carottes en conserve
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.078
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

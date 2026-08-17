@@ -1,0 +1,14 @@
+id: egg_candy
+name_en: egg candy
+name_fr: egg candy
+serving_mode: weight
+food_group: sweetener
+states:
+  processed:
+    portion_g: 15.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

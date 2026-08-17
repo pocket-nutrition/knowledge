@@ -1,0 +1,16 @@
+id: semi_skimmed_milk
+name_en: semi-skimmed milk
+name_fr: lait demi-écrémé
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

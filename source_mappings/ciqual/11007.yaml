@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11007'
+canonical_ingredient_id: gelatin
+label: Gélatine, sèche
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: aides culinaires et ingrédients divers

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Sauce, pesto, BUITONI, pesto with basil, ready-to-serve, refrigerated
+match_method: auto_name
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_sr
+source_id: '171581'

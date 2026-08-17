@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707330'
+canonical_ingredient_id: _composite
+label: Egg sandwich on bagel, with bacon
+match_method: name_en_partial
+confidence: 0.65

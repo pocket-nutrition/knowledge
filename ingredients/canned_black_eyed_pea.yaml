@@ -1,0 +1,14 @@
+id: canned_black_eyed_pea
+name_en: canned black-eyed pea
+name_fr: haricots à œil noir en conserve
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- cornille en conserve
+display_unit: g

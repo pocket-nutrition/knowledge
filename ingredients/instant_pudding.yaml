@@ -1,0 +1,13 @@
+id: instant_pudding
+name_en: instant pudding
+name_fr: pudding instantané
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.7
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

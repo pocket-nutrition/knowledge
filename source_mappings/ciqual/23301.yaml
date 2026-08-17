@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Corne de gazelle (pâtisserie orientale aux amandes en forme de croissant recouverte
+  de sucre glace)
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '23301'

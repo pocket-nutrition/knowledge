@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706031'
+canonical_ingredient_id: chicken_thigh
+label: Chicken thigh, baked or broiled, skin eaten, from pre-cooked
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Chicken, whole pieces

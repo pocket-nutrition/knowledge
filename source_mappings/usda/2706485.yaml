@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Beef and noodles with cream or white sauce
+match_method: auto_name
+meta:
+  wweia_category: Meat mixed dishes
+source: usda
+source_id: '2706485'

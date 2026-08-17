@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707286'
+canonical_ingredient_id: egg_white
+label: Egg white omelet, scrambled, or fried, made with butter
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Eggs and omelets

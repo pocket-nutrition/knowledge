@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '26260'
+canonical_ingredient_id: _composite
+label: Salade de concombre à la crème/fromage blanc, préemballée
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: entrées et plats composés

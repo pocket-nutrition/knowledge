@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709366'
+canonical_ingredient_id: _composite
+label: Baby Toddler bananas, Stage 2
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: 'Baby food: fruit'

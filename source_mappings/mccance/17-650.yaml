@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Chocolate, dark, with crème or mint fondant centres
+match_method: auto_before_comma
+meta:
+  group: SEA
+source: mccance
+source_id: 17-650

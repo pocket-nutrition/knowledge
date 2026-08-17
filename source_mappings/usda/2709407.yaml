@@ -1,0 +1,9 @@
+canonical_ingredient_id: potato
+confidence: 0.8
+cooking_method: roasted
+label: Potato, roasted, from fresh, peel eaten, made with butter
+match_method: auto_before_comma
+meta:
+  category: White potatoes, baked or boiled
+source: usda
+source_id: '2709407'

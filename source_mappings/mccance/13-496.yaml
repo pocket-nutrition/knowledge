@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Carrots, old, raw
+match_method: auto_ai
+meta:
+  description: 22 samples, autumn and winter, UK grown, pre-packed and loose, top
+    and tailed, peeled and not peeled
+  food_group: DG
+source: mccance
+source_id: 13-496

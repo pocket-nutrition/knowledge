@@ -1,0 +1,21 @@
+id: greek_yogurt
+name_en: greek yogurt
+name_fr: yaourt grec
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- greek-style yogurt
+- strained yogurt
+aliases_fr:
+- yaourt à la grecque
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

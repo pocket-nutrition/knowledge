@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Breakfast cereal, bran flakes, fortified
+match_method: auto_before_comma
+meta:
+  group: AI
+source: mccance
+source_id: 11-763

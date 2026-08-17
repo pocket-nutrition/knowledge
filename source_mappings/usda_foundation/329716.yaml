@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '329716'
+canonical_ingredient_id: egg_yolk
+label: Egg, yolk, dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Dairy and Egg Products

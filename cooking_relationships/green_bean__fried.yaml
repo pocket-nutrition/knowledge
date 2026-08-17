@@ -1,0 +1,10 @@
+confidence: 0.85
+cooking_method: fried
+nutrient_retention:
+  niacin_mg: 0.8
+  potassium_mg: 0.8
+  vitamin_b6_mg: 0.7
+  vitamin_c_mg: 0.6
+raw_id: green_bean
+source: usda_pair
+yield_factor: 0.1794

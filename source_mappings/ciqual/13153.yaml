@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Purée de fruits, tout type de fruits, type "compote sans sucres ajoutés", rayon
+  ambiant
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13153'

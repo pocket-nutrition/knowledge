@@ -1,0 +1,13 @@
+id: golden_wax_bean
+name_en: golden wax bean
+name_fr: haricot beurre
+serving_mode: weight
+food_group: legume
+states:
+  cooked: {}
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

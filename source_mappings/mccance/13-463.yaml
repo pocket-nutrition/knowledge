@@ -1,0 +1,6 @@
+canonical_ingredient_id: null
+confidence: 0.75
+label: Sweet potato, raw, flesh only
+match_method: name_en_before_comma
+source: mccance
+source_id: 13-463

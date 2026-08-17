@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709318'
+canonical_ingredient_id: cranberry_juice
+label: Cranberry juice blend, 100% juice, with calcium added
+match_method: ai_review
+confidence: 0.9

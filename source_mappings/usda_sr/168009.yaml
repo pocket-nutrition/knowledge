@@ -1,0 +1,8 @@
+canonical_ingredient_id: gluten_free_bread
+confidence: 0.65
+label: Schar, Gluten-Free, Wheat-Free, Classic White Bread
+match_method: auto_token
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '168009'

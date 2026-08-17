@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '332397'
+canonical_ingredient_id: ham
+label: Ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Sausages and Luncheon Meats

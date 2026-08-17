@@ -1,0 +1,14 @@
+id: green_tea_leaf
+name_en: green tea leaf
+name_fr: feuille de thé vert
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+can_eat_raw: false
+can_eat_cooked: false
+typical_state: raw
+serving_unit_types:
+- teaspoon
+display_unit: g

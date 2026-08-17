@@ -1,0 +1,13 @@
+id: leg_lamb
+name_en: Leg of lamb
+name_fr: Gigot d'agneau
+food_group: meat
+states:
+  cooked: {}
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.048
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

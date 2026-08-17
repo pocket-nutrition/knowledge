@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.7
+label: Wheat, hard white
+match_method: auto_ai
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '169719'

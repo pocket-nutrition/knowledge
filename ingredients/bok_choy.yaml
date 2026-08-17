@@ -1,0 +1,13 @@
+id: bok_choy
+name_en: bok choy
+name_fr: pak choï
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.013
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709379'
+canonical_ingredient_id: _composite
+label: Baby Toddler juice, fruit and yogurt blend
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: 'Baby food: mixtures'

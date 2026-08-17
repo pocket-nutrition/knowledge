@@ -1,0 +1,14 @@
+id: ringed_seal
+name_en: ringed seal
+name_fr: phoque annelé
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 130.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- phoque
+display_unit: g

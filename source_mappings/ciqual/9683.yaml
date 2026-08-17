@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9683'
+canonical_ingredient_id: semolina_couscous
+label: Semoule ou graine de couscous, cuite, sans sel ajouté
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

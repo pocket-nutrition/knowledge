@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709220'
+canonical_ingredient_id: apple
+label: Apple, baked
+cooking_method: cooked
+match_method: manual
+confidence: 1.0
+meta:
+  category: Apples

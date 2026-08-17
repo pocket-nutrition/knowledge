@@ -1,0 +1,17 @@
+id: whale_fat
+name_en: muktuk
+name_fr: muktuk (peau et lard de baleine)
+serving_mode: weight
+food_group: fat
+states:
+  raw:
+    portion_g: 15.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- whale fat
+- whale skin and blubber
+aliases_fr:
+- graisse de baleine
+display_unit: g

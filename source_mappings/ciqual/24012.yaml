@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Biscuit sec au chocolat, sans sucres ajoutés, avec édulcorants, enrichi en
+  vitamines
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24012'

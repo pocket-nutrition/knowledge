@@ -1,0 +1,16 @@
+id: muesli
+name_en: muesli
+name_fr: muesli
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 45.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- bowl
+- cup
+display_unit: g

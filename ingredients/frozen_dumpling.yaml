@@ -1,0 +1,11 @@
+id: frozen_dumpling
+name_en: frozen dumpling
+name_fr: raviole surgelée
+food_group: other
+states:
+  raw:
+    portion_g: 114.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

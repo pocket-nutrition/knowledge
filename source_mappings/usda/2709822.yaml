@@ -1,0 +1,7 @@
+canonical_ingredient_id: _composite
+confidence: 0.75
+label: Lettuce, salad with assorted vegetables including tomatoes and/or carrots,
+  no dressing
+match_method: name_en_before_comma
+source: usda
+source_id: '2709822'

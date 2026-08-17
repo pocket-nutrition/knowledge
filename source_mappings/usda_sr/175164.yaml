@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '175164'
+canonical_ingredient_id: king_crab
+label: Crustaceans, crab, alaska king, raw
+cooking_method: raw
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Finfish and Shellfish Products

@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '19643'
+canonical_ingredient_id: _composite
+label: Fromage blanc et crème fouettée, sur lit de fruits, sucré
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: produits laitiers

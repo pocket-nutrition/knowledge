@@ -1,0 +1,6 @@
+canonical_ingredient_id: beer
+confidence: 0.75
+label: Beer, nonalcoholic
+match_method: name_en_before_comma
+source: usda
+source_id: '2710610'

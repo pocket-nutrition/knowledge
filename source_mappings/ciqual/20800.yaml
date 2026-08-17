@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20800'
+label: Banane jaune, chair sans peau, cuite à la vapeur, prélevée à la Martinique
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

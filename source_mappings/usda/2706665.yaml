@@ -1,0 +1,6 @@
+source: usda
+source_id: '2706665'
+canonical_ingredient_id: _composite
+label: Venison or deer, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce
+match_method: name_en_partial
+confidence: 0.65

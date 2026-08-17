@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Curry, Prawn madras, takeaway
+match_method: auto_before_comma
+meta:
+  group: JR
+source: mccance
+source_id: 16-366

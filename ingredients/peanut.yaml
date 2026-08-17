@@ -1,0 +1,21 @@
+id: peanut
+name_en: peanut
+name_fr: cacahuète
+name_en_plural: peanuts
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- groundnut
+aliases_fr:
+- arachide
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

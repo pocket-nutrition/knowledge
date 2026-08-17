@@ -1,0 +1,8 @@
+canonical_ingredient_id: dark_corn_syrup
+confidence: 0.65
+label: Syrup, corn, dark
+match_method: auto_token
+meta:
+  group: SC
+source: mccance
+source_id: 17-064

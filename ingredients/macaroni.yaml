@@ -1,0 +1,13 @@
+id: macaroni
+name_en: macaroni
+name_fr: macaroni
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 134.0
+    density_g_ml: 0.355
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

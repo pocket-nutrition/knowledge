@@ -1,0 +1,17 @@
+id: palm_kernel_oil
+name_en: palm kernel oil
+name_fr: huile de palmiste
+serving_mode: volume
+food_group: fat
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.925
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

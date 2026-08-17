@@ -1,0 +1,8 @@
+canonical_ingredient_id: yeast_extract_spread
+confidence: 0.9
+label: Extrait de levure, à tartiner
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11221'

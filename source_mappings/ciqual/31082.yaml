@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: 'Préparation de fruits divers (en taux de sucres : confitures allégées en sucres
+  < préparations de fruits < confitures)'
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31082'

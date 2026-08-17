@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709564'
+canonical_ingredient_id: cassava
+label: Cassava, cooked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Other starchy vegetables

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Buffalo, free range, top round steak, raw (Shoshone Bannock)
+match_method: auto_token
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '167649'

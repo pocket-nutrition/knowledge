@@ -1,0 +1,14 @@
+id: straw_mushroom
+name_en: straw mushroom
+name_fr: volvaire volvacée
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_fr:
+- champignon paille
+display_unit: g

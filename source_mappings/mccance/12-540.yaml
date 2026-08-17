@@ -1,0 +1,8 @@
+canonical_ingredient_id: cheese_spread
+confidence: 0.92
+label: Cheese spread, plain
+match_method: auto_precise
+meta:
+  group: BL
+source: mccance
+source_id: 12-540

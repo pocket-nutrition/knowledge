@@ -1,0 +1,8 @@
+canonical_ingredient_id: tomato_juice
+confidence: 0.8
+label: Tomato juice, with added ingredients, from concentrate, shelf stable
+match_method: auto_before_comma
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_foundation
+source_id: '2003596'

@@ -1,0 +1,13 @@
+id: pig_kidney
+name_en: pig kidney
+name_fr: rognon de porc
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.07
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+display_unit: g

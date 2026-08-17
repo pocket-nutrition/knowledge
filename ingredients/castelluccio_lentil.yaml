@@ -1,0 +1,13 @@
+id: castelluccio_lentil
+name_en: castelluccio lentil
+name_fr: lentille de Castelluccio
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 0.85
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

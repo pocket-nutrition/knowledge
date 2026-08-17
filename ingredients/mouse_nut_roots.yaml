@@ -1,0 +1,11 @@
+id: mouse_nut_roots
+name_en: mouse nut roots
+name_fr: noix de souris racines
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,16 @@
+id: silken_tofu
+name_en: silken tofu
+name_fr: tofu soyeux
+serving_mode: weight
+food_group: legume
+states:
+  processed:
+    portion_g: 100.0
+    density_g_ml: 1.02
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- soft tofu
+display_unit: g

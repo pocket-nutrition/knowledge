@@ -1,0 +1,8 @@
+canonical_ingredient_id: peanut_butter
+confidence: 0.9
+label: Beurre de cacahuète ou pâte d'arachide
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '15202'

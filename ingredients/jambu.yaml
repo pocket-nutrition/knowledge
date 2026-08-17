@@ -1,0 +1,7 @@
+food_group: vegetable
+id: jambu
+name_en: jambu
+name_fr: jambu
+states:
+  raw:
+    portion_g: 80

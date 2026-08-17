@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Dips, sour-cream based, reduced fat
+match_method: auto_token
+meta:
+  group: WCG
+source: mccance
+source_id: 17-677

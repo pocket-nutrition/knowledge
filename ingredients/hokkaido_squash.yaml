@@ -1,0 +1,12 @@
+id: hokkaido_squash
+name_en: hokkaido squash
+name_fr: courge hokkaïdo
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

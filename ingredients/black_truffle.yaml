@@ -1,0 +1,13 @@
+id: black_truffle
+name_en: black truffle
+name_fr: truffe noire
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked: {}
+  raw:
+    portion_g: 5.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

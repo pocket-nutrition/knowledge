@@ -1,0 +1,8 @@
+canonical_ingredient_id: extra_virgin_olive_oil
+confidence: 0.65
+label: Oil, olive, extra virgin
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_foundation
+source_id: '748608'

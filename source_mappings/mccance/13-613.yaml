@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-613
+canonical_ingredient_id: french_fries
+label: Potato chips, fried in beef dripping, from takeaway fish and chip shops
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: DAR

@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '747437'
+canonical_ingredient_id: dried_beans
+label: Beans, Dry, Cranberry (0% moisture)
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

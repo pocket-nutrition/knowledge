@@ -1,0 +1,13 @@
+id: sea_crest
+name_en: samphire
+name_fr: criste marine
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

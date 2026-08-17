@@ -1,0 +1,11 @@
+id: whole_grain_oat
+name_en: whole-grain oat
+name_fr: avoine complète
+food_group: cereal
+states:
+  raw:
+    portion_g: 43.0
+    density_g_ml: 0.549
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707425'
+canonical_ingredient_id: lentil
+label: Lentils, from dried, no added fat
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Beans, peas, legumes

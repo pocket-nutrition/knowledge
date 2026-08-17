@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Dates, raw, flesh and skin, weighed with stones
+match_method: auto_ai
+meta:
+  description: Calculated from whole raw dates, 14-083
+  food_group: FA
+source: mccance
+source_id: 14-084

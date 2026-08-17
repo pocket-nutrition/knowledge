@@ -1,0 +1,8 @@
+canonical_ingredient_id: licorice
+confidence: 0.9
+label: Liquorice powder
+match_method: auto_ai
+meta:
+  group: H
+source: mccance
+source_id: 13-833

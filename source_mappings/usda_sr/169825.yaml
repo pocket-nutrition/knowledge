@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169825'
+canonical_ingredient_id: steller_sea_lion_fat
+label: Sea lion, Steller, fat (Alaska Native)
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

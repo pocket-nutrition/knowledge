@@ -1,0 +1,9 @@
+canonical_ingredient_id: sheep_cheese
+confidence: 0.9
+label: Brousse (fromage de brebis frais au lactosérum)
+match_method: auto_ai
+meta:
+  group: produits laitiers
+  subgroup: fromages et alternatives végétales
+source: ciqual
+source_id: '12071'

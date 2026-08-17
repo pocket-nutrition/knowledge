@@ -1,0 +1,13 @@
+id: mashed_potato
+name_en: mashed potato
+name_fr: purée de pomme de terre
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 242.0
+    density_g_ml: 1.059
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

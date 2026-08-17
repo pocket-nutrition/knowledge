@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '175065'
+canonical_ingredient_id: pie_crust
+label: Pie crust, standard-type, frozen, ready-to-bake, unenriched
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Baked Products

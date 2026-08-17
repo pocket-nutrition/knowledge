@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '170387'
+canonical_ingredient_id: butterbur
+label: Butterbur, canned
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

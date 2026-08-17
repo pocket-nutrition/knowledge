@@ -1,0 +1,14 @@
+id: taco_shell
+name_en: taco shell
+name_fr: coque à taco
+serving_mode: item
+unit_label_en: shell
+unit_label_fr: coque
+food_group: baked_good
+states:
+  raw:
+    portion_g: 13.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

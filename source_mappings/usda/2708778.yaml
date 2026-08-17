@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708778'
+canonical_ingredient_id: _composite
+label: Manicotti, vegetable- and cheese-filled, with tomato sauce, meatless
+match_method: name_en_before_comma
+confidence: 0.75

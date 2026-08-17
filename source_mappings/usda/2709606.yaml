@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709606'
+canonical_ingredient_id: mustard_greens
+label: Mustard greens, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

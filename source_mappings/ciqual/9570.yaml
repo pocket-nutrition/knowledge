@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9570'
+canonical_ingredient_id: chestnut_flour
+label: Farine de châtaigne
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits céréaliers

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169924'
+canonical_ingredient_id: canned_mandarin_orange
+label: Tangerines, (mandarin oranges), canned, light syrup pack
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Fruits and Fruit Juices

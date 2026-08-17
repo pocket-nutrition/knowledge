@@ -1,0 +1,12 @@
+id: beef_shoulder
+name_en: beef shoulder
+name_fr: épaule de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '17020'
+canonical_ingredient_id: apricot_kernel_oil
+label: Huile de noyaux d'abricot
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: matières grasses

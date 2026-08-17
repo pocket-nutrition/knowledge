@@ -1,0 +1,14 @@
+id: half_sour_pickle
+name_en: half-sour pickle
+name_fr: cornichon demi-sûr
+serving_mode: item
+unit_label_en: pickle
+unit_label_fr: cornichon
+food_group: vegetable
+states:
+  raw:
+    portion_g: 35.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '9690'
+canonical_ingredient_id: bulgur
+label: Boulgour de blé, cru
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits céréaliers
+  subgroup: pâtes, riz et céréales

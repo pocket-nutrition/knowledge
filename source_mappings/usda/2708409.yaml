@@ -1,0 +1,9 @@
+canonical_ingredient_id: rice
+confidence: 0.8
+cooking_method: cooked
+label: Rice, brown, cooked, NS as to fat
+match_method: auto_before_comma
+meta:
+  category: Rice
+source: usda
+source_id: '2708409'

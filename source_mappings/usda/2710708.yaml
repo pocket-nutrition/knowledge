@@ -1,0 +1,8 @@
+canonical_ingredient_id: water
+confidence: 0.9
+label: Water, bottled, plain
+match_method: auto_ai
+meta:
+  wweia_category: Bottled water
+source: usda
+source_id: '2710708'

@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20192'
+canonical_ingredient_id: tomato
+label: Tomate côtelée ou coeur de boeuf, crue
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

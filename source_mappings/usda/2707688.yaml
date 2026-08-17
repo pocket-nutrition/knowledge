@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707688'
+canonical_ingredient_id: _composite
+label: Bread stuffing made with egg
+match_method: name_en_partial
+confidence: 0.65

@@ -1,0 +1,8 @@
+canonical_ingredient_id: soft_cheese
+confidence: 0.8
+label: Fromage à pâte molle, triple crème, environ 38% MG
+match_method: auto_before_comma
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12033'

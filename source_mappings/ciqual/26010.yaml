@@ -1,0 +1,8 @@
+canonical_ingredient_id: soused_herring
+confidence: 0.9
+label: Hareng mariné ou rollmops, préemballé
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '26010'

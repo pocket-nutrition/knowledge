@@ -1,0 +1,17 @@
+id: willow_leaf
+name_en: willow leaf
+name_fr: feuille de saule
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- willow leaves
+- young willow leaves
+aliases_fr:
+- feuilles de saule
+display_unit: g

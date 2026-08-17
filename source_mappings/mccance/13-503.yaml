@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+cooking_method: boiled
+label: Broccoli, green, boiled in unsalted water
+match_method: auto_before_comma
+meta:
+  group: DG
+source: mccance
+source_id: 13-503

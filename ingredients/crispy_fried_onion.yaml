@@ -1,0 +1,13 @@
+id: crispy_fried_onion
+name_en: crispy fried onion
+name_fr: oignons frits croustillants
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 117.0
+    density_g_ml: 0.203
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+display_unit: g

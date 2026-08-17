@@ -1,0 +1,7 @@
+food_group: other
+id: cranberry_seed
+name_en: cranberry seed
+name_fr: graines de canneberge
+states:
+  raw:
+    portion_g: 100

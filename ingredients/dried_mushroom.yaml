@@ -1,0 +1,11 @@
+id: dried_mushroom
+name_en: dried mushroom
+name_fr: champignon séché
+food_group: vegetable
+states:
+  raw:
+    portion_g: 10.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

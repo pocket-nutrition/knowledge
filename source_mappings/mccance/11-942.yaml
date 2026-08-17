@@ -1,0 +1,10 @@
+source: mccance
+source_id: 11-942
+canonical_ingredient_id: egg_noodle
+label: Noodles, egg, thick, dried, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from medium cooked noodles
+  food_group: AD

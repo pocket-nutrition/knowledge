@@ -1,0 +1,6 @@
+source: usda
+source_id: '2706505'
+canonical_ingredient_id: _composite
+label: Ham and noodles with cream or white sauce
+match_method: name_en_partial
+confidence: 0.65

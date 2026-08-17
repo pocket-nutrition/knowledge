@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '170564'
+canonical_ingredient_id: sunflower_seed
+label: Seeds, sunflower seed kernels, oil roasted, without salt
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

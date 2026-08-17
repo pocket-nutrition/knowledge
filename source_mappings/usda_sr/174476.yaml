@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174476'
+canonical_ingredient_id: emu
+label: Emu, fan fillet, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Poultry Products

@@ -1,0 +1,15 @@
+id: pear
+name_en: pear
+name_fr: poire
+serving_mode: item
+unit_label_en: pear
+unit_label_fr: poire
+food_group: fruit
+states:
+  raw:
+    portion_g: 179.0
+    density_g_ml: 1.051
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

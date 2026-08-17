@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-469
+canonical_ingredient_id: coley
+label: Coley, flesh only, steamed
+cooking_method: steamed
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: JA

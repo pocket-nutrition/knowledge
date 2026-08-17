@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '10088'
+canonical_ingredient_id: crayfish
+label: Ecrevisses, décortiquées, cuites, réfrigérées, préemballées
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,12 @@
+id: butternut_squash
+name_en: butternut squash
+name_fr: courge butternut
+food_group: vegetable
+states:
+  raw:
+    portion_g: 113.0
+    density_g_ml: 1.03
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

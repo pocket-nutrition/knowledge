@@ -1,0 +1,21 @@
+id: ti_nain
+name_en: ti-nain green banana
+name_fr: Ti-nain (banane verte)
+serving_mode: item
+unit_label_en: banana
+unit_label_fr: banane
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- green banana
+- green cooking banana
+aliases_fr:
+- banane verte
+- figue verte
+- banane ti-nain
+display_unit: g

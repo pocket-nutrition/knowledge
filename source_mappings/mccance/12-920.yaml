@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Eggs, duck, whole, raw
+match_method: auto_ai
+meta:
+  description: Analytical and literature sources.  Ref.  Posati and Orr (1976)
+  food_group: CA
+source: mccance
+source_id: 12-920

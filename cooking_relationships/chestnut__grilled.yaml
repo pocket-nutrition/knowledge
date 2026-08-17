@@ -1,0 +1,10 @@
+confidence: 0.9
+cooking_method: grilled
+nutrient_retention:
+  niacin_mg: 0.85
+  potassium_mg: 0.85
+  vitamin_b6_mg: 0.75
+  vitamin_c_mg: 0.65
+raw_id: chestnut
+source: ciqual_pair
+yield_factor: 0.6048

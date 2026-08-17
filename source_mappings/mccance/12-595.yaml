@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Raita, yogurt and gram flour, homemade
+match_method: auto_name
+meta:
+  group: BV
+source: mccance
+source_id: 12-595

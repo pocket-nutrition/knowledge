@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '170918'
+canonical_ingredient_id: caraway_seeds
+label: Spices, caraway seed
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Spices and Herbs

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Potato tots, from fresh, fried or baked
+match_method: auto_name
+meta:
+  category: French fries and other fried white potatoes
+source: usda
+source_id: '2709514'

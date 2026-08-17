@@ -1,0 +1,7 @@
+food_group: other
+id: beaver
+name_en: beaver
+name_fr: castorine
+states:
+  raw:
+    portion_g: 100

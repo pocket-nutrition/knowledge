@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-288
+canonical_ingredient_id: chinese_mushroom
+label: Mushrooms, Chinese, dried, raw
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Literature sources
+  food_group: DG

@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '332791'
+canonical_ingredient_id: pimiento_stuffed_green_olive
+label: Olives, green, Manzanilla, stuffed with pimiento
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Fruits and Fruit Juices

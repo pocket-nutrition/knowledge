@@ -1,0 +1,8 @@
+canonical_ingredient_id: desiccated_coconut
+confidence: 0.65
+label: Nuts, coconut meat, dried (desiccated), sweetened, shredded
+match_method: auto_token
+meta:
+  category: Nut and Seed Products
+source: usda_sr
+source_id: '168586'

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169395'
+canonical_ingredient_id: serrano_pepper
+label: Peppers, serrano, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

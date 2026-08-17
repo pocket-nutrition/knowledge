@@ -1,0 +1,12 @@
+id: salsify
+name_en: salsify
+name_fr: salsifis
+food_group: vegetable
+states:
+  raw:
+    portion_g: 135.0
+    density_g_ml: 1.083
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

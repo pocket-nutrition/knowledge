@@ -1,0 +1,12 @@
+id: garlic_bread
+name_en: garlic bread
+name_fr: pain à l'ail
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 51.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

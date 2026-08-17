@@ -1,0 +1,17 @@
+id: pine_nut
+name_en: pine nut
+name_fr: pignon de pin
+name_en_plural: pine nuts
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.55
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

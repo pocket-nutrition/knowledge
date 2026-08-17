@@ -1,0 +1,8 @@
+canonical_ingredient_id: passion_fruit
+confidence: 0.65
+label: Nectar de fruit de la passion ou maracuja
+match_method: auto_token
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '2365'

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705752'
+canonical_ingredient_id: _composite
+label: Cheese, cottage, with vegetables
+match_method: name_en_before_comma
+confidence: 0.75

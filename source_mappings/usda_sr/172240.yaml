@@ -1,0 +1,8 @@
+canonical_ingredient_id: red_wine_vinegar
+confidence: 0.9
+label: Vinegar, red wine
+match_method: auto_precise
+meta:
+  category: Spices and Herbs
+source: usda_sr
+source_id: '172240'

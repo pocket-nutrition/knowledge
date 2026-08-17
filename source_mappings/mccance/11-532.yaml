@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Cake, sponge, with dairy cream and jam, frozen
+match_method: auto_token
+meta:
+  group: AN
+source: mccance
+source_id: 11-532

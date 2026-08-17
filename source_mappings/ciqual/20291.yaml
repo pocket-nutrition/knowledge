@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20291'
+canonical_ingredient_id: potiron_squash
+label: Potimarron, chair sans peau, cuit à l'étouffée
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

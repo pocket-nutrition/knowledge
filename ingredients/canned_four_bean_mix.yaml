@@ -1,0 +1,16 @@
+id: canned_four_bean_mix
+name_en: canned four-bean mix
+name_fr: mélange de quatre haricots en conserve
+serving_mode: weight
+food_group: legume
+states:
+  processed:
+    portion_g: 90.0
+    density_g_ml: 1.141
+  raw:
+    portion_g: 270.0
+    density_g_ml: 1.141
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

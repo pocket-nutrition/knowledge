@@ -1,0 +1,8 @@
+canonical_ingredient_id: chicken_feet
+confidence: 0.9
+label: Chicken feet
+match_method: auto_ai
+meta:
+  wweia_category: Chicken, whole pieces
+source: usda
+source_id: '2706085'

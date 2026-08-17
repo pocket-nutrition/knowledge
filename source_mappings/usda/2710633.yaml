@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710633'
+canonical_ingredient_id: _composite
+label: Gin and tonic
+match_method: name_en_partial
+confidence: 0.65

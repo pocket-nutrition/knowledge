@@ -1,0 +1,8 @@
+canonical_ingredient_id: grape_leaves
+confidence: 0.9
+label: Grape leaves, raw
+match_method: auto_ai
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '168575'

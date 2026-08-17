@@ -1,0 +1,14 @@
+id: cracker
+name_en: cracker
+name_fr: cracker
+name_en_plural: crackers
+name_fr_plural: crackers
+food_group: baked_good
+states:
+  raw:
+    portion_g: 72.0
+    density_g_ml: 0.486
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

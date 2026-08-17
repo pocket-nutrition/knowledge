@@ -1,0 +1,8 @@
+source: mccance
+source_id: 11-907
+canonical_ingredient_id: wheat_germ
+label: Wheatgerm
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: AA

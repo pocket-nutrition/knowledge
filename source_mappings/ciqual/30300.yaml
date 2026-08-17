@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '30300'
+canonical_ingredient_id: dry_sausage
+label: Saucisson sec
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

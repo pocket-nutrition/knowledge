@@ -1,0 +1,8 @@
+canonical_ingredient_id: lentil_soup
+confidence: 0.9
+label: Soup, lentil, canned
+match_method: auto_precise
+meta:
+  group: WAC
+source: mccance
+source_id: 17-698

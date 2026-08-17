@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-471
+canonical_ingredient_id: rump_steak
+label: Beef, rump steak, raw, lean and fat
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 88% lean and 11% fat
+  food_group: MAC

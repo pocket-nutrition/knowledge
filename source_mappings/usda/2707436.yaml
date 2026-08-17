@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707436'
+canonical_ingredient_id: edamame
+label: Edamame, cooked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Beans, peas, legumes

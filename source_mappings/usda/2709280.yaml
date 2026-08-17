@@ -1,0 +1,6 @@
+canonical_ingredient_id: cranberry_sauce
+confidence: 0.9
+label: Cranberry sauce
+match_method: name_en_exact
+source: usda
+source_id: '2709280'

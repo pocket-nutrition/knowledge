@@ -1,0 +1,8 @@
+canonical_ingredient_id: lemonade_concentrate
+confidence: 0.65
+label: Beverages, lemonade, frozen concentrate, pink, prepared with water
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '173667'

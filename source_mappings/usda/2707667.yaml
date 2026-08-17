@@ -1,0 +1,8 @@
+canonical_ingredient_id: cinnamon_roll
+confidence: 0.65
+label: Roll, sweet, cinnamon bun, no frosting
+match_method: auto_token
+meta:
+  wweia_category: Doughnuts, sweet rolls, pastries
+source: usda
+source_id: '2707667'

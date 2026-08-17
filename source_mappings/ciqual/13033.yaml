@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '13033'
+canonical_ingredient_id: green_olive
+label: Olive verte, en saumure, égouttée
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: aides culinaires et ingrédients divers

@@ -1,0 +1,19 @@
+id: butter_flavored_cooking_spray
+name_en: butter-flavored cooking spray
+name_fr: spray de cuisson au beurre
+serving_mode: measure
+food_group: fat
+states:
+  raw:
+    portion_g: 247.0
+    density_g_ml: 0.91
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- butter cooking spray
+- butter oil spray
+aliases_fr:
+- huile de cuisson en spray au beurre
+- spray de cuisson au beurre
+display_unit: ml

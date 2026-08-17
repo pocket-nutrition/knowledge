@@ -1,0 +1,8 @@
+canonical_ingredient_id: apple_juice
+confidence: 0.9
+label: Nectar de pomme
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '2076'

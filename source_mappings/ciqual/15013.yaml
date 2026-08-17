@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Crème de marron ou confiture de châtaigne, préemballée
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '15013'

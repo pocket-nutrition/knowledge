@@ -1,0 +1,6 @@
+canonical_ingredient_id: waffle
+confidence: 0.75
+label: Waffle, plain, frozen
+match_method: name_en_before_comma
+source: usda
+source_id: '2708313'

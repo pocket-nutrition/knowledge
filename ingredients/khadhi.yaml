@@ -1,0 +1,7 @@
+food_group: vegetable
+id: khadhi
+name_en: Khadhi
+name_fr: Khadhi
+states:
+  raw:
+    portion_g: 80

@@ -1,0 +1,13 @@
+id: pie_crust
+name_en: pie crust
+name_fr: pâte à tarte
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 229.0
+    density_g_ml: 0.545
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

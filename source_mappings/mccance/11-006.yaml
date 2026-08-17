@@ -1,0 +1,8 @@
+canonical_ingredient_id: buckwheat_groats
+confidence: 0.92
+label: Buckwheat, groats
+match_method: auto_precise
+meta:
+  group: AA
+source: mccance
+source_id: 11-006

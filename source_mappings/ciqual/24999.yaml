@@ -1,0 +1,6 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Dessert (aliment moyen)
+match_method: auto_name
+source: ciqual
+source_id: '24999'

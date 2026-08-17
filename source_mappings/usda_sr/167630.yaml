@@ -1,0 +1,8 @@
+canonical_ingredient_id: chilchen_red_berry
+confidence: 0.9
+label: Chilchen (Red Berry Beverage) (Navajo)
+match_method: auto_ai
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '167630'

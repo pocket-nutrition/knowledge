@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Potato crisps, low fat
+match_method: auto_ai
+meta:
+  group: SN
+source: mccance
+source_id: 17-693

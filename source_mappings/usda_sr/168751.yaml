@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168751'
+canonical_ingredient_id: almond_milk
+label: Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

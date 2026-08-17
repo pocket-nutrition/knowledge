@@ -1,0 +1,12 @@
+id: chital
+name_en: chital
+name_fr: chital
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

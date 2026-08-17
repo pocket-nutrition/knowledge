@@ -1,0 +1,17 @@
+id: tongue
+name_en: tongue
+name_fr: langue
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.038
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- beef tongue
+aliases_fr:
+- langue de bœuf
+display_unit: g

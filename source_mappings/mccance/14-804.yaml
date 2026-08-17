@@ -1,0 +1,8 @@
+source: mccance
+source_id: 14-804
+canonical_ingredient_id: hazelnut
+label: Barcelona nuts, Kernel only
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: GA

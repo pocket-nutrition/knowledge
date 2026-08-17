@@ -1,0 +1,6 @@
+canonical_ingredient_id: horseradish_sauce
+confidence: 0.9
+label: Horseradish sauce
+match_method: name_en_exact
+source: usda
+source_id: '2710174'

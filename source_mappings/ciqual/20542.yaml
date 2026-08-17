@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20542'
+canonical_ingredient_id: broad_bean
+label: Fève, pelée, fraîche, surgelée, bouillie/cuite à l'eau
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumineuses

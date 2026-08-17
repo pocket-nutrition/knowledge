@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Pre-mixed spirit based drinks
+match_method: auto_name
+meta:
+  group: Q
+source: mccance
+source_id: 17-758

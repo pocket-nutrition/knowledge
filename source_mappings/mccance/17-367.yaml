@@ -1,0 +1,8 @@
+canonical_ingredient_id: salt
+confidence: 0.95
+label: Salt
+match_method: auto_exact
+meta:
+  group: WY
+source: mccance
+source_id: 17-367

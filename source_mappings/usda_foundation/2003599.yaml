@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2003599'
+canonical_ingredient_id: king_oyster_mushroom
+label: Mushroom, king oyster
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

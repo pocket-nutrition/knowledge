@@ -1,0 +1,13 @@
+id: banana_pudding
+name_en: banana pudding
+name_fr: pudding à la banane
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 113.0
+    density_g_ml: 1.014
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

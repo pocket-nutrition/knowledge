@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '96781'
+canonical_ingredient_id: rice_starch
+label: Amidon de riz
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

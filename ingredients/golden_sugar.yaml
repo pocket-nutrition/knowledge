@@ -1,0 +1,16 @@
+id: golden_sugar
+name_en: golden sugar
+name_fr: sucre blond
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 4.0
+    density_g_ml: 0.85
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

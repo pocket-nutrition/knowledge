@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '28502'
+canonical_ingredient_id: pork_belly
+label: Poitrine de porc en salaison, fumée, crue
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9

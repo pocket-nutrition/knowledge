@@ -1,0 +1,12 @@
+id: cream_of_potato
+name_en: cream of potato soup
+name_fr: velouté de pomme de terre
+serving_mode: volume
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 113.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

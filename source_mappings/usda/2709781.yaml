@@ -1,0 +1,8 @@
+canonical_ingredient_id: chive
+confidence: 0.9
+label: Chives, raw
+match_method: auto_ai
+meta:
+  wweia_category: Not included in a food category
+source: usda
+source_id: '2709781'

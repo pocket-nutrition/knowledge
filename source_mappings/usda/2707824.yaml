@@ -1,0 +1,8 @@
+canonical_ingredient_id: flour_tortilla
+confidence: 0.9
+label: Tortilla, flour
+match_method: auto_ai
+meta:
+  wweia_category: Tortillas
+source: usda
+source_id: '2707824'

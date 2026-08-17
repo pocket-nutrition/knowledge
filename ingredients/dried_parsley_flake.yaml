@@ -1,0 +1,17 @@
+id: dried_parsley_flake
+name_en: dried parsley flake
+name_fr: flocon de persil séché
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 0.15
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+- tablespoon
+display_unit: g

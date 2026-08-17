@@ -1,0 +1,17 @@
+id: chili_puree
+name_en: chili purée
+name_fr: purée de piment
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 1.05
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709748'
+canonical_ingredient_id: tomato_sauce
+label: Spaghetti sauce, fat free
+match_method: ai_review
+confidence: 0.9

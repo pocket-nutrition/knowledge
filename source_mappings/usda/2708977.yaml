@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708977'
+canonical_ingredient_id: _composite
+label: Rice with squid, Puerto Rican style
+match_method: name_en_partial
+confidence: 0.65

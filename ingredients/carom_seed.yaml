@@ -1,0 +1,23 @@
+id: carom_seed
+name_en: carom seed
+name_fr: graine d'ajowan
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- ajwain
+- ajowan
+- bishop's weed
+aliases_fr:
+- ajwain
+- ajowan
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

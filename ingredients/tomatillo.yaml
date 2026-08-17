@@ -1,0 +1,20 @@
+id: tomatillo
+name_en: tomatillo
+name_fr: tomatille
+serving_mode: item
+unit_label_en: tomatillo
+unit_label_fr: tomatille
+food_group: vegetable
+states:
+  raw:
+    portion_g: 34.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- husk tomato
+- Mexican green tomato
+aliases_fr:
+- tomatillo
+- tomate verte du Mexique
+display_unit: g

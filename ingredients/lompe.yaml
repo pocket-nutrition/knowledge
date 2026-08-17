@@ -1,0 +1,12 @@
+id: lompe
+name_en: lumpfish
+name_fr: Lompe
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.019
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,16 @@
+id: pokeberry_shoot
+name_en: pokeberry shoot
+name_fr: pousses de phytolaque
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: boiled
+aliases_en:
+- pokeweed shoots
+- poke greens
+- poke sallet
+display_unit: g

@@ -1,0 +1,22 @@
+id: shea_butter
+name_en: shea butter
+name_fr: beurre de karité
+serving_mode: measure
+food_group: fat
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.925
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- shea oil
+aliases_fr:
+- karité
+- huile de karité
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

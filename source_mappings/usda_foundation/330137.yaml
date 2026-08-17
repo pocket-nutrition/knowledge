@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '330137'
+canonical_ingredient_id: greek_yogurt
+label: Yogurt, Greek, plain, nonfat
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Dairy and Egg Products

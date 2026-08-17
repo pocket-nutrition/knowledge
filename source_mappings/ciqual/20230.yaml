@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20230'
+canonical_ingredient_id: zucchini
+label: Courgette, chair et peau, surgelée, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

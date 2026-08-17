@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169737'
+canonical_ingredient_id: null
+label: Pasta, cooked, enriched, without added salt
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

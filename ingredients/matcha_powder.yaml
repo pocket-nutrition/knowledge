@@ -1,0 +1,20 @@
+id: matcha_powder
+name_en: matcha powder
+name_fr: poudre de matcha
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- matcha
+- matcha green tea
+aliases_fr:
+- matcha
+serving_unit_types:
+- teaspoon
+display_unit: g

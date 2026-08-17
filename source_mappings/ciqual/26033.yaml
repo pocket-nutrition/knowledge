@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26033'
+canonical_ingredient_id: shark
+label: Roussette ou petite roussette ou saumonette, cuite
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

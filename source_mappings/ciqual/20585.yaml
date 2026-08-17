@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20585'
+canonical_ingredient_id: green_lentil
+label: Lentille verte, sèche
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

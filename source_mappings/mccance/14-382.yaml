@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Cherries, flesh and skin, raw
+match_method: auto_ai
+meta:
+  description: 11 samples, UK and imported
+  food_group: FA
+source: mccance
+source_id: 14-382

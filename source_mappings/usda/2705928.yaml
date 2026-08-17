@@ -1,0 +1,6 @@
+canonical_ingredient_id: ostrich
+confidence: 0.9
+label: Ostrich
+match_method: name_en_exact
+source: usda
+source_id: '2705928'

@@ -1,0 +1,10 @@
+id: pierogi
+name_en: pierogi
+name_fr: pierogi
+food_group: other
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

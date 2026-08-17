@@ -1,0 +1,9 @@
+canonical_ingredient_id: grissini
+confidence: 0.9
+label: Gressin, nature (sans sésame)
+match_method: auto_ai
+meta:
+  group: produits céréaliers
+  subgroup: pains et assimilés
+source: ciqual
+source_id: '7525'

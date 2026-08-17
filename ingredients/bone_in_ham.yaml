@@ -1,0 +1,13 @@
+id: bone_in_ham
+name_en: bone-in ham
+name_fr: jambon à l'os
+serving_mode: weight
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 50.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

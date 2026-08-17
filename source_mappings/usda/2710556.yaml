@@ -1,0 +1,8 @@
+canonical_ingredient_id: ginger_ale
+confidence: 0.65
+label: Soft drink, ginger ale, diet
+match_method: auto_token
+meta:
+  wweia_category: Diet soft drinks
+source: usda
+source_id: '2710556'

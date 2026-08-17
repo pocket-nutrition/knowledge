@@ -1,0 +1,7 @@
+canonical_ingredient_id: bread
+confidence: 0.75
+label: Bread, wheat or cracked wheat, made from home recipe or purchased at bakery,
+  toasted
+match_method: name_en_before_comma
+source: usda
+source_id: '2707723'

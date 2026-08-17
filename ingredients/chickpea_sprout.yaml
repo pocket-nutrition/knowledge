@@ -1,0 +1,13 @@
+id: chickpea_sprout
+name_en: chickpea sprout
+name_fr: pousse de pois chiche
+serving_mode: weight
+food_group: legume
+states:
+  cooked: {}
+  raw:
+    portion_g: 40.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

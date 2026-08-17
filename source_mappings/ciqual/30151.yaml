@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Merguez crue (aliment moyen)
+match_method: auto_name
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: charcuteries et alternatives végétales
+source: ciqual
+source_id: '30151'

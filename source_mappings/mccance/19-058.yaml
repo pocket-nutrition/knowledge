@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Pie, game, homemade
+match_method: auto_name
+meta:
+  group: MI
+source: mccance
+source_id: 19-058

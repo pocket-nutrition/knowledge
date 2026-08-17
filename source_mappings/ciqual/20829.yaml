@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20829'
+canonical_ingredient_id: green_papaya
+label: Papaye verte, chair sans peau, crue, prélevée à la Martinique
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

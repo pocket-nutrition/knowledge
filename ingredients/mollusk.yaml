@@ -1,0 +1,13 @@
+id: mollusk
+name_en: mollusk
+name_fr: mollusques
+name_en_plural: mollusks
+serving_mode: weight
+food_group: shellfish
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

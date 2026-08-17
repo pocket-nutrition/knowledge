@@ -1,0 +1,15 @@
+id: pork_loin
+name_en: pork loin
+name_fr: longe de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 112.0
+    density_g_ml: 1.053
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- filet de porc
+display_unit: g

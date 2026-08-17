@@ -1,0 +1,8 @@
+food_group: vegetable
+id: jerusalem_artichoke
+name_en: Jerusalem artichoke
+name_fr: Crosne
+states:
+  raw:
+    density_g_ml: 1.05
+    portion_g: 80

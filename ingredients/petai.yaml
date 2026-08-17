@@ -1,0 +1,13 @@
+id: petai
+name_en: petai
+name_fr: pétai
+serving_mode: weight
+food_group: legume
+states:
+  cooked: {}
+  raw:
+    portion_g: 60.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,16 @@
+id: pork_rib
+name_en: pork rib
+name_fr: côte de porc
+name_en_plural: pork ribs
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- pork ribs
+- spare ribs
+display_unit: g

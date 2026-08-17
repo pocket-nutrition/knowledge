@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Soup, instant, dried, as purchased
+match_method: auto_name
+meta:
+  description: 11 samples, 3 brands, powder only, not including croutons
+  food_group: WAE
+source: mccance
+source_id: 17-653

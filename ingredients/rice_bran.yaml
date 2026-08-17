@@ -1,0 +1,17 @@
+id: rice_bran
+name_en: rice bran
+name_fr: son de riz
+serving_mode: weight
+food_group: cereal
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.35
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

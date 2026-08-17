@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709890'
+canonical_ingredient_id: cabbage
+label: Cabbage, green, cooked, fat added, NS as to fat type
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cabbage

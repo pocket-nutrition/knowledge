@@ -1,0 +1,12 @@
+id: chili_without_bean
+name_en: chili without bean
+name_fr: chili sans haricots
+serving_mode: weight
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

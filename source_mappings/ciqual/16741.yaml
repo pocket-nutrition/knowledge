@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Matière grasse végétale (type margarine) à 50-63% MG, allégée, doux
+match_method: auto_name
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16741'

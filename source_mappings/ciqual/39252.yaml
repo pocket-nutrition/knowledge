@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '39252'
+canonical_ingredient_id: _composite
+label: Riz au lait, rhum raisins, rayon frais
+match_method: name_fr_partial
+confidence: 0.7

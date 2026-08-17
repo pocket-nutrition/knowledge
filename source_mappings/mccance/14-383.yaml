@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Cherries, flesh and skin, raw, weighed with stones
+match_method: auto_ai
+meta:
+  description: Calculated from 14-382
+  food_group: FA
+source: mccance
+source_id: 14-383

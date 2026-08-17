@@ -1,0 +1,16 @@
+id: canned_lentil
+name_en: canned lentil
+name_fr: lentilles en conserve
+serving_mode: weight
+food_group: legume
+states:
+  processed:
+    portion_g: 90.0
+    density_g_ml: 1.048
+  raw:
+    portion_g: 408.0
+    density_g_ml: 1.048
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

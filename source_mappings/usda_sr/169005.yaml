@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169005'
+canonical_ingredient_id: pond_lily_tuber
+label: Wocas, tuber, cooked, Oregon, yellow pond lily (Klamath)
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

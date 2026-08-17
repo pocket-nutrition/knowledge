@@ -1,0 +1,13 @@
+id: beef_kidney
+name_en: beef kidney
+name_fr: rognon de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.062
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

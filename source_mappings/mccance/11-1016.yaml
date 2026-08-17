@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pizza base, raw
+match_method: auto_name
+meta:
+  description: Average of ambient and chilled, 12 brands
+  food_group: AE
+source: mccance
+source_id: 11-1016

@@ -1,0 +1,12 @@
+id: mango
+name_en: mango
+name_fr: mangue
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.075
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

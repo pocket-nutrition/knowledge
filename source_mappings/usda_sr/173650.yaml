@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beverages, dairy drink mix, chocolate, reduced calorie, with aspartame, powder,
+  prepared with water and ice
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '173650'

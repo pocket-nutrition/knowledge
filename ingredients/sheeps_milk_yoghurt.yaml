@@ -1,0 +1,13 @@
+id: sheeps_milk_yoghurt
+name_en: sheep’s milk yoghurt
+name_fr: yaourt au lait de brebis
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.057
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Melon, flesh only, average, weighed whole
+match_method: auto_before_comma
+meta:
+  group: FA
+source: mccance
+source_id: 14-355

@@ -1,0 +1,16 @@
+id: rape_leaf
+name_en: rapeseed leaf
+name_fr: feuille de colza
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- rape greens
+aliases_fr:
+- feuilles de colza
+display_unit: g

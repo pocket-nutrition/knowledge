@@ -1,0 +1,11 @@
+id: canned_sweet_potato
+name_en: canned sweet potato
+name_fr: patate douce en conserve
+food_group: vegetable
+states:
+  raw:
+    portion_g: 261.0
+    density_g_ml: 0.757
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

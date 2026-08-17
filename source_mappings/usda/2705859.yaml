@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705859'
+canonical_ingredient_id: beef
+label: Beef, dried, chipped, cooked in fat
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cold cuts and cured meats

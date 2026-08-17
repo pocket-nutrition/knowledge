@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708486'
+canonical_ingredient_id: breakfast_cereal
+label: Cereal, other, honey
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Ready-to-eat cereal, higher sugar (>21.2g/100g)

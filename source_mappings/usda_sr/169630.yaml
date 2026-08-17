@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Candies, REESE'S, FAST BREAK, milk chocolate peanut butter and soft nougats
+match_method: auto_token
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '169630'

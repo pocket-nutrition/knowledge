@@ -1,0 +1,8 @@
+canonical_ingredient_id: pomegranate_juice
+confidence: 0.92
+label: Pomegranate juice, bottled
+match_method: auto_precise
+meta:
+  category: Fruits and Fruit Juices
+source: usda_sr
+source_id: '167787'

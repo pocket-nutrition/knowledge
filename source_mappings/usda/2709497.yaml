@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709497'
+canonical_ingredient_id: _composite
+label: Potato, mashed, from fresh, made with milk, with cheese
+match_method: name_en_before_comma
+confidence: 0.75

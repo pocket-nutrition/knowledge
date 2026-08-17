@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: School Lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked
+match_method: auto_token
+meta:
+  category: Fast Foods
+source: usda_sr
+source_id: '170779'

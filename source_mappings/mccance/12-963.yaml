@@ -1,0 +1,8 @@
+source: mccance
+source_id: 12-963
+canonical_ingredient_id: egg
+label: Eggs, chicken, whole, scrambled, without milk
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: CA

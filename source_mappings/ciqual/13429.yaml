@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13429'
+canonical_ingredient_id: mango
+label: Mangue verte, chair sans peau, sans noyau, crue, prélevée à la Martinique
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

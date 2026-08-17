@@ -1,0 +1,13 @@
+id: steller_sea_lion_fat
+name_en: steller sea lion fat
+name_fr: graisse d'otarie de Steller
+serving_mode: weight
+food_group: fat
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.92
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

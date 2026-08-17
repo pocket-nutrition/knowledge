@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Blackberry and apple, stewed without sugar
+match_method: auto_name
+meta:
+  group: F
+source: mccance
+source_id: 14-364

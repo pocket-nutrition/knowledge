@@ -1,0 +1,19 @@
+id: carrot
+name_en: carrot
+name_fr: carotte
+name_en_plural: Carrots
+name_fr_plural: Carottes
+serving_mode: item
+unit_label_en: carrot
+unit_label_fr: carotte
+food_group: vegetable
+states:
+  raw:
+    portion_g: 74.0
+    density_g_ml: 1.023
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- handful
+- small_handful

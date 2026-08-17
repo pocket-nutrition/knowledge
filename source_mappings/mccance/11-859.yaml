@@ -1,0 +1,5 @@
+source: mccance
+source_id: 11-859
+label: Rice, white, basmati, easy cook, raw
+match_method: name_en_before_comma
+confidence: 0.75

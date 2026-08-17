@@ -1,0 +1,16 @@
+id: popcorn
+name_en: popcorn
+name_fr: Pop-corn ou maïs éclaté
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 47.0
+    density_g_ml: 0.1
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

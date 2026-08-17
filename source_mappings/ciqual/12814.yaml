@@ -1,0 +1,8 @@
+canonical_ingredient_id: goat_cheese
+confidence: 0.9
+label: Fromage de chèvre à pâte molle non pressée non cuite et croûte naturelle
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12814'

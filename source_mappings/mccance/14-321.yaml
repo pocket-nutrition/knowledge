@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pears, raw, flesh and skin
+match_method: auto_ai
+meta:
+  description: 22 samples, autumn and winter, UK grown and imported, pre-packed and
+    loose, including Conference, Comice, Concorde, Rocha and Green Williams
+  food_group: FA
+source: mccance
+source_id: 14-321

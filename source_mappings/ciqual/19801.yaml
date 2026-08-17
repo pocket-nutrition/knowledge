@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '19801'
+canonical_ingredient_id: fermented_milk_drink
+label: Lait fermenté à boire ou lait ribot, nature, maigre
+match_method: ai_review
+confidence: 0.9

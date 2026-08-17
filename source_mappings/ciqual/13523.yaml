@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '13523'
+canonical_ingredient_id: date
+label: Datte du désert, chair et peau, sans noyau, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits

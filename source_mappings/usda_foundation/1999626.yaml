@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '1999626'
+canonical_ingredient_id: lions_mane_mushroom
+label: Mushroom, lion's mane
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

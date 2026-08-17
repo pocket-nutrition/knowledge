@@ -1,0 +1,21 @@
+id: bean_sprout
+name_en: bean sprout
+name_fr: germe de haricot
+name_en_plural: bean sprouts
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 60.0
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- mung bean sprouts
+- beansprouts
+aliases_fr:
+- pousses de soja
+- germes de soja
+display_unit: g

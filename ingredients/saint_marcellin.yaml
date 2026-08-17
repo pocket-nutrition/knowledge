@@ -1,0 +1,18 @@
+id: saint_marcellin
+name_en: Saint-Marcellin
+name_fr: Saint-Marcellin
+serving_mode: weight
+food_group: dairy
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 1.031
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- Saint Marcellin cheese
+aliases_fr:
+- fromage Saint-Marcellin
+display_unit: g

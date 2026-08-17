@@ -1,0 +1,13 @@
+id: fish_fillet
+name_en: fish fillet
+name_fr: filet de poisson
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

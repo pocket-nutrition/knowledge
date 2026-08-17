@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Salad dressing, italian dressing, commercial, regular, without salt
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '171022'

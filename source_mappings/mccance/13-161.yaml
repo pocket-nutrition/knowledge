@@ -1,0 +1,9 @@
+canonical_ingredient_id: eggplant
+confidence: 0.92
+label: Aubergine, raw
+match_method: auto_precise
+meta:
+  description: Ends trimmed
+  food_group: DG
+source: mccance
+source_id: 13-161

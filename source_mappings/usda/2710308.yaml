@@ -1,0 +1,8 @@
+canonical_ingredient_id: canned_sweet_potato
+confidence: 0.65
+label: Sweet potato paste
+match_method: auto_token
+meta:
+  wweia_category: Jams, syrups, toppings
+source: usda
+source_id: '2710308'

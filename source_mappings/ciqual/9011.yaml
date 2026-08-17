@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '9011'
+canonical_ingredient_id: sprouted_wheat
+label: Blé germé, cru
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits céréaliers
+  subgroup: pâtes, riz et céréales

@@ -1,0 +1,9 @@
+canonical_ingredient_id: oak_leaf
+confidence: 0.9
+label: Salade feuille de chêne, crue
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumes
+source: ciqual
+source_id: '20295'

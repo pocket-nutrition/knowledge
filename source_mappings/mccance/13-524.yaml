@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pepper, capsicum, red, raw
+match_method: auto_ai
+meta:
+  description: 22 samples, autumn and winter, UK grown and imported, pre-packed and
+    loose
+  food_group: DG
+source: mccance
+source_id: 13-524

@@ -1,0 +1,8 @@
+canonical_ingredient_id: horseradish_sauce
+confidence: 0.95
+label: Horseradish sauce
+match_method: auto_exact
+meta:
+  group: WCN
+source: mccance
+source_id: 17-314

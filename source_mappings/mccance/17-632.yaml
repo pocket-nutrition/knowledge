@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Coffee, cappuccino, latte
+match_method: auto_before_comma
+meta:
+  group: P
+source: mccance
+source_id: 17-632

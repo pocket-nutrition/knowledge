@@ -1,0 +1,15 @@
+id: cherry_tomato
+name_en: cherry tomato
+name_fr: tomate cerise
+serving_mode: item
+unit_label_en: cherry tomato
+unit_label_fr: tomate cerise
+food_group: vegetable
+states:
+  raw:
+    portion_g: 12.0
+    density_g_ml: 1.035
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

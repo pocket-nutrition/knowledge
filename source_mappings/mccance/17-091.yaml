@@ -1,0 +1,8 @@
+canonical_ingredient_id: white_chocolate
+confidence: 0.9
+label: Chocolate, white
+match_method: auto_precise
+meta:
+  group: SEA
+source: mccance
+source_id: 17-091

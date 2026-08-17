@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36102'
+canonical_ingredient_id: quail
+label: Caille, viande et peau cuites
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

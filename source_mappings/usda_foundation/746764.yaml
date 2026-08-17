@@ -1,0 +1,8 @@
+canonical_ingredient_id: carrot
+confidence: 0.9
+label: Carrots, frozen, unprepared
+match_method: auto_ai
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_foundation
+source_id: '746764'

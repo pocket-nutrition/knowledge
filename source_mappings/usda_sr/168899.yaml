@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pasta, gluten-free, corn, dry
+match_method: auto_before_comma
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '168899'

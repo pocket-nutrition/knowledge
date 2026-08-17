@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707892'
+canonical_ingredient_id: angel_food_cake_mix
+label: Cake or cupcake, white with white icing, from mix
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Cakes and pies

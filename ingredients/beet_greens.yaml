@@ -1,0 +1,17 @@
+id: beet_greens
+name_en: beet greens
+name_fr: feuilles de betterave
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 144.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- beet tops
+- beetroot leaves
+aliases_fr:
+- fanes de betterave
+display_unit: g

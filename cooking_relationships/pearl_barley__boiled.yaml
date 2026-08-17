@@ -1,0 +1,12 @@
+confidence: 0.85
+cooking_method: boiled
+nutrient_retention:
+  magnesium_mg: 0.78
+  niacin_mg: 0.78
+  phosphorus_mg: 0.78
+  potassium_mg: 0.75
+  vitamin_b6_mg: 0.68
+  vitamin_c_mg: 0.6
+raw_id: pearl_barley
+source: mccance_pair
+yield_factor: 3.0

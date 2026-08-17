@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707116'
+canonical_ingredient_id: _composite
+label: Chicken and vegetable entree with noodles and cream sauce, frozen meal
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Poultry mixed dishes

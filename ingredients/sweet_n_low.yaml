@@ -1,0 +1,16 @@
+id: sweet_n_low
+name_en: Sweet'N Low
+name_fr: Sweet'N Low
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

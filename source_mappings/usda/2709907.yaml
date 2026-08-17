@@ -1,0 +1,8 @@
+canonical_ingredient_id: fennel_bulb
+confidence: 0.9
+label: Fennel bulb, cooked
+match_method: auto_ai
+meta:
+  category: Other vegetables and combinations
+source: usda
+source_id: '2709907'

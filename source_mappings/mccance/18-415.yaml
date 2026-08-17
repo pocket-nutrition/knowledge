@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-415
+canonical_ingredient_id: beef_liver
+label: Liver, ox, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: 33 samples
+  food_group: MG

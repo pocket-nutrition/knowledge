@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Rock Salmon/Dogfish, in batter, fried in dripping, weighed with bones
+match_method: auto_name
+meta:
+  group: JA
+source: mccance
+source_id: 16-137

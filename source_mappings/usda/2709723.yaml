@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709723'
+canonical_ingredient_id: _composite
+label: Tomatoes, scalloped
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Vegetable dishes

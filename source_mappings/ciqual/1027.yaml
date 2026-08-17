@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Spécialité végétale type fromage à tartiner, au soja, préemballée
+match_method: auto_name
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '1027'

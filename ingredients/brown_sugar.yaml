@@ -1,0 +1,24 @@
+id: brown_sugar
+name_en: brown sugar
+name_fr: cassonade
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 12.0
+    density_g_ml: 0.9
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- soft brown sugar
+- cane sugar
+aliases_fr:
+- sucre roux
+- sucre de canne
+- vergeoise
+serving_unit_types:
+- teaspoon
+- tablespoon
+- cup
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: curry_leaves
+confidence: 0.9
+label: Curry leaves, fresh
+match_method: auto_ai
+meta:
+  group: H
+source: mccance
+source_id: 13-821

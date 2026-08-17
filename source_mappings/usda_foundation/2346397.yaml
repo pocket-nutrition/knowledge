@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2346397'
+canonical_ingredient_id: oat
+label: Oats, whole grain, steel cut
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

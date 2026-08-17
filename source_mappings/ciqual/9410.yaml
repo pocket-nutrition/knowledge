@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9410'
+canonical_ingredient_id: bread_flour
+label: Farine de blé tendre ou froment T110
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

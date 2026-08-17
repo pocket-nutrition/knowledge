@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '27010'
+canonical_ingredient_id: perch
+label: Perche ou perche européenne, crue
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

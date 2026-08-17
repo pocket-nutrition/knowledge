@@ -1,0 +1,19 @@
+id: whipped_cream
+name_en: whipped cream
+name_fr: crème fouettée
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_fr:
+- chantilly
+- crème chantilly
+serving_unit_types:
+- tablespoon
+- scoop
+display_unit: g

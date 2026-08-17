@@ -1,0 +1,8 @@
+canonical_ingredient_id: lupini_bean
+confidence: 0.9
+label: Lupin, graine, sec
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '20534'

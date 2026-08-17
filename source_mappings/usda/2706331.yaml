@@ -1,0 +1,6 @@
+canonical_ingredient_id: octopus
+confidence: 0.9
+label: Octopus
+match_method: name_en_exact
+source: usda
+source_id: '2706331'

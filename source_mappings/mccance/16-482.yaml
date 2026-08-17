@@ -1,0 +1,10 @@
+source: mccance
+source_id: 16-482
+canonical_ingredient_id: king_prawn
+label: Prawns, standard, dried
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 16-384
+  food_group: JK

@@ -1,0 +1,17 @@
+id: candy
+name_en: candy
+name_fr: bonbon
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 25.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_en:
+- sweets
+- confectionery
+aliases_fr:
+- confiserie
+display_unit: g

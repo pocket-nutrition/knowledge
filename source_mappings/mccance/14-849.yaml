@@ -1,0 +1,8 @@
+canonical_ingredient_id: trail_mix
+confidence: 0.95
+label: Trail mix
+match_method: auto_exact
+meta:
+  group: GA
+source: mccance
+source_id: 14-849

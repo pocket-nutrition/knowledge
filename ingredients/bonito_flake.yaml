@@ -1,0 +1,16 @@
+id: bonito_flake
+name_en: bonito flake
+name_fr: copeaux de bonite (katsuobushi)
+serving_mode: weight
+food_group: fish
+states:
+  processed:
+    portion_g: 3.0
+    density_g_ml: 0.1
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+display_unit: g

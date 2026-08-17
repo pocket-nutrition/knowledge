@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted
+match_method: auto_token
+meta:
+  category: Dairy and Egg Products
+source: usda_sr
+source_id: '169897'

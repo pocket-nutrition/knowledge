@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Plums, dessert, flesh and skin, raw
+match_method: auto_ai
+meta:
+  description: 11 samples, mixture of UK and imported, including red, purple and yellow
+  food_group: FA
+source: mccance
+source_id: 14-372

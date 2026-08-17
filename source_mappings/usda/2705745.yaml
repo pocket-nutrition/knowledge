@@ -1,0 +1,8 @@
+canonical_ingredient_id: queso_fresco_cheese
+confidence: 0.9
+label: Queso Fresco
+match_method: auto_ai
+meta:
+  wweia_category: Cheese
+source: usda
+source_id: '2705745'

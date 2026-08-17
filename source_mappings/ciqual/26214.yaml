@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '26214'
+canonical_ingredient_id: hoki
+label: Hoki de Nouvelle-Zélande, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: poissons crus

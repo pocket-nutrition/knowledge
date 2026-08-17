@@ -1,0 +1,12 @@
+id: smoked_chicken
+name_en: smoked chicken
+name_fr: poulet fumé
+serving_mode: weight
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 120.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20821'
+canonical_ingredient_id: okra
+label: Gombo, entier, cuit à la vapeur, prélevé à la Martinique
+cooking_method: steamed
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

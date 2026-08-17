@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709912'
+canonical_ingredient_id: canned_corn
+label: Corn, canned, cooked, no added fat
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Corn

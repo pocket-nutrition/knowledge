@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Sandwich, white bread, cheddar cheese and pickle
+match_method: auto_token
+meta:
+  group: AB
+source: mccance
+source_id: 11-963

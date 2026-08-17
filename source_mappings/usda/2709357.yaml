@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Baby Toddler fruit and vegetables, Stage 2
+match_method: auto_name
+meta:
+  wweia_category: 'Baby food: mixtures'
+source: usda
+source_id: '2709357'

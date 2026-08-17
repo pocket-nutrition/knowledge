@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Fish fillet, fried as ingredient in sandwiches
+match_method: auto_before_comma
+meta:
+  category: Not included in a food category
+source: usda
+source_id: '2710784'

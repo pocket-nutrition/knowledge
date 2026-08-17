@@ -1,0 +1,20 @@
+id: water_convolvulus
+name_en: water convolvulus
+name_fr: liseron d'eau
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- water spinach
+- morning glory
+- kangkong
+- ong choy
+aliases_fr:
+- épinard d'eau
+- liseron d'eau
+display_unit: g

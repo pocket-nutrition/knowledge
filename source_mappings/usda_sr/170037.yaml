@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Potatoes, mashed, home-prepared, whole milk and margarine added
+match_method: auto_name
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '170037'

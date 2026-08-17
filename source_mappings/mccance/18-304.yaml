@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Chicken, whole, corn-fed, raw, meat and skin, weighed with bone
+match_method: auto_ai
+meta:
+  description: Calculated from 18-303
+  food_group: MCA
+source: mccance
+source_id: 18-304

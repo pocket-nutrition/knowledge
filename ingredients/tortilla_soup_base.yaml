@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: baked_good
+id: tortilla_soup_base
+name_en: tortilla soup base
+name_fr: tortilla soup base
+states:
+  raw:
+    density_g_ml: 1.306
+    portion_g: 100
+typical_state: raw

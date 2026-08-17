@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709240'
+canonical_ingredient_id: lychee
+label: Lychee
+cooking_method: raw
+match_method: name_en_exact
+confidence: 0.9

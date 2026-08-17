@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Ostrich, tenderloin, raw
+match_method: auto_before_comma
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '172845'

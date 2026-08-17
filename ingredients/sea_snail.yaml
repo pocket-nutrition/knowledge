@@ -1,0 +1,11 @@
+id: sea_snail
+name_en: sea snail
+name_fr: escargot de mer
+food_group: shellfish
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.061
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

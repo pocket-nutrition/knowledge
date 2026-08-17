@@ -1,0 +1,8 @@
+canonical_ingredient_id: saltine_crackers
+confidence: 0.9
+label: Crackers, saltine, reduced sodium
+match_method: auto_ai
+meta:
+  wweia_category: Saltine crackers
+source: usda
+source_id: '2708143'

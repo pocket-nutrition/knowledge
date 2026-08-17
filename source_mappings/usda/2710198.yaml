@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710198'
+canonical_ingredient_id: salad_dressing
+label: Bacon and tomato dressing
+match_method: ai_review
+confidence: 0.9

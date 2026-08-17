@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Carré de l'Est
+match_method: auto_name
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12025'

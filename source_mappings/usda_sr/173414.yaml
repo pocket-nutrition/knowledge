@@ -1,0 +1,8 @@
+canonical_ingredient_id: cheddar_cheese
+confidence: 0.9
+label: Cheese, cheddar (Includes foods for USDA's Food Distribution Program)
+match_method: auto_precise
+meta:
+  category: Dairy and Egg Products
+source: usda_sr
+source_id: '173414'

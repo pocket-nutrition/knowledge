@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beans, papri, raw
+match_method: auto_name
+meta:
+  description: Ends trimmed; 5 samples
+  food_group: DB
+source: mccance
+source_id: 13-100

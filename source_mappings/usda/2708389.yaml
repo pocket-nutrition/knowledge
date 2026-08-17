@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Oatmeal, instant, plain, made with milk, no added fat
+match_method: auto_name
+meta:
+  wweia_category: Oatmeal
+source: usda
+source_id: '2708389'

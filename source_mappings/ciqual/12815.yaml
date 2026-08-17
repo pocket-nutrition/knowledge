@@ -1,0 +1,8 @@
+canonical_ingredient_id: hard_goat_cheese
+confidence: 0.9
+label: Fromage de chèvre sec
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12815'

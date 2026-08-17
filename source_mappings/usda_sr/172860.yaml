@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Chicken, dark meat, drumstick, meat and skin, with added solution, raw
+match_method: auto_before_comma
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '172860'

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26249'
+canonical_ingredient_id: alaskan_white_fish
+label: Poisson blanc, cuit (aliment moyen)
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: entrées et plats composés

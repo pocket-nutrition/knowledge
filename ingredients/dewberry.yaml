@@ -1,0 +1,15 @@
+id: dewberry
+name_en: dewberry
+name_fr: mûre
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

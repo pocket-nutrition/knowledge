@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709680'
+canonical_ingredient_id: canned_carrot
+label: Carrots, canned, reduced sodium, cooked with oil
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Carrots

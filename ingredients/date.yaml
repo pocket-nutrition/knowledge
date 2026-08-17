@@ -1,0 +1,17 @@
+id: date
+name_en: date
+name_fr: datte
+name_en_plural: dates
+name_fr_plural: dattes
+serving_mode: item
+unit_label_en: date
+unit_label_fr: datte
+food_group: fruit
+states:
+  raw:
+    portion_g: 8.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

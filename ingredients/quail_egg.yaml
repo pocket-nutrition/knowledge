@@ -1,0 +1,15 @@
+id: quail_egg
+name_en: quail egg
+name_fr: oeuf de caille
+serving_mode: item
+unit_label_en: egg
+unit_label_fr: oeuf
+food_group: egg
+states:
+  raw:
+    portion_g: 9.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

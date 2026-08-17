@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Chicken or turkey and noodles with tomato-based sauce
+match_method: auto_name
+meta:
+  wweia_category: Poultry mixed dishes
+source: usda
+source_id: '2706535'

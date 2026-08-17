@@ -1,0 +1,11 @@
+id: canned_mandarin_orange
+name_en: canned mandarin orange
+name_fr: mandarine en conserve
+food_group: fruit
+states:
+  raw:
+    portion_g: 189.0
+    density_g_ml: 1.048
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '173256'
+canonical_ingredient_id: muffin_mix
+label: Continental Mills, Krusteaz Almond Poppyseed Muffin Mix, Artificially Flavored, dry
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Baked Products

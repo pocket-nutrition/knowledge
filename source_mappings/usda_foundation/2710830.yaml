@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2710830'
+canonical_ingredient_id: khorasan_wheat
+label: Khorasan, grain, dry, raw
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Cereal Grains and Pasta

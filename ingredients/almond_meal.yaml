@@ -1,0 +1,16 @@
+id: almond_meal
+name_en: almond meal
+name_fr: poudre d'amande
+serving_mode: weight
+food_group: nut_seed
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 0.45
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

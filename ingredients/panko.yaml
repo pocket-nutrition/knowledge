@@ -1,0 +1,19 @@
+id: panko
+name_en: panko
+name_fr: panko (chapelure japonaise)
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 25.0
+    density_g_ml: 0.25
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- panko breadcrumbs
+- Japanese breadcrumbs
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

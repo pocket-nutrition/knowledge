@@ -1,0 +1,8 @@
+canonical_ingredient_id: pear
+confidence: 0.8
+label: Pear, canned, juice pack
+match_method: auto_before_comma
+meta:
+  category: Pears
+source: usda
+source_id: '2709258'

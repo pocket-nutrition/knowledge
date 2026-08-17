@@ -1,0 +1,18 @@
+id: cloud_ear_fungus
+name_en: cloud ear fungus
+name_fr: oreilles de nuage
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 28.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- wood ear
+- black fungus
+aliases_fr:
+- champignon noir
+- oreille de Judas
+display_unit: g

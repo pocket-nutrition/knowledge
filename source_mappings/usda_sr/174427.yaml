@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174427'
+canonical_ingredient_id: elk
+label: Game meat, elk, loin, separable lean only, cooked, broiled
+cooking_method: grilled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Lamb, Veal, and Game Products

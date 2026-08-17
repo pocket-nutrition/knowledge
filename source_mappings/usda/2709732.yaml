@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709732'
+canonical_ingredient_id: tomato_juice
+label: Tomato and vegetable juice, 100%, low sodium
+match_method: ai_review
+confidence: 0.9

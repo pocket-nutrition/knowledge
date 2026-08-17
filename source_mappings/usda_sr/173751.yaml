@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '173751'
+canonical_ingredient_id: yellow_beans
+label: Beans, yellow, mature seeds, raw
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

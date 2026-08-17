@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9681'
+canonical_ingredient_id: couscous
+label: Graine de couscous (semoule de blé dur précuite), à cuire
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

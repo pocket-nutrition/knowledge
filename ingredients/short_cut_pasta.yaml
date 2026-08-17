@@ -1,0 +1,13 @@
+id: short_cut_pasta
+name_en: short-cut pasta
+name_fr: pâtes courtes
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

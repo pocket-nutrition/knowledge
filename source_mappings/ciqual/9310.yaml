@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '9310'
+canonical_ingredient_id: oat
+label: Avoine, crue
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers
+  subgroup: pâtes, riz et céréales

@@ -1,0 +1,15 @@
+id: salted_egg
+name_en: salted egg
+name_fr: œuf salé
+serving_mode: item
+unit_label_en: egg
+unit_label_fr: œuf
+food_group: egg
+states:
+  processed:
+    portion_g: 60.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

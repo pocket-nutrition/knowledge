@@ -1,0 +1,7 @@
+source: mccance
+source_id: 16-382
+canonical_ingredient_id: pangasius
+label: Pangasius, flesh only, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

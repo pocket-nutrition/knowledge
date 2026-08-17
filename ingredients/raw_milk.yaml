@@ -1,0 +1,16 @@
+id: raw_milk
+name_en: raw milk
+name_fr: lait cru
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

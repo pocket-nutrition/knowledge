@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Ramen bowl with beef
+match_method: auto_name
+meta:
+  wweia_category: Ramen and Asian broth-based soups
+source: usda
+source_id: '2709154'

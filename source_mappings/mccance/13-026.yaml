@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Potato chips, fine cut, frozen, fried in corn oil
+match_method: auto_token
+meta:
+  group: DAP
+source: mccance
+source_id: 13-026

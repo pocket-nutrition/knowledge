@@ -1,0 +1,16 @@
+id: tangerine_juice
+name_en: Tangerine juice
+name_fr: Jus de mandarine
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.045
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

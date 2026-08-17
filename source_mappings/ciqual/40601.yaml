@@ -1,0 +1,8 @@
+canonical_ingredient_id: offal
+confidence: 0.9
+label: Abat, cuit (aliment moyen)
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '40601'

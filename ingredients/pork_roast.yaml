@@ -1,0 +1,12 @@
+id: pork_roast
+name_en: pork roast
+name_fr: rôti de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: boiled
+display_unit: g

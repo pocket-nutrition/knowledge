@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Coffee and chicory essence, with water
+match_method: auto_token
+meta:
+  group: PA
+source: mccance
+source_id: 17-163

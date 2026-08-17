@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709848'
+canonical_ingredient_id: lima_bean
+label: Lima beans, from frozen, no added fat
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Other starchy vegetables

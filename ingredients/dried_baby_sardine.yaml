@@ -1,0 +1,18 @@
+id: dried_baby_sardine
+name_en: dried baby sardine
+name_fr: petite sardine séchée
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- tablespoon
+display_unit: g

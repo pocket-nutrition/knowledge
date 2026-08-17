@@ -1,0 +1,8 @@
+canonical_ingredient_id: malted_milk_powder
+confidence: 0.65
+label: Instant drinks powder, malted, unfortified
+match_method: auto_token
+meta:
+  group: PAA
+source: mccance
+source_id: 17-825

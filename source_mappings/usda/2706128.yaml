@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706128'
+canonical_ingredient_id: turkey_wing
+label: Turkey, wing, cooked, skin not eaten
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Turkey, duck, other poultry

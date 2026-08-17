@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707365'
+canonical_ingredient_id: black_bean
+label: Black beans, from fast food / restaurant
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Beans, peas, legumes

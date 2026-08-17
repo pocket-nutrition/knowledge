@@ -1,0 +1,11 @@
+id: pork_loin_chops
+name_en: pork loin chops
+name_fr: côtelettes de porc
+food_group: meat
+states:
+  raw:
+    portion_g: 112.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

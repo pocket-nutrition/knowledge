@@ -1,0 +1,12 @@
+id: kiwifruit
+name_en: kiwi fruit
+name_fr: kiwi
+food_group: fruit
+states:
+  raw:
+    portion_g: 81.0
+    density_g_ml: 0.761
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

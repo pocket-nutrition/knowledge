@@ -1,0 +1,12 @@
+id: cashew_cheese_sauce
+name_en: cashew cheese sauce
+name_fr: sauce au fromage de noix de cajou
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 33.0
+    density_g_ml: 1.065
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

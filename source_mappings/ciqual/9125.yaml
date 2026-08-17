@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9125'
+canonical_ingredient_id: basmati_rice
+label: Riz basmati, cuit, sans sel ajouté
+cooking_method: cooked
+match_method: manual
+confidence: 1.0
+meta:
+  group: produits céréaliers

@@ -1,0 +1,7 @@
+canonical_ingredient_id: water_apple
+confidence: 0.7
+label: Pomme d'eau ou pomme malaca, chair sans peau, sans noyau, crue, prélevée à
+  la Martinique
+match_method: name_fr_partial
+source: ciqual
+source_id: '13436'

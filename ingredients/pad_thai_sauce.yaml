@@ -1,0 +1,12 @@
+id: pad_thai_sauce
+name_en: pad thai sauce
+name_fr: sauce pad thaï
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

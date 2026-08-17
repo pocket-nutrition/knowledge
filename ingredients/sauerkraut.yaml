@@ -1,0 +1,18 @@
+id: sauerkraut
+name_en: sauerkraut
+name_fr: choucroute
+serving_mode: weight
+food_group: vegetable
+states:
+  processed:
+    portion_g: 189.0
+    density_g_ml: 0.998
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- fermented cabbage
+aliases_fr:
+- chou fermenté
+display_unit: g

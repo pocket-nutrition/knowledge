@@ -1,0 +1,14 @@
+id: cranberry_beans
+name_en: cranberry beans
+name_fr: haricots borlotti
+food_group: legume
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- borlotti beans
+- roman beans
+display_unit: g

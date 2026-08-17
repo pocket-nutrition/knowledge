@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Alcoholic beverage, distilled, vodka, 80 proof
+match_method: auto_ai
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '174818'

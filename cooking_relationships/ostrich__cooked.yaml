@@ -1,0 +1,13 @@
+confidence: 0.9
+cooking_method: cooked
+nutrient_retention:
+  iron_mg: 0.94
+  niacin_mg: 0.78
+  phosphorus_mg: 0.85
+  potassium_mg: 0.78
+  vitamin_b12_ug: 0.82
+  vitamin_b6_mg: 0.71
+  zinc_mg: 0.94
+raw_id: ostrich
+source: ciqual_pair
+yield_factor: 0.771

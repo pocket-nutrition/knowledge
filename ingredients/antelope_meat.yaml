@@ -1,0 +1,7 @@
+food_group: meat
+id: antelope_meat
+name_en: antelope meat
+name_fr: viande d'antilope
+states:
+  raw:
+    portion_g: 150

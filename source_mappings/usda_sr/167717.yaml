@@ -1,0 +1,8 @@
+canonical_ingredient_id: yeast_extract_spread
+confidence: 0.95
+label: Yeast extract spread
+match_method: auto_exact
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '167717'

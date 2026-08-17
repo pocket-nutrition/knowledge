@@ -1,0 +1,15 @@
+id: pollack
+name_en: pollack
+name_fr: lieu jaune
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.061
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- colin jaune
+display_unit: g

@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '21001'
+canonical_ingredient_id: mutton
+label: Mouton, viande crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

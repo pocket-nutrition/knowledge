@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2646170'
+canonical_ingredient_id: chicken_breast
+label: Chicken, breast, boneless, skinless, raw
+match_method: manual
+confidence: 1.0
+meta:
+  category: Poultry Products

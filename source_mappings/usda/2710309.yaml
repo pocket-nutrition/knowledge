@@ -1,0 +1,8 @@
+canonical_ingredient_id: hot_bean_paste
+confidence: 0.65
+label: Bean paste, sweetened
+match_method: auto_token
+meta:
+  wweia_category: Jams, syrups, toppings
+source: usda
+source_id: '2710309'

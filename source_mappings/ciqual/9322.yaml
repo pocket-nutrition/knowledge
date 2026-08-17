@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9322'
+canonical_ingredient_id: pearl_barley
+label: Orge perlée, bouilli/cuite à l'eau, sans sel ajouté
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: produits céréaliers

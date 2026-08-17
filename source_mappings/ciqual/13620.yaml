@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '13620'
+canonical_ingredient_id: apple
+label: Pomme Golden, chair et peau, crue
+match_method: manual
+confidence: 1.0

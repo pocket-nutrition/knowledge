@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Tuna casserole with vegetables and mushroom sauce, no noodles
+match_method: auto_token
+meta:
+  wweia_category: Seafood mixed dishes
+source: usda
+source_id: '2706858'

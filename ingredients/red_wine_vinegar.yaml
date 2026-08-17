@@ -1,0 +1,17 @@
+id: red_wine_vinegar
+name_en: red wine vinegar
+name_fr: vinaigre de vin rouge
+serving_mode: volume
+food_group: sauce
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 1.01
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

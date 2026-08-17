@@ -1,0 +1,17 @@
+id: arrowroot_flour
+name_en: arrowroot flour
+name_fr: fécule d'arrow-root
+serving_mode: weight
+food_group: cereal
+states:
+  cooked: {}
+  processed:
+    portion_g: 10.0
+    density_g_ml: 0.541
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

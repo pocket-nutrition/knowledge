@@ -1,0 +1,12 @@
+id: fried_corn_pone
+name_en: corn pone
+name_fr: corn pone
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+display_unit: g

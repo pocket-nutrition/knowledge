@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709312'
+canonical_ingredient_id: _composite
+label: Frozen fruit juice bar
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Gelatins, ices, sorbets

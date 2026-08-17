@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2710841'
+canonical_ingredient_id: pearled_sorghum
+label: Sorghum grain, white, pearled, unenriched, dry, raw
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Cereal Grains and Pasta

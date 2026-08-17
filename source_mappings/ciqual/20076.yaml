@@ -1,0 +1,8 @@
+canonical_ingredient_id: asparagus
+confidence: 0.8
+label: Asperge, appertisée, égouttée
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '20076'

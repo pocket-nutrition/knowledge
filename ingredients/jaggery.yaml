@@ -1,0 +1,19 @@
+id: jaggery
+name_en: jaggery
+name_fr: jaggery
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.9
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- sucre de canne complet
+- gur
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

@@ -1,0 +1,14 @@
+id: dairy_free_ice_cream
+name_en: dairy-free ice-cream
+name_fr: crème glacée végétale
+food_group: other
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 0.55
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- scoop
+display_unit: g

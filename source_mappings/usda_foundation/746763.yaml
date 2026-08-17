@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '746763'
+canonical_ingredient_id: beef
+label: Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, choice, cooked, grilled
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Beef Products

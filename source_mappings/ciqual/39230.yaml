@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '39230'
+canonical_ingredient_id: custard
+label: Crème dessert, rayon frais (aliment moyen)
+match_method: ai_review
+confidence: 0.9

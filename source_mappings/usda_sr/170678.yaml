@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Candies, M&M MARS Pretzel Chocolate Candies
+match_method: auto_name
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '170678'

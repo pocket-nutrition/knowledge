@@ -1,0 +1,20 @@
+id: salicornia
+name_en: Salicornia
+name_fr: Salicorne
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.55
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- samphire
+- glasswort
+- sea bean
+aliases_fr:
+- salicorne d'Europe
+- haricot de mer
+display_unit: g

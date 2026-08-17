@@ -1,0 +1,12 @@
+id: egg_powder
+name_en: egg powder
+name_fr: poudre d'œuf
+food_group: egg
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 0.45
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

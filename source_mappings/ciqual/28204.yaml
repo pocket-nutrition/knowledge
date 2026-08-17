@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '28204'
+canonical_ingredient_id: pork_fillet
+label: Porc, filet mignon, cru
+cooking_method: raw
+match_method: ciqual_pair_generator
+confidence: 0.8

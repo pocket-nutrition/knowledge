@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution
+  Program)
+match_method: auto_ai
+meta:
+  category: Fruits and Fruit Juices
+source: usda_sr
+source_id: '173950'

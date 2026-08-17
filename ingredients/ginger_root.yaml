@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: other
+id: ginger_root
+name_en: ginger root
+name_fr: racine de gingembre
+states:
+  raw:
+    density_g_ml: 1.025
+    portion_g: 25
+typical_state: raw

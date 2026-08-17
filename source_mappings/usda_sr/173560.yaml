@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, ready-to-feed
+match_method: auto_name
+meta:
+  category: Baby Foods
+source: usda_sr
+source_id: '173560'

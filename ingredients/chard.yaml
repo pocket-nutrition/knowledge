@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: chard
+name_en: chard
+name_fr: blette
+states:
+  raw:
+    density_g_ml: 1.011
+    portion_g: 175
+typical_state: raw

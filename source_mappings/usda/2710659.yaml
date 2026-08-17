@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710659'
+canonical_ingredient_id: _composite
+label: Whiskey and ginger ale
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Liquor and cocktails

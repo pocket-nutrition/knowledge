@@ -1,0 +1,16 @@
+confidence: 0.75
+cooking_method: cooked
+nutrient_retention:
+  calcium_mg: 0.9
+  iron_mg: 0.9
+  magnesium_mg: 0.75
+  niacin_mg: 0.75
+  phosphorus_mg: 0.75
+  potassium_mg: 0.7
+  sodium_mg: 0.75
+  vitamin_b6_mg: 0.65
+  vitamin_c_mg: 0.55
+  zinc_mg: 0.9
+raw_id: topinambur
+source: ciqual_pair
+yield_factor: 1.0779

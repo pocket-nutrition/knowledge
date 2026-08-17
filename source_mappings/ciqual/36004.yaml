@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36004'
+canonical_ingredient_id: chicken_leg
+label: Poulet, cuisse, viande et peau rôtie/cuite au four
+cooking_method: roasted
+match_method: manual
+confidence: 1.0
+meta:
+  group: viandes, oeufs, poissons

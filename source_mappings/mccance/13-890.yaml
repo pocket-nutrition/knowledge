@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-890
+canonical_ingredient_id: ginger
+label: Ginger, fresh
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: H

@@ -1,0 +1,8 @@
+canonical_ingredient_id: thyme
+confidence: 0.92
+label: Thyme, fresh
+match_method: auto_precise
+meta:
+  group: H
+source: mccance
+source_id: 13-893

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Infant Formula, MEAD JOHNSON, ENFAMIL, Premium LIPIL, Infant, Liquid concentrate,
+  not reconstituted
+match_method: auto_name
+meta:
+  category: Baby Foods
+source: usda_sr
+source_id: '168968'

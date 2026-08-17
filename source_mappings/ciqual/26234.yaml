@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26234'
+canonical_ingredient_id: ling
+label: Julienne ou lingue, cuite
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

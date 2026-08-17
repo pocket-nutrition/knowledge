@@ -1,0 +1,16 @@
+id: puffed_rice
+name_en: puffed rice
+name_fr: riz soufflé
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 14.0
+    density_g_ml: 0.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- bowl
+- cup
+display_unit: g

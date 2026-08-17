@@ -1,0 +1,14 @@
+id: muskrat
+name_en: muskrat
+name_fr: rat musqué
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- ondatra
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Imitation crab meat
+match_method: auto_name
+meta:
+  wweia_category: Fish
+source: usda
+source_id: '2706568'

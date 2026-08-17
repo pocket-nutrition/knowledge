@@ -1,0 +1,7 @@
+food_group: fish
+id: cape_cod
+name_en: Cape Cod
+name_fr: Cape Cod
+states:
+  raw:
+    portion_g: 130

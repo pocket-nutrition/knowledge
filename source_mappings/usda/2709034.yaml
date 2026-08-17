@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709034'
+canonical_ingredient_id: _composite
+label: Kidney beans and brown rice
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Bean, pea, legume dishes

@@ -1,0 +1,16 @@
+id: extra_virgin_olive_oil
+name_en: extra virgin olive oil
+name_fr: huile d'olive vierge extra
+serving_mode: measure
+food_group: fat
+states:
+  raw:
+    portion_g: 14.0
+    density_g_ml: 0.926
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

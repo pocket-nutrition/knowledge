@@ -1,0 +1,16 @@
+id: goat_yogurt
+name_en: goat yogurt
+name_fr: yaourt au lait de chèvre
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.027
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- yaourt de chèvre
+- yogourt au lait de chèvre
+display_unit: g

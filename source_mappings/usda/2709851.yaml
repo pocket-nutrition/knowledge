@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709851'
+canonical_ingredient_id: green_bean
+label: Green beans, cooked, from restaurant
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: String beans

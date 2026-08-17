@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705432'
+canonical_ingredient_id: greek_yogurt
+label: Yogurt, Greek, nonfat milk, fruit
+match_method: ai_review
+confidence: 0.9

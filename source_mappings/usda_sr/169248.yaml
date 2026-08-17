@@ -1,0 +1,8 @@
+canonical_ingredient_id: iceberg_lettuce
+confidence: 0.9
+label: Lettuce, iceberg (includes crisphead types), raw
+match_method: auto_precise
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '169248'

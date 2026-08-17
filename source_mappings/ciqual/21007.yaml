@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '21007'
+canonical_ingredient_id: mutton
+label: Mouton, gigot rôti/cuit au four
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

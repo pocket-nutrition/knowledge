@@ -1,0 +1,10 @@
+can_eat_cooked: true
+can_eat_raw: false
+food_group: meat
+id: chicken_leg
+name_en: chicken leg
+name_fr: cuisse de poulet
+states:
+  cooked:
+    portion_g: 150
+typical_state: fried

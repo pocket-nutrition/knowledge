@@ -1,0 +1,8 @@
+canonical_ingredient_id: carrot
+confidence: 0.8
+label: Carotte, cuite (aliment moyen)
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '20353'

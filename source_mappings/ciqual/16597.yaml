@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Matière grasse tartinable à teneur en MG > 41% et <= 62%, demi-sel, riche en
+  oméga 3
+match_method: auto_name
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16597'

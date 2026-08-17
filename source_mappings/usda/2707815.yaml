@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707815'
+canonical_ingredient_id: _composite
+label: Corn flour patty or tart, fried
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Biscuits, muffins, quick breads

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28964'
+canonical_ingredient_id: deli_turkey
+label: Jambon de dinde ou blanc de dinde en tranche
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

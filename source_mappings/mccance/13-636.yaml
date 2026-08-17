@@ -1,0 +1,6 @@
+canonical_ingredient_id: celery
+confidence: 0.92
+label: Celery, raw
+match_method: auto_precise
+source: mccance
+source_id: 13-636

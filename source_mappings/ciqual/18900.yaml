@@ -1,0 +1,9 @@
+canonical_ingredient_id: soy_milk
+confidence: 1.0
+label: Boisson au soja, nature, non enrichie, préemballée
+match_method: manual
+meta:
+  group: eaux et autres boissons
+  subgroup: boissons sans alcool
+source: ciqual
+source_id: '18900'

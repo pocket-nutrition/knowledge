@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to
+  0" fat, all grades, cooked, grilled
+match_method: auto_before_comma
+meta:
+  category: Beef Products
+source: usda_sr
+source_id: '169479'

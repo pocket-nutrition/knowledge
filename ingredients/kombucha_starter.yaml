@@ -1,0 +1,13 @@
+id: kombucha_starter
+name_en: kombucha starter
+name_fr: mère de kombucha (SCOBY)
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 50.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

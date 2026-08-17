@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '15009'
+canonical_ingredient_id: pistachio
+label: Pistache, grillée, salée
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

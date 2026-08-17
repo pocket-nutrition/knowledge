@@ -1,0 +1,8 @@
+canonical_ingredient_id: beef_dripping
+confidence: 0.9
+label: Dripping, beef
+match_method: auto_ai
+meta:
+  group: OF
+source: mccance
+source_id: 17-487

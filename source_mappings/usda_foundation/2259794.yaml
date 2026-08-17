@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2259794'
+canonical_ingredient_id: greek_yogurt
+label: Yogurt, Greek, plain, whole milk
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Dairy and Egg Products

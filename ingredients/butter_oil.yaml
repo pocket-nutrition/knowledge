@@ -1,0 +1,21 @@
+id: butter_oil
+name_en: butter oil
+name_fr: beurre clarifié
+serving_mode: measure
+food_group: fat
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.91
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- anhydrous milkfat
+aliases_fr:
+- matière grasse laitière anhydre
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

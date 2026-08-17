@@ -1,0 +1,6 @@
+source: usda
+source_id: '2706643'
+canonical_ingredient_id: _composite
+label: Sausage, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+match_method: name_en_before_comma
+confidence: 0.75

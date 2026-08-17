@@ -1,0 +1,18 @@
+id: red_bell_pepper
+name_en: red bell pepper
+name_fr: Poivron rouge
+name_en_plural: red bell peppers
+name_fr_plural: poivrons rouges
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 0.45
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- sweet red pepper
+- red capsicum
+display_unit: g

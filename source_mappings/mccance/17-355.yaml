@@ -1,0 +1,8 @@
+canonical_ingredient_id: baking_powder
+confidence: 0.95
+label: Baking powder
+match_method: auto_exact
+meta:
+  group: WY
+source: mccance
+source_id: 17-355

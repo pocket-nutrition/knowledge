@@ -1,0 +1,8 @@
+canonical_ingredient_id: fresh_mozzarella_cheese
+confidence: 0.9
+label: Mozzarella au lait de vache
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19590'

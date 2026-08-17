@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705818'
+canonical_ingredient_id: _composite
+label: Mozzarella cheese, tomato, and basil, with oil and vinegar dressing
+match_method: name_en_before_comma
+confidence: 0.75

@@ -1,0 +1,9 @@
+source: mccance
+source_id: 19-498
+canonical_ingredient_id: back_bacon
+label: Bacon rashers, back, dry-fried
+cooking_method: fried
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: MAA

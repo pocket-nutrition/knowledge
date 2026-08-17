@@ -1,0 +1,15 @@
+id: half_and_half
+name_en: half and half
+name_fr: moitié-moitié
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.01
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+display_unit: ml

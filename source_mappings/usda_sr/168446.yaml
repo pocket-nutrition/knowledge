@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168446'
+canonical_ingredient_id: potato_flour
+label: Potato flour
+cooking_method: dry
+match_method: auto_exact
+confidence: 0.95
+meta:
+  category: Vegetables and Vegetable Products

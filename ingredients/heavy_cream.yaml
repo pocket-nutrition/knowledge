@@ -1,0 +1,15 @@
+id: heavy_cream
+name_en: heavy cream
+name_fr: crème liquide entière
+serving_mode: measure
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: ml

@@ -1,0 +1,16 @@
+id: wine
+name_en: wine
+name_fr: vin
+serving_mode: volume
+food_group: alcohol
+states:
+  processed:
+    portion_g: 125.0
+    density_g_ml: 0.99
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- glass
+display_unit: ml

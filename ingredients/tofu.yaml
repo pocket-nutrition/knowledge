@@ -1,0 +1,12 @@
+id: tofu
+name_en: tofu
+name_fr: tofu
+food_group: legume
+states:
+  raw:
+    portion_g: 13.0
+    density_g_ml: 1.045
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

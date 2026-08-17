@@ -1,0 +1,7 @@
+source: mccance
+source_id: 11-968
+label: Rice, pilau, plain, homemade
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: AC

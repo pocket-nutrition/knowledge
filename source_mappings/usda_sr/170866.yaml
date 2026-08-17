@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk
+match_method: auto_name
+meta:
+  category: Dairy and Egg Products
+source: usda_sr
+source_id: '170866'

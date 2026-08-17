@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '6207'
+canonical_ingredient_id: beef
+label: Boeuf, rumsteck grillé/poêlé
+cooking_method: grilled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,8 @@
+canonical_ingredient_id: sherbet
+confidence: 0.8
+label: Sorbet, bâtonnet
+match_method: auto_before_comma
+meta:
+  group: glaces et sorbets
+source: ciqual
+source_id: '31013'

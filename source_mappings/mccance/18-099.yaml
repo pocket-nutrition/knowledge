@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-099
+canonical_ingredient_id: lamb_fat
+label: Lamb, fat, raw, average, extra trimmed
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Weighted average of 7 different cuts
+  food_group: MAE

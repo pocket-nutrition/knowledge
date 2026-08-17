@@ -1,0 +1,12 @@
+id: pickled_ginger
+name_en: pickled ginger
+name_fr: gingembre mariné (gari)
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 15.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2003603'
+canonical_ingredient_id: white_beech_mushroom
+label: Mushroom, beech
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

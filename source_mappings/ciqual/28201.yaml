@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '28201'
+canonical_ingredient_id: pork_fillet
+label: Porc, filet, maigre, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, œufs, poissons et assimilés
+  subgroup: viandes crues

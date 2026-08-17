@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705590'
+canonical_ingredient_id: malted_milk_powder
+label: Milk, malted, dry mix, not reconstituted
+match_method: ai_review
+confidence: 0.9

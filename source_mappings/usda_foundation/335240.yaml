@@ -1,0 +1,8 @@
+canonical_ingredient_id: bread
+confidence: 0.8
+label: Bread, whole-wheat, commercially prepared
+match_method: auto_before_comma
+meta:
+  category: Baked Products
+source: usda_foundation
+source_id: '335240'

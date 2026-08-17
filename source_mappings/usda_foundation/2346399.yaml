@@ -1,0 +1,8 @@
+canonical_ingredient_id: cherry
+confidence: 0.9
+label: Cherries, sweet, dark red, raw
+match_method: auto_ai
+meta:
+  category: Fruits and Fruit Juices
+source: usda_foundation
+source_id: '2346399'

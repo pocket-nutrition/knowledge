@@ -1,0 +1,9 @@
+canonical_ingredient_id: joels_fish
+confidence: 0.9
+label: Joëls (petits poissons entiers) pour friture, crus
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: poissons crus
+source: ciqual
+source_id: '26240'

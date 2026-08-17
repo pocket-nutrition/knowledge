@@ -1,0 +1,8 @@
+canonical_ingredient_id: brown_rice_flour
+confidence: 0.9
+label: Rice flour, brown
+match_method: auto_precise
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '168898'

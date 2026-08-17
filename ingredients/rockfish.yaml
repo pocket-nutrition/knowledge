@@ -1,0 +1,15 @@
+id: rockfish
+name_en: rockfish
+name_fr: sébaste
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- poisson de roche
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: black_pepper
+confidence: 0.9
+label: Poivre noir, poudre
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11015'

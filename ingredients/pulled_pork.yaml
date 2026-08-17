@@ -1,0 +1,16 @@
+id: pulled_pork
+name_en: pulled pork
+name_fr: porc effiloché
+serving_mode: weight
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.052
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_fr:
+- effiloché de porc
+display_unit: g

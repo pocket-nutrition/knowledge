@@ -1,0 +1,10 @@
+id: arrowhead
+name_en: Arrowhead
+name_fr: Arrowhead
+food_group: vegetable
+states:
+  raw:
+    portion_g: 12.0
+can_eat_raw: false
+can_eat_cooked: true
+display_unit: g

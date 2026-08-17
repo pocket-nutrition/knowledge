@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Gâteau mousse de fruits sur génoise, type miroir, bavarois
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '23007'

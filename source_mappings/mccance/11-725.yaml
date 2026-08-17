@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.7
+label: Noodles, rice, fine, dried, boiled in unsalted water
+match_method: auto_ai
+meta:
+  description: 8 samples, 3 products
+  food_group: AD
+source: mccance
+source_id: 11-725

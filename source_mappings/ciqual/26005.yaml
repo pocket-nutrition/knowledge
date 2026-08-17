@@ -1,0 +1,8 @@
+canonical_ingredient_id: caviar
+confidence: 0.8
+label: Caviar, semi-conserve
+match_method: auto_before_comma
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '26005'

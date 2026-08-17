@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '171592'
+canonical_ingredient_id: green_pea_soup
+label: Soup, pea, low sodium, prepared with equal volume water
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soups, Sauces, and Gravies

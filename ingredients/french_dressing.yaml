@@ -1,0 +1,16 @@
+id: french_dressing
+name_en: french dressing
+name_fr: sauce vinaigrette française
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.099
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

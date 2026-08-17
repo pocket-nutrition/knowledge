@@ -1,0 +1,18 @@
+id: branzino
+name_en: branzino
+name_fr: bar commun
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  raw:
+    portion_g: 130.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- European sea bass
+aliases_fr:
+- loup de mer
+- bar
+display_unit: g

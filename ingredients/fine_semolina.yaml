@@ -1,0 +1,17 @@
+id: fine_semolina
+name_en: fine semolina
+name_fr: semoule fine
+serving_mode: weight
+food_group: cereal
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.7
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

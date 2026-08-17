@@ -1,0 +1,8 @@
+canonical_ingredient_id: pineapple_juice
+confidence: 0.8
+label: Jus d'ananas, pur jus
+match_method: auto_before_comma
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '2073'

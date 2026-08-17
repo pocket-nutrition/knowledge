@@ -1,0 +1,8 @@
+canonical_ingredient_id: devil_s_food_cake_mix
+confidence: 0.65
+label: Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes
+match_method: auto_token
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '167924'

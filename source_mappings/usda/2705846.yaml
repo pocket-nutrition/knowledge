@@ -1,0 +1,8 @@
+canonical_ingredient_id: cow_head_beef
+confidence: 0.9
+label: Beef, cow head
+match_method: auto_ai
+meta:
+  wweia_category: Beef, excludes ground
+source: usda
+source_id: '2705846'

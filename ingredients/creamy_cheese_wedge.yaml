@@ -1,0 +1,14 @@
+id: creamy_cheese_wedge
+name_en: creamy cheese wedge
+name_fr: Vache qui rit
+serving_mode: item
+unit_label_en: wedge
+unit_label_fr: portion
+food_group: dairy
+states:
+  raw:
+    portion_g: 17.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

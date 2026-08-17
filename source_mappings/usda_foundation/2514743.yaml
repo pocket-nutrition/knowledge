@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2514743'
+canonical_ingredient_id: beef
+label: Beef, ground, 90% lean meat / 10% fat, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Beef Products

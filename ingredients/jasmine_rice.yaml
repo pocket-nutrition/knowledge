@@ -1,0 +1,15 @@
+id: jasmine_rice
+name_en: jasmine rice
+name_fr: riz au jasmin
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 75.0
+    density_g_ml: 0.85
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- riz parfumé
+display_unit: g

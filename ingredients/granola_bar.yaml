@@ -1,0 +1,14 @@
+id: granola_bar
+name_en: granola bar
+name_fr: barre de céréales
+serving_mode: item
+unit_label_en: bar
+unit_label_fr: barre
+food_group: cereal
+states:
+  raw:
+    portion_g: 35.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

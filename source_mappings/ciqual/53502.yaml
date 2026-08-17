@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '53502'
+canonical_ingredient_id: yam
+label: Igname, pelée, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 1.0
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: pommes de terre et autres tubercules

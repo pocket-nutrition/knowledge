@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2259793'
+canonical_ingredient_id: yogurt
+label: Yogurt, plain, whole milk
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Dairy and Egg Products

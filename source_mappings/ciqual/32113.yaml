@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Muesli floconneux aux fruits, fruits à coque et/ou graines, sans sucres ajoutés,
+  non enrichi
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '32113'

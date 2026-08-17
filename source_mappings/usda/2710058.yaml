@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710058'
+canonical_ingredient_id: summer_squash
+label: Fried summer squash, yellow or green
+cooking_method: fried
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Fried vegetables

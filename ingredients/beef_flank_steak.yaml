@@ -1,0 +1,18 @@
+id: beef_flank_steak
+name_en: flank steak
+name_fr: bavette de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.053
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- bavette
+aliases_fr:
+- bavette
+- flanchet de bœuf
+display_unit: g

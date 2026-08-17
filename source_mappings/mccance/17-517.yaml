@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Yeast extract
+match_method: auto_ai
+meta:
+  group: WY
+source: mccance
+source_id: 17-517

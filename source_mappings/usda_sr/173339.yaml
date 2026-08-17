@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki,
+  and sweet and sour varieties)
+match_method: auto_token
+meta:
+  category: Meals, Entrees, and Side Dishes
+source: usda_sr
+source_id: '173339'

@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708166'
+canonical_ingredient_id: rice_paper
+label: Rice paper
+cooking_method: dry
+match_method: name_en_exact
+confidence: 0.9

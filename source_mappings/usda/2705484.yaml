@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Hot chocolate / cocoa, dry mix, made with whole or reduced fat (2%) milk
+match_method: auto_name
+meta:
+  wweia_category: Flavored milk, reduced fat
+source: usda
+source_id: '2705484'

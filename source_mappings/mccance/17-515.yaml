@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-515
+canonical_ingredient_id: bouillon_cube
+label: Stock cubes, beef
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: WY

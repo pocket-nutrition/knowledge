@@ -1,0 +1,8 @@
+canonical_ingredient_id: sunflower_oil
+confidence: 0.9
+label: Oil, sunflower
+match_method: auto_ai
+meta:
+  category: Fats and Oils
+source: usda_foundation
+source_id: '1750349'

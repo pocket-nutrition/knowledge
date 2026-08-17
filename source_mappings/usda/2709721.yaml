@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709721'
+canonical_ingredient_id: tomato
+label: Tomatoes, fresh, cooked
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Tomatoes

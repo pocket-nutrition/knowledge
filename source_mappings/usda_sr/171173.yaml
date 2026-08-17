@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '171173'
+canonical_ingredient_id: pork_gravy
+label: Gravy, pork, dry, powder
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soups, Sauces, and Gravies

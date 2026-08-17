@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707511'
+canonical_ingredient_id: honey_roasted_mixed_nuts
+label: Mixed nuts, honey roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nuts and seeds

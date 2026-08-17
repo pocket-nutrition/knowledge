@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '175170'
+canonical_ingredient_id: crayfish
+label: Crustaceans, crayfish, mixed species, farmed, cooked, moist heat
+cooking_method: boiled
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Finfish and Shellfish Products

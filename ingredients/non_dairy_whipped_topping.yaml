@@ -1,0 +1,15 @@
+id: non_dairy_whipped_topping
+name_en: non-dairy whipped topping
+name_fr: crème fouettée végétale
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.317
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

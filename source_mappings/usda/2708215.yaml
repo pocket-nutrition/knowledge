@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708215'
+canonical_ingredient_id: pita_chip
+label: Pita chips
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9

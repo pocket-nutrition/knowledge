@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710217'
+canonical_ingredient_id: italian_dressing
+label: Creamy Italian dressing, light
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Salad dressings and vegetable oils

@@ -1,0 +1,16 @@
+id: chicken_soup_mix
+name_en: chicken soup mix
+name_fr: préparation pour soupe au poulet
+serving_mode: measure
+food_group: prepared_dish
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.5
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

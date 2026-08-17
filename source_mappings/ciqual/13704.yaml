@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Abricot au sirop (sans précision sur léger ou classique), appertisé, égoutté
+  (aliment moyen)
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13704'

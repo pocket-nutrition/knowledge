@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20312'
+canonical_ingredient_id: cauliflower
+label: Chou-fleur, cuit à la vapeur
+cooking_method: steamed
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

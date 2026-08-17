@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708612'
+canonical_ingredient_id: _composite
+label: Pizza, cheese, from frozen, thin crust
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Pizza

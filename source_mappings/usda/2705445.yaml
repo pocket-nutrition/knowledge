@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705445'
+canonical_ingredient_id: french_onion_dip
+label: Onion dip, yogurt based
+match_method: ai_review
+confidence: 0.9

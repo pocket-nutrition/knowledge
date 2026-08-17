@@ -1,0 +1,13 @@
+id: andouillette
+name_en: andouillette
+name_fr: Andouillette
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.07
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

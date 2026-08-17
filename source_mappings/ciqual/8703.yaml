@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '8703'
+canonical_ingredient_id: blood_sausage
+label: Boudin noir, à cuire
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

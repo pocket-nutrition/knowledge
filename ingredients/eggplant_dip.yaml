@@ -1,0 +1,10 @@
+id: eggplant_dip
+name_en: eggplant dip
+name_fr: caviar d'aubergine
+food_group: other
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

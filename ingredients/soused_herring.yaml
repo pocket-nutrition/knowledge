@@ -1,0 +1,19 @@
+id: soused_herring
+name_en: soused herring
+name_fr: hareng mariné
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  processed:
+    portion_g: 130.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_en:
+- rollmops
+- pickled herring
+aliases_fr:
+- rollmops
+display_unit: g

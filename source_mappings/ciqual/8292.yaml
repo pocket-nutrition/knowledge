@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Terrine de fruits de mer (par ex. de Saint-Jacques), avec ou sans poisson,
+  préemballée
+match_method: auto_name
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '8292'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: gluten_free_pasta
+confidence: 0.9
+label: Pâtes sèches, sans gluten, crues
+match_method: auto_ai
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '9874'

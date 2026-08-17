@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173761'
+canonical_ingredient_id: _composite
+label: Cowpeas, common (blackeyes, crowder, southern), mature seeds, canned with pork
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Legumes and Legume Products

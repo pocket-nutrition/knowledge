@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168048'
+canonical_ingredient_id: salmonberry
+label: Salmonberries, raw (Alaska Native)
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

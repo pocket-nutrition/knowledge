@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Oil, industrial, palm kernel, confection fat, uses similar to high quality
+  cocoa butter
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173600'

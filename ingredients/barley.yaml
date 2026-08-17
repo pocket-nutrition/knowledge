@@ -1,0 +1,13 @@
+id: barley
+name_en: barley
+name_fr: orge
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 70.0
+    density_g_ml: 0.78
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

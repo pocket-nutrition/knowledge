@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707817'
+canonical_ingredient_id: fried_corn_pone
+label: Corn pone, fried
+cooking_method: fried
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Biscuits, muffins, quick breads

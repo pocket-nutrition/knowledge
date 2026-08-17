@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20330'
+canonical_ingredient_id: bell_pepper
+label: Poivron vert, sauté/poêlé
+cooking_method: grilled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

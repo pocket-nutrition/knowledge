@@ -1,0 +1,16 @@
+id: beef
+name_en: beef
+name_fr: bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 277.0
+    density_g_ml: 1.049
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- bœuf haché
+- steak
+display_unit: g

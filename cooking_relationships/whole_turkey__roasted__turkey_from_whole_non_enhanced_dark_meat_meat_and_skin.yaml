@@ -1,0 +1,15 @@
+confidence: 0.75
+cooking_method: roasted
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Turkey, from whole,
+  non-enhanced, dark meat, meat and skin / Roasted
+nutrient_retention:
+  iron_mg: 0.94
+  niacin_mg: 0.78
+  phosphorus_mg: 0.85
+  potassium_mg: 0.78
+  vitamin_b12_ug: 0.82
+  vitamin_b6_mg: 0.71
+  zinc_mg: 0.94
+raw_id: whole_turkey
+source: usda_yield_mp_r2
+yield_factor: 0.69

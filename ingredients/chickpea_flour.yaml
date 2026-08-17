@@ -1,0 +1,20 @@
+id: chickpea_flour
+name_en: chickpea flour
+name_fr: farine de pois chiche
+serving_mode: weight
+food_group: cereal
+states:
+  cooked: {}
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- gram flour
+- besan
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

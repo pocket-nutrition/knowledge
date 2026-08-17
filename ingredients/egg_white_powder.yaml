@@ -1,0 +1,13 @@
+id: egg_white_powder
+name_en: egg white powder
+name_fr: Poudre de blanc d'oeuf
+serving_mode: measure
+food_group: egg
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

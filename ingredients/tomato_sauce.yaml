@@ -1,0 +1,16 @@
+id: tomato_sauce
+name_en: tomato sauce
+name_fr: sauce tomate
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 245.0
+    density_g_ml: 1.082
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

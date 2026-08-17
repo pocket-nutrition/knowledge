@@ -1,0 +1,18 @@
+id: sapodilla
+name_en: sapodilla
+name_fr: sapotille
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 206.0
+    density_g_ml: 1.019
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- sapote
+- chikoo
+aliases_fr:
+- sapotille
+display_unit: g

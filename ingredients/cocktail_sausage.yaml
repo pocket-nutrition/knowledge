@@ -1,0 +1,15 @@
+id: cocktail_sausage
+name_en: cocktail sausage
+name_fr: saucisse cocktail
+serving_mode: item
+unit_label_en: sausage
+unit_label_fr: saucisse
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 12.0
+    density_g_ml: 1.017
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

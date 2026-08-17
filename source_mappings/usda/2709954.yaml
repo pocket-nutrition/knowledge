@@ -1,0 +1,10 @@
+source: usda
+source_id: '2709954'
+canonical_ingredient_id: hearts_of_palm
+label: Palm hearts, cooked
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Other vegetables and combinations
+notes: Cooked version of palm heart.

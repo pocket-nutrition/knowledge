@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Mirepoix, cooked, as ingredient
+match_method: auto_name
+meta:
+  category: Not included in a food category
+source: usda
+source_id: '2710809'

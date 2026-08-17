@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Fruit smoothie, with whole fruit, non-dairy
+match_method: auto_token
+meta:
+  wweia_category: Smoothies and grain drinks
+source: usda
+source_id: '2709336'

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174302'
+canonical_ingredient_id: soy_protein_isolate
+label: Soy protein isolate, potassium type
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

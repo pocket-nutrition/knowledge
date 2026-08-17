@@ -1,0 +1,18 @@
+id: japanese_mayonnaise
+name_en: japanese mayonnaise
+name_fr: mayonnaise japonaise
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.95
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- kewpie mayonnaise
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

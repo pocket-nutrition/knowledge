@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beans, great northern, mature seeds, raw (Includes foods for USDA's Food Distribution
+  Program)
+match_method: auto_ai
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '175190'

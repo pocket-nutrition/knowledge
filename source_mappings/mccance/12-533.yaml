@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Yogurt, virtually fat free/diet, plain
+match_method: auto_before_comma
+meta:
+  group: BN
+source: mccance
+source_id: 12-533

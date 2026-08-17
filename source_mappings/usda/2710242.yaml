@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710242'
+canonical_ingredient_id: _composite
+label: Chicken, for use with vegetables
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  wweia_category: Not included in a food category

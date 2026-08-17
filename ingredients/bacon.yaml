@@ -1,0 +1,16 @@
+id: bacon
+name_en: bacon
+name_fr: lardon
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 16.0
+    density_g_ml: 0.95
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- bacon
+- poitrine fumée
+display_unit: g

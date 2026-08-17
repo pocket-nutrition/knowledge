@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '175301'
+canonical_ingredient_id: elk_meat
+label: Game meat, elk, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Lamb, Veal, and Game Products

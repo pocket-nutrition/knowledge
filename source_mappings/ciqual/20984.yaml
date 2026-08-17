@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20984'
+canonical_ingredient_id: wakame_seaweed
+label: Wakamé (Undaria pinnatifida), séchée ou déshydratée
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

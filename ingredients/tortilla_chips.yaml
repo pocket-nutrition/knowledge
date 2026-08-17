@@ -1,0 +1,23 @@
+id: tortilla_chips
+name_en: plain tortilla chips
+name_fr: chips de tortilla
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 0.2
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+aliases_en:
+- tortilla chips
+- corn tortilla chips
+aliases_fr:
+- tortilla chips
+- chips de maïs
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

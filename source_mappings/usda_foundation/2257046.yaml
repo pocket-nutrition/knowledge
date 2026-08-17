@@ -1,0 +1,8 @@
+canonical_ingredient_id: oat_milk
+confidence: 0.8
+label: Oat milk, unsweetened, plain, refrigerated
+match_method: auto_before_comma
+meta:
+  category: Beverages
+source: usda_foundation
+source_id: '2257046'

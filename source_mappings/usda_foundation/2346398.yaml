@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2346398'
+canonical_ingredient_id: pineapple
+label: Pineapple, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Fruits and Fruit Juices

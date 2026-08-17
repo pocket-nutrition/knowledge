@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: High juice drink, diluted
+match_method: auto_name
+meta:
+  group: PCC
+source: mccance
+source_id: 17-848

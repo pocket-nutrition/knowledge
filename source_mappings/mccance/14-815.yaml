@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Chestnuts, dried
+match_method: auto_ai
+meta:
+  description: Literature sources and calculation from 14-813
+  food_group: GA
+source: mccance
+source_id: 14-815

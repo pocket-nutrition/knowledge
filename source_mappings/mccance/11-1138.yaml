@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Custard powder
+match_method: auto_name
+meta:
+  group: AA
+source: mccance
+source_id: 11-1138

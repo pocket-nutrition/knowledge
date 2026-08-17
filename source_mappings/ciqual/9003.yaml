@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '9003'
+canonical_ingredient_id: khorasan_wheat
+label: Blé de Khorasan, cru
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers
+  subgroup: pâtes, riz et céréales

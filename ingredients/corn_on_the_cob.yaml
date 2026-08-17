@@ -1,0 +1,15 @@
+id: corn_on_the_cob
+name_en: corn on the cob
+name_fr: épi de maïs
+serving_mode: item
+unit_label_en: cob
+unit_label_fr: épi
+food_group: vegetable
+states:
+  raw:
+    portion_g: 114.0
+    density_g_ml: 0.697
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: cocktail_sauce
+confidence: 0.65
+label: Sauce cocktail, préemballée
+match_method: auto_token
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11244'

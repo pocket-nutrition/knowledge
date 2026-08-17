@@ -1,0 +1,19 @@
+id: brown_miso
+name_en: brown miso
+name_fr: miso brun
+serving_mode: measure
+food_group: other
+states:
+  processed:
+    portion_g: 18.0
+    density_g_ml: 1.25
+  raw:
+    portion_g: 18.0
+    density_g_ml: 1.25
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

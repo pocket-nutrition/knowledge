@@ -1,0 +1,7 @@
+canonical_ingredient_id: cheese
+confidence: 0.7
+label: Fromage de chèvre lactique affiné, au lait cru (type Crottin de Chavignol,
+  Picodon, Rocamadour, Sainte-Maure de Touraine)
+match_method: name_fr_partial
+source: ciqual
+source_id: '12801'

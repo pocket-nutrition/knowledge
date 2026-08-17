@@ -1,0 +1,21 @@
+id: corn_chip
+name_en: corn chip
+name_fr: Chips de maïs ou tortilla chips
+name_en_plural: corn chips
+name_fr_plural: chips de maïs
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 12.0
+    density_g_ml: 0.2
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- tortilla chips
+- corn chips
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

@@ -1,0 +1,16 @@
+id: vegan_sausage
+name_en: vegan sausage
+name_fr: saucisse végétalienne
+serving_mode: item
+unit_label_en: sausage
+unit_label_fr: saucisse
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 75.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

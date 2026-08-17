@@ -1,0 +1,10 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Chicken or turkey, breaded, fried, garden salad with cheese, chicken and/or
+  turkey, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables,
+  no dressing
+match_method: auto_token
+meta:
+  category: Poultry mixed dishes
+source: usda
+source_id: '2706815'

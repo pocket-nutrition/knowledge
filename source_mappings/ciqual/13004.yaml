@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13004'
+canonical_ingredient_id: avocado
+label: Avocat, chair sans peau, sans noyau, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

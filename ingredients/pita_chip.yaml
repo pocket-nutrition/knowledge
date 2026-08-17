@@ -1,0 +1,21 @@
+id: pita_chip
+name_en: pita chip
+name_fr: chips de pita
+serving_mode: weight
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 30.0
+    density_g_ml: 0.2
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+aliases_en:
+- pita chips
+aliases_fr:
+- chips de pita
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

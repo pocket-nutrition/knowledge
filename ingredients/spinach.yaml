@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: spinach
+name_en: spinach
+name_fr: épinard
+states:
+  raw:
+    density_g_ml: 1.019
+    portion_g: 214
+typical_state: raw

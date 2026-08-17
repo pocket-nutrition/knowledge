@@ -1,0 +1,8 @@
+canonical_ingredient_id: hazelnut_oil
+confidence: 0.95
+label: Huile de noisette
+match_method: auto_exact
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '17210'

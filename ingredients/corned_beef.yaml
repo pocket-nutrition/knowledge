@@ -1,0 +1,12 @@
+id: corned_beef
+name_en: corned beef
+name_fr: corned beef
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 28.0
+    density_g_ml: 1.066
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

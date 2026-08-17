@@ -1,0 +1,12 @@
+id: sea_bas
+name_en: sea bas
+name_fr: bar
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.057
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: roasted
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174607'
+canonical_ingredient_id: kielbasa
+label: Kielbasa, Polish, turkey and beef, smoked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Sausages and Luncheon Meats

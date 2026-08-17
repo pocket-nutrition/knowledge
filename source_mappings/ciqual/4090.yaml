@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '4090'
+canonical_ingredient_id: potato_starch
+label: Fécule de pomme de terre
+cooking_method: dry
+match_method: auto_exact
+confidence: 0.95
+meta:
+  group: produits céréaliers

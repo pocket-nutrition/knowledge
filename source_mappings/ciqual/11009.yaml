@@ -1,0 +1,8 @@
+canonical_ingredient_id: brewer_s_yeast
+confidence: 0.9
+label: Levure de bière en paillettes
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11009'

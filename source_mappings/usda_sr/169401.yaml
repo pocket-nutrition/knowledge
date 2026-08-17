@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169401'
+canonical_ingredient_id: tannia
+label: Yautia (tannier), raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

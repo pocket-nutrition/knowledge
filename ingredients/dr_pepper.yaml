@@ -1,0 +1,18 @@
+id: dr_pepper
+name_en: dr pepper
+name_fr: dr pepper
+serving_mode: volume
+food_group: beverage
+states:
+  processed:
+    portion_g: 250.0
+    density_g_ml: 1.04
+  raw:
+    portion_g: 200.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

@@ -1,0 +1,13 @@
+id: seaweed_salad
+name_en: seaweed salad
+name_fr: salade d'algues
+serving_mode: weight
+food_group: seaweed
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28101'
+canonical_ingredient_id: pork
+label: Porc, côte grillée/poêlée
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

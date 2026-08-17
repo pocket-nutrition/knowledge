@@ -1,0 +1,10 @@
+source: mccance
+source_id: 16-388
+canonical_ingredient_id: king_prawn
+label: Prawns, king, grilled from raw
+cooking_method: grilled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: 9 samples, 9 products, warm-water prawns (Panaeus vannamei), frozen and chilled
+  food_group: JK

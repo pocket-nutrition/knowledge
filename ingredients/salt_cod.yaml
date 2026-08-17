@@ -1,0 +1,16 @@
+id: salt_cod
+name_en: salt cod
+name_fr: morue salée
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  processed:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- bacalao
+- morue séchée salée
+display_unit: g

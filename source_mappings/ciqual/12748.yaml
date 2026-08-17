@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '12748'
+canonical_ingredient_id: saint_nectaire
+label: Saint-Nectaire, laitier
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits laitiers

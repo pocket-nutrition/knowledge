@@ -1,0 +1,18 @@
+id: blackcurrant_juice
+name_en: blackcurrant juice
+name_fr: jus de cassis
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- cassis juice
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

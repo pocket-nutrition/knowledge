@@ -1,0 +1,15 @@
+id: ginger_wine
+name_en: ginger wine
+name_fr: vin de gingembre
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- glass
+display_unit: ml

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Crème 30% MG, semi-épaisse, UHT
+match_method: auto_name
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19415'

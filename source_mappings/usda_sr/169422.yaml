@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169422'
+canonical_ingredient_id: cashew
+label: Nuts, cashew nuts, oil roasted, with salt added
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

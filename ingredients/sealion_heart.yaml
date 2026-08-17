@@ -1,0 +1,14 @@
+id: sealion_heart
+name_en: sea lion heart
+name_fr: cœur d'otarie
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- cœur de lion de mer
+display_unit: g

@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-276
+canonical_ingredient_id: marrow
+label: Marrow, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: DG

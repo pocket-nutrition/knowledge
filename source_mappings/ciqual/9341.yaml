@@ -1,0 +1,9 @@
+canonical_ingredient_id: quinoa
+confidence: 0.8
+cooking_method: boiled
+label: Quinoa, bouilli/cuit à l'eau, sans sel ajouté
+match_method: auto_before_comma
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '9341'

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Liver, pig, raw
+match_method: auto_ai
+meta:
+  description: 10 samples
+  food_group: MG
+source: mccance
+source_id: 18-417

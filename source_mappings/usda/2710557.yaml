@@ -1,0 +1,8 @@
+canonical_ingredient_id: root_beer
+confidence: 0.65
+label: Soft drink, root beer
+match_method: auto_token
+meta:
+  wweia_category: Soft drinks
+source: usda
+source_id: '2710557'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: curry
+confidence: 0.95
+label: Curry powder
+match_method: auto_exact
+meta:
+  group: H
+source: mccance
+source_id: 13-876

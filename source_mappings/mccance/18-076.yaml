@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beef, stewing steak, raw, lean
+match_method: auto_ai
+meta:
+  description: 10 samples
+  food_group: MAC
+source: mccance
+source_id: 18-076

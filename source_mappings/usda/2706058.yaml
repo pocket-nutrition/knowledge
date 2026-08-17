@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706058'
+canonical_ingredient_id: chicken_wing
+label: Chicken wing, baked or broiled, from pre-cooked
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Chicken, whole pieces

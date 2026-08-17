@@ -1,0 +1,8 @@
+source: mccance
+source_id: 11-879
+label: Rice, white, Italian "Arborio" risotto, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: AC

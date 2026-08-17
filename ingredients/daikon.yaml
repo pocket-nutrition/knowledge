@@ -1,0 +1,15 @@
+id: daikon
+name_en: daikon
+name_fr: radis blanc
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- daïkon
+- radis japonais
+display_unit: g

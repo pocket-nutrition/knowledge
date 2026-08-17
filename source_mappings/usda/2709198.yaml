@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709198'
+canonical_ingredient_id: dried_blueberry
+label: Blueberries, dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Dried fruits

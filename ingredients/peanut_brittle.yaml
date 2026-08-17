@@ -1,0 +1,12 @@
+id: peanut_brittle
+name_en: peanut brittle
+name_fr: croquant de cacahouète
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 28.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

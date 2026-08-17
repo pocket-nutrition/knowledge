@@ -1,0 +1,13 @@
+# Standard culinary unit volumes (mL)
+# These are physical constants — a teaspoon is always 5 mL regardless of ingredient.
+# To get grams: multiply by the ingredient's density_g_ml.
+pinch: 0.3
+teaspoon: 5.0
+tablespoon: 15.0
+cup: 240.0
+handful: 60.0
+small_handful: 30.0
+glass: 200.0
+shot: 40.0
+bowl: 400.0
+scoop: 30.0

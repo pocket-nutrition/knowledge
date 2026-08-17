@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2685579'
+canonical_ingredient_id: tomato_sauce
+label: Tomato, sauce, canned, with salt added
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

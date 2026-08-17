@@ -1,0 +1,11 @@
+id: grape
+name_en: grape
+name_fr: raisin
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.071
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

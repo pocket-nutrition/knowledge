@@ -1,0 +1,14 @@
+id: candy_cane
+name_en: candy cane
+name_fr: sucre d'orge
+serving_mode: item
+unit_label_en: candy cane
+unit_label_fr: sucre d'orge
+food_group: sweetener
+states:
+  raw:
+    portion_g: 12.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

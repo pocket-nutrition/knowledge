@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36205'
+canonical_ingredient_id: duck
+label: Canard, magret grillé/poêlé
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

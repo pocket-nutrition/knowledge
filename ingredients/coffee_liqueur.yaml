@@ -1,0 +1,13 @@
+id: coffee_liqueur
+name_en: coffee liqueur
+name_fr: liqueur de café
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 47.0
+    density_g_ml: 1.13
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: ml

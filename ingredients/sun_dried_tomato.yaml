@@ -1,0 +1,13 @@
+id: sun_dried_tomato
+name_en: sun dried tomato
+name_fr: tomate séchée au soleil
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 37.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

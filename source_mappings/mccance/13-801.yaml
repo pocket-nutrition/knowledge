@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-801
+canonical_ingredient_id: allspice
+label: Allspice, ground
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: H

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169053'
+canonical_ingredient_id: margarine
+label: Margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Fats and Oils

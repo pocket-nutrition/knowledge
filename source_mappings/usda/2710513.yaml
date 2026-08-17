@@ -1,0 +1,8 @@
+canonical_ingredient_id: iced_tea
+confidence: 0.65
+label: Iced Tea / Lemonade juice drink, light
+match_method: auto_token
+meta:
+  wweia_category: Tea
+source: usda
+source_id: '2710513'

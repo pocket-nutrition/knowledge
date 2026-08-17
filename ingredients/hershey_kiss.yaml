@@ -1,0 +1,14 @@
+id: hershey_kiss
+name_en: hershey kiss
+name_fr: hershey kiss
+serving_mode: item
+unit_label_en: kiss
+unit_label_fr: kiss
+food_group: sweetener
+states:
+  raw:
+    portion_g: 4.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: zwieback
+confidence: 0.95
+label: Zwieback
+match_method: auto_exact
+meta:
+  category: Baby Foods
+source: usda_sr
+source_id: '171372'

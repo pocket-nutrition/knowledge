@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Gratin de légumes en sauce blanche type béchamel, préemballé, cuit
+match_method: auto_token
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '25588'

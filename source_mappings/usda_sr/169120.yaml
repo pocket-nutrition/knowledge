@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169120'
+canonical_ingredient_id: canned_pear
+label: Pears, canned, extra heavy syrup pack, solids and liquids
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Fruits and Fruit Juices

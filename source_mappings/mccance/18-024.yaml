@@ -1,0 +1,9 @@
+canonical_ingredient_id: beef_plat_de_cotes
+confidence: 0.9
+label: Beef, flank, raw, lean
+match_method: auto_ai
+meta:
+  description: 6 samples
+  food_group: MAC
+source: mccance
+source_id: 18-024

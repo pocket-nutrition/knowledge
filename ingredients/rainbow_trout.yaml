@@ -1,0 +1,17 @@
+id: rainbow_trout
+name_en: rainbow trout
+name_fr: truite arc-en-ciel
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.053
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: roasted
+aliases_en:
+- steelhead trout
+aliases_fr:
+- truite
+display_unit: g

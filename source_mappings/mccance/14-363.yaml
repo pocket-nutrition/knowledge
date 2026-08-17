@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-363
+canonical_ingredient_id: null
+label: Apples, cooking, raw, flesh only, weighed with skin and core
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Bramley variety; calculated from 14-362
+  food_group: F

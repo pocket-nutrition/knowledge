@@ -1,0 +1,12 @@
+id: ground_beef
+name_en: ground beef
+name_fr: bœuf haché
+food_group: meat
+states:
+  raw:
+    portion_g: 324.0
+    density_g_ml: 1.068
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

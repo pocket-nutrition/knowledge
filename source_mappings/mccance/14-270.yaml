@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-270
+canonical_ingredient_id: white_currant
+label: Whitecurrants, stewed without sugar
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: FA

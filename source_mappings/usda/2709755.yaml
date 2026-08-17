@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709755'
+canonical_ingredient_id: _composite
+label: Puerto Rican seasoning without ham and tomato sauce
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Mustard and other condiments

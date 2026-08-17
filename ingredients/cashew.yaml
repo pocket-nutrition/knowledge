@@ -1,0 +1,22 @@
+id: cashew
+name_en: cashew
+name_fr: noix de cajou
+name_en_plural: cashews
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- cashew nut
+aliases_fr:
+- cajou
+- noix d'acajou
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

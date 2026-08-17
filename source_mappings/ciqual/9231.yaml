@@ -1,0 +1,8 @@
+canonical_ingredient_id: popcorn
+confidence: 0.9
+label: Pop-corn ou maïs éclaté, sans huile, non salé
+match_method: auto_ai
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '9231'

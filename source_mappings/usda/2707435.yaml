@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707435'
+canonical_ingredient_id: tofu
+label: Soybean curd
+match_method: ai_review
+confidence: 0.9

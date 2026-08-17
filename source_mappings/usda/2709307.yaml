@@ -1,0 +1,6 @@
+canonical_ingredient_id: guacamole
+confidence: 0.75
+label: Guacamole, NFS
+match_method: name_en_before_comma
+source: usda
+source_id: '2709307'

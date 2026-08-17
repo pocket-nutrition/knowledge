@@ -1,0 +1,8 @@
+canonical_ingredient_id: feta_cheese
+confidence: 0.9
+label: Fromage type feta, au lait de vache 100%
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12060'

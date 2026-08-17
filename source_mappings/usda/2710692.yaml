@@ -1,0 +1,8 @@
+canonical_ingredient_id: dessert_wine
+confidence: 0.65
+label: Wine, dessert, sweet
+match_method: auto_token
+meta:
+  wweia_category: Wine
+source: usda
+source_id: '2710692'

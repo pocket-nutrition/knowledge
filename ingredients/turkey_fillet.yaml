@@ -1,0 +1,17 @@
+id: turkey_fillet
+name_en: turkey fillet
+name_fr: filet de dinde
+serving_mode: item
+unit_label_en: fillet
+unit_label_fr: escalope
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.06
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- escalope de dinde
+display_unit: g

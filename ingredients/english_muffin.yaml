@@ -1,0 +1,15 @@
+id: english_muffin
+name_en: english muffin
+name_fr: Muffin anglais
+serving_mode: item
+unit_label_en: muffin
+unit_label_fr: muffin
+food_group: baked_good
+states:
+  raw:
+    portion_g: 108.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,16 @@
+id: apple_butter
+name_en: apple butter
+name_fr: beurre de pommes
+serving_mode: measure
+food_group: fruit
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

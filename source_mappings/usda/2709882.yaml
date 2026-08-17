@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709882'
+canonical_ingredient_id: brussels_sprout
+label: Brussels sprouts, frozen, cooked, no added fat
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Other vegetables and combinations

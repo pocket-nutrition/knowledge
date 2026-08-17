@@ -1,0 +1,20 @@
+id: salted_shrimp
+name_en: salted shrimp
+name_fr: crevette salée
+serving_mode: measure
+food_group: shellfish
+states:
+  processed:
+    portion_g: 10.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- saeu-jeot
+- fermented shrimp
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

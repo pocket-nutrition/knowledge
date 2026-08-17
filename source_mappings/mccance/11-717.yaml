@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Pasta shapes, coloured, flavoured, dried, raw
+match_method: name_en_partial
+meta:
+  description: 10 samples, including spirali, farfalle, fusilli, penne, pennette
+  food_group: AD
+source: mccance
+source_id: 11-717

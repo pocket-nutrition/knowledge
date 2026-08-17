@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26110'
+canonical_ingredient_id: red_mullet
+label: Rouget-barbet de roche, vapeur
+cooking_method: steamed
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

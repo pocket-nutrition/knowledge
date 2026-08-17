@@ -1,0 +1,16 @@
+id: creme_de_cassis
+name_en: creme de cassis
+name_fr: crème de cassis
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.097
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- blackcurrant liqueur
+- cassis liqueur
+display_unit: ml

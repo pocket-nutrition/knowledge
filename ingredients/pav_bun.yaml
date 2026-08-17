@@ -1,0 +1,16 @@
+id: pav_bun
+name_en: pav bun
+name_fr: petit pain pav
+serving_mode: item
+unit_label_en: bun
+unit_label_fr: petit pain
+food_group: baked_good
+states:
+  processed:
+    portion_g: 40.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

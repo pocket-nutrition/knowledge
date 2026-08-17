@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706125'
+canonical_ingredient_id: turkey_thigh
+label: Turkey, thigh, cooked, skin eaten
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Turkey, duck, other poultry

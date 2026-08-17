@@ -1,0 +1,8 @@
+canonical_ingredient_id: fresh_cheese
+confidence: 0.9
+label: Fromage frais, virtually fat free, fruit
+match_method: auto_ai
+meta:
+  group: BN
+source: mccance
+source_id: 12-372

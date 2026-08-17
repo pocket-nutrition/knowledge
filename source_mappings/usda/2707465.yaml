@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707465'
+canonical_ingredient_id: meatless_bacon
+label: Bacon strip, meatless
+match_method: ai_review
+confidence: 0.9

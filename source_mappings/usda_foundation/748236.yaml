@@ -1,0 +1,8 @@
+canonical_ingredient_id: egg_yolk
+confidence: 0.65
+label: Eggs, Grade A, Large, egg yolk
+match_method: auto_token
+meta:
+  category: Dairy and Egg Products
+source: usda_foundation
+source_id: '748236'

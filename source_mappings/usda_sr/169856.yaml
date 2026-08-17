@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169856'
+canonical_ingredient_id: _composite
+label: Restaurant, Mexican, cheese tamales
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Restaurant Foods

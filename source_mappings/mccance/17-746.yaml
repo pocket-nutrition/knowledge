@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Fruit juice, mixed
+match_method: auto_before_comma
+meta:
+  group: PE
+source: mccance
+source_id: 17-746

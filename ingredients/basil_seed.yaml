@@ -1,0 +1,19 @@
+id: basil_seed
+name_en: basil seed
+name_fr: graine de basilic
+serving_mode: measure
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 13.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- sabja seed
+- tukmaria
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

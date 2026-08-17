@@ -1,0 +1,8 @@
+canonical_ingredient_id: aspartame
+confidence: 0.9
+label: Édulcorant à l'aspartame, en pastilles
+match_method: auto_ai
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '11506'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: mushroom
+confidence: 0.8
+label: Mushroom, crimini
+match_method: auto_before_comma
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_foundation
+source_id: '2003601'

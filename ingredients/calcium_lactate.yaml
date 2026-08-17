@@ -1,0 +1,15 @@
+id: calcium_lactate
+name_en: calcium lactate
+name_fr: lactate de calcium
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon

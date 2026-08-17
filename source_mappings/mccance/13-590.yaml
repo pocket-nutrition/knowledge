@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Onions, dried, raw
+match_method: auto_ai
+meta:
+  description: Calculated from raw (13-499)
+  food_group: DG
+source: mccance
+source_id: 13-590

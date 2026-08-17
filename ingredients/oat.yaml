@@ -1,0 +1,16 @@
+id: oat
+name_en: oats
+name_fr: avoine
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 0.4
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

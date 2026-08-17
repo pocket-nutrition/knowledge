@@ -1,0 +1,11 @@
+id: alaska_fish_fillet
+name_en: Alaskan fish fillet
+name_fr: Filet de poisson d'Alaska
+food_group: fish
+states:
+  raw:
+    portion_g: 201.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

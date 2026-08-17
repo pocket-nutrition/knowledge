@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Mayonnaise (70% MG min.), préemballée
+match_method: auto_name
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11054'

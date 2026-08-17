@@ -1,0 +1,16 @@
+id: cottage_cheese
+name_en: cottage cheese
+name_fr: fromage cottage
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

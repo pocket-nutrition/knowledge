@@ -1,0 +1,12 @@
+id: soy_chorizo
+name_en: soy chorizo
+name_fr: chorizo de soja
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

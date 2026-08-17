@@ -1,0 +1,8 @@
+canonical_ingredient_id: peanut_brittle
+confidence: 0.8
+label: Peanut brittle, homemade
+match_method: auto_before_comma
+meta:
+  group: SEC
+source: mccance
+source_id: 17-116

@@ -1,0 +1,11 @@
+id: pineapple
+name_en: pineapple
+name_fr: ananas
+food_group: fruit
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.104
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

@@ -1,0 +1,8 @@
+canonical_ingredient_id: vanilla_extract
+confidence: 0.95
+label: Vanilla extract
+match_method: auto_exact
+meta:
+  category: Spices and Herbs
+source: usda_sr
+source_id: '173471'

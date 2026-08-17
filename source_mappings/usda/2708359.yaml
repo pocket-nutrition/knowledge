@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708359'
+label: Pasta, gluten free
+match_method: name_en_before_comma
+confidence: 0.75
+meta:
+  wweia_category: Pasta, noodles, cooked grains

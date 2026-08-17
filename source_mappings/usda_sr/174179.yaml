@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beverages, Fruit flavored drink, less than 3% juice, not fortified with vitamin
+  C
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '174179'

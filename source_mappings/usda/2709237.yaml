@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709237'
+canonical_ingredient_id: grape
+label: Grapes, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Grapes

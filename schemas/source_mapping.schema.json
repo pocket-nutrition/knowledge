@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "source",
+    "source_id"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "source": {
+      "type": "string",
+      "enum": [
+        "ciqual",
+        "mccance",
+        "usda",
+        "usda_foundation",
+        "usda_sr",
+        "reference"
+      ]
+    },
+    "source_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_ingredient_id": {
+      "type": ["string", "null"],
+      "pattern": "^[a-z0-9_]{1,128}$"
+    },
+    "label": {
+      "type": "string",
+      "maxLength": 256,
+      "description": "Human-readable name from the source database (e.g. Ciqual French name). Populated when auto-imported."
+    },
+    "cooking_method": {
+      "type": "string",
+      "enum": [
+        "raw",
+        "boiled",
+        "steamed",
+        "grilled",
+        "roasted",
+        "fried",
+        "cooked",
+        "dry"
+      ],
+      "description": "Preparation state of the source row. Absent = raw (default). Cooked Ciqual / USDA entries (label contains 'cuit', 'cooked', 'boiled', …) must carry a non-raw value so the UI can group raw vs. cooked references on the same canonical ingredient. Use 'dry' for dehydrated/freeze-dried entries (e.g. Ciqual 'pomme séchée' → canonical apple): these link the dried source row to the base ingredient and are not used by the ML training pipeline."
+    },
+    "match_method": {
+      "type": "string",
+      "enum": [
+        "auto_name",
+        "auto_exact",
+        "auto_precise",
+        "auto_before_comma",
+        "auto_token",
+        "auto_embed",
+        "auto_ai",
+        "ciqual_pair_generator",
+        "name_fr_exact",
+        "name_fr_before_comma",
+        "name_fr_partial",
+        "name_en_exact",
+        "name_en_before_comma",
+        "name_en_partial",
+        "manual",
+        "ai_review"
+      ]
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "meta": {
+      "type": "object",
+      "description": "Source-specific metadata fields (group, category, etc.). Informational only — not used by the ML pipeline.",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

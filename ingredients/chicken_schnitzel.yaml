@@ -1,0 +1,12 @@
+id: chicken_schnitzel
+name_en: chicken schnitzel
+name_fr: escalope panée de poulet
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

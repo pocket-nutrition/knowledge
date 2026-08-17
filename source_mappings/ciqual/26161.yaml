@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '26161'
+canonical_ingredient_id: salmon
+label: Saumon, sauvage, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

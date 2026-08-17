@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Sandwich spread
+match_method: auto_name
+meta:
+  wweia_category: Mayonnaise
+source: usda
+source_id: '2710172'

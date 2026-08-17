@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2685578'
+canonical_ingredient_id: canned_whole_tomato
+label: Tomatoes, whole, canned, solids and liquids, with salt added
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Vegetables and Vegetable Products

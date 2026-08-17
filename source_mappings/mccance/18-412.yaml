@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Liver, chicken, fried in corn oil
+match_method: auto_token
+meta:
+  group: MG
+source: mccance
+source_id: 18-412

@@ -1,0 +1,15 @@
+id: wasabi
+name_en: wasabi
+name_fr: wasabi
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: g

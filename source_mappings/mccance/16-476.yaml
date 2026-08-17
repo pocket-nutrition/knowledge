@@ -1,0 +1,8 @@
+canonical_ingredient_id: kipper
+confidence: 0.9
+label: Kippers, flesh only, grilled, fillets weighed with bones and skin
+match_method: auto_ai
+meta:
+  group: JC
+source: mccance
+source_id: 16-476

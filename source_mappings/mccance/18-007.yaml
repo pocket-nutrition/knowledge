@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, braising steak, raw, lean and fat
+match_method: auto_before_comma
+meta:
+  description: Calculated from 92% lean and 7% fat
+  food_group: MAC
+source: mccance
+source_id: 18-007

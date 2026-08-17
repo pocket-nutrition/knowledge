@@ -1,0 +1,20 @@
+id: confectioners_sugar
+name_en: confectioners sugar
+name_fr: sucre glace
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 8.0
+    density_g_ml: 0.55
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- icing sugar
+- powdered sugar
+serving_unit_types:
+- teaspoon
+- tablespoon
+- cup
+display_unit: g

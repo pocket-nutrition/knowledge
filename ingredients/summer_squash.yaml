@@ -1,0 +1,11 @@
+id: summer_squash
+name_en: summer squash
+name_fr: courge d'été
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

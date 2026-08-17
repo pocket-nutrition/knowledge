@@ -1,0 +1,8 @@
+canonical_ingredient_id: papad
+confidence: 0.95
+label: Papad
+match_method: auto_exact
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '168106'

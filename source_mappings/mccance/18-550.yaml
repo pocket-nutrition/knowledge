@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, shoulder joint (collar), raw, lean and fat, weighed with bone
+match_method: auto_before_comma
+meta:
+  description: Calculated from 18-549
+  food_group: MAG
+source: mccance
+source_id: 18-550

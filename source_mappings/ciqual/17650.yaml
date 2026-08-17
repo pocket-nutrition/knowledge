@@ -1,0 +1,8 @@
+canonical_ingredient_id: herring_oil
+confidence: 0.9
+label: Huile de hareng
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '17650'

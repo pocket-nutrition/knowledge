@@ -1,0 +1,21 @@
+id: prepared_coleslaw_dressing
+name_en: prepared coleslaw dressing
+name_fr: sauce pour coleslaw
+serving_mode: volume
+food_group: sauce
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.95
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- coleslaw dressing
+aliases_fr:
+- sauce coleslaw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

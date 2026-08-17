@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709260'
+canonical_ingredient_id: pineapple
+label: Pineapple, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

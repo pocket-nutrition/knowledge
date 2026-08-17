@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168060'
+canonical_ingredient_id: steelhead_trout
+label: Steelhead trout, boiled, canned (Alaska Native)
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: American Indian/Alaska Native Foods

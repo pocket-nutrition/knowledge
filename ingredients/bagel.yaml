@@ -1,0 +1,18 @@
+id: bagel
+name_en: bagel
+name_fr: bagel
+name_en_plural: bagels
+name_fr_plural: bagels
+serving_mode: item
+unit_label_en: bagel
+unit_label_fr: bagel
+food_group: baked_good
+states:
+  processed:
+    portion_g: 95.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

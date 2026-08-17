@@ -1,0 +1,8 @@
+canonical_ingredient_id: beef_liver
+confidence: 0.9
+label: Liver, beef
+match_method: auto_ai
+meta:
+  wweia_category: Liver and organ meats
+source: usda
+source_id: '2706153'

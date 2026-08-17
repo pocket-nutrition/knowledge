@@ -1,0 +1,16 @@
+id: sourdough_starter
+name_en: sourdough starter
+name_fr: levain
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 50.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

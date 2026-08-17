@@ -1,0 +1,6 @@
+canonical_ingredient_id: honey_mustard_dressing
+confidence: 0.9
+label: Honey mustard dressing
+match_method: name_en_exact
+source: usda
+source_id: '2710202'

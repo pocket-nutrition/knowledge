@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Oil, industrial, palm kernel (hydrogenated), filling fat
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173603'

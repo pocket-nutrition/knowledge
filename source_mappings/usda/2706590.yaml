@@ -1,0 +1,6 @@
+source: usda
+source_id: '2706590'
+canonical_ingredient_id: _composite
+label: Corned beef, potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce
+match_method: name_en_before_comma
+confidence: 0.75

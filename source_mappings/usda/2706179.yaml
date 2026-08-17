@@ -1,0 +1,6 @@
+canonical_ingredient_id: chorizo
+confidence: 0.9
+label: Chorizo
+match_method: name_en_exact
+source: usda
+source_id: '2706179'

@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '36203'
+canonical_ingredient_id: duck
+label: Canard, cuisse avec peau, sans os, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

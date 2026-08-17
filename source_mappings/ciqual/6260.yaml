@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '6260'
+canonical_ingredient_id: ground_beef_15pct
+label: Haché à base de boeuf ou Préparation de viande hachée de boeuf, 15% MG, cru, prémeballé
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, œufs, poissons et assimilés
+  subgroup: autres produits à base de viande

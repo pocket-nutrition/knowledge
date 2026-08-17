@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '28507'
+canonical_ingredient_id: pork_belly
+label: Poitrine de porc en salaison, nature, crue
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9

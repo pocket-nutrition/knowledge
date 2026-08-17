@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Sauce, pasta, white, with ham and mushrooms, homemade
+match_method: auto_token
+meta:
+  group: WC
+source: mccance
+source_id: 17-827

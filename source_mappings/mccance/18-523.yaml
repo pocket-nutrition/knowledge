@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, loin steaks, raw, lean and fat, trimmed
+match_method: auto_before_comma
+meta:
+  description: Calculated from 94% lean and 6% fat. Subcutaneous fat and skin removed.
+  food_group: MAG
+source: mccance
+source_id: 18-523

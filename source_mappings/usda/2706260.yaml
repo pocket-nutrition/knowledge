@@ -1,0 +1,8 @@
+canonical_ingredient_id: halibut
+confidence: 0.9
+label: Fish, halibut
+match_method: auto_ai
+meta:
+  wweia_category: Fish
+source: usda
+source_id: '2706260'

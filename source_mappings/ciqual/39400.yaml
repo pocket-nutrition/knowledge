@@ -1,0 +1,8 @@
+canonical_ingredient_id: eggnog
+confidence: 0.8
+label: Lait de poule, sans alcool
+match_method: auto_before_comma
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '39400'

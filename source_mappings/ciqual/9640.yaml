@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9640'
+canonical_ingredient_id: oat_bran
+label: Son d'avoine
+cooking_method: dry
+match_method: auto_exact
+confidence: 0.95
+meta:
+  group: aides culinaires et ingrédients divers

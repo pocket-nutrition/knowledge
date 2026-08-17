@@ -1,0 +1,12 @@
+id: sweet_potato_fry
+name_en: sweet potato fry
+name_fr: frite de patate douce
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+display_unit: g

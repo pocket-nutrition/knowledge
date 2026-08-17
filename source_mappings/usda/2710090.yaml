@@ -1,0 +1,8 @@
+canonical_ingredient_id: black_olive
+confidence: 0.9
+label: Olives, black
+match_method: auto_ai
+meta:
+  wweia_category: Olives, pickles, pickled vegetables
+source: usda
+source_id: '2710090'

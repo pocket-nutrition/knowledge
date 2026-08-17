@@ -1,0 +1,15 @@
+id: kizami_nori
+name_en: kizami nori
+name_fr: nori émincé (kizami)
+serving_mode: weight
+food_group: seaweed
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+display_unit: g

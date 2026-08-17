@@ -1,0 +1,16 @@
+id: honey_roasted_mixed_nuts
+name_en: honey-roasted mixed nuts
+name_fr: mélange de noix grillées au miel
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

@@ -1,0 +1,23 @@
+id: potato_flake
+name_en: potato flake
+name_fr: flocons de pomme de terre
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked: {}
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.2
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- instant mashed potato flakes
+- dehydrated potato flakes
+aliases_fr:
+- pommes de terre déshydratées
+- purée en flocons
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

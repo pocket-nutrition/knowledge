@@ -1,0 +1,22 @@
+id: saltine_crackers
+name_en: saltine crackers
+name_fr: craquelins salés
+name_en_plural: saltine crackers
+name_fr_plural: craquelins salés
+serving_mode: item
+unit_label_en: cracker
+unit_label_fr: craquelin
+food_group: baked_good
+states:
+  raw:
+    portion_g: 3.0
+    density_g_ml: 0.486
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- soda cracker
+- saltine
+aliases_fr:
+- crackers salés
+display_unit: g

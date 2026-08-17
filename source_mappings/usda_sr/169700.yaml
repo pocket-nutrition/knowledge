@@ -1,0 +1,9 @@
+canonical_ingredient_id: couscous
+confidence: 0.92
+cooking_method: cooked
+label: Couscous, cooked
+match_method: auto_precise
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '169700'

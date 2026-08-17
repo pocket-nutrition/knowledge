@@ -1,0 +1,8 @@
+canonical_ingredient_id: pumpkin_seed
+confidence: 0.9
+label: Pumpkin seeds, salted
+match_method: auto_ai
+meta:
+  category: Nuts and seeds
+source: usda
+source_id: '2707580'

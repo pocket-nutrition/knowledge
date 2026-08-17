@@ -1,0 +1,8 @@
+canonical_ingredient_id: armadillo
+confidence: 0.9
+label: Armadillo
+match_method: auto_ai
+meta:
+  wweia_category: Lamb, goat, game
+source: usda
+source_id: '2705926'

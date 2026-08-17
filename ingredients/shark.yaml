@@ -1,0 +1,15 @@
+id: shark
+name_en: shark
+name_fr: requin
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- saumonette
+- roussette
+display_unit: g

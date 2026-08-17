@@ -1,0 +1,18 @@
+id: ground_beef_20pct
+name_en: ground beef 20% fat
+name_fr: bœuf haché 20% MG
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- minced beef 20% fat
+- ground beef 20%
+aliases_fr:
+- steak haché 20% MG
+- bœuf haché 20%
+display_unit: g

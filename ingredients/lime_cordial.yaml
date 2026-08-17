@@ -1,0 +1,21 @@
+id: lime_cordial
+name_en: lime cordial
+name_fr: cordial au citron vert
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_en:
+- lime squash
+- lime juice cordial
+aliases_fr:
+- sirop de citron vert
+- cordial de citron vert
+serving_unit_types:
+- tablespoon
+display_unit: ml

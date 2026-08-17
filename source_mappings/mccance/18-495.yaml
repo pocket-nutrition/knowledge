@@ -1,0 +1,6 @@
+canonical_ingredient_id: null
+confidence: 0.75
+label: Duck, raw, meat only, weighed with fat, skin and bone
+match_method: name_en_before_comma
+source: mccance
+source_id: 18-495

@@ -1,0 +1,11 @@
+id: tortellini
+name_en: tortellini
+name_fr: tortellini
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 81.0
+    density_g_ml: 0.456
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

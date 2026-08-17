@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708378'
+canonical_ingredient_id: oat
+label: Oatmeal, fast food, plain
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Oatmeal

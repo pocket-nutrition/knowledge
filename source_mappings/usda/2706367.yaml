@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706367'
+canonical_ingredient_id: shrimp
+label: Shrimp, canned
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Shellfish

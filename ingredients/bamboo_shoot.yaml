@@ -1,0 +1,13 @@
+id: bamboo_shoot
+name_en: bamboo shoot
+name_fr: pousse de bambou
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 132.0
+    density_g_ml: 1.012
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

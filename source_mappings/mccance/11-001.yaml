@@ -1,0 +1,8 @@
+canonical_ingredient_id: arrowroot_flour
+confidence: 0.9
+label: Arrowroot
+match_method: auto_ai
+meta:
+  group: AA
+source: mccance
+source_id: 11-001

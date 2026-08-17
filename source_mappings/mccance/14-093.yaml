@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Figs, dried, stewed with sugar
+match_method: auto_name
+meta:
+  description: Calculated from 450g fruit, 450g water, 54g sugar
+  food_group: FA
+source: mccance
+source_id: 14-093

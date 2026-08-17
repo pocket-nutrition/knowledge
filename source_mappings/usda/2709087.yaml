@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709087'
+canonical_ingredient_id: _composite
+label: Spanish rice, NS as to fat
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Rice mixed dishes

@@ -1,0 +1,12 @@
+id: cheshire_cheese
+name_en: cheshire cheese
+name_fr: fromage cheshire
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

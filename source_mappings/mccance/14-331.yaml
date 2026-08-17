@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Apple juice, clear, ambient and chilled
+match_method: auto_before_comma
+meta:
+  group: FC
+source: mccance
+source_id: 14-331

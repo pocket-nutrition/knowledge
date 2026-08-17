@@ -1,0 +1,22 @@
+id: bao_bun
+name_en: bao bun
+name_fr: petit pain bao
+name_en_plural: bao buns
+name_fr_plural: petits pains bao
+serving_mode: item
+unit_label_en: bun
+unit_label_fr: petit pain
+food_group: baked_good
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: steamed
+aliases_en:
+- steamed bun
+- baozi
+aliases_fr:
+- petit pain vapeur
+- bao
+display_unit: g

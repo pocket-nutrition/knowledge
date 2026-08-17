@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709205'
+canonical_ingredient_id: dried_mango
+label: Mango, dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9

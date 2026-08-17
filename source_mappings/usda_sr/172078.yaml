@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '172078'
+canonical_ingredient_id: hash_brown
+label: BURGER KING, Hash Brown Rounds
+cooking_method: fried
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Fast Foods

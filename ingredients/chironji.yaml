@@ -1,0 +1,14 @@
+id: chironji
+name_en: chironji
+name_fr: chironji
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.55
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon

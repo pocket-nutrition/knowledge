@@ -1,0 +1,8 @@
+canonical_ingredient_id: smoked_salmon
+confidence: 0.9
+label: Salmon, smoked (hot-smoked)
+match_method: auto_precise
+meta:
+  group: JC
+source: mccance
+source_id: 16-413

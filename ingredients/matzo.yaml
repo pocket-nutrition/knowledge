@@ -1,0 +1,15 @@
+id: matzo
+name_en: matzo
+name_fr: pain azyme
+serving_mode: item
+unit_label_en: sheet
+unit_label_fr: feuille
+food_group: baked_good
+states:
+  processed:
+    portion_g: 30.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

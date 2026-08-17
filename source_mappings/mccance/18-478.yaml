@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Lamb, average, raw, lean and fat
+match_method: auto_ai
+meta:
+  description: Calculated from 83% lean and 17% fat
+  food_group: MAE
+source: mccance
+source_id: 18-478

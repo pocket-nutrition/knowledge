@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2646174'
+canonical_ingredient_id: beef
+label: Beef, chuck, roast, boneless, choice, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Beef Products

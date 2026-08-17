@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710799'
+canonical_ingredient_id: red_bell_pepper
+label: Red pepper, cooked, as ingredient
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Not included in a food category

@@ -1,0 +1,14 @@
+id: turkey_bacon
+name_en: turkey bacon
+name_fr: bacon de dinde
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 14.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

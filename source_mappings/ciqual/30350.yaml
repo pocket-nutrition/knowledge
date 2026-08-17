@@ -1,0 +1,8 @@
+canonical_ingredient_id: hard_salami
+confidence: 0.95
+label: Salami
+match_method: auto_exact
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '30350'

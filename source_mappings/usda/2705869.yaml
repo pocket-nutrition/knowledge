@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Pork, chop, coated, NS as to fat eaten
+match_method: auto_name
+meta:
+  wweia_category: Pork
+source: usda
+source_id: '2705869'

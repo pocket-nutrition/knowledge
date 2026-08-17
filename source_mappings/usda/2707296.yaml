@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707296'
+canonical_ingredient_id: _composite
+label: Egg white, omelet, scrambled, or fried, with cheese, meat, and vegetables
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Eggs and omelets

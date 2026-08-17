@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709182'
+canonical_ingredient_id: lemon_juice
+label: Lemon juice, 100%, canned or bottled
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Mustard and other condiments

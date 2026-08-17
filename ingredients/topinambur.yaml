@@ -1,0 +1,17 @@
+id: topinambur
+name_en: topinambur
+name_fr: topinambour
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.076
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- jerusalem artichoke
+- sunchoke
+- sunroot
+display_unit: g

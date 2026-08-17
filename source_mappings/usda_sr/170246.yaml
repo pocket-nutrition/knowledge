@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Snacks, popcorn, air-popped (Unsalted)
+match_method: auto_ai
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '170246'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: mushroom_gravy
+confidence: 0.9
+label: Gravy, mushroom, canned
+match_method: auto_precise
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_sr
+source_id: '171170'

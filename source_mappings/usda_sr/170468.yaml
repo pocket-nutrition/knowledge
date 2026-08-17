@@ -1,0 +1,8 @@
+canonical_ingredient_id: turnip_greens
+confidence: 0.92
+label: Turnip greens, frozen, unprepared
+match_method: auto_precise
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '170468'

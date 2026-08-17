@@ -1,0 +1,7 @@
+food_group: cereal
+id: wheatgerm
+name_en: wheatgerm
+name_fr: germes de blé
+states:
+  raw:
+    portion_g: 60

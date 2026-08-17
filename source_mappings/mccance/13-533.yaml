@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Potato products, shaped, frozen, baked
+match_method: auto_name
+meta:
+  group: DA
+source: mccance
+source_id: 13-533

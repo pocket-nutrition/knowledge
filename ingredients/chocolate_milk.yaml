@@ -1,0 +1,18 @@
+id: chocolate_milk
+name_en: chocolate milk
+name_fr: lait chocolaté
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- lait au chocolat
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

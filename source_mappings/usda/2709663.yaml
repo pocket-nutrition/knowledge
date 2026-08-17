@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709663'
+canonical_ingredient_id: _composite
+label: Carrots, cooked, from restaurant
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Carrots

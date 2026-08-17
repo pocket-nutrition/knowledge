@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-480
+canonical_ingredient_id: plaice
+label: Plaice, flesh only, steamed, fillets weighed with bones and skin
+cooking_method: steamed
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: JA

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20581'
+canonical_ingredient_id: peanut
+label: Arachide, bouillie/cuite à l'eau, salée
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

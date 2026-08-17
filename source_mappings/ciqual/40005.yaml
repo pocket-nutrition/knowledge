@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '40005'
+canonical_ingredient_id: pork_brain
+label: Cervelle, porc, crue
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: viandes crues

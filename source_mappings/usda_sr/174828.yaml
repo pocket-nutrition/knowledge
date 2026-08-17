@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Beverages, yellow green colored citrus soft drink with caffeine
+match_method: auto_name
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '174828'

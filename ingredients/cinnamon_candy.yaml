@@ -1,0 +1,13 @@
+id: cinnamon_candy
+name_en: cinnamon candy
+name_fr: bonbon à la cannelle
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 1.4
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: pig_kidney
+confidence: 0.9
+label: Kidney, pig, raw
+match_method: auto_precise
+meta:
+  description: 12 samples
+  food_group: MG
+source: mccance
+source_id: 18-406

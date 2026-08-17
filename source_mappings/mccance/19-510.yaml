@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Sausages, pork, raw
+match_method: auto_name
+meta:
+  description: Average of frozen and chilled samples, thick and thin, 65-70% meat
+  food_group: MI
+source: mccance
+source_id: 19-510

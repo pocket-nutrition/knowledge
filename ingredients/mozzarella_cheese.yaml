@@ -1,0 +1,10 @@
+can_eat_cooked: false
+can_eat_raw: true
+food_group: dairy
+id: mozzarella_cheese
+name_en: mozzarella cheese
+name_fr: mozzarella
+states:
+  raw:
+    portion_g: 30
+typical_state: raw

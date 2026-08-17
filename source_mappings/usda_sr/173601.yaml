@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Oil, industrial, palm kernel (hydrogenated), confection fat, uses similar to
+  95 degree hard butter
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173601'

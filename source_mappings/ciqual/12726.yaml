@@ -1,0 +1,8 @@
+canonical_ingredient_id: cheddar_cheese
+confidence: 0.95
+label: Cheddar
+match_method: auto_exact
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12726'

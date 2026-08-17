@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '13623'
+canonical_ingredient_id: dried_apricot
+label: Abricot, dénoyauté, sec, moelleux (réhydraté à 35-45%)
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

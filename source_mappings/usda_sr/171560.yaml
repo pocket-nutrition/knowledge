@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '171560'
+canonical_ingredient_id: beef_broth
+label: Soup, beef broth or bouillon, powder, dry
+cooking_method: dry
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soups, Sauces, and Gravies

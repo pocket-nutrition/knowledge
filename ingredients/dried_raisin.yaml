@@ -1,0 +1,24 @@
+id: dried_raisin
+name_en: raisin
+name_fr: raisin sec
+name_en_plural: raisins
+name_fr_plural: raisins secs
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.697
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- dried grape
+- raisins
+aliases_fr:
+- raisin sec
+- raisin de Smyrne
+serving_unit_types:
+- small_handful
+- tablespoon
+display_unit: g

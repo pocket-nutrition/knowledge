@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Leeks in cheese sauce, made with skimmed milk, homemade
+match_method: auto_token
+meta:
+  group: DR
+source: mccance
+source_id: 15-814

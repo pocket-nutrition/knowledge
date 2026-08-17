@@ -1,0 +1,15 @@
+id: sloe_berry
+name_en: sloe berry
+name_fr: prunelle
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- small_handful
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, diced, casseroled, lean
+match_method: auto_before_comma
+meta:
+  group: MAG
+source: mccance
+source_id: 18-527

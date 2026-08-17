@@ -1,0 +1,9 @@
+source: mccance
+source_id: 11-731
+canonical_ingredient_id: null
+label: Pasta, egg, fresh, filled with green vegetables/herbs and cheese, boiled in
+  unsalted water
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: AD

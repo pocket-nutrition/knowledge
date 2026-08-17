@@ -1,0 +1,8 @@
+canonical_ingredient_id: grapeseed_oil
+confidence: 0.9
+label: Oil, grapeseed
+match_method: auto_ai
+meta:
+  group: OC
+source: mccance
+source_id: 17-036

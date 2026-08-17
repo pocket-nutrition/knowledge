@@ -1,0 +1,14 @@
+id: sugar_cookie
+name_en: sugar cookie
+name_fr: biscuit au sucre
+serving_mode: item
+unit_label_en: cookie
+unit_label_fr: biscuit
+food_group: baked_good
+states:
+  raw:
+    portion_g: 15.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

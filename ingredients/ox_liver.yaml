@@ -1,0 +1,7 @@
+food_group: meat
+id: ox_liver
+name_en: ox liver
+name_fr: foie de bœuf
+states:
+  raw:
+    portion_g: 150

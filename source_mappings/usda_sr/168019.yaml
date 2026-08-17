@@ -1,0 +1,8 @@
+canonical_ingredient_id: octopuse
+confidence: 0.95
+label: Octopus (Alaska Native)
+match_method: auto_precise
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '168019'

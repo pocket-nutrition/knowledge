@@ -1,0 +1,22 @@
+id: tapenade
+name_en: Tapenade
+name_fr: Tapenade
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 1.044
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- olive tapenade
+- olive spread
+aliases_fr:
+- tapenade d'olives
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

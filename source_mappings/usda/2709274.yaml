@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709274'
+canonical_ingredient_id: blackberry
+label: Blackberries, frozen
+cooking_method: raw
+match_method: manual
+confidence: 1.0
+meta:
+  wweia_category: Blueberries and other berries

@@ -1,0 +1,8 @@
+canonical_ingredient_id: beef
+confidence: 0.8
+label: Beef, ground, patty
+match_method: auto_before_comma
+meta:
+  wweia_category: Ground beef
+source: usda
+source_id: '2705855'

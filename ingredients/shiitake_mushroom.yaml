@@ -1,0 +1,12 @@
+id: shiitake_mushroom
+name_en: shiitake mushroom
+name_fr: champignon shiitake
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 145.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

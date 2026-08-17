@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Potatoes, new and salad, flesh only, raw
+match_method: auto_ai
+meta:
+  description: IFR, average of Desiree, King Edward, Pentland Crown, Maris Piper over
+    6 seasons, flesh only
+  food_group: DAE
+source: mccance
+source_id: 13-618

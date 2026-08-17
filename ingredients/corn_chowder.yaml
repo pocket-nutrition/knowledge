@@ -1,0 +1,17 @@
+id: corn_chowder
+name_en: corn chowder
+name_fr: chaudrée de maïs
+serving_mode: measure
+food_group: prepared_dish
+states:
+  cooked:
+    portion_g: 250.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- cup
+- bowl
+display_unit: ml

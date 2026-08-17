@@ -1,0 +1,15 @@
+id: chocolate_bitter
+name_en: chocolate bitter
+name_fr: bitter au chocolat
+serving_mode: measure
+food_group: alcohol
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 0.95
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: ml

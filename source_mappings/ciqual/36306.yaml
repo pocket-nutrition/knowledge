@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36306'
+canonical_ingredient_id: turkey_breast
+label: Dinde, escalope grillée/poêlée
+cooking_method: grilled
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

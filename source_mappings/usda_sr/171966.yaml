@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '171966'
+canonical_ingredient_id: canned_crab
+label: Crustaceans, crab, blue, canned
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Finfish and Shellfish Products

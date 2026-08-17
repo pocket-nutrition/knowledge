@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-145
+canonical_ingredient_id: ackee
+label: Ackee, canned, drained
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: DG

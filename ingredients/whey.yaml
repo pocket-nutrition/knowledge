@@ -1,0 +1,19 @@
+id: whey
+name_en: whey
+name_fr: lactosérum
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- petit-lait
+- whey
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

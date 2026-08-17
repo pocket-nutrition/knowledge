@@ -1,0 +1,7 @@
+food_group: vegetable
+id: kale_leaves
+name_en: kale leaves
+name_fr: feuilles de chou frisé
+states:
+  raw:
+    portion_g: 80

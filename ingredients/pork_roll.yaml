@@ -1,0 +1,15 @@
+id: pork_roll
+name_en: pork roll
+name_fr: roulé de porc
+serving_mode: weight
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 50.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- Taylor ham
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: brie_cheese
+confidence: 0.9
+label: Fromage à pâte molle et croûte fleurie, double crème environ 30% MG
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12008'

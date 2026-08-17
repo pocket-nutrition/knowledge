@@ -1,0 +1,16 @@
+id: sardine_oil
+name_en: sardine oil
+name_fr: huile de sardine
+serving_mode: volume
+food_group: fat
+states:
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.925
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

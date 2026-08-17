@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9111'
+canonical_ingredient_id: wild_rice
+label: Riz sauvage, cuit, sans sel ajouté
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: produits céréaliers

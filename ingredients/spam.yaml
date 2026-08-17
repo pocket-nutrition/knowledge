@@ -1,0 +1,12 @@
+id: spam
+name_en: spam
+name_fr: spam
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

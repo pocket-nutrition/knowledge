@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '30102'
+canonical_ingredient_id: fresh_sausage
+label: Saucisse fumée à cuire
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.7
+meta:
+  group: viandes, oeufs, poissons

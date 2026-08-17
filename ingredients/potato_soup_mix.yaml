@@ -1,0 +1,11 @@
+id: potato_soup_mix
+name_en: potato soup mix
+name_fr: préparation pour soupe de pommes de terre
+serving_mode: measure
+food_group: prepared_dish
+states:
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

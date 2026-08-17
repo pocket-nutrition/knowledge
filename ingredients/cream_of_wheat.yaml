@@ -1,0 +1,16 @@
+id: cream_of_wheat
+name_en: cream of wheat
+name_fr: crème de blé
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

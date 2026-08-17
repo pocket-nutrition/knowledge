@@ -1,0 +1,12 @@
+id: aji_amarillo
+name_en: aji amarillo
+name_fr: aji amarillo
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

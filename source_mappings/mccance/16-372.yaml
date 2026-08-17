@@ -1,0 +1,6 @@
+canonical_ingredient_id: null
+confidence: 0.75
+label: Cod, flesh only, raw
+match_method: name_en_before_comma
+source: mccance
+source_id: 16-372

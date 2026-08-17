@@ -1,0 +1,20 @@
+id: raclette
+name_en: traditional raclette
+name_fr: raclette traditionnelle
+aliases_en:
+- raclette dinner
+aliases_fr:
+- raclette savoyarde
+components:
+- ingredient_id: potato
+  weight_g: 200
+  cooking_method: boiled
+- ingredient_id: raclette_cheese
+  weight_g: 100
+  cooking_method: grilled
+- ingredient_id: cooked_ham
+  weight_g: 50
+  cooking_method: raw
+- ingredient_id: hard_salami
+  weight_g: 30
+  cooking_method: raw

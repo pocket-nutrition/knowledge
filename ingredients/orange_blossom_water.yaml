@@ -1,0 +1,18 @@
+id: orange_blossom_water
+name_en: orange blossom water
+name_fr: eau de fleur d’oranger
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- orange flower water
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

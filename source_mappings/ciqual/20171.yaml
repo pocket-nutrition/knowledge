@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20171'
+canonical_ingredient_id: romaine_lettuce
+label: Laitue romaine, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '25997'
+canonical_ingredient_id: cod_fillet
+label: Cabillaud, cuit, sans précision (aliment moyen)
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

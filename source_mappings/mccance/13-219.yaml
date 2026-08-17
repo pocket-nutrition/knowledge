@@ -1,0 +1,6 @@
+canonical_ingredient_id: celeriac
+confidence: 0.92
+label: Celeriac, raw
+match_method: auto_precise
+source: mccance
+source_id: 13-219

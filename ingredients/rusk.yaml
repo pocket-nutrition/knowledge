@@ -1,0 +1,15 @@
+id: rusk
+name_en: rusk
+name_fr: biscotte
+serving_mode: item
+unit_label_en: rusk
+unit_label_fr: biscotte
+food_group: baked_good
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

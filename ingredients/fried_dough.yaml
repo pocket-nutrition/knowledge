@@ -1,0 +1,14 @@
+id: fried_dough
+name_en: fried dough
+name_fr: pâte frite
+serving_mode: weight
+food_group: baked_good
+states:
+  cooked: {}
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+display_unit: g

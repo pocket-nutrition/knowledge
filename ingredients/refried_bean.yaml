@@ -1,0 +1,20 @@
+id: refried_bean
+name_en: refried bean
+name_fr: haricots frits
+name_en_plural: refried beans
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 120.0
+    density_g_ml: 1.05
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- frijoles refritos
+aliases_fr:
+- frijoles refritos
+- purée de haricots frits
+display_unit: g

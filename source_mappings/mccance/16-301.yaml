@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-301
+canonical_ingredient_id: roe
+label: Roe, cod, hard, coated in batter, fried
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: JR

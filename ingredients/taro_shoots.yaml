@@ -1,0 +1,12 @@
+id: taro_shoots
+name_en: taro shoots
+name_fr: pousses de taro
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 83.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

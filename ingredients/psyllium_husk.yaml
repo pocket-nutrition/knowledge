@@ -1,0 +1,17 @@
+id: psyllium_husk
+name_en: psyllium husk
+name_fr: téguments de psyllium
+serving_mode: measure
+food_group: other
+states:
+  cooked: {}
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

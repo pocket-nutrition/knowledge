@@ -1,0 +1,9 @@
+canonical_ingredient_id: pig_kidney
+confidence: 0.9
+cooking_method: fried
+label: Kidney, pig, fried
+match_method: auto_precise
+meta:
+  group: MG
+source: mccance
+source_id: 18-407

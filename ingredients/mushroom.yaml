@@ -1,0 +1,18 @@
+id: mushroom
+name_en: mushroom
+name_fr: champignon
+name_en_plural: mushrooms
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.029
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- button mushroom
+- white mushroom
+- champignon mushroom
+display_unit: g

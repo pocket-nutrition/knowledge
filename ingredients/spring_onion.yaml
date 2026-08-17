@@ -1,0 +1,18 @@
+id: spring_onion
+name_en: spring onion
+name_fr: oignon de printemps
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- scallion
+- green onion
+aliases_fr:
+- oignon nouveau
+- cébette
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: wholegrain_mustard
+confidence: 0.9
+label: Mustard, wholegrain
+match_method: auto_precise
+meta:
+  group: WY
+source: mccance
+source_id: 17-365

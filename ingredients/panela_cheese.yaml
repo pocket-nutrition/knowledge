@@ -1,0 +1,14 @@
+id: panela_cheese
+name_en: panela cheese
+name_fr: fromage panela
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- queso panela
+display_unit: g

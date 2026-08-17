@@ -1,0 +1,8 @@
+source: mccance
+source_id: 12-507
+canonical_ingredient_id: _composite
+label: Cornetto type ice cream cone
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: BP

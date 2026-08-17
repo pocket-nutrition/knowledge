@@ -1,0 +1,6 @@
+source: usda
+source_id: '2705402'
+canonical_ingredient_id: sweetened_condensed_milk
+label: Milk, condensed, sweetened
+match_method: ai_review
+confidence: 0.9

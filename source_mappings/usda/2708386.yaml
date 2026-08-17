@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708386'
+canonical_ingredient_id: oatmeal
+label: Oatmeal, regular or quick, made with non-dairy milk, fat added
+cooking_method: boiled
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Oatmeal

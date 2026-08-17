@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709492'
+canonical_ingredient_id: potato
+label: Potato, mashed, NFS
+cooking_method: boiled
+match_method: name_en_before_comma
+confidence: 0.75

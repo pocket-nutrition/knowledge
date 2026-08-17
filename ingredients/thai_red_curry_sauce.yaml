@@ -1,0 +1,16 @@
+id: thai_red_curry_sauce
+name_en: thai red curry sauce
+name_fr: sauce curry rouge thaï
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 1.02
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

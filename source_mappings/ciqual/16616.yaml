@@ -1,0 +1,8 @@
+canonical_ingredient_id: vegetable_fat
+confidence: 0.9
+label: Matière grasse végétale (type margarine) à 70% MG, doux
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16616'

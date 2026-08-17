@@ -1,0 +1,17 @@
+id: dry_ranch_seasoning
+name_en: dry ranch seasoning
+name_fr: mélange sec d'épices ranch
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 3.0
+    density_g_ml: 0.812
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+- tablespoon
+display_unit: g

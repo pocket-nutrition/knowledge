@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28505'
+canonical_ingredient_id: corned_beef
+label: Corned-beef, appertisé
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: viandes, oeufs, poissons

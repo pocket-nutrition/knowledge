@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, loin steaks, raw, lean
+match_method: auto_before_comma
+meta:
+  description: 11 samples, 11 products, chilled
+  food_group: MAG
+source: mccance
+source_id: 18-521

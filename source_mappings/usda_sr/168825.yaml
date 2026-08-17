@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168825'
+canonical_ingredient_id: banana_pudding
+label: Puddings, banana, dry mix, regular, prepared with whole milk
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Sweets

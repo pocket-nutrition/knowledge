@@ -1,0 +1,8 @@
+canonical_ingredient_id: honey
+confidence: 0.9
+label: Honey
+match_method: auto_ai
+meta:
+  wweia_category: Sugars and honey
+source: usda
+source_id: '2710281'

@@ -1,0 +1,8 @@
+food_group: other
+id: laurel_leaf
+name_en: bay laurel leaf
+name_fr: laurier
+states:
+  raw:
+    density_g_ml: 1.386
+    portion_g: 100

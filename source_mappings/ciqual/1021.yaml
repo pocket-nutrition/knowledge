@@ -1,0 +1,8 @@
+canonical_ingredient_id: creme_de_cassis
+confidence: 0.95
+label: Crème de cassis
+match_method: auto_exact
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '1021'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: tonic_water
+confidence: 0.95
+label: Tonic water
+match_method: auto_exact
+meta:
+  group: PCA
+source: mccance
+source_id: 17-736

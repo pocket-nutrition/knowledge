@@ -1,0 +1,7 @@
+source: usda
+source_id: '2706184'
+canonical_ingredient_id: pastrami
+label: Pastrami, made from any kind of meat, reduced fat
+cooking_method: cooked
+match_method: name_en_before_comma
+confidence: 0.75

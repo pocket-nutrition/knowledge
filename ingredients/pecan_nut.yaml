@@ -1,0 +1,7 @@
+food_group: nut_seed
+id: pecan_nut
+name_en: pecan nut
+name_fr: noix de pécan
+states:
+  raw:
+    portion_g: 100

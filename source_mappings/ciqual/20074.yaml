@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20074'
+canonical_ingredient_id: artichoke
+label: Artichaut, cuit à la vapeur sous pression
+cooking_method: steamed
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

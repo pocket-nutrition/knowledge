@@ -1,0 +1,13 @@
+id: orecchiette
+name_en: orecchiette
+name_fr: orecchiette
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

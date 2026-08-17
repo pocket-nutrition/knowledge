@@ -1,0 +1,15 @@
+id: cbd_oil
+name_en: CBD oil
+name_fr: huile de CBD
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.91
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: ml

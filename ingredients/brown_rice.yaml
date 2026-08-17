@@ -1,0 +1,18 @@
+id: brown_rice
+name_en: brown rice
+name_fr: riz complet
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 75.0
+    density_g_ml: 0.85
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- wholegrain rice
+- whole grain rice
+aliases_fr:
+- riz brun
+display_unit: g

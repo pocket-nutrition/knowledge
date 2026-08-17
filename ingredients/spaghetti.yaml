@@ -1,0 +1,11 @@
+id: spaghetti
+name_en: spaghetti
+name_fr: spaghetti
+food_group: cereal
+states:
+  raw:
+    portion_g: 57.0
+    density_g_ml: 0.592
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

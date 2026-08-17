@@ -1,0 +1,8 @@
+canonical_ingredient_id: vegetable_suet
+confidence: 0.65
+label: Suet, vegetable, reduced fat
+match_method: auto_token
+meta:
+  group: OF
+source: mccance
+source_id: 17-759

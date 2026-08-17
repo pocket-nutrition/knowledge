@@ -1,0 +1,20 @@
+id: rose_wine
+name_en: rosé wine
+name_fr: vin rosé
+serving_mode: volume
+food_group: alcohol
+states:
+  processed:
+    portion_g: 120.0
+    density_g_ml: 0.99
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- rosé
+aliases_fr:
+- rosé
+serving_unit_types:
+- glass
+display_unit: ml

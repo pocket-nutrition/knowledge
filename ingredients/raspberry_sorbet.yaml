@@ -1,0 +1,14 @@
+id: raspberry_sorbet
+name_en: raspberry sorbet
+name_fr: sorbet à la framboise
+food_group: fruit
+states:
+  processed:
+    portion_g: 125.0
+    density_g_ml: 0.6
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- scoop

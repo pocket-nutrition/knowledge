@@ -1,0 +1,16 @@
+id: honey_vinegar
+name_en: honey vinegar
+name_fr: vinaigre de miel
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 1.01
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

@@ -1,0 +1,16 @@
+id: kung_pao_sauce
+name_en: kung pao sauce
+name_fr: sauce kung pao
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

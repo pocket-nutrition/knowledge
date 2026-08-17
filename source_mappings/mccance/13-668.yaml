@@ -1,0 +1,9 @@
+canonical_ingredient_id: zucchini
+confidence: 0.92
+label: Courgette, dried
+match_method: auto_precise
+meta:
+  description: Calculated from 13-627
+  food_group: DI
+source: mccance
+source_id: 13-668

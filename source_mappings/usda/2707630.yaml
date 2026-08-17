@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707630'
+canonical_ingredient_id: _composite
+label: Garlic bread, with parmesan cheese, from frozen
+match_method: name_en_before_comma
+confidence: 0.75

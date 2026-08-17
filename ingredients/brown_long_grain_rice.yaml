@@ -1,0 +1,11 @@
+id: brown_long_grain_rice
+name_en: brown long grain rice
+name_fr: long grain de riz brun
+food_group: cereal
+states:
+  raw:
+    portion_g: 75.0
+    density_g_ml: 0.304
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

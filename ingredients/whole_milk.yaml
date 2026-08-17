@@ -1,0 +1,19 @@
+id: whole_milk
+name_en: whole milk
+name_fr: lait entier
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.027
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- full-fat milk
+- full cream milk
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

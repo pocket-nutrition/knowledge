@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Cauliflower cheese, made with semi-skimmed milk, homemade
+match_method: auto_name
+meta:
+  group: DR
+source: mccance
+source_id: 15-639

@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20218'
+canonical_ingredient_id: kale
+label: Chou frisé, cru
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

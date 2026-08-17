@@ -1,0 +1,8 @@
+canonical_ingredient_id: puffed_rice
+confidence: 0.65
+label: Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice
+match_method: auto_token
+meta:
+  category: Breakfast Cereals
+source: usda_sr
+source_id: '171651'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Beans, baked, canned, with franks
+match_method: auto_name
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '175184'

@@ -1,0 +1,16 @@
+id: buttermilk_ranch_dressing
+name_en: buttermilk ranch dressing
+name_fr: sauce ranch au babeurre
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.947
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

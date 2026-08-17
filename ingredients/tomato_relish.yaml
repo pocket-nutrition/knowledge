@@ -1,0 +1,19 @@
+id: tomato_relish
+name_en: tomato relish
+name_fr: relish de tomates
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 1.05
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- condiment à la tomate
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

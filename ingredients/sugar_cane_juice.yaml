@@ -1,0 +1,10 @@
+can_eat_cooked: false
+can_eat_raw: true
+food_group: beverage
+id: sugar_cane_juice
+name_en: sugar cane juice
+name_fr: jus de canne à sucre
+states:
+  raw:
+    portion_g: 200
+typical_state: raw

@@ -1,0 +1,18 @@
+id: sugar_apple
+name_en: sugar apple
+name_fr: pomme cannelle
+serving_mode: item
+unit_label_en: fruit
+unit_label_fr: fruit
+food_group: fruit
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- sweetsop
+aliases_fr:
+- attier
+display_unit: g

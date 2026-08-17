@@ -1,0 +1,15 @@
+id: pickled_green_bean
+name_en: pickled green bean
+name_fr: haricot vert au vinaigre
+serving_mode: weight
+food_group: vegetable
+states:
+  processed:
+    portion_g: 30.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- haricots verts marinés
+display_unit: g

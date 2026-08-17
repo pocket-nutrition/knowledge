@@ -1,0 +1,20 @@
+id: gochujang
+name_en: gochujang
+name_fr: gochujang
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 18.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- korean chili paste
+aliases_fr:
+- pâte de piment coréenne
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

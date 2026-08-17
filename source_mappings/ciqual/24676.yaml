@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Cookie au chocolat et aux fruits à coque (noisettes, amandes, noix de pécan…),
+  préemballé
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24676'

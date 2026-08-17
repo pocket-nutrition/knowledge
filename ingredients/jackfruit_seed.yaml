@@ -1,0 +1,13 @@
+id: jackfruit_seed
+name_en: jackfruit seed
+name_fr: graine de jacquier
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,7 @@
+food_group: other
+id: fuzzy_navel
+name_en: Fuzzy Navel
+name_fr: Fuzzy Navel
+states:
+  raw:
+    portion_g: 100

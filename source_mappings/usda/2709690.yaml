@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709690'
+canonical_ingredient_id: canned_peas_and_carrot
+label: Peas and carrots, canned, cooked, fat added
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Other vegetables and combinations

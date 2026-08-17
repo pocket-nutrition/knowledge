@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Nuts, almonds, whole, raw
+match_method: auto_name
+meta:
+  category: Nut and Seed Products
+source: usda_foundation
+source_id: '2346393'

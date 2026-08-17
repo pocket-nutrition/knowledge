@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '13405'
+canonical_ingredient_id: pomelo
+label: Chadèque, chair sans peau, sans pépins, cru, prélevé à la Martinique
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits

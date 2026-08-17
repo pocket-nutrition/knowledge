@@ -1,0 +1,6 @@
+canonical_ingredient_id: white_cabbage
+confidence: 0.9
+label: Cabbage, white, raw
+match_method: auto_precise
+source: mccance
+source_id: 13-509

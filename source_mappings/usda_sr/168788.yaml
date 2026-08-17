@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168788'
+canonical_ingredient_id: vanilla_pudding
+label: Puddings, vanilla, dry mix, regular, prepared with 2% milk
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Sweets

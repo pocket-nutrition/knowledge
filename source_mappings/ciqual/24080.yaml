@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Sablé au cacao ou chocolat, au praliné ou autre
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24080'

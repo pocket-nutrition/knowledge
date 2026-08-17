@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Moules à la sauce catalane ou escabèche (tomate), appertisée, égouttée
+match_method: auto_name
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '10081'

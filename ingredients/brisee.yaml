@@ -1,0 +1,11 @@
+id: brisee
+name_en: brisee
+name_fr: pâte brisée
+food_group: baked_good
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.05
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

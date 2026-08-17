@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707532'
+canonical_ingredient_id: honey_roasted_walnut
+label: Walnuts, honey roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nuts and seeds

@@ -1,0 +1,20 @@
+id: green_bean
+name_en: green bean
+name_fr: haricot vert
+name_en_plural: Green beans
+name_fr_plural: Haricots verts
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 1.032
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- snap bean
+- string bean
+display_unit: g

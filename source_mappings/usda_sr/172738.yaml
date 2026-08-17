@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '172738'
+canonical_ingredient_id: puff_pastry
+label: Puff pastry, frozen, ready-to-bake, baked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Baked Products

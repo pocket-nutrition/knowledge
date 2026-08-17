@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '11091'
+canonical_ingredient_id: balsamic_vinegar
+label: Vinaigre balsamique
+match_method: manual
+confidence: 1.0
+meta:
+  group: aides culinaires et ingrédients divers

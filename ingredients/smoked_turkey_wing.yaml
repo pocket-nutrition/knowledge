@@ -1,0 +1,14 @@
+id: smoked_turkey_wing
+name_en: smoked turkey wing
+name_fr: aile de dinde fumée
+serving_mode: item
+unit_label_en: wing
+unit_label_fr: aile
+food_group: meat
+states:
+  cooked:
+    portion_g: 90.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

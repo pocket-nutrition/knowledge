@@ -1,0 +1,8 @@
+canonical_ingredient_id: cottonseed_flour
+confidence: 0.9
+label: Seeds, cottonseed flour, low fat (glandless)
+match_method: auto_ai
+meta:
+  category: Nut and Seed Products
+source: usda_sr
+source_id: '170146'

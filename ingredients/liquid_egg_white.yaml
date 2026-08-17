@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: egg
+id: liquid_egg_white
+name_en: liquid egg white
+name_fr: blanc d'œuf liquide
+states:
+  raw:
+    density_g_ml: 1.033
+    portion_g: 100
+typical_state: raw

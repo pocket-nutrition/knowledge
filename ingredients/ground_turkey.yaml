@@ -1,0 +1,14 @@
+id: ground_turkey
+name_en: ground turkey
+name_fr: dinde hachée
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

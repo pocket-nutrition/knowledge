@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '7262'
+canonical_ingredient_id: bread
+label: Pain pour burger ou hot dog (bun) complet, préemballé
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits céréaliers

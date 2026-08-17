@@ -1,0 +1,8 @@
+source: usda
+source_id: '2705905'
+canonical_ingredient_id: lamb
+label: Lamb, NS as to cut
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Lamb, goat, game

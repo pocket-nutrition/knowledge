@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174170'
+canonical_ingredient_id: fruit_juice
+label: Beverages, V8 V- FUSION Juices, Acai Berry
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

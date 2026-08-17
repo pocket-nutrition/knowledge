@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '170147'
+canonical_ingredient_id: cottonseed_meal
+label: Seeds, cottonseed meal, partially defatted (glandless)
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

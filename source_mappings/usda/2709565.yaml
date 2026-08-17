@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709565'
+canonical_ingredient_id: yuca
+label: Yuca fries
+cooking_method: fried
+match_method: auto_ai
+confidence: 0.8
+meta:
+  wweia_category: Fried vegetables

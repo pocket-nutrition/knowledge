@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173929'
+canonical_ingredient_id: null
+label: Apples, raw, without skin, cooked, microwave
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Fruits and Fruit Juices

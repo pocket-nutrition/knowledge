@@ -1,0 +1,13 @@
+id: canned_green_bean
+name_en: canned green bean
+name_fr: haricot vert en conserve
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 210.0
+    density_g_ml: 0.719
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

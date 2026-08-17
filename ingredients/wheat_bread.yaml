@@ -1,0 +1,16 @@
+id: wheat_bread
+name_en: wheat bread
+name_fr: pain de froment
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 25.0
+    density_g_ml: 0.35
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

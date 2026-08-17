@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Tripes à la mode de Caen (estomac et pied de boeuf, carottes…), préemballées
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '8601'

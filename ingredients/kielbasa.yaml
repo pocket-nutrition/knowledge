@@ -1,0 +1,12 @@
+id: kielbasa
+name_en: kielbasa
+name_fr: kielbasa
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 56.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

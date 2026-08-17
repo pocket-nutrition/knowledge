@@ -1,0 +1,8 @@
+canonical_ingredient_id: thyme
+confidence: 0.92
+label: Thyme, fresh
+match_method: auto_precise
+meta:
+  category: Spices and Herbs
+source: usda_sr
+source_id: '173470'

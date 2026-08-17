@@ -1,0 +1,16 @@
+id: orange
+name_en: orange
+name_fr: orange
+name_en_plural: oranges
+name_fr_plural: oranges
+serving_mode: item
+unit_label_en: orange
+unit_label_fr: orange
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.044
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707696'
+canonical_ingredient_id: _composite
+label: Breadsticks, soft, stuffed or topped with melted cheese
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Rolls and buns

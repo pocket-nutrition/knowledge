@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2710820'
+canonical_ingredient_id: bulgur
+label: Bulgur, dry, raw
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

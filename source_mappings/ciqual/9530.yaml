@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9530'
+canonical_ingredient_id: rye_flour
+label: Farine de seigle T170
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

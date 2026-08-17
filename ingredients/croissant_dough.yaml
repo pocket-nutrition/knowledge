@@ -1,0 +1,12 @@
+id: croissant_dough
+name_en: croissant dough
+name_fr: pâte à croissant
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 57.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

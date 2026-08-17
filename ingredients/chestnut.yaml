@@ -1,0 +1,13 @@
+id: chestnut
+name_en: chestnut
+name_fr: châtaigne
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

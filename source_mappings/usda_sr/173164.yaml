@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173164'
+canonical_ingredient_id: _composite
+label: Alcoholic beverage, whiskey sour, prepared with water, whiskey and powder mix
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Beverages

@@ -1,0 +1,15 @@
+id: brick_sheet
+name_en: brick sheet
+name_fr: feuille de brick
+serving_mode: item
+unit_label_en: sheet
+unit_label_fr: feuille
+food_group: baked_good
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.5
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

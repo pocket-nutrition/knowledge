@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Multiple meat sandwich or sub, with cheese, restaurant
+match_method: auto_name
+meta:
+  wweia_category: Deli and cured meat sandwiches
+source: usda
+source_id: '2707087'

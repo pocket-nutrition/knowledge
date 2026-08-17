@@ -1,0 +1,9 @@
+canonical_ingredient_id: goose_liver
+confidence: 0.9
+label: Foie, oie, cru
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: viandes crues
+source: ciqual
+source_id: '40120'

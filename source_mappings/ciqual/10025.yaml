@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '10025'
+canonical_ingredient_id: crab
+label: Crabe ou tourteau, bouilli/cuit à l'eau
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Turkey Pot Pie, frozen entree
+match_method: auto_token
+meta:
+  category: Meals, Entrees, and Side Dishes
+source: usda_sr
+source_id: '172092'

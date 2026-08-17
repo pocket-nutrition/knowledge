@@ -1,0 +1,16 @@
+id: strawberry_milk
+name_en: strawberry milk
+name_fr: lait à la fraise
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

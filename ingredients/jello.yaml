@@ -1,0 +1,17 @@
+id: jello
+name_en: jello
+name_fr: jello
+serving_mode: weight
+food_group: other
+states:
+  cooked:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- gelatin dessert
+- jelly
+aliases_fr:
+- gelée
+display_unit: g

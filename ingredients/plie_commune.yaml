@@ -1,0 +1,8 @@
+food_group: vegetable
+id: plie_commune
+name_en: plie commune
+name_fr: plie commune
+states:
+  raw:
+    density_g_ml: 1.097
+    portion_g: 80

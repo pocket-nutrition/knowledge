@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '8450'
+canonical_ingredient_id: muceau_de_boeuf
+label: Museau de boeuf
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

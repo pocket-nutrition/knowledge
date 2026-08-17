@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Rissoles, brown rice, fried in sunflower oil
+match_method: auto_token
+meta:
+  group: DR
+source: mccance
+source_id: 15-281

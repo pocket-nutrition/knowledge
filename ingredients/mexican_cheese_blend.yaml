@@ -1,0 +1,12 @@
+id: mexican_cheese_blend
+name_en: mexican cheese blend
+name_fr: Mélange de fromage mexicain
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

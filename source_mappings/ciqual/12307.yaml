@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '12307'
+canonical_ingredient_id: _composite
+label: Fromage blanc fondu en portion (carré ou bâtonnet), enrichi en vitamines
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: produits laitiers

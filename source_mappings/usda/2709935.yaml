@@ -1,0 +1,8 @@
+canonical_ingredient_id: leek
+confidence: 0.9
+label: Leeks
+match_method: auto_ai
+meta:
+  wweia_category: Onions
+source: usda
+source_id: '2709935'

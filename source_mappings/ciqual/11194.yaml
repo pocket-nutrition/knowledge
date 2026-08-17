@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Sauce nuoc mâm ou sauce au poisson, préemballée
+match_method: auto_name
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11194'

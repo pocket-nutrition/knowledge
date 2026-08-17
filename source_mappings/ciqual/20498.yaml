@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Poêlée de légumes assaisonnés aux champignons ("champêtre"), surgelée
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '20498'

@@ -1,0 +1,24 @@
+id: pork_rind
+name_en: pork rind
+name_fr: couenne de porc frite
+serving_mode: weight
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 30.0
+    density_g_ml: 0.1
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+aliases_en:
+- pork skin rinds
+- chicharrones
+- pork scratchings
+aliases_fr:
+- chicharron
+- couenne de porc
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

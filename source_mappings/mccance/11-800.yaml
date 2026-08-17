@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Wafers, plain ice cream wafers, not filled
+match_method: auto_token
+meta:
+  group: AM
+source: mccance
+source_id: 11-800

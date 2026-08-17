@@ -1,0 +1,12 @@
+id: oyster_mushroom
+name_en: oyster mushroom
+name_fr: pleurote en huître
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 148.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

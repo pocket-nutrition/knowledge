@@ -1,0 +1,12 @@
+id: baobab
+name_en: baobab powder
+name_fr: poudre de baobab
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 10.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

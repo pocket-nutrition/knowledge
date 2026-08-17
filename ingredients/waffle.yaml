@@ -1,0 +1,11 @@
+id: waffle
+name_en: waffle
+name_fr: gaufre
+food_group: baked_good
+states:
+  raw:
+    portion_g: 35.0
+    density_g_ml: 0.35
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

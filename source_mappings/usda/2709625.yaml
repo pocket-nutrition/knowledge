@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709625'
+canonical_ingredient_id: spinach
+label: Spinach, frozen, cooked with butter or margarine
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Spinach

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174844'
+canonical_ingredient_id: white_wine
+label: Alcoholic beverage, wine, table, white, late harvest, Gewurztraminer
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

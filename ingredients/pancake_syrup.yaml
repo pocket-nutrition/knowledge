@@ -1,0 +1,22 @@
+id: pancake_syrup
+name_en: pancake syrup
+name_fr: sirop de crêpe
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 60.0
+    density_g_ml: 1.32
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- table syrup
+- breakfast syrup
+aliases_fr:
+- sirop pour crêpes
+- sirop de table
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

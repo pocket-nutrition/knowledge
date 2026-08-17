@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Peas, split, dried, boiled in unsalted water
+match_method: auto_ai
+meta:
+  description: No seed coat; soaked 24 hours, boiled 2 hours
+  food_group: DF
+source: mccance
+source_id: 13-142

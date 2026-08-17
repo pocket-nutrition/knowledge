@@ -1,0 +1,6 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Pâte feuilletée, cuite
+match_method: auto_name
+source: ciqual
+source_id: '23422'

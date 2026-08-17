@@ -1,0 +1,12 @@
+confidence: 0.85
+cooking_method: roasted
+nutrient_retention:
+  iron_mg: 0.95
+  magnesium_mg: 0.95
+  phosphorus_mg: 0.95
+  potassium_mg: 0.92
+  vitamin_e_mg: 0.85
+  zinc_mg: 0.95
+raw_id: breadfruit_seeds
+source: usda_sr_pair
+yield_factor: 0.9227

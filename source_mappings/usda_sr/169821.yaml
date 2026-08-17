@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169821'
+canonical_ingredient_id: pine_nut
+label: Pinon Nuts, roasted (Navajo)
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

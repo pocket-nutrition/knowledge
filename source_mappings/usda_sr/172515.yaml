@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean only,
+  raw
+match_method: auto_before_comma
+meta:
+  category: Lamb, Veal, and Game Products
+source: usda_sr
+source_id: '172515'

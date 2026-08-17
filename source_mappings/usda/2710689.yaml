@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710689'
+canonical_ingredient_id: white_wine
+label: Wine, white
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Wine

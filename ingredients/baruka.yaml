@@ -1,0 +1,19 @@
+id: baruka
+name_en: baru nut
+name_fr: noix de baru
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+aliases_en:
+- baruka
+- baru
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

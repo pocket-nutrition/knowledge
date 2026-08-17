@@ -1,0 +1,21 @@
+id: green_lentil
+name_en: green lentil
+name_fr: lentille verte
+name_en_plural: green lentils
+name_fr_plural: lentilles vertes
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 1.116
+  raw:
+    portion_g: 50.0
+    density_g_ml: 0.85
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

@@ -1,0 +1,15 @@
+id: mascarpone_cheese
+name_en: mascarpone cheese
+name_fr: mascarpone
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.009
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

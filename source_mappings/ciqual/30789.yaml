@@ -1,0 +1,8 @@
+canonical_ingredient_id: bologna
+confidence: 0.95
+label: Mortadelle
+match_method: auto_exact
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '30789'

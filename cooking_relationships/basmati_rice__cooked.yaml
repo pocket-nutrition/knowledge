@@ -1,0 +1,6 @@
+confidence: 0.7
+cooking_method: cooked
+notes: Mirrors rice__cooked.yaml; pilot for raw↔cooked retagging.
+raw_id: basmati_rice
+source: manual
+yield_factor: 2.23

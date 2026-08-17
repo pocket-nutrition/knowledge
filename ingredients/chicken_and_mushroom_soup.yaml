@@ -1,0 +1,11 @@
+id: chicken_and_mushroom_soup
+name_en: chicken and mushroom soup
+name_fr: soupe au poulet et aux champignons
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 113.0
+    density_g_ml: 1.019
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

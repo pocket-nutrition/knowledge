@@ -1,0 +1,14 @@
+confidence: 0.75
+cooking_method: cooked
+nutrient_retention:
+  iron_mg: 0.94
+  niacin_mg: 0.8
+  phosphorus_mg: 0.87
+  potassium_mg: 0.8
+  vitamin_b12_ug: 0.78
+  vitamin_b6_mg: 0.73
+  vitamin_d_ug: 0.85
+  zinc_mg: 0.94
+raw_id: rascase_fillet
+source: ciqual_pair
+yield_factor: 0.772

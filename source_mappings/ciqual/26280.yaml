@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Salade de pâtes au jambon cru, fromage et crudités, avec sauce, préemballée
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+  subgroup: salades composées et crudités
+source: ciqual
+source_id: '26280'

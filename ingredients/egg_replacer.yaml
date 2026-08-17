@@ -1,0 +1,18 @@
+id: egg_replacer
+name_en: egg replacer
+name_fr: substitut d'œuf
+serving_mode: measure
+food_group: other
+states:
+  processed:
+    portion_g: 10.0
+    density_g_ml: 0.6
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

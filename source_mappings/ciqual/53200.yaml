@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '53200'
+canonical_ingredient_id: taro
+label: Taro, tubercule, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: pommes de terre et autres tubercules

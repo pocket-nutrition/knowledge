@@ -1,0 +1,8 @@
+canonical_ingredient_id: orange_juice_concentrate
+confidence: 0.65
+label: Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '175100'

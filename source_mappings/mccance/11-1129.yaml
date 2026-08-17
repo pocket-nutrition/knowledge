@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.75
+label: Pasta, white, dried, boiled in unsalted water
+match_method: name_en_before_comma
+meta:
+  description: Including pasta tubes, shells, bows and macaroni. Calculated from pasta,
+    white, dried, raw using 106.3% weight gain
+  food_group: AD
+source: mccance
+source_id: 11-1129

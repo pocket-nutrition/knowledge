@@ -1,0 +1,12 @@
+id: canned_kidney_bean
+name_en: canned kidney bean
+name_fr: haricot rouge en conserve
+food_group: legume
+states:
+  raw:
+    portion_g: 256.0
+    density_g_ml: 0.668
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

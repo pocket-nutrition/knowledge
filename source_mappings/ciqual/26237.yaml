@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '26237'
+canonical_ingredient_id: herring
+label: Hareng maigre, cru
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

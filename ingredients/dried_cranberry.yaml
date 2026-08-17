@@ -1,0 +1,20 @@
+id: dried_cranberry
+name_en: dried cranberry
+name_fr: canneberge séchée
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- craisins
+- sweetened dried cranberry
+serving_unit_types:
+- small_handful
+- handful
+- tablespoon
+display_unit: g

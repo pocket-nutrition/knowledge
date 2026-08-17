@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Turnip tops, boiled in unsalted water
+match_method: auto_ai
+meta:
+  group: DG
+source: mccance
+source_id: 13-392

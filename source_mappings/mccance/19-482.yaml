@@ -1,0 +1,8 @@
+source: mccance
+source_id: 19-482
+canonical_ingredient_id: _composite
+label: Lasagne, homemade, with extra lean minced beef
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: MR

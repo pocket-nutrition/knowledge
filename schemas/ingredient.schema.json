@@ -1,0 +1,136 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "id",
+    "name_en",
+    "food_group",
+    "states"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]{1,128}$"
+    },
+    "name_en": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name_fr": {
+      "type": "string"
+    },
+    "name_en_plural": {
+      "type": "string"
+    },
+    "name_fr_plural": {
+      "type": "string"
+    },
+    "serving_mode": {
+      "type": "string",
+      "enum": ["item", "weight", "volume", "measure"],
+      "description": "Natural measurement mode. 'item' = countable whole units (egg, yogurt); 'weight' = grams (rice, meat); 'volume' = mL (milk, oil); 'measure' = culinary units (salt, spices). Absent = weight by default."
+    },
+    "unit_label_fr": {
+      "type": "string",
+      "description": "French display label for one unit when serving_mode is 'item' (e.g. 'oeuf'). Required when serving_mode = item."
+    },
+    "unit_label_en": {
+      "type": "string",
+      "description": "English display label for one unit when serving_mode is 'item' (e.g. 'egg'). Required when serving_mode = item."
+    },
+    "food_group": {
+      "type": "string",
+      "enum": [
+        "meat",
+        "fish",
+        "shellfish",
+        "vegetable",
+        "cereal",
+        "dairy",
+        "beverage",
+        "egg",
+        "fat",
+        "fruit",
+        "legume",
+        "nut_seed",
+        "spice_herb",
+        "sweetener",
+        "baked_good",
+        "sauce",
+        "processed_meat",
+        "prepared_dish",
+        "seaweed",
+        "alcohol",
+        "other"
+      ]
+    },
+    "states": {
+      "type": "object",
+      "description": "Per-state metadata keyed by preparation state. Each key is the state in which the metadata applies.",
+      "minProperties": 1,
+      "propertyNames": {
+        "enum": ["raw", "cooked", "processed"]
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "portion_g": {
+            "type": ["number", "null"],
+            "minimum": 0.1,
+            "maximum": 5000,
+            "description": "Typical serving size in grams in this state."
+          },
+          "density_g_ml": {
+            "type": ["number", "null"],
+            "minimum": 0.1,
+            "maximum": 20,
+            "description": "Volumetric density (g/mL) for unit conversion in this state."
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "notes": {
+      "type": "string"
+    },
+    "can_eat_raw": {
+      "type": "boolean",
+      "description": "Can this ingredient be consumed without cooking?"
+    },
+    "can_eat_cooked": {
+      "type": "boolean",
+      "description": "Can this ingredient be cooked and eaten cooked?"
+    },
+    "typical_state": {
+      "type": "string",
+      "enum": ["raw", "processed", "boiled", "steamed", "grilled", "roasted", "fried"],
+      "description": "The usual preparation state for this ingredient"
+    },
+    "aliases_en": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1, "maxLength": 128 },
+      "description": "Alternative English names for search indexing"
+    },
+    "aliases_fr": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1, "maxLength": 128 },
+      "description": "Alternative French names for search indexing"
+    },
+    "serving_unit_types": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1, "maxLength": 64 },
+      "description": "Culinary unit types that apply to this ingredient (resolved to grams via serving_unit_types.yaml)"
+    },
+    "display_unit": {
+      "type": "string",
+      "enum": ["g", "ml"],
+      "description": "Whether quantity should be displayed in grams or millilitres in the UI"
+    },
+    "absorption_factors": {
+      "type": "object",
+      "description": "Fraction of each nutrient absorbed by the body from this ingredient (0.0–1.0). Absent key = no adjustment applied.",
+      "additionalProperties": { "type": "number", "minimum": 0.0, "maximum": 1.0 }
+    }
+  }
+}

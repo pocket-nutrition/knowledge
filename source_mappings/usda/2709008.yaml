@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709008'
+canonical_ingredient_id: _composite
+label: Rice, white, with tomatoes and/or tomato-based sauce, NS as to fat
+match_method: name_en_before_comma
+confidence: 0.75

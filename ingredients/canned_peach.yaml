@@ -1,0 +1,12 @@
+id: canned_peach
+name_en: canned peach
+name_fr: pêche en conserve
+food_group: fruit
+states:
+  raw:
+    portion_g: 220.0
+    density_g_ml: 1.091
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

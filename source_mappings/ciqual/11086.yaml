@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11086'
+canonical_ingredient_id: spirulina
+label: Spiruline (Spirulina sp.), séchée ou déshydratée
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

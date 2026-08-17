@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709784'
+canonical_ingredient_id: cucumber
+label: Cucumber, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

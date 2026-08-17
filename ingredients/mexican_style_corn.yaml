@@ -1,0 +1,13 @@
+id: mexican_style_corn
+name_en: mexican-style corn
+name_fr: maïs à la mexicaine
+serving_mode: weight
+food_group: prepared_dish
+states:
+  cooked:
+    portion_g: 150.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Flowers or blossoms of sesbania, squash, or lily, cooked
+match_method: auto_name
+meta:
+  category: Other vegetables and combinations
+source: usda
+source_id: '2709931'

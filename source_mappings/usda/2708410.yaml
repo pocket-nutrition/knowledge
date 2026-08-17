@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708410'
+canonical_ingredient_id: _composite
+label: Rice, brown, cooked, fat added, made with oil
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Rice

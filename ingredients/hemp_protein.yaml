@@ -1,0 +1,14 @@
+id: hemp_protein
+name_en: hemp protein
+name_fr: protéine de chanvre
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.45
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- scoop

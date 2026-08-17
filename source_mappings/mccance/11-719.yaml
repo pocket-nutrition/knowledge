@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Noodles, egg, dried, raw
+match_method: auto_name
+meta:
+  description: 10 samples, 6 products. Fine, medium and thick noodles
+  food_group: AD
+source: mccance
+source_id: 11-719

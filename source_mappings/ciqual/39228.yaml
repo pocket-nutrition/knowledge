@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Mousse aux fruits, rayon frais
+match_method: auto_name
+meta:
+  group: produits laitiers et assimilés
+  subgroup: produits laitiers frais et assimilés
+source: ciqual
+source_id: '39228'

@@ -1,0 +1,10 @@
+source: mccance
+source_id: 14-103
+canonical_ingredient_id: gooseberry
+label: Gooseberries, dessert, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Tops and tails removed
+  food_group: FA

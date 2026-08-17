@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Stew, mutton, corn, squash (Navajo)
+match_method: auto_name
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '168044'

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '172983'
+canonical_ingredient_id: rice_cereal
+label: Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Breakfast Cereals

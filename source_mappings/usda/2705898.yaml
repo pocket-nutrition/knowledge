@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705898'
+canonical_ingredient_id: pigs_feet
+label: Pork, pig's feet
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Pork

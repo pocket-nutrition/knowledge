@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706143'
+canonical_ingredient_id: cornish_hen
+label: Cornish game hen, cooked, skin eaten
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Turkey, duck, other poultry

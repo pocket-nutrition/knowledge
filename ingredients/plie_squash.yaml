@@ -1,0 +1,7 @@
+id: plie_squash
+name_en: plie squash
+name_fr: carrelet
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0

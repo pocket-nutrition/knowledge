@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2646168'
+canonical_ingredient_id: pork
+label: Pork, loin, boneless, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Pork Products

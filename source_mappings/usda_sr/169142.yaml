@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beans, snap, green, canned, regular pack, solids and liquids
+match_method: auto_token
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '169142'

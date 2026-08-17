@@ -1,0 +1,8 @@
+canonical_ingredient_id: unbleached_all_purpose_flour
+confidence: 0.65
+label: Wheat flour, white (industrial), 11.5% protein, unbleached, enriched
+match_method: auto_token
+meta:
+  category: Cereal Grains and Pasta
+source: usda_sr
+source_id: '168941'

@@ -1,0 +1,13 @@
+id: duck_confit
+name_en: duck confit
+name_fr: confit de canard
+serving_mode: weight
+food_group: processed_meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.087
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

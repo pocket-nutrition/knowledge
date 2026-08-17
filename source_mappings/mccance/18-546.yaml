@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pork, shoulder chops (collar), raw, lean and fat, weighed with bone
+match_method: auto_ai
+meta:
+  description: Calculated from 18-545
+  food_group: MAG
+source: mccance
+source_id: 18-546

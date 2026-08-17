@@ -1,0 +1,21 @@
+id: oat_milk
+name_en: oat milk
+name_fr: lait d'avoine
+serving_mode: volume
+food_group: cereal
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- oat beverage
+- oat drink
+aliases_fr:
+- boisson à l'avoine
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

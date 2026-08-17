@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: 'Dessert de fruits, tout type de fruits (en taux de sucres : compotes allégées
+  en sucres < desserts de fruits < compotes), préemballé, rayon ambiant'
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13152'

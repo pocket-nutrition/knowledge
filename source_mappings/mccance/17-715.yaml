@@ -1,0 +1,8 @@
+canonical_ingredient_id: blue_cheese_dressing
+confidence: 0.9
+label: Dressing, blue cheese
+match_method: auto_precise
+meta:
+  group: WCG
+source: mccance
+source_id: 17-715

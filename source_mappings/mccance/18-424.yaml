@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Tongue, ox, meat only, pickled, raw
+match_method: auto_ai
+meta:
+  description: 6 samples, fat and skin removed
+  food_group: MG
+source: mccance
+source_id: 18-424

@@ -1,0 +1,16 @@
+id: pickled_hot_pepper
+name_en: pickled hot pepper
+name_fr: piment au vinaigre
+serving_mode: weight
+food_group: vegetable
+states:
+  processed:
+    portion_g: 34.0
+    density_g_ml: 0.575
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- piments marinés
+display_unit: g

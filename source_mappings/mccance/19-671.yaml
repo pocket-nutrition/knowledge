@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Pork, spare ribs, 'barbecue style', homemade, weighed with bone
+match_method: auto_before_comma
+meta:
+  group: MR
+source: mccance
+source_id: 19-671

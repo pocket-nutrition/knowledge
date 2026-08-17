@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Fat spread, reduced fat (41-62%), not polyunsaturated, with olive oil
+match_method: auto_token
+meta:
+  group: OA
+source: mccance
+source_id: 12-505

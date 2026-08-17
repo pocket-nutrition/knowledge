@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706136'
+canonical_ingredient_id: turkey_bacon
+label: Turkey bacon, reduced sodium, cooked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Bacon

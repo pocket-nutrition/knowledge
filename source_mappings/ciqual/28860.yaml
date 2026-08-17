@@ -1,0 +1,8 @@
+canonical_ingredient_id: viande_des_grisons
+confidence: 0.9
+label: Viande des Grisons
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '28860'

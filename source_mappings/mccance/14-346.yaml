@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-346
+canonical_ingredient_id: null
+label: Apples, eating, raw, flesh and skin, weighed with core
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 14-319 using edible portion of 0.87
+  food_group: FA

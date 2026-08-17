@@ -1,0 +1,17 @@
+id: fire_roasted_tomato
+name_en: fire-roasted tomato
+name_fr: tomates grillées
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 120.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+aliases_en:
+- roasted tomato
+- fire roasted tomatoes
+aliases_fr:
+- tomates rôties
+display_unit: g

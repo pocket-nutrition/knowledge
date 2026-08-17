@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708175'
+canonical_ingredient_id: _composite
+label: Crackers, whole grain, sandwich, peanut butter filled
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Crackers, excludes saltines

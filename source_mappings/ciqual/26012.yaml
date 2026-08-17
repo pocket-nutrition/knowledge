@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26012'
+canonical_ingredient_id: herring
+label: Hareng, frit
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

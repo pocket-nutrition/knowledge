@@ -1,0 +1,11 @@
+id: devil_s_food_cake_mix
+name_en: devil's food cake mix
+name_fr: préparation pour gâteau au chocolat
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 16.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

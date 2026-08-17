@@ -1,0 +1,13 @@
+id: chicken_raman
+name_en: chicken ramen
+name_fr: ramen au poulet
+serving_mode: weight
+food_group: prepared_dish
+states:
+  cooked:
+    portion_g: 400.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

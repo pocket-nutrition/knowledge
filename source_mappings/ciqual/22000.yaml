@@ -1,0 +1,9 @@
+canonical_ingredient_id: egg
+confidence: 1.0
+label: Oeuf cru
+match_method: manual
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: oeufs
+source: ciqual
+source_id: '22000'

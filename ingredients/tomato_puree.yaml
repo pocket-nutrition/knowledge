@@ -1,0 +1,16 @@
+id: tomato_puree
+name_en: tomato puree
+name_fr: purée de tomate
+serving_mode: measure
+food_group: vegetable
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.022
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

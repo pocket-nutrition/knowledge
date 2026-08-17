@@ -1,0 +1,12 @@
+id: mache
+name_en: lamb's lettuce
+name_fr: Mâche
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.018
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168152'
+canonical_ingredient_id: jujube
+label: Jujube, Chinese, fresh, dried
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Fruits and Fruit Juices

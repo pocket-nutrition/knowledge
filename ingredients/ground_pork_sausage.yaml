@@ -1,0 +1,12 @@
+id: ground_pork_sausage
+name_en: ground pork sausage
+name_fr: saucisse de porc
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 48.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

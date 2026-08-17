@@ -1,0 +1,11 @@
+id: boneless_ham
+name_en: boneless ham
+name_fr: jambon désossé
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.075
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed

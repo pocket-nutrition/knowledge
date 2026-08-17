@@ -1,0 +1,7 @@
+food_group: cereal
+id: spanish_rice
+name_en: Spanish rice
+name_fr: riz espagnol
+states:
+  raw:
+    portion_g: 60

@@ -1,0 +1,18 @@
+id: chive
+name_en: chive
+name_fr: ciboulette
+name_en_plural: chives
+name_fr_plural: ciboulettes
+serving_mode: weight
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

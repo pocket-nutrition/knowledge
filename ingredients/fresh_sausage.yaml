@@ -1,0 +1,13 @@
+id: fresh_sausage
+name_en: fresh sausage
+name_fr: saucisse fraîche
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.041
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

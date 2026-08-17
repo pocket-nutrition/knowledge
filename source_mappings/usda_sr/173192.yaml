@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173192'
+canonical_ingredient_id: red_wine
+label: Alcoholic Beverage, wine, table, red, Zinfandel
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

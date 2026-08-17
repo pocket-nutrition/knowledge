@@ -1,0 +1,18 @@
+id: sourdock_leaves
+name_en: sourdock leaves
+name_fr: feuilles d'oseille crépue
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- dock leaves
+aliases_fr:
+- feuilles de patience
+- patience crépue
+display_unit: g

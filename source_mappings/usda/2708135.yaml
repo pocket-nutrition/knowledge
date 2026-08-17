@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708135'
+canonical_ingredient_id: _composite
+label: Graham crackers, chocolate covered
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Cookies and brownies

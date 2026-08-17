@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '10064'
+canonical_ingredient_id: shrimp
+label: Crevette tropicale (rose), cuite (Penaeus brasiliensis)
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

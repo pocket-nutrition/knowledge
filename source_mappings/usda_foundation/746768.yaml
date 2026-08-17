@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '746768'
+canonical_ingredient_id: dried_fig
+label: Figs, dried, uncooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Fruits and Fruit Juices

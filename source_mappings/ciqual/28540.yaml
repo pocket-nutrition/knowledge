@@ -1,0 +1,8 @@
+canonical_ingredient_id: pigs_trotters
+confidence: 0.9
+label: Pied de porc demi-sel
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '28540'

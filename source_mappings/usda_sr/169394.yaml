@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169394'
+canonical_ingredient_id: banana_pepper_ring
+label: Pepper, banana, raw
+cooking_method: raw
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Vegetables and Vegetable Products

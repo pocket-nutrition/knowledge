@@ -1,0 +1,7 @@
+source: usda
+source_id: '2706217'
+canonical_ingredient_id: turkey_ham
+label: Turkey ham, prepackaged or deli, luncheon meat
+cooking_method: cooked
+match_method: name_en_before_comma
+confidence: 0.75

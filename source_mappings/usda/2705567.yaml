@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Infant formula, Enfamil ProSobee, powder, made with bottled water
+match_method: auto_name
+meta:
+  wweia_category: Formula, prepared from powder
+source: usda
+source_id: '2705567'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: wheat_bran
+confidence: 0.9
+label: Bran, wheat
+match_method: auto_precise
+meta:
+  group: AA
+source: mccance
+source_id: 11-906

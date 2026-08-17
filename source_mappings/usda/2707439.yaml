@@ -1,0 +1,8 @@
+canonical_ingredient_id: miso
+confidence: 0.9
+label: Miso
+match_method: auto_ai
+meta:
+  wweia_category: Soy-based condiments
+source: usda
+source_id: '2707439'

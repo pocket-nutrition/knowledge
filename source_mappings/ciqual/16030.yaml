@@ -1,0 +1,8 @@
+canonical_ingredient_id: cocoa_butter
+confidence: 0.9
+label: Huile ou beurre de cacao
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16030'

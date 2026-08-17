@@ -1,0 +1,17 @@
+id: runner_beans
+name_en: runner beans
+name_fr: haricots d'Espagne
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- scarlet runner bean
+- runner bean
+aliases_fr:
+- haricot d'Espagne
+display_unit: g

@@ -1,0 +1,15 @@
+id: jewses_ear
+name_en: wood ear mushroom
+name_fr: oreille de Judas
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- jew's ear
+- black fungus
+display_unit: g

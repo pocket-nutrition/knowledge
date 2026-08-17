@@ -1,0 +1,8 @@
+canonical_ingredient_id: brazil_nut
+confidence: 0.9
+label: Noix du Brésil ou noix d'Amazonie, sans sel ajouté
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '15008'

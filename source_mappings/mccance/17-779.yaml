@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-779
+canonical_ingredient_id: bechamel_sauce
+label: White sauce, savoury, made with whole milk, homemade
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: WCD

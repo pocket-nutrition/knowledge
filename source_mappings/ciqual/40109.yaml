@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '40109'
+canonical_ingredient_id: chicken_liver
+label: Foie, volaille, cuit
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

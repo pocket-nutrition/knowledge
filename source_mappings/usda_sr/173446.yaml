@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product
+match_method: auto_name
+meta:
+  category: Dairy and Egg Products
+source: usda_sr
+source_id: '173446'

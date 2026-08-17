@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708377'
+canonical_ingredient_id: millet
+label: Millet
+cooking_method: dry
+match_method: name_en_exact
+confidence: 0.9

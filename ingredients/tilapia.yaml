@@ -1,0 +1,13 @@
+id: tilapia
+name_en: tilapia
+name_fr: tilapia
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.052
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

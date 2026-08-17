@@ -1,0 +1,10 @@
+source: mccance
+source_id: 14-078
+canonical_ingredient_id: damson
+label: Damsons, flesh and skin, raw, weighed with stones
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 14-077
+  food_group: FA

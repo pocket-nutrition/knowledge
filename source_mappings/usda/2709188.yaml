@@ -1,0 +1,8 @@
+canonical_ingredient_id: orange_juice
+confidence: 0.8
+label: Orange juice, 100%, canned, bottled or in a carton
+match_method: auto_before_comma
+meta:
+  category: Citrus juice
+source: usda
+source_id: '2709188'

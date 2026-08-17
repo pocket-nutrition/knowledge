@@ -1,0 +1,17 @@
+id: winged_bean_leaves
+name_en: winged bean leaves
+name_fr: feuilles de pois carré
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 62.0
+    density_g_ml: 0.65
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- feuilles de haricot ailé
+display_unit: g

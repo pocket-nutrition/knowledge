@@ -1,0 +1,8 @@
+source: usda
+source_id: '2705823'
+canonical_ingredient_id: beef_steak_raw
+label: Steak, NS as to type of meat, NS as to fat eaten
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Beef, excludes ground

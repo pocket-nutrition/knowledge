@@ -1,0 +1,8 @@
+canonical_ingredient_id: red_wine_vinegar
+confidence: 0.95
+label: Vinaigre de vin rouge
+match_method: auto_exact
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11220'

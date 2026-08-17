@@ -1,0 +1,8 @@
+canonical_ingredient_id: pumpkin_pie_spice
+confidence: 0.65
+label: Spices, pumpkin pie spice
+match_method: auto_token
+meta:
+  category: Spices and Herbs
+source: usda_sr
+source_id: '171332'

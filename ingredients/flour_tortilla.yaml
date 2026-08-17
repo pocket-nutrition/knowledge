@@ -1,0 +1,14 @@
+id: flour_tortilla
+name_en: flour tortilla
+name_fr: tortilla de farine
+serving_mode: item
+unit_label_en: tortilla
+unit_label_fr: tortilla
+food_group: baked_good
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

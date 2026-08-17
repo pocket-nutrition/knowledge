@@ -1,0 +1,10 @@
+confidence: 0.85
+cooking_method: boiled
+nutrient_retention:
+  calcium_mg: 0.92
+  vitamin_b12_ug: 0.82
+  vitamin_b6_mg: 0.72
+  vitamin_c_mg: 0.6
+raw_id: egg
+source: mccance_pair
+yield_factor: 0.9161

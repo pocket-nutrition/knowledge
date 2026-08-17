@@ -1,0 +1,9 @@
+canonical_ingredient_id: spaghetti_squash
+confidence: 0.9
+cooking_method: roasted
+label: Squash, spaghetti, baked
+match_method: auto_precise
+meta:
+  group: DG
+source: mccance
+source_id: 13-358

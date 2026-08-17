@@ -1,0 +1,15 @@
+id: blood_sausage
+name_en: blood sausage
+name_fr: boudin noir
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.023
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- black pudding
+display_unit: g

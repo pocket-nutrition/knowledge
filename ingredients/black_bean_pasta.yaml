@@ -1,0 +1,12 @@
+id: black_bean_pasta
+name_en: black bean pasta
+name_fr: pâtes de haricots noirs
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 70.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

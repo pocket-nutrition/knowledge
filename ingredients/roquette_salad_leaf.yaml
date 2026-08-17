@@ -1,0 +1,12 @@
+id: roquette_salad_leaf
+name_en: rocket leaf
+name_fr: roquette
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

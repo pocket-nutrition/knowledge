@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '36035'
+canonical_ingredient_id: _composite
+label: Poulet, manchons marinés, préemballés, rôtis/cuits au four
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: entrées et plats composés

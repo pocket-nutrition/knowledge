@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut
+match_method: auto_token
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '173139'

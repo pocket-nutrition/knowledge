@@ -1,0 +1,18 @@
+id: polenta
+name_en: polenta
+name_fr: polente
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 70.0
+    density_g_ml: 0.7
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- cornmeal mush
+aliases_fr:
+- polenta
+- semoule de maïs
+display_unit: g

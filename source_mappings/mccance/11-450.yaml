@@ -1,0 +1,9 @@
+canonical_ingredient_id: pasta
+confidence: 0.92
+cooking_method: boiled
+label: Pasta, plain, fresh, boiled
+match_method: auto_precise
+meta:
+  group: AD
+source: mccance
+source_id: 11-450

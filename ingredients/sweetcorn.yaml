@@ -1,0 +1,11 @@
+id: sweetcorn
+name_en: sweetcorn
+name_fr: maïs doux
+food_group: vegetable
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

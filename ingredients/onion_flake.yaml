@@ -1,0 +1,16 @@
+id: onion_flake
+name_en: onion flake
+name_fr: oignon émincé
+serving_mode: measure
+food_group: vegetable
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

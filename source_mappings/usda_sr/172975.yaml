@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Granola with Oats, Wheat,
+  Honey, and Raisins
+match_method: auto_name
+meta:
+  category: Breakfast Cereals
+source: usda_sr
+source_id: '172975'

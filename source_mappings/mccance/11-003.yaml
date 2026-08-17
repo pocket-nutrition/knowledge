@@ -1,0 +1,9 @@
+canonical_ingredient_id: pearl_barley
+confidence: 0.9
+cooking_method: boiled
+label: Barley, pearl, boiled
+match_method: auto_precise
+meta:
+  group: AA
+source: mccance
+source_id: 11-003

@@ -1,0 +1,7 @@
+food_group: shellfish
+id: winkles
+name_en: winkles
+name_fr: Winkles
+states:
+  raw:
+    portion_g: 100

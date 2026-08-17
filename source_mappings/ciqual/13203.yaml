@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '13203'
+canonical_ingredient_id: rhubarb
+label: Rhubarbe, tige, cuite
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

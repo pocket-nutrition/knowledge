@@ -1,0 +1,14 @@
+id: raspberry
+name_en: raspberry
+name_fr: framboise
+name_en_plural: raspberries
+name_fr_plural: framboises
+food_group: fruit
+states:
+  raw:
+    portion_g: 218.0
+    density_g_ml: 1.044
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

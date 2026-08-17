@@ -1,0 +1,8 @@
+canonical_ingredient_id: hummus
+confidence: 0.95
+label: Houmous
+match_method: auto_exact
+meta:
+  group: DB
+source: mccance
+source_id: 13-556

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20301'
+canonical_ingredient_id: chard
+label: Bette ou blette, côte et feuille, bouillie/cuite à l'eau
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

@@ -1,0 +1,16 @@
+id: desiccated_coconut
+name_en: desiccated coconut
+name_fr: noix de coco desséchée
+serving_mode: weight
+food_group: nut_seed
+states:
+  cooked:
+    portion_g: 28.0
+    density_g_ml: 0.325
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

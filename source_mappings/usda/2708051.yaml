@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Pastry, cookie type, fried
+match_method: auto_name
+meta:
+  category: Doughnuts, sweet rolls, pastries
+source: usda
+source_id: '2708051'

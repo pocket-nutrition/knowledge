@@ -1,0 +1,8 @@
+canonical_ingredient_id: cocoa_powder
+confidence: 0.95
+label: Cocoa powder
+match_method: auto_exact
+meta:
+  group: BH
+source: mccance
+source_id: 12-545

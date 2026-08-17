@@ -1,0 +1,6 @@
+canonical_ingredient_id: sports_drink
+confidence: 0.75
+label: Sports drink, dry concentrate, not reconstituted
+match_method: name_en_before_comma
+source: usda
+source_id: '2710615'

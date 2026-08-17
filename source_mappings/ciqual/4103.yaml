@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '4103'
+canonical_ingredient_id: _composite
+label: Patate douce, purée, cuisinée à la crème
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

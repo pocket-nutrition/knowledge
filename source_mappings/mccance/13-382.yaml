@@ -1,0 +1,8 @@
+canonical_ingredient_id: tomato_juice
+confidence: 0.95
+label: Tomato juice
+match_method: auto_exact
+meta:
+  group: PE
+source: mccance
+source_id: 13-382

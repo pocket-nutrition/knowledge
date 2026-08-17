@@ -1,0 +1,9 @@
+canonical_ingredient_id: passion_fruit_juice
+confidence: 0.9
+label: Jus de fruit de la passion ou maracudja, frais
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+  subgroup: boissons sans alcool
+source: ciqual
+source_id: '2024'

@@ -1,0 +1,20 @@
+id: swis_cheese
+name_en: swis cheese
+name_fr: emmental
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.081
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- swiss cheese
+- emmental
+- emmenthal
+aliases_fr:
+- emmenthal
+- gruyère
+display_unit: g

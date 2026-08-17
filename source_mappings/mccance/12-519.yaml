@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Custard, made up with semi-skimmed milk
+match_method: auto_before_comma
+meta:
+  group: BR
+source: mccance
+source_id: 12-519

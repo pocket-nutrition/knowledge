@@ -1,0 +1,16 @@
+id: weetabix
+name_en: weetabix
+name_fr: weetabix
+serving_mode: item
+unit_label_en: biscuit
+unit_label_fr: biscuit
+food_group: cereal
+states:
+  processed:
+    portion_g: 19.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

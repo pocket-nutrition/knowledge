@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168833'
+canonical_ingredient_id: null
+label: Sugars, brown
+match_method: manual
+confidence: 1.0
+meta:
+  category: Sweets

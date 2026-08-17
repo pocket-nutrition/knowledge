@@ -1,0 +1,8 @@
+canonical_ingredient_id: graham_cracker
+confidence: 0.65
+label: Pie shell, graham cracker
+match_method: auto_token
+meta:
+  wweia_category: Cakes and pies
+source: usda
+source_id: '2708018'

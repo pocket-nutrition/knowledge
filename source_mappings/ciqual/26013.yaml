@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26013'
+canonical_ingredient_id: smoked_herring
+label: Hareng fumé, au naturel
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

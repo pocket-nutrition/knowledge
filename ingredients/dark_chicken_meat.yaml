@@ -1,0 +1,12 @@
+id: dark_chicken_meat
+name_en: dark chicken meat
+name_fr: chair brune de poulet
+food_group: meat
+states:
+  raw:
+    portion_g: 71.0
+    density_g_ml: 1.014
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

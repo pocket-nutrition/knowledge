@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Sausages, premium, raw
+match_method: auto_name
+meta:
+  description: 10 samples, 9 brands including Cumberland and Lincolnshire  sausages.
+    50-90% meat
+  food_group: MI
+source: mccance
+source_id: 19-657

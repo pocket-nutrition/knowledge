@@ -1,0 +1,8 @@
+canonical_ingredient_id: baking_chocolate
+confidence: 0.8
+label: Baking chocolate, mexican, squares
+match_method: auto_before_comma
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '167999'

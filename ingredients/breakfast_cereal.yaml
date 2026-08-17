@@ -1,0 +1,16 @@
+id: breakfast_cereal
+name_en: breakfast cereal
+name_fr: céréales du petit-déjeuner
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.15
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

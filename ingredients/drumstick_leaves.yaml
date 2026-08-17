@@ -1,0 +1,12 @@
+id: drumstick_leaves
+name_en: Drumstick leaves
+name_fr: Feuilles de Moringa
+food_group: vegetable
+states:
+  raw:
+    portion_g: 42.0
+    density_g_ml: 0.178
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

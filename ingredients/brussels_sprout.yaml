@@ -1,0 +1,13 @@
+id: brussels_sprout
+name_en: brussels sprout
+name_fr: chou de Bruxelles
+name_en_plural: brussels sprouts
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.037
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

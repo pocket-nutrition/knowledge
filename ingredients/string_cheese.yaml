@@ -1,0 +1,16 @@
+id: string_cheese
+name_en: string cheese
+name_fr: fromage à effilocher
+serving_mode: item
+unit_label_en: stick
+unit_label_fr: bâtonnet
+food_group: dairy
+states:
+  raw:
+    portion_g: 28.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- fromage à dérouler
+display_unit: g

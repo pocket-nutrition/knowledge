@@ -1,0 +1,17 @@
+id: chickpea
+name_en: chickpea
+name_fr: pois chiche
+name_en_plural: chickpeas
+food_group: legume
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 1.088
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- garbanzo bean
+- garbanzo

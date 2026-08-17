@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Pie, fish, white fish, homemade
+match_method: auto_token
+meta:
+  group: JR
+source: mccance
+source_id: 16-460

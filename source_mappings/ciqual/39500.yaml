@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Glace à l'eau ou sorbet ou crème glacée, tout parfum (aliment moyen)
+match_method: auto_name
+meta:
+  group: glaces et sorbets
+source: ciqual
+source_id: '39500'

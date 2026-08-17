@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Van's, The Perfect 10, Crispy Six Whole Grain + Four Seed Baked Crackers, Gluten
+  Free
+match_method: auto_token
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '168012'

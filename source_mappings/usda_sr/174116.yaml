@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174116'
+canonical_ingredient_id: coconut_milk
+label: Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

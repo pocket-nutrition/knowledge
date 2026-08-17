@@ -1,0 +1,13 @@
+id: pluot
+name_en: pluot
+name_fr: pluot
+serving_mode: item
+unit_label_en: pluot
+unit_label_fr: pluot
+food_group: fruit
+states:
+  raw:
+    portion_g: 70.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

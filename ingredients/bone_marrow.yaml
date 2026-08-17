@@ -1,0 +1,7 @@
+food_group: other
+id: bone_marrow
+name_en: bone marrow
+name_fr: moelle osseuse
+states:
+  raw:
+    portion_g: 100

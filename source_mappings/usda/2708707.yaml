@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708707'
+canonical_ingredient_id: _composite
+label: Puffs, fried, crab meat and cream cheese filled
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Egg rolls, dumplings, sushi

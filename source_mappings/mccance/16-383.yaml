@@ -1,0 +1,10 @@
+source: mccance
+source_id: 16-383
+canonical_ingredient_id: coley
+label: Coley, flesh only, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  description: 8 samples, 8 products, frozen and chilled
+  food_group: JA

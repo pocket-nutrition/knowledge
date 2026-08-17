@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Raisins, dried
+match_method: auto_ai
+meta:
+  description: 10 samples, 10 products, not including soft, ready-to-eat, or partially
+    hydrated
+  food_group: FA
+source: mccance
+source_id: 14-393

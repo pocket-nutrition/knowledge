@@ -1,0 +1,11 @@
+id: navy_beans
+name_en: Navy Beans
+name_fr: haricots blancs (navy)
+food_group: legume
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

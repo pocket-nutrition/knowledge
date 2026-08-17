@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28007'
+canonical_ingredient_id: pork
+label: Porc, longe, cuite
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, œufs, poissons et assimilés

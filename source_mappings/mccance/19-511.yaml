@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Sausages, pork, reduced fat, grilled
+match_method: auto_token
+meta:
+  group: MI
+source: mccance
+source_id: 19-511

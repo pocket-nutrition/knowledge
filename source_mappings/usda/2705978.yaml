@@ -1,0 +1,9 @@
+canonical_ingredient_id: chicken_breast
+confidence: 0.8
+cooking_method: fried
+label: Chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant
+match_method: auto_before_comma
+meta:
+  category: Chicken, whole pieces
+source: usda
+source_id: '2705978'

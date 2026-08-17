@@ -1,0 +1,8 @@
+canonical_ingredient_id: canned_green_bean
+confidence: 0.65
+label: Green beans, canned, cooked, fat added, NS as to fat type
+match_method: auto_token
+meta:
+  category: String beans
+source: usda
+source_id: '2709858'

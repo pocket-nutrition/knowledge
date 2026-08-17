@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '25998'
+canonical_ingredient_id: smoked_herring
+label: Hareng fumé, doux
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

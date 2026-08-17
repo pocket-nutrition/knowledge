@@ -1,0 +1,7 @@
+canonical_ingredient_id: cod
+confidence: 0.92
+cooking_method: boiled
+label: Cod, dried, salted, boiled
+match_method: auto_precise
+source: mccance
+source_id: 16-490

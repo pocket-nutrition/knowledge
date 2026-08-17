@@ -1,0 +1,15 @@
+id: lithothamne_sea_mineral
+name_en: lithothamnion sea mineral
+name_fr: lithothamne (minéral marin)
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 3.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: g

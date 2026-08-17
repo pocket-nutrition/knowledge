@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20801'
+canonical_ingredient_id: giraumon
+label: Chips de chair de giraumon (variété locale), prélevé à la Martinique
+cooking_method: fried
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

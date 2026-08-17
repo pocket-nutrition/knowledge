@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '30742'
+canonical_ingredient_id: fresh_sausage
+label: Saucisse de Strasbourg ou knack, à cuire
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,22 @@
+id: whole_wheat_flour
+name_en: whole-wheat flour
+name_fr: farine de blé entier
+serving_mode: weight
+food_group: cereal
+states:
+  cooked: {}
+  processed:
+    portion_g: 120.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- wholemeal flour
+aliases_fr:
+- farine complète
+- farine de blé complet
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

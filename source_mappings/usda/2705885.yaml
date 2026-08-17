@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705885'
+canonical_ingredient_id: bacon
+label: Bacon, NS as to type of meat, cooked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Bacon

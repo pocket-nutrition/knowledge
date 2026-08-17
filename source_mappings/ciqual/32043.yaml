@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '32043'
+canonical_ingredient_id: breakfast_cereal
+label: Pétales de céréales, nature, sans sucres ajoutés, non enrichies en vitamines et minéraux
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits sucrés
+  subgroup: céréales de petit-déjeuner

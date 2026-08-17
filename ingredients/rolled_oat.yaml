@@ -1,0 +1,21 @@
+id: rolled_oat
+name_en: rolled oat
+name_fr: flocon d'avoine
+serving_mode: weight
+food_group: cereal
+states:
+  processed:
+    portion_g: 40.0
+    density_g_ml: 0.37
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- oat flakes
+aliases_fr:
+- avoine en flocons
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

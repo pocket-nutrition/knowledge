@@ -1,0 +1,16 @@
+id: lemonade
+name_en: lemonade
+name_fr: limonade
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 148.0
+    density_g_ml: 1.003
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

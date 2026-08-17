@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707893'
+canonical_ingredient_id: _composite
+label: Cake or cupcake, white with chocolate icing, bakery
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Cakes and pies

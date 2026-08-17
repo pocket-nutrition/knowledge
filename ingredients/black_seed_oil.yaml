@@ -1,0 +1,22 @@
+id: black_seed_oil
+name_en: black seed oil
+name_fr: huile de nigelle
+serving_mode: measure
+food_group: fat
+states:
+  raw:
+    portion_g: 14.0
+    density_g_ml: 0.92
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- nigella oil
+- black cumin oil
+- kalonji oil
+aliases_fr:
+- huile de cumin noir
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

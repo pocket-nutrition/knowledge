@@ -1,0 +1,15 @@
+confidence: 0.75
+cooking_method: fried
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Beef, ground,
+  medium fat (12%-22%), crumbles / Pan-fried
+nutrient_retention:
+  iron_mg: 0.92
+  niacin_mg: 0.78
+  phosphorus_mg: 0.83
+  potassium_mg: 0.78
+  vitamin_b12_ug: 0.8
+  vitamin_b6_mg: 0.7
+  zinc_mg: 0.92
+raw_id: ground_beef_15pct
+source: usda_yield_mp_r2
+yield_factor: 0.67

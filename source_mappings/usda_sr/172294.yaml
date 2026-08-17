@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Toddler drink, MEAD JOHNSON, PurAmino Toddler Powder, with ARA and DHA, not
+  reconstituted
+match_method: auto_name
+meta:
+  category: Baby Foods
+source: usda_sr
+source_id: '172294'

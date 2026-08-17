@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13010'
+canonical_ingredient_id: quince
+label: Coing, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

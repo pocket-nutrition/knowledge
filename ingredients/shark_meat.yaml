@@ -1,0 +1,18 @@
+id: shark_meat
+name_en: shark meat
+name_fr: viande de requin
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.065
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- shark
+aliases_fr:
+- requin
+display_unit: g

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710261'
+canonical_ingredient_id: cinnamon_sugar
+label: Sugar, cinnamon
+match_method: ai_review
+confidence: 0.9

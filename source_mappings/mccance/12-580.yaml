@@ -1,0 +1,8 @@
+canonical_ingredient_id: rice_pudding
+confidence: 0.9
+label: Pudding, rice, canned
+match_method: auto_precise
+meta:
+  group: BR
+source: mccance
+source_id: 12-580

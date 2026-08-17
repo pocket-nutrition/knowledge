@@ -1,0 +1,8 @@
+canonical_ingredient_id: cereal_flake
+confidence: 0.65
+label: Cereal, wheat flakes
+match_method: auto_token
+meta:
+  wweia_category: Ready-to-eat cereal, lower sugar (=<21.2g/100g)
+source: usda
+source_id: '2708480'

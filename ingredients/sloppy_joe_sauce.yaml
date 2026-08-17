@@ -1,0 +1,12 @@
+id: sloppy_joe_sauce
+name_en: sloppy joe sauce
+name_fr: sauce sloppy joe
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

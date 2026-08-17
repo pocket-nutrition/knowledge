@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-481
+canonical_ingredient_id: king_prawn
+label: Prawns, king, purchased cooked, weighed with shells
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: JK

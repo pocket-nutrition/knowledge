@@ -1,0 +1,15 @@
+id: grapefruit_bitter
+name_en: Grapefruit bitter
+name_fr: bitter au pamplemousse
+serving_mode: measure
+food_group: alcohol
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.95
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: ml

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2706774'
+canonical_ingredient_id: _composite
+label: Sausage and vegetables including  carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce
+match_method: name_en_partial
+confidence: 0.65

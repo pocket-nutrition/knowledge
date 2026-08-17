@@ -1,0 +1,8 @@
+canonical_ingredient_id: corned_beef
+confidence: 0.92
+label: Corned beef, canned
+match_method: auto_precise
+meta:
+  group: MI
+source: mccance
+source_id: 19-128

@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-498
+canonical_ingredient_id: plaice
+label: Plaice, in batter, fried in blended oil
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: JA

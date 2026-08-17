@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174074'
+canonical_ingredient_id: red_enchilada_sauce
+label: Sauce, enchilada, red, mild, ready to serve
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soups, Sauces, and Gravies

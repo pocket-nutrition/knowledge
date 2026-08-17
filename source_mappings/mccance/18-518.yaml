@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pork, loin medallions, raw, lean
+match_method: auto_ai
+meta:
+  description: 10 samples, 8 products, chilled
+  food_group: MAG
+source: mccance
+source_id: 18-518

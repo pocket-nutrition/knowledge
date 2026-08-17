@@ -1,0 +1,14 @@
+id: edamame
+name_en: edamame
+name_fr: edamame
+food_group: legume
+states:
+  cooked:
+    portion_g: 155.0
+    density_g_ml: 0.499
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_fr:
+- fèves de soja
+display_unit: g

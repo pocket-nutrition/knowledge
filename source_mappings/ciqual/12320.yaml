@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Fromage fondu double crème, environ 31% MG
+match_method: auto_name
+meta:
+  group: produits laitiers et assimilés
+source: ciqual
+source_id: '12320'

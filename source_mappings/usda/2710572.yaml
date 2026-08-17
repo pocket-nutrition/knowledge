@@ -1,0 +1,7 @@
+source: usda
+source_id: '2710572'
+canonical_ingredient_id: lemonade
+label: Lemonade, frozen concentrate, not reconstituted
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

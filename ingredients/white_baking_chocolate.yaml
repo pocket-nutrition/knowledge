@@ -1,0 +1,14 @@
+id: white_baking_chocolate
+name_en: white baking chocolate
+name_fr: chocolat blanc à pâtisserie
+serving_mode: weight
+food_group: sweetener
+states:
+  cooked: {}
+  processed:
+    portion_g: 20.0
+    density_g_ml: 0.95
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

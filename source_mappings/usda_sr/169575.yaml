@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '169575'
+canonical_ingredient_id: beer
+label: Alcoholic beverage, beer, light, low carb
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

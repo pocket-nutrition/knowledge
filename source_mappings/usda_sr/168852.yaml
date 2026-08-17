@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Frostings, glaze, chocolate, prepared-from-recipe, with butter, NFSMI Recipe
+  No. C-32
+match_method: auto_token
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '168852'

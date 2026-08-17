@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Peppers, sweet, green, frozen, chopped, boiled, drained, without salt
+match_method: auto_ai
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '170023'

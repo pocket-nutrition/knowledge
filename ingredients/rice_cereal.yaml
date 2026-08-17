@@ -1,0 +1,16 @@
+id: rice_cereal
+name_en: rice cereal
+name_fr: céréale de riz
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 28.0
+    density_g_ml: 0.169
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

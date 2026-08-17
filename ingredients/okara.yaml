@@ -1,0 +1,12 @@
+id: okara
+name_en: okara
+name_fr: okara
+food_group: legume
+states:
+  raw:
+    portion_g: 122.0
+    density_g_ml: 0.516
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

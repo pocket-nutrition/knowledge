@@ -1,0 +1,8 @@
+canonical_ingredient_id: chicken_patty
+confidence: 0.92
+label: Chicken patty, frozen, uncooked
+match_method: auto_precise
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '171512'

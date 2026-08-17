@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-829
+canonical_ingredient_id: _composite
+label: Soup, pea and ham, homemade
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: WAA

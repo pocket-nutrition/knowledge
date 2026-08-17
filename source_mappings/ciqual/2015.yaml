@@ -1,0 +1,8 @@
+canonical_ingredient_id: grapefruit_juice
+confidence: 0.9
+label: Jus de pamplemousse (pomélo), à base de concentré
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '2015'

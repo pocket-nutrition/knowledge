@@ -1,0 +1,9 @@
+canonical_ingredient_id: tempeh
+confidence: 0.92
+cooking_method: cooked
+label: Tempeh, cooked
+match_method: auto_precise
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '172467'

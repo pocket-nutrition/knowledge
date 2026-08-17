@@ -1,0 +1,13 @@
+id: purslane
+name_en: purslane
+name_fr: pourpier
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 50.0
+    density_g_ml: 1.032
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

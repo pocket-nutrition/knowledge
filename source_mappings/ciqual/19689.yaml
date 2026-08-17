@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Cheesecake ou Gâteau au fromage frais, préemballé
+match_method: auto_name
+meta:
+  group: produits laitiers et assimilés
+  subgroup: produits laitiers frais et assimilés
+source: ciqual
+source_id: '19689'

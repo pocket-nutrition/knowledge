@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9540'
+canonical_ingredient_id: buckwheat_flour
+label: Farine de sarrasin
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

@@ -1,0 +1,8 @@
+canonical_ingredient_id: vanilla_sugar
+confidence: 0.95
+label: Sucre vanillé
+match_method: auto_exact
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31044'

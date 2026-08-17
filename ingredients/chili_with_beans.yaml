@@ -1,0 +1,12 @@
+id: chili_with_beans
+name_en: chili with beans
+name_fr: chili con carne aux haricots
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 136.0
+    density_g_ml: 0.575
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

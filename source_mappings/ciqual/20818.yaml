@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '20818'
+canonical_ingredient_id: giraumon
+label: Giraumon (variété phoenix), chair sans peau, râpé, cru, prélevé à la Martinique
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumes

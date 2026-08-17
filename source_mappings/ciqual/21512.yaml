@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '21512'
+canonical_ingredient_id: lamb
+label: Agneau, côte première grillée/poêlée
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

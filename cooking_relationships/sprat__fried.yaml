@@ -1,0 +1,14 @@
+confidence: 0.85
+cooking_method: fried
+nutrient_retention:
+  iron_mg: 0.92
+  niacin_mg: 0.79
+  phosphorus_mg: 0.85
+  potassium_mg: 0.79
+  vitamin_b12_ug: 0.77
+  vitamin_b6_mg: 0.72
+  vitamin_d_ug: 0.82
+  zinc_mg: 0.92
+raw_id: sprat
+source: mccance_pair
+yield_factor: 0.4145

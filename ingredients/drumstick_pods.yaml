@@ -1,0 +1,12 @@
+id: drumstick_pods
+name_en: drumstick pods
+name_fr: gousses de Moringa
+food_group: vegetable
+states:
+  raw:
+    portion_g: 118.0
+    density_g_ml: 0.499
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

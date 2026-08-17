@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Turkey, light meat, raw
+match_method: auto_ai
+meta:
+  description: 20 samples
+  food_group: MCO
+source: mccance
+source_id: 18-349

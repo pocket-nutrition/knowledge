@@ -1,0 +1,12 @@
+id: meloukhia
+name_en: Meloukhia
+name_fr: Meloukhia
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.4
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

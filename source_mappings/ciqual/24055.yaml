@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Biscuit sec fourré fruits à coque (non ou légèrement chocolaté)
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24055'

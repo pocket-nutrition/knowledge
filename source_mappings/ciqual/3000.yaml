@@ -1,0 +1,8 @@
+canonical_ingredient_id: infant_milk
+confidence: 0.9
+label: Lait 1er âge, poudre soluble (préparation pour nourrissons)
+match_method: auto_ai
+meta:
+  group: aliments infantiles
+source: ciqual
+source_id: '3000'

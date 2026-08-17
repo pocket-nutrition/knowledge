@@ -1,0 +1,21 @@
+id: dashida
+name_en: dashida
+name_fr: dashida
+serving_mode: measure
+food_group: other
+states:
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.7
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- dasida
+aliases_fr:
+- bouillon coréen en poudre
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

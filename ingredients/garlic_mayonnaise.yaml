@@ -1,0 +1,18 @@
+id: garlic_mayonnaise
+name_en: garlic mayonnaise
+name_fr: mayonnaise à l'ail
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.91
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- aïoli
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

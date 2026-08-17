@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-537
+canonical_ingredient_id: pork_loin_chops
+label: Pork, loin chops, raw, lean and fat, weighed with bone
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 18-536
+  food_group: MAG

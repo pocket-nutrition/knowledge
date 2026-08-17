@@ -1,0 +1,11 @@
+id: pork_and_bean
+name_en: pork and bean
+name_fr: haricots à la sauce tomate
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

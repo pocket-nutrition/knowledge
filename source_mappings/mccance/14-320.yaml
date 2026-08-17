@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-320
+canonical_ingredient_id: null
+label: Apples, cooking, stewed without sugar, flesh only
+cooking_method: grilled
+match_method: manual
+confidence: 1.0
+meta:
+  group: FA

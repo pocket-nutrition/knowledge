@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '15041'
+canonical_ingredient_id: almond
+label: Amande, émondée, sans sel ajouté
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

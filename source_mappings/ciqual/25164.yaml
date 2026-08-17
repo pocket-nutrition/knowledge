@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Osso buco de veau à la milanaise (jarret de porc , légumes, vin blanc)
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '25164'

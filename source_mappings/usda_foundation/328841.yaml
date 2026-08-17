@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '328841'
+canonical_ingredient_id: cottage_cheese
+label: Cheese, cottage, lowfat, 2% milkfat
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Dairy and Egg Products

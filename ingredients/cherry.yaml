@@ -1,0 +1,12 @@
+id: cherry
+name_en: cherry
+name_fr: cerise
+name_en_plural: cherries
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.055
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '3002'
+canonical_ingredient_id: infant_formula
+label: Lait 2e âge, poudre soluble (préparation de suite)
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: aliments infantiles

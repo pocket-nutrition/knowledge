@@ -1,0 +1,8 @@
+canonical_ingredient_id: wheat_bread
+confidence: 0.9
+label: Bread, wheat, toasted
+match_method: auto_precise
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '172687'

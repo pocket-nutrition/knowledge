@@ -1,0 +1,13 @@
+id: plum
+name_en: plum
+name_fr: prune
+name_en_plural: Plums
+name_fr_plural: Prunes
+food_group: fruit
+states:
+  raw:
+    portion_g: 280.0
+    density_g_ml: 1.045
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '22008'
+canonical_ingredient_id: egg_white
+label: Oeuf, blanc (blanc d'oeuf), cuit
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

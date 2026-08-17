@@ -1,0 +1,19 @@
+id: russian_dressing
+name_en: Russian dressing
+name_fr: Sauce russe
+serving_mode: measure
+food_group: sauce
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- vinaigrette russe
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

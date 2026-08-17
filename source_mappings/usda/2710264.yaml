@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710264'
+canonical_ingredient_id: stevia
+label: Sugar substitute, stevia, powder
+match_method: manual
+confidence: 1.0

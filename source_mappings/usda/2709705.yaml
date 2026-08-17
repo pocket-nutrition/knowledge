@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709705'
+canonical_ingredient_id: sweet_potato
+label: Sweet potato, canned, NS as to fat
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Other red and orange vegetables

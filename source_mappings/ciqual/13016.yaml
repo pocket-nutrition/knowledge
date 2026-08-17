@@ -1,0 +1,9 @@
+canonical_ingredient_id: passion_fruit
+confidence: 0.9
+label: Fruit de la passion ou maracudja, chair sans peau, avec pépins, cru
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits
+source: ciqual
+source_id: '13016'

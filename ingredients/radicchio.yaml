@@ -1,0 +1,18 @@
+id: radicchio
+name_en: radicchio
+name_fr: trévise
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 24.0
+    density_g_ml: 0.169
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- Italian chicory
+aliases_fr:
+- chicorée rouge
+- radicchio
+display_unit: g

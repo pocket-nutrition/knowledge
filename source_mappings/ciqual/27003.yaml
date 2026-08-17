@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '27003'
+canonical_ingredient_id: carp
+label: Carpe,  élevage, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

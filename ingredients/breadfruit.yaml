@@ -1,0 +1,13 @@
+id: breadfruit
+name_en: breadfruit
+name_fr: fruit à pain
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 220.0
+    density_g_ml: 1.113
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

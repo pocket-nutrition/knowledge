@@ -1,0 +1,8 @@
+canonical_ingredient_id: blueberry
+confidence: 0.9
+label: Blueberries, raw
+match_method: auto_ai
+meta:
+  wweia_category: Blueberries and other berries
+source: usda
+source_id: '2709275'

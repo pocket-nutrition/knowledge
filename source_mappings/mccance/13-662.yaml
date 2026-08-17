@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beans, chick peas, Kabuli, whole, dried, boiled in unsalted water
+match_method: auto_name
+meta:
+  description: 10 samples, 10 products, soaked and boiled for 45-100 minutes
+  food_group: DB
+source: mccance
+source_id: 13-662

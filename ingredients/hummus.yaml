@@ -1,0 +1,15 @@
+id: hummus
+name_en: hummus
+name_fr: houmous
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+display_unit: g

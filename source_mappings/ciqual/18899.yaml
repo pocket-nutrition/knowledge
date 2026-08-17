@@ -1,0 +1,9 @@
+canonical_ingredient_id: oat_beverage
+confidence: 0.9
+label: Boisson à l'avoine, nature, sans sucres ajoutés, non enrichie, préemballée
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+  subgroup: boissons sans alcool
+source: ciqual
+source_id: '18899'

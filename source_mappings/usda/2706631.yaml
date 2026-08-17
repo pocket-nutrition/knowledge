@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706631'
+canonical_ingredient_id: _composite
+label: Beef, dumplings, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  wweia_category: Meat mixed dishes

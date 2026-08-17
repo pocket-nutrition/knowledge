@@ -1,0 +1,8 @@
+canonical_ingredient_id: peanut_butter
+confidence: 0.8
+label: Peanut butter, creamy
+match_method: auto_before_comma
+meta:
+  category: Legumes and Legume Products
+source: usda_foundation
+source_id: '2262072'

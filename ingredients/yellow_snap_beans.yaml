@@ -1,0 +1,10 @@
+id: yellow_snap_beans
+name_en: Yellow snap beans
+name_fr: haricot beurre
+food_group: vegetable
+states:
+  raw:
+    portion_g: 439.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

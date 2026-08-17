@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '32014'
+canonical_ingredient_id: corn_flake
+label: Pétales de maïs nature, non enrichis en vitamines et minéraux
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits sucrés
+  subgroup: céréales de petit-déjeuner

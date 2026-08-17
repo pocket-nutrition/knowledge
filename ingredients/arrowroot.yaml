@@ -1,0 +1,13 @@
+id: arrowroot
+name_en: arrowroot
+name_fr: arrow-root
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 76.0
+    density_g_ml: 0.541
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

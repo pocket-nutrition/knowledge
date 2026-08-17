@@ -1,0 +1,10 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: legume
+id: lentil_soup
+name_en: lentil soup
+name_fr: lentil soup
+states:
+  raw:
+    portion_g: 283
+typical_state: raw

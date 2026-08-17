@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Tortilla chips fried in sunflower oil
+match_method: auto_token
+meta:
+  group: SN
+source: mccance
+source_id: 17-644

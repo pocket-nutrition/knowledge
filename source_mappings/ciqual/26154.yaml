@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '26154'
+canonical_ingredient_id: halibut
+label: Flétan du Groënland ou flétan noir ou flétan commun, cru
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

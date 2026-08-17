@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708406'
+canonical_ingredient_id: _composite
+label: Rice, white, cooked, made with margarine
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Rice

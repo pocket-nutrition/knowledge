@@ -1,0 +1,15 @@
+id: squid_ink
+name_en: squid ink
+name_fr: encre de seiche
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: g

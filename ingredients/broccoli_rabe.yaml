@@ -1,0 +1,18 @@
+id: broccoli_rabe
+name_en: broccoli rabe
+name_fr: brocoli-rave
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- rapini
+- broccoli raab
+aliases_fr:
+- rapini
+- brocoli-rave
+display_unit: g

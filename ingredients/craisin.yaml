@@ -1,0 +1,18 @@
+id: craisin
+name_en: craisin
+name_fr: canneberge séchée
+serving_mode: weight
+food_group: fruit
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.55
+  raw:
+    portion_g: 120.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- tablespoon
+display_unit: g

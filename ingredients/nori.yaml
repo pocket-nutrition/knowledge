@@ -1,0 +1,12 @@
+id: nori
+name_en: nori
+name_fr: nori
+food_group: seaweed
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

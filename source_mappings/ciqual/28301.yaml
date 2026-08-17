@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28301'
+canonical_ingredient_id: pork
+label: Porc, rôti cuit
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Fat spread, reduced fat (62-75%), polyunsaturated
+match_method: auto_ai
+meta:
+  group: OA
+source: mccance
+source_id: 17-710

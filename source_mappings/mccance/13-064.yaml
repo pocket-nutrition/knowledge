@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beans, broad, whole, raw
+match_method: auto_ai
+meta:
+  description: Without pods
+  food_group: DB
+source: mccance
+source_id: 13-064

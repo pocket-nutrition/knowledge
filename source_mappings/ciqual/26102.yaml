@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '26102'
+canonical_ingredient_id: mackerel
+label: Maquereau espagnol ou maquereau blanc ou billard, cru
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

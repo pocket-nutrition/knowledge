@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13614'
+canonical_ingredient_id: pomelo
+label: Pamplemousse chinois, chair sans peau, sans pépins, cru
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

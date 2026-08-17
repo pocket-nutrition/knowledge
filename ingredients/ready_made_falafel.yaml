@@ -1,0 +1,14 @@
+id: ready_made_falafel
+name_en: ready-made falafel
+name_fr: falafel prêt à l'emploi
+serving_mode: item
+unit_label_en: falafel
+unit_label_fr: falafel
+food_group: other
+states:
+  raw:
+    portion_g: 20.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-810
+canonical_ingredient_id: celery_seed
+label: Celery seeds
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: H

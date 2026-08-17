@@ -1,0 +1,15 @@
+id: fruit_salt
+name_en: fruit salt
+name_fr: sel de fruits
+serving_mode: measure
+food_group: other
+states:
+  cooked: {}
+  processed:
+    portion_g: 5.0
+    density_g_ml: 0.9
+can_eat_raw: false
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon

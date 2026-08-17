@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705890'
+canonical_ingredient_id: smoked_pork_bacon
+label: Bacon or side pork, fresh, cooked
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Bacon

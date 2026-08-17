@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '14008'
+canonical_ingredient_id: venison
+label: Gibier à poil, cuit (aliment moyen)
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

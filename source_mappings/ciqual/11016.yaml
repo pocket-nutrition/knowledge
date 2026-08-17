@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '11016'
+canonical_ingredient_id: horseradish
+label: Raifort, frais
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

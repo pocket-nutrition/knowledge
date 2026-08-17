@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '172801'
+canonical_ingredient_id: null
+label: Toaster pastries, brown-sugar-cinnamon
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Baked Products

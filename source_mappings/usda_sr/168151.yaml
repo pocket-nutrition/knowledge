@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168151'
+canonical_ingredient_id: jujube
+label: Jujube, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Fruits and Fruit Juices

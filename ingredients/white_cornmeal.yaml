@@ -1,0 +1,18 @@
+id: white_cornmeal
+name_en: white cornmeal
+name_fr: semoule de maïs blanche
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 60.0
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

@@ -1,0 +1,12 @@
+id: ground_venison
+name_en: ground venison
+name_fr: chevreuil haché
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 125.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

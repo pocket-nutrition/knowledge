@@ -1,0 +1,8 @@
+canonical_ingredient_id: burrata_cheese
+confidence: 0.9
+label: Burrata
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12072'

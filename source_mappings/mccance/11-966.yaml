@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Sandwich, white bread, egg mayonnaise
+match_method: auto_token
+meta:
+  group: AB
+source: mccance
+source_id: 11-966

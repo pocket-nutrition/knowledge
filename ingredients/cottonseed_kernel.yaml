@@ -1,0 +1,16 @@
+id: cottonseed_kernel
+name_en: cottonseed kernels
+name_fr: graines de coton
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: roasted
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

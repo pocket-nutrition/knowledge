@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706876'
+canonical_ingredient_id: _composite
+label: Liver, beef or calves, and onions
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Meat mixed dishes

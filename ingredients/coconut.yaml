@@ -1,0 +1,15 @@
+id: coconut
+name_en: coconut
+name_fr: noix de coco
+serving_mode: item
+unit_label_en: coconut
+unit_label_fr: noix de coco
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 400.0
+    density_g_ml: 1.037
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

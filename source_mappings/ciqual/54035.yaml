@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '54035'
+canonical_ingredient_id: cassava_flour
+label: Gari, semoule de manioc fermentée et séchée
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

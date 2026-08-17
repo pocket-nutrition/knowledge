@@ -1,0 +1,12 @@
+id: blue_corn
+name_en: blue corn
+name_fr: maïs bleu
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

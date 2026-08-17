@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Nuts, mixed
+match_method: auto_name
+meta:
+  group: GA
+source: mccance
+source_id: 14-880

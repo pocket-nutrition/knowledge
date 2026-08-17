@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Porridge oats, unfortified, cooked, made up with semi-skimmed milk
+match_method: auto_name
+meta:
+  group: A
+source: mccance
+source_id: 11-789

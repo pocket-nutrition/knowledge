@@ -1,0 +1,16 @@
+id: lemon_thyme
+name_en: lemon thyme
+name_fr: thym citron
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

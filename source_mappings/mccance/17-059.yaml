@@ -1,0 +1,8 @@
+canonical_ingredient_id: molasses
+confidence: 0.95
+label: Molasses
+match_method: auto_exact
+meta:
+  group: SC
+source: mccance
+source_id: 17-059

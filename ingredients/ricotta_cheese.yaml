@@ -1,0 +1,11 @@
+id: ricotta_cheese
+name_en: ricotta cheese
+name_fr: ricotta
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.061
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

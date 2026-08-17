@@ -1,0 +1,15 @@
+id: pond_lily_tuber
+name_en: pond lily tuber
+name_fr: tubercule de nénuphar
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- wocas tuber
+display_unit: g

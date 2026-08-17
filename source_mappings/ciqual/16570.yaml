@@ -1,0 +1,8 @@
+canonical_ingredient_id: turkey_fat
+confidence: 0.9
+label: Graisse de dinde
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16570'

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707113'
+canonical_ingredient_id: _composite
+label: Chicken with noodles and cheese sauce, diet frozen meal
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Poultry mixed dishes

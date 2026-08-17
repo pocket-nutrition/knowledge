@@ -1,0 +1,21 @@
+id: rice_paper
+name_en: rice paper
+name_fr: papier de riz
+serving_mode: item
+unit_label_en: sheet
+unit_label_fr: feuille
+food_group: cereal
+states:
+  processed:
+    portion_g: 10.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- spring roll wrapper
+- rice paper wrapper
+aliases_fr:
+- galette de riz
+- papier de riz vietnamien
+display_unit: g

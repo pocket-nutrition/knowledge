@@ -1,0 +1,6 @@
+canonical_ingredient_id: guava_paste
+confidence: 0.9
+label: Guava paste
+match_method: name_en_exact
+source: usda
+source_id: '2710307'

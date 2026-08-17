@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709288'
+canonical_ingredient_id: _composite
+label: Fruit salad, fresh or raw, including citrus fruits, no dressing
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Other fruits and fruit salads

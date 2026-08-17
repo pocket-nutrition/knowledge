@@ -1,0 +1,8 @@
+canonical_ingredient_id: oat_oil
+confidence: 0.9
+label: Oil, oat
+match_method: auto_ai
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173576'

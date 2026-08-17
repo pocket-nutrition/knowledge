@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Longans, canned in syrup, whole contents
+match_method: auto_token
+meta:
+  group: FA
+source: mccance
+source_id: 14-139

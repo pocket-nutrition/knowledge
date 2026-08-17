@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Grilled cheese sandwich, reduced fat cheese, on white bread
+match_method: auto_name
+meta:
+  category: Cheese sandwiches
+source: usda
+source_id: '2705806'

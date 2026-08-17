@@ -1,0 +1,13 @@
+id: cardoon
+name_en: cardoon
+name_fr: cardon
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 178.0
+    density_g_ml: 1.02
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

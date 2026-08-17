@@ -1,0 +1,9 @@
+canonical_ingredient_id: longan
+confidence: 0.9
+label: Longan, chair sans peau, sans noyau, cru
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits
+source: ciqual
+source_id: '13552'

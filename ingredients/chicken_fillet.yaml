@@ -1,0 +1,12 @@
+id: chicken_fillet
+name_en: chicken fillet
+name_fr: filet de poulet
+food_group: meat
+states:
+  raw:
+    portion_g: 132.0
+    density_g_ml: 1.062
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

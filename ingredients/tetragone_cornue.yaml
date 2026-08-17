@@ -1,0 +1,19 @@
+id: tetragone_cornue
+name_en: New Zealand spinach
+name_fr: tétragone cornue
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+    density_g_ml: 1.017
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- horned tetragonia
+- warrigal greens
+aliases_fr:
+- épinard de Nouvelle-Zélande
+display_unit: g

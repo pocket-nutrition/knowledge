@@ -1,0 +1,21 @@
+id: tapioca_pearl
+name_en: Tapioca pearl
+name_fr: Perle de tapioca
+serving_mode: weight
+food_group: cereal
+states:
+  cooked: {}
+  raw:
+    portion_g: 50.0
+    density_g_ml: 0.7
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- boba
+aliases_fr:
+- perles du Japon
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

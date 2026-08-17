@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20518'
+canonical_ingredient_id: broad_bean
+label: Fève, sèche
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

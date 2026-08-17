@@ -1,0 +1,6 @@
+canonical_ingredient_id: bagel
+confidence: 0.9
+label: Bagel
+match_method: name_en_exact
+source: usda
+source_id: '2707684'

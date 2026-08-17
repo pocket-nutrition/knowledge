@@ -1,0 +1,15 @@
+id: sweet_bean_paste
+name_en: sweet bean paste
+name_fr: pâte de haricot sucrée (anko)
+serving_mode: measure
+food_group: other
+states:
+  cooked:
+    portion_g: 30.0
+    density_g_ml: 1.2
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

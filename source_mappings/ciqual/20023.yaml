@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20023'
+canonical_ingredient_id: celery
+label: Céleri branche, cru
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

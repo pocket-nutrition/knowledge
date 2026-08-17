@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708360'
+canonical_ingredient_id: cereals
+label: Cereal, cooked, NFS
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Grits and other cooked cereals

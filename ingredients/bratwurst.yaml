@@ -1,0 +1,20 @@
+id: bratwurst
+name_en: bratwurst
+name_fr: bratwurst
+name_en_plural: bratwursts
+name_fr_plural: bratwursts
+serving_mode: item
+unit_label_en: sausage
+unit_label_fr: saucisse
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 70.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- brat
+aliases_fr:
+- saucisse bratwurst
+display_unit: g

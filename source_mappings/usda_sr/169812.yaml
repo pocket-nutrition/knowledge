@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Fish, halibut, cooked, with skin (Alaska Native)
+match_method: auto_before_comma
+meta:
+  category: American Indian/Alaska Native Foods
+source: usda_sr
+source_id: '169812'

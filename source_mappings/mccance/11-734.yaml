@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Pasta and sauce mixes, dried, raw
+match_method: name_en_partial
+meta:
+  description: 10 samples, 10 products, pasta with sauce including cheese, meat and
+    vegetables
+  food_group: AD
+source: mccance
+source_id: 11-734

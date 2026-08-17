@@ -1,0 +1,15 @@
+id: sun_dried_tomato_bisque_mix
+name_en: sun-dried tomato bisque mix
+name_fr: préparation pour bisque de tomates séchées
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 25.0
+    density_g_ml: 0.4
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

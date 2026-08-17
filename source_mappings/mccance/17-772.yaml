@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Bread sauce, made with whole milk, homemade
+match_method: auto_token
+meta:
+  group: WCD
+source: mccance
+source_id: 17-772

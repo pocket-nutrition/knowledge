@@ -1,0 +1,13 @@
+id: alcohol
+name_en: alcohol
+name_fr: alcool
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.789
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

@@ -1,0 +1,11 @@
+id: chocolate_cream_filled_chocolate_sandwich_cookie
+name_en: chocolate cream-filled chocolate sandwich cookie
+name_fr: biscuit fourré au chocolat
+food_group: baked_good
+states:
+  raw:
+    portion_g: 78.0
+    density_g_ml: 0.119
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed

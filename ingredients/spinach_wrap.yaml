@@ -1,0 +1,14 @@
+id: spinach_wrap
+name_en: spinach wrap
+name_fr: wrap aux épinards
+serving_mode: item
+unit_label_en: wrap
+unit_label_fr: wrap
+food_group: baked_good
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

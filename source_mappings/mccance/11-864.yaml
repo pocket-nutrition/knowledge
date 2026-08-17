@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+cooking_method: boiled
+label: Rice, white, long grain, easy cook, boiled in unsalted water
+match_method: auto_before_comma
+meta:
+  group: AC
+source: mccance
+source_id: 11-864

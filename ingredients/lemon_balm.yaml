@@ -1,0 +1,13 @@
+id: lemon_balm
+name_en: lemon balm
+name_fr: mélisse
+serving_mode: weight
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

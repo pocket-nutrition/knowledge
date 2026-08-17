@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169894'
+canonical_ingredient_id: butter_replacement_powder
+label: Butter replacement, without fat, powder
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Fats and Oils

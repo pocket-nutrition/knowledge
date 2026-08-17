@@ -1,0 +1,16 @@
+id: sev
+name_en: sev
+name_fr: sev
+serving_mode: weight
+food_group: other
+states:
+  cooked:
+    portion_g: 20.0
+    density_g_ml: 0.3
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- small_handful
+display_unit: g

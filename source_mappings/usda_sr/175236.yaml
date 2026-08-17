@@ -1,0 +1,8 @@
+canonical_ingredient_id: extra_firm_tofu
+confidence: 0.65
+label: Vitasoy USA Azumaya, Firm Tofu
+match_method: auto_token
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '175236'

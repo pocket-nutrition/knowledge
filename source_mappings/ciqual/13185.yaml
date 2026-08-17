@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Compote ou assimilé, tout type de fruits, sans précision sur la teneur en sucres
+  (allégée en sucres ou non, sans sucres ajoutés…) ni sur le rayon (aliment moyen)
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13185'

@@ -1,0 +1,13 @@
+id: pulled_oat
+name_en: pulled oat
+name_fr: avoine étirée
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

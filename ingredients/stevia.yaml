@@ -1,0 +1,18 @@
+id: stevia
+name_en: stevia
+name_fr: Édulcorant à base d'extrait de stévia
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- stévia
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

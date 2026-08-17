@@ -1,0 +1,16 @@
+id: cranberry_raspberry_juice
+name_en: cranberry-raspberry juice
+name_fr: jus de canneberge et framboise
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 248.0
+    density_g_ml: 1.023
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

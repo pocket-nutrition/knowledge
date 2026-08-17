@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Milkshake, thick, takeaway
+match_method: auto_name
+meta:
+  group: BAR
+source: mccance
+source_id: 12-327

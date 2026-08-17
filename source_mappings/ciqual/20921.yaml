@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Dessert au soja, aromatisé, sucré, non enrichi, rayon frais
+match_method: auto_name
+meta:
+  group: produits laitiers
+  subgroup: produits laitiers frais et alternatives végétales
+source: ciqual
+source_id: '20921'

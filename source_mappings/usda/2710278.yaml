@@ -1,0 +1,8 @@
+canonical_ingredient_id: simple_syrup
+confidence: 0.9
+label: Simple syrup
+match_method: auto_ai
+meta:
+  wweia_category: Jams, syrups, toppings
+source: usda
+source_id: '2710278'

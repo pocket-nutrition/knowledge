@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710049'
+canonical_ingredient_id: _composite
+label: Eggplant dip
+match_method: name_en_exact
+confidence: 0.9

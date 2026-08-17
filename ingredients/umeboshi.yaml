@@ -1,0 +1,16 @@
+id: umeboshi
+name_en: umeboshi
+name_fr: umeboshi
+serving_mode: item
+unit_label_en: umeboshi
+unit_label_fr: umeboshi
+food_group: other
+states:
+  processed:
+    portion_g: 10.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beverages, THE COCA-COLA COMPANY, NOS Zero, energy drink, sugar-free with guarana,
+  fortified with vitamins B6 and B12
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '174809'

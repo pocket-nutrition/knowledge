@@ -1,0 +1,12 @@
+id: shrimp_stock
+name_en: shrimp stock
+name_fr: fumet de crevette
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 240.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: ml

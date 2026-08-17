@@ -1,0 +1,16 @@
+id: coconut_sugar
+name_en: coconut sugar
+name_fr: sucre de coco
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 17.0
+    density_g_ml: 0.9
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

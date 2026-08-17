@@ -1,0 +1,12 @@
+id: fideo_pasta
+name_en: fideo pasta
+name_fr: pâtes fideo
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 75.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Beans, pinto, dried, boiled in unsalted water
+match_method: auto_ai
+meta:
+  description: Whole beans. Literature sources
+  food_group: DB
+source: mccance
+source_id: 13-107

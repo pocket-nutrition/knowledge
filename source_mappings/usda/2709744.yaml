@@ -1,0 +1,8 @@
+canonical_ingredient_id: hot_sauce
+confidence: 0.65
+label: Hot Thai sauce
+match_method: auto_token
+meta:
+  wweia_category: Mustard and other condiments
+source: usda
+source_id: '2709744'

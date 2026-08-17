@@ -1,0 +1,10 @@
+id: raw_buckwheat
+name_en: raw buckwheat
+name_fr: sarrasin brut
+food_group: cereal
+states:
+  raw:
+    portion_g: 70.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

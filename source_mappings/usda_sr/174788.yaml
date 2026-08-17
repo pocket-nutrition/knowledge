@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174788'
+canonical_ingredient_id: _composite
+label: Snacks, FRITOLAY, SUNCHIPS, multigrain, French onion flavor
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Snacks

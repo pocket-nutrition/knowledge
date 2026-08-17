@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707877'
+canonical_ingredient_id: _composite
+label: Ice cream cake
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Cakes and pies

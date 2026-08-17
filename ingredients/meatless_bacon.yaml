@@ -1,0 +1,13 @@
+id: meatless_bacon
+name_en: meatless bacon
+name_fr: bacon végétal
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 16.0
+    density_g_ml: 0.95
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

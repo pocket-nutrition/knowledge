@@ -1,0 +1,8 @@
+canonical_ingredient_id: honey
+confidence: 0.95
+label: Honey
+match_method: auto_exact
+meta:
+  group: SC
+source: mccance
+source_id: 17-050

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '27005'
+canonical_ingredient_id: perch
+label: Perche ou perche européenne, rôtie/cuite au four
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,15 @@
+id: oven_chip
+name_en: oven chip
+name_fr: frites au four
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+aliases_en:
+- oven fries
+- oven baked fries
+display_unit: g

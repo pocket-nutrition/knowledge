@@ -1,0 +1,16 @@
+id: sea_spider
+name_en: spider crab
+name_fr: araignée de mer
+serving_mode: weight
+food_group: shellfish
+states:
+  cooked:
+    portion_g: 100.0
+    density_g_ml: 1.05
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- sea spider
+display_unit: g

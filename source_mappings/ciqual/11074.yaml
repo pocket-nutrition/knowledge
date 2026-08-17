@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '11074'
+canonical_ingredient_id: ginger
+label: Gingembre, racine fraîche
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers
+  subgroup: épices

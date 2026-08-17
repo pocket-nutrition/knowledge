@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Bacon rashers, middle, grilled
+match_method: auto_ai
+meta:
+  group: MAA
+source: mccance
+source_id: 19-503

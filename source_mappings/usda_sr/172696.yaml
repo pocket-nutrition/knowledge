@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '172696'
+canonical_ingredient_id: _composite
+label: Cake, boston cream pie, commercially prepared
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Baked Products

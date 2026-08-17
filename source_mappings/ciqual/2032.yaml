@@ -1,0 +1,8 @@
+canonical_ingredient_id: tomato_juice
+confidence: 0.8
+label: Jus de tomate, pur jus, salé à 6 g/L
+match_method: auto_before_comma
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '2032'

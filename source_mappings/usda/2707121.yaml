@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707121'
+canonical_ingredient_id: _composite
+label: Meat loaf dinner, NFS, frozen meal
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Meat mixed dishes

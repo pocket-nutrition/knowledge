@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '746952'
+canonical_ingredient_id: ham
+label: Ham, sliced, restaurant
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Pork Products

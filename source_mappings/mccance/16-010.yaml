@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-010
+canonical_ingredient_id: salted_fish
+label: Salted fish, Chinese, bones removed, steamed
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: JA

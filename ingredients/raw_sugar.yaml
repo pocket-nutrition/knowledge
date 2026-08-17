@@ -1,0 +1,23 @@
+id: raw_sugar
+name_en: raw sugar
+name_fr: sucre brut
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.85
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- turbinado sugar
+- demerara sugar
+aliases_fr:
+- sucre roux
+- sucre de canne complet
+serving_unit_types:
+- teaspoon
+- tablespoon
+- cup
+display_unit: g

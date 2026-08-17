@@ -1,0 +1,18 @@
+id: sheep_milk
+name_en: sheep milk
+name_fr: lait de brebis
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.028
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- ewe's milk
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

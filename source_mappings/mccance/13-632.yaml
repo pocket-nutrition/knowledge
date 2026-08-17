@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Parsnip, roasted in rapeseed oil
+match_method: auto_before_comma
+meta:
+  group: DG
+source: mccance
+source_id: 13-632

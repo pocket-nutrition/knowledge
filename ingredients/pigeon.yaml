@@ -1,0 +1,15 @@
+id: pigeon
+name_en: pigeon
+name_fr: pigeon
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.057
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- squab
+display_unit: g

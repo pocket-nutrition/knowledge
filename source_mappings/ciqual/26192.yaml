@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26192'
+canonical_ingredient_id: pollack
+label: Lieu jaune ou colin, cuit
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

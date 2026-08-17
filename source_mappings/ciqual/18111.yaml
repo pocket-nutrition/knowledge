@@ -1,0 +1,8 @@
+canonical_ingredient_id: almond_milk
+confidence: 0.9
+label: Boisson à l'amande, préemballée (aliment moyen)
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18111'

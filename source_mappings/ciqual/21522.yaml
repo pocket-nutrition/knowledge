@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '21522'
+canonical_ingredient_id: lamb
+label: Agneau, côte ou côtelette, cuite (aliment moyen)
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

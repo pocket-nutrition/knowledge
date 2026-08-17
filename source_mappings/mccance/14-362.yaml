@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-362
+canonical_ingredient_id: null
+label: Apples, cooking, raw, flesh only, peeled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Bramley apples and unspecified. Analytical data, 1985-86; and 2011-12
+  food_group: F

@@ -1,0 +1,19 @@
+id: carambola
+name_en: starfruit
+name_fr: carambole
+serving_mode: item
+unit_label_en: fruit
+unit_label_fr: fruit
+food_group: fruit
+states:
+  raw:
+    portion_g: 90.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- carambola
+- star fruit
+aliases_fr:
+- fruit étoile
+display_unit: g

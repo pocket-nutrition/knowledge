@@ -1,0 +1,8 @@
+source: mccance
+source_id: 15-728
+canonical_ingredient_id: _composite
+label: Crumble, vegetable, with white sauce, wholemeal, homemade
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: DR

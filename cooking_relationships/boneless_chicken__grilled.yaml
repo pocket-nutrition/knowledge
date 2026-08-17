@@ -1,0 +1,13 @@
+confidence: 0.65
+cooking_method: grilled
+nutrient_retention:
+  iron_mg: 0.93
+  niacin_mg: 0.8
+  phosphorus_mg: 0.85
+  potassium_mg: 0.8
+  vitamin_b12_ug: 0.84
+  vitamin_b6_mg: 0.73
+  zinc_mg: 0.93
+raw_id: boneless_chicken
+source: usda_sr_pair
+yield_factor: 0.7947

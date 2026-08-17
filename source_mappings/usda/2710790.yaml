@@ -1,0 +1,9 @@
+canonical_ingredient_id: potato
+confidence: 0.8
+cooking_method: cooked
+label: Potato, cooked, as ingredient
+match_method: auto_before_comma
+meta:
+  category: Not included in a food category
+source: usda
+source_id: '2710790'

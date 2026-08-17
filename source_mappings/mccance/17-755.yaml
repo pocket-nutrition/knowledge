@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-755
+canonical_ingredient_id: white_wine
+label: Wine, white, dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: QE

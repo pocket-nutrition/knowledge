@@ -1,0 +1,13 @@
+can_eat_cooked: true
+can_eat_raw: false
+food_group: meat
+id: chicken_wing
+name_en: chicken wing
+name_en_plural: chicken wings
+name_fr: aile de poulet
+states:
+  cooked:
+    portion_g: 150
+  raw:
+    portion_g: 150
+typical_state: fried

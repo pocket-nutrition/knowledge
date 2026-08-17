@@ -1,0 +1,20 @@
+id: serrano_ham
+name_en: serrano ham
+name_fr: jambon Serrano
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 1.089
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- jamón serrano
+aliases_fr:
+- jambon sec serrano
+display_unit: g

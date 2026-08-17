@@ -1,0 +1,8 @@
+canonical_ingredient_id: candied_cherry
+confidence: 0.9
+label: Cherries, maraschino
+match_method: auto_ai
+meta:
+  wweia_category: Other fruits and fruit salads
+source: usda
+source_id: '2709229'

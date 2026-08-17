@@ -1,0 +1,16 @@
+id: corn_syrup
+name_en: corn syrup
+name_fr: sirop de maïs
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.38
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

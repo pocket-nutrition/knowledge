@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708914'
+canonical_ingredient_id: _composite
+label: Pasta, whole grain, with cream sauce, meat, and added vegetables, ready-to-heat
+match_method: name_en_before_comma
+confidence: 0.75
+meta:
+  wweia_category: Pasta mixed dishes, excludes macaroni and cheese

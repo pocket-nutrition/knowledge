@@ -1,0 +1,14 @@
+id: amla
+name_en: amla
+name_fr: groseille à maquereau indienne
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- indian gooseberry
+display_unit: g

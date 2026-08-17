@@ -1,0 +1,14 @@
+id: pastrami
+name_en: pastrami
+name_fr: pastrami
+serving_mode: weight
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 57.0
+  raw:
+    portion_g: 227.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

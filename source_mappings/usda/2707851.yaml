@@ -1,0 +1,6 @@
+canonical_ingredient_id: bread
+confidence: 0.75
+label: Bread, zucchini
+match_method: name_en_before_comma
+source: usda
+source_id: '2707851'

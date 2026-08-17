@@ -1,0 +1,8 @@
+canonical_ingredient_id: saint_marcellin
+confidence: 0.9
+label: Saint-Marcellin
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12049'

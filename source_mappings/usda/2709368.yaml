@@ -1,0 +1,8 @@
+canonical_ingredient_id: peach
+confidence: 0.9
+label: Baby Toddler peaches, Stage 2
+match_method: auto_ai
+meta:
+  wweia_category: 'Baby food: fruit'
+source: usda
+source_id: '2709368'

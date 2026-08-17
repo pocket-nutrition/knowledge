@@ -1,0 +1,10 @@
+confidence: 0.75
+cooking_method: cooked
+nutrient_retention:
+  calcium_mg: 0.92
+  vitamin_b12_ug: 0.82
+  vitamin_b6_mg: 0.72
+  vitamin_c_mg: 0.6
+raw_id: curd
+source: ciqual_pair
+yield_factor: 0.6796

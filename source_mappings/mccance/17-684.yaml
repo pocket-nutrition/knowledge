@@ -1,0 +1,8 @@
+canonical_ingredient_id: vegetable_soup
+confidence: 0.9
+label: Soup, vegetable, homemade
+match_method: auto_precise
+meta:
+  group: WAA
+source: mccance
+source_id: 17-684

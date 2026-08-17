@@ -1,0 +1,13 @@
+id: chestnut_kernel
+name_en: chestnut kernel
+name_fr: châtaigne décortiquée
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,14 @@
+id: turkey_meatball
+name_en: turkey meatball
+name_fr: boulette de viande de dinde
+serving_mode: item
+unit_label_en: meatball
+unit_label_fr: boulette
+food_group: meat
+states:
+  cooked:
+    portion_g: 20.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,21 @@
+id: soy_isolate
+name_en: soy isolate
+name_fr: isolat de soja
+serving_mode: measure
+food_group: legume
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.35
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- soy protein isolate
+aliases_fr:
+- protéine de soja isolée
+serving_unit_types:
+- scoop
+- tablespoon
+display_unit: g

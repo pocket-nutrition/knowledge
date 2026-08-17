@@ -1,0 +1,12 @@
+id: pork_skin
+name_en: pork skin
+name_fr: peau de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 28.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

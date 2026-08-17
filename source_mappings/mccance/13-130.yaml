@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-130
+canonical_ingredient_id: dry_peas
+label: Peas, dried, raw
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Whole peas
+  food_group: DF

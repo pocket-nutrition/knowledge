@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709712'
+canonical_ingredient_id: sweet_potato_fry
+label: Sweet potato fries, from fresh
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Fried vegetables

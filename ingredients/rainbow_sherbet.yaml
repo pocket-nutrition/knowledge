@@ -1,0 +1,14 @@
+id: rainbow_sherbet
+name_en: rainbow sherbet
+name_fr: sorbet arc-en-ciel
+food_group: dairy
+states:
+  processed:
+    portion_g: 125.0
+    density_g_ml: 0.6
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- scoop

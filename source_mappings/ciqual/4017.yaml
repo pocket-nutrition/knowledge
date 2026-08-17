@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '4017'
+canonical_ingredient_id: mashed_potato
+label: Purée de pomme de terre, à base de flocons, reconstituée avec lait entier et matière grasse
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

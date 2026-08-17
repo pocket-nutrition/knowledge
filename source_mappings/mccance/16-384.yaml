@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Prawns, standard, purchased cooked
+match_method: auto_ai
+meta:
+  group: JK
+source: mccance
+source_id: 16-384

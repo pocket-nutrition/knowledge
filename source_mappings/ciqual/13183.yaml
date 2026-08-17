@@ -1,0 +1,8 @@
+canonical_ingredient_id: goji_berry
+confidence: 0.8
+label: Baie de goji, séchée
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13183'

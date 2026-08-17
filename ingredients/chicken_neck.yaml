@@ -1,0 +1,13 @@
+id: chicken_neck
+name_en: chicken neck
+name_fr: cou de poulet
+serving_mode: weight
+food_group: meat
+states:
+  cooked: {}
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

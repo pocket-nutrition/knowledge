@@ -1,0 +1,9 @@
+canonical_ingredient_id: lamb_kidney
+confidence: 0.9
+label: Kidney, lamb, raw
+match_method: auto_precise
+meta:
+  description: 10 samples
+  food_group: MG
+source: mccance
+source_id: 18-402

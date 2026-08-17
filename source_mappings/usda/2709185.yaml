@@ -1,0 +1,8 @@
+canonical_ingredient_id: lime_juice
+confidence: 0.8
+label: Lime juice, 100%, canned or bottled
+match_method: auto_before_comma
+meta:
+  category: Mustard and other condiments
+source: usda
+source_id: '2709185'

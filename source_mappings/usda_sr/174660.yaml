@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Cereals, QUAKER, Instant Oatmeal Organic, Regular
+match_method: auto_before_comma
+meta:
+  category: Breakfast Cereals
+source: usda_sr
+source_id: '174660'

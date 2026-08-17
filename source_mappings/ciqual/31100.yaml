@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Barre céréalière pour petit déjeuner au lait, au chocolat ou non, enrichie
+  en vitamines et minéraux
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31100'

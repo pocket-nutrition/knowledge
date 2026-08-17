@@ -1,0 +1,7 @@
+source: usda
+source_id: '2705398'
+canonical_ingredient_id: evaporated_milk
+label: Milk, evaporated, NS as to fat content
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9

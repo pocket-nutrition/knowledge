@@ -1,0 +1,16 @@
+id: duck_sauce
+name_en: duck sauce
+name_fr: sauce canard
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 33.0
+    density_g_ml: 1.116
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

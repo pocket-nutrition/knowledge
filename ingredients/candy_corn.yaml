@@ -1,0 +1,16 @@
+id: candy_corn
+name_en: candy corn
+name_fr: candy corn
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 0.9
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

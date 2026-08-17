@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Lamb, rack of, raw, lean and fat, weighed with bone
+match_method: auto_before_comma
+meta:
+  description: Calculated from 18-166
+  food_group: MAE
+source: mccance
+source_id: 18-167

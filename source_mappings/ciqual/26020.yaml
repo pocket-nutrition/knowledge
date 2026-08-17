@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26020'
+canonical_ingredient_id: mackerel
+label: Maquereau, frit
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

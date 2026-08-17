@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Pork sausage, link/patty, reduced fat, cooked, pan-fried
+match_method: auto_token
+meta:
+  category: Sausages and Luncheon Meats
+source: usda_sr
+source_id: '171636'

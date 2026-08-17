@@ -1,0 +1,8 @@
+canonical_ingredient_id: cheese
+confidence: 0.8
+label: Cheese, feta, whole milk, crumbled
+match_method: auto_before_comma
+meta:
+  category: Dairy and Egg Products
+source: usda_foundation
+source_id: '2259796'

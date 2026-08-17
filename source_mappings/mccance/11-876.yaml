@@ -1,0 +1,6 @@
+canonical_ingredient_id: red_rice
+confidence: 0.9
+label: Rice, red, raw
+match_method: auto_precise
+source: mccance
+source_id: 11-876

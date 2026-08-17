@@ -1,0 +1,8 @@
+canonical_ingredient_id: nacho_cheese_soup
+confidence: 0.65
+label: Tortilla chips, nacho cheese flavor (Doritos)
+match_method: auto_token
+meta:
+  wweia_category: Tortilla, corn, other chips
+source: usda
+source_id: '2708206'

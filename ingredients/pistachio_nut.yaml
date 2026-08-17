@@ -1,0 +1,12 @@
+id: pistachio_nut
+name_en: pistachio nut
+name_fr: pistache
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

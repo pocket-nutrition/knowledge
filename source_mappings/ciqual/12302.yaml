@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Spécialité fromagère fondue aromatisée en cubes pour l’apéritif (cubes de fromage
+  fondu au lait de vache)
+match_method: auto_name
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12302'

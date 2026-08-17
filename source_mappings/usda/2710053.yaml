@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710053'
+canonical_ingredient_id: button_mushroom
+label: Fried mushrooms
+cooking_method: fried
+match_method: manual
+confidence: 1.0
+meta:
+  category: Fried vegetables

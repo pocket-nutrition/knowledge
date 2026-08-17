@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Aubergine, stuffed with lentils and vegetables
+match_method: auto_before_comma
+meta:
+  group: DR
+source: mccance
+source_id: 15-001

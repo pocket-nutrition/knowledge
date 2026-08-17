@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '38417'
+canonical_ingredient_id: corn_chip
+label: Chips de maïs ou tortilla chips, nature
+cooking_method: fried
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers
+  subgroup: biscuits apéritifs

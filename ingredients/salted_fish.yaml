@@ -1,0 +1,13 @@
+id: salted_fish
+name_en: salted fish
+name_fr: poisson salé
+serving_mode: weight
+food_group: fish
+states:
+  processed:
+    portion_g: 130.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

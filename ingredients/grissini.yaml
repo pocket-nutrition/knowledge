@@ -1,0 +1,17 @@
+id: grissini
+name_en: grissini
+name_fr: gressin
+name_fr_plural: gressins
+serving_mode: weight
+food_group: baked_good
+states:
+  processed:
+    portion_g: 60.0
+    density_g_ml: 0.4
+  raw:
+    portion_g: 60.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

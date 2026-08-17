@@ -1,0 +1,13 @@
+id: canned_pie_filling
+name_en: canned pie filling
+name_fr: garniture pour tarte en conserve
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 151.0
+    density_g_ml: 1.107
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

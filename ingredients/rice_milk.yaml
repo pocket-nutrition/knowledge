@@ -1,0 +1,17 @@
+id: rice_milk
+name_en: rice milk
+name_fr: lait de riz
+serving_mode: volume
+food_group: beverage
+states:
+  processed:
+    portion_g: 240.0
+    density_g_ml: 1.014
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

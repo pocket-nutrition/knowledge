@@ -1,0 +1,20 @@
+id: flaxseed_oil
+name_en: flaxseed oil
+name_fr: huile de lin
+serving_mode: measure
+food_group: fat
+states:
+  raw:
+    portion_g: 14.0
+    density_g_ml: 0.925
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+aliases_en:
+- linseed oil
+aliases_fr:
+- huile de graines de lin
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

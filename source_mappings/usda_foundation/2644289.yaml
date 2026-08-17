@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2644289'
+canonical_ingredient_id: canned_kidney_bean
+label: Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Legumes and Legume Products

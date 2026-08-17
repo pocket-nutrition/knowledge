@@ -1,0 +1,20 @@
+id: roselle
+name_en: roselle
+name_fr: oseille de Guinée
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 57.0
+    density_g_ml: 0.241
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- hibiscus calyx
+aliases_fr:
+- bissap
+- hibiscus
+- karkadé
+- roselle
+display_unit: g

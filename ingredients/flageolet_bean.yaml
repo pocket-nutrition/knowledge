@@ -1,0 +1,12 @@
+id: flageolet_bean
+name_en: flageolet bean
+name_fr: haricot flageolet
+food_group: legume
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.098
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

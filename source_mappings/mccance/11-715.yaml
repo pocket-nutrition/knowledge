@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.75
+label: Pasta, egg, white, dried, raw
+match_method: name_en_before_comma
+meta:
+  description: 10 samples, including farfalle, spaghetti, penne, lasagne, tagliatelle
+  food_group: AD
+source: mccance
+source_id: 11-715

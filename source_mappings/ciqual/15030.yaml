@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '15030'
+canonical_ingredient_id: radish
+label: Graine germée de radis, fraîche, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumes

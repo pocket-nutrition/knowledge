@@ -1,0 +1,18 @@
+id: phyllo_dough
+name_en: phyllo dough
+name_fr: pâte phyllo
+serving_mode: item
+unit_label_en: sheet
+unit_label_fr: feuille
+food_group: cereal
+states:
+  raw:
+    portion_g: 19.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- filo pastry
+aliases_fr:
+- pâte filo
+display_unit: g

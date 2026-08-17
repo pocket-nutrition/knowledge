@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pork, lean, average, raw
+match_method: auto_ai
+meta:
+  description: Average of 6 different cuts, trimmed of fat
+  food_group: MAG
+source: mccance
+source_id: 18-608

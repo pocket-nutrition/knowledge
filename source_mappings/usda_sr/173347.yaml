@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '173347'
+canonical_ingredient_id: rice_a_roni
+label: RICE-A-RONI, chicken flavor, unprepared
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Meals, Entrees, and Side Dishes

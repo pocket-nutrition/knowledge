@@ -1,0 +1,8 @@
+canonical_ingredient_id: brick_sheet
+confidence: 0.9
+label: Feuille de brick ou khatfa, préemballée
+match_method: auto_ai
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '51550'

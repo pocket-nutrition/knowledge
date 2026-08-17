@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '10008'
+canonical_ingredient_id: snail
+label: Escargot, cru
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: mollusques et crustacés crus

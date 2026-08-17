@@ -1,0 +1,18 @@
+id: soursop
+name_en: soursop
+name_fr: corossol
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 0.951
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- graviola
+aliases_fr:
+- corossol épineux
+- graviola
+display_unit: g

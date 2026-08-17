@@ -1,0 +1,8 @@
+source: mccance
+source_id: 11-1057
+canonical_ingredient_id: _composite
+label: Crumble, with pie filling, homemade
+match_method: auto_token
+confidence: 0.65
+meta:
+  group: AS

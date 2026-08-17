@@ -1,0 +1,22 @@
+id: bay_leaf
+name_en: bay leaf
+name_fr: feuille de laurier
+name_en_plural: bay leaves
+name_fr_plural: feuilles de laurier
+serving_mode: item
+unit_label_en: leaf
+unit_label_fr: feuille
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 0.3
+    density_g_ml: 0.122
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- laurel leaf
+aliases_fr:
+- laurier
+- laurier-sauce
+display_unit: g

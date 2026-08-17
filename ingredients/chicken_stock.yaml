@@ -1,0 +1,16 @@
+id: chicken_stock
+name_en: chicken stock
+name_fr: bouillon de poulet
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.005
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

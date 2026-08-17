@@ -1,0 +1,16 @@
+id: shaoxing_wine
+name_en: shaoxing wine
+name_fr: vin de Shaoxing
+serving_mode: volume
+food_group: alcohol
+states:
+  processed:
+    portion_g: 40.0
+    density_g_ml: 0.99
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- shot
+display_unit: ml

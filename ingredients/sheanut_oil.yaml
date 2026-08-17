@@ -1,0 +1,20 @@
+id: sheanut_oil
+name_en: sheanut oil
+name_fr: huile de karité
+serving_mode: volume
+food_group: fat
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.91
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- shea nut oil
+- shea oil
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

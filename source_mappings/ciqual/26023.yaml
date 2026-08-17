@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26023'
+canonical_ingredient_id: cod_fillet
+label: Cabillaud, rôti/cuit au four
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

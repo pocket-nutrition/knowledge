@@ -1,0 +1,16 @@
+id: red_wine_vinaigrette
+name_en: red wine vinaigrette
+name_fr: vinaigrette de vin rouge
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.95
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

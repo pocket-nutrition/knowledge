@@ -1,0 +1,16 @@
+id: tandoori_spice
+name_en: tandoori spice
+name_fr: épice tandoori
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.45
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

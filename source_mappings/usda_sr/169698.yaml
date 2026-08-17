@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169698'
+canonical_ingredient_id: cornstarch
+label: Cornstarch
+cooking_method: dry
+match_method: auto_exact
+confidence: 0.95
+meta:
+  category: Cereal Grains and Pasta

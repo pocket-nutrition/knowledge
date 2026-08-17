@@ -1,0 +1,6 @@
+canonical_ingredient_id: cheese_dip
+confidence: 0.9
+label: Cheese dip
+match_method: name_en_exact
+source: usda
+source_id: '2705786'

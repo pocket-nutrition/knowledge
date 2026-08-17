@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: 'Cake salé (garniture : fromage, légumes, viande, poisson, volaille, etc.),
+  préemballé'
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '7814'

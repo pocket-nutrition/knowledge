@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-848
+canonical_ingredient_id: tiger_nuts
+label: Tigernuts
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: GA

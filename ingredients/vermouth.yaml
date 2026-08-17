@@ -1,0 +1,17 @@
+id: vermouth
+name_en: vermouth
+name_fr: vermouth
+serving_mode: volume
+food_group: alcohol
+states:
+  processed:
+    portion_g: 60.0
+    density_g_ml: 0.99
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- glass
+- shot
+display_unit: ml

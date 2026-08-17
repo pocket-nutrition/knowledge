@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-305
+canonical_ingredient_id: young_chicken
+label: Poussin, raw, meat and skin
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 34% light meat, 40% dark meat and 26% skin
+  food_group: MCA

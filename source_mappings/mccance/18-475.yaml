@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Lamb, lean only, raw, average
+match_method: auto_ai
+meta:
+  description: Average of 8 different cuts
+  food_group: MAE
+source: mccance
+source_id: 18-475

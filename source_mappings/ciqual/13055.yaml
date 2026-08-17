@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13055'
+canonical_ingredient_id: acerola
+label: Cerise acérola, chair et peau, sans noyau, crue
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

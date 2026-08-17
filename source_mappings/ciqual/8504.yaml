@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '8504'
+canonical_ingredient_id: andouille
+label: Andouille, réchauffée à la poêle
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

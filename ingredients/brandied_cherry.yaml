@@ -1,0 +1,16 @@
+id: brandied_cherry
+name_en: brandied cherry
+name_fr: cerise à l'eau-de-vie
+serving_mode: item
+unit_label_en: cherry
+unit_label_fr: cerise
+food_group: fruit
+states:
+  processed:
+    portion_g: 8.0
+  raw:
+    portion_g: 8.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

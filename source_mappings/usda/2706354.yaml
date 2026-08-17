@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706354'
+canonical_ingredient_id: oyster
+label: Oysters, fried
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Shellfish

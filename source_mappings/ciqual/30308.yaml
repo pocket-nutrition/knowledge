@@ -1,0 +1,8 @@
+canonical_ingredient_id: ground_pork_sausage
+confidence: 0.9
+label: Saucisson sec de Lyon pur porc
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '30308'

@@ -1,0 +1,10 @@
+id: chicken_skin
+name_en: chicken skin
+name_fr: peau de poulet
+food_group: meat
+states:
+  raw:
+    portion_g: 68.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2708201'
+canonical_ingredient_id: _composite
+label: Cheese flavored corn snacks, reduced fat
+match_method: name_en_partial
+confidence: 0.65

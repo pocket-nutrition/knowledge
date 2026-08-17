@@ -1,0 +1,17 @@
+id: lemon
+name_en: lemon
+name_fr: citron
+name_en_plural: lemons
+name_fr_plural: citrons
+serving_mode: item
+unit_label_en: lemon
+unit_label_fr: citron
+food_group: fruit
+states:
+  raw:
+    portion_g: 58.0
+    density_g_ml: 1.045
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

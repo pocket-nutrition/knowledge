@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706063'
+canonical_ingredient_id: chicken_wing
+label: Chicken wing, grilled with sauce
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Chicken, whole pieces

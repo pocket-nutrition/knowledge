@@ -1,0 +1,8 @@
+canonical_ingredient_id: wheat_flour
+confidence: 0.9
+label: Farine de blé tendre ou froment T55 (pour pains)
+match_method: auto_ai
+meta:
+  group: produits céréaliers
+source: ciqual
+source_id: '9436'

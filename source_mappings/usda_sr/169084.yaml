@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169084'
+canonical_ingredient_id: canned_potato
+label: Potatoes, canned, drained solids, no salt added
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

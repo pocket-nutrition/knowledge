@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '7815'
+canonical_ingredient_id: flour_tortilla
+label: Tortilla souple (à garnir), à base de blé
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits céréaliers

@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-297
+canonical_ingredient_id: whole_chicken
+label: Chicken, whole, raw, meat and skin
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Calculated from 33% light meat, 42% dark meat and 25% skin
+  food_group: MCA

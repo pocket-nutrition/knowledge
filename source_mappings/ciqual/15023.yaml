@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '15023'
+canonical_ingredient_id: walnut
+label: Noix, fraîche
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

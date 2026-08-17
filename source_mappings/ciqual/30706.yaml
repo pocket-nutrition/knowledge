@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Saucisson de Paris, fumé
+match_method: auto_name
+meta:
+  group: viandes, œufs, poissons et assimilés
+source: ciqual
+source_id: '30706'

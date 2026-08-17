@@ -1,0 +1,7 @@
+source: mccance
+source_id: 13-056
+canonical_ingredient_id: black_gram
+label: Black gram, urad gram, whole, dried, raw
+cooking_method: dry
+match_method: name_en_before_comma
+confidence: 0.75

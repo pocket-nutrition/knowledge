@@ -1,0 +1,6 @@
+canonical_ingredient_id: wild_rice
+confidence: 0.9
+label: Rice, wild, raw
+match_method: auto_precise
+source: mccance
+source_id: 11-872

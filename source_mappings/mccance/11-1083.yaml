@@ -1,0 +1,8 @@
+source: mccance
+source_id: 11-1083
+canonical_ingredient_id: _composite
+label: Gulab jamen/jambu, retail
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: AP

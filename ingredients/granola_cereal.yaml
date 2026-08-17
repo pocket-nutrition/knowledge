@@ -1,0 +1,10 @@
+id: granola_cereal
+name_en: granola cereal
+name_fr: céréale granola
+food_group: cereal
+states:
+  raw:
+    portion_g: 50.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed

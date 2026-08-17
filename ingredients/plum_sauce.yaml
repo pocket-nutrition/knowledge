@@ -1,0 +1,16 @@
+id: plum_sauce
+name_en: plum sauce
+name_fr: sauce aux prunes
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.289
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

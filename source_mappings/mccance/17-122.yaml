@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Turkish delight, without nuts
+match_method: auto_name
+meta:
+  group: SEC
+source: mccance
+source_id: 17-122

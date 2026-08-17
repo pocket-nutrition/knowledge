@@ -1,0 +1,16 @@
+id: glucomannan
+name_en: glucomannan
+name_fr: glucomannane
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 3.0
+    density_g_ml: 0.7
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

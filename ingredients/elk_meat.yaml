@@ -1,0 +1,11 @@
+id: elk_meat
+name_en: Elk Meat
+name_fr: Viande d'élan
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

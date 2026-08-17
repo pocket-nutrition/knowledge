@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-264
+canonical_ingredient_id: tamarillo
+label: Tamarillos, flesh and seeds
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: FA

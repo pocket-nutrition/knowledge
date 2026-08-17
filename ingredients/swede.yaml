@@ -1,0 +1,14 @@
+id: swede
+name_en: swede
+name_fr: rutabaga
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- rutabaga
+display_unit: g

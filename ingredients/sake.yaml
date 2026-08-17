@@ -1,0 +1,16 @@
+id: sake
+name_en: sake
+name_fr: saké
+serving_mode: volume
+food_group: alcohol
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 0.99
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- shot
+- glass
+display_unit: ml

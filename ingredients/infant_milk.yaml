@@ -1,0 +1,15 @@
+id: infant_milk
+name_en: infant formula
+name_fr: lait 1er âge
+serving_mode: measure
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.45
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- scoop
+display_unit: g

@@ -1,0 +1,16 @@
+id: bay_scallop
+name_en: bay scallop
+name_fr: pétoncle
+serving_mode: weight
+food_group: shellfish
+states:
+  raw:
+    portion_g: 85.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- pétoncle de baie
+- peigne
+display_unit: g

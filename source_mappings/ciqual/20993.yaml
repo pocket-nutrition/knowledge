@@ -1,0 +1,8 @@
+canonical_ingredient_id: ogo_seaweed
+confidence: 0.9
+label: Gracilaire ou ogonori (Gracilaria verrucosa), séchée ou déshydratée
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '20993'

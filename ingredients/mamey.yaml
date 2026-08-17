@@ -1,0 +1,19 @@
+id: mamey
+name_en: mamey sapote
+name_fr: sapote
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 366.0
+    density_g_ml: 0.74
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- mamey
+- sapote
+aliases_fr:
+- mamey
+- sapotille
+display_unit: g

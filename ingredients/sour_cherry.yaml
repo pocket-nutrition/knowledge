@@ -1,0 +1,19 @@
+id: sour_cherry
+name_en: sour cherry
+name_fr: griotte
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- tart cherry
+- morello cherry
+aliases_fr:
+- cerise acide
+- cerise aigre
+display_unit: g

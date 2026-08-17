@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: chile_pepper
+name_en: chile pepper
+name_fr: piment
+states:
+  raw:
+    density_g_ml: 1.044
+    portion_g: 80
+typical_state: raw

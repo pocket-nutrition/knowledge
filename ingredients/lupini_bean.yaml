@@ -1,0 +1,13 @@
+id: lupini_bean
+name_en: lupini bean
+name_fr: Lupin
+food_group: legume
+states:
+  cooked: {}
+  raw:
+    portion_g: 60.0
+    density_g_ml: 0.85
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

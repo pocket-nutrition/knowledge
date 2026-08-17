@@ -1,0 +1,12 @@
+id: hare
+name_en: hare
+name_fr: lièvre
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.069
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

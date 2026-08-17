@@ -1,0 +1,8 @@
+food_group: vegetable
+id: palm_heart
+name_en: palm heart
+name_fr: coeur de palmier
+states:
+  raw:
+    density_g_ml: 1.031
+    portion_g: 80

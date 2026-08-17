@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Boisson à base d'avoine, nature, préemballée
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+  subgroup: boissons sans alcool
+source: ciqual
+source_id: '18905'

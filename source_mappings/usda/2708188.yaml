@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708188'
+canonical_ingredient_id: cracker
+label: Crackers, gluten free, plain
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Crackers, excludes saltines

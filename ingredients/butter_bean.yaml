@@ -1,0 +1,14 @@
+id: butter_bean
+name_en: butter bean
+name_fr: haricot beurre
+name_en_plural: butter beans
+name_fr_plural: haricots beurre
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.032
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

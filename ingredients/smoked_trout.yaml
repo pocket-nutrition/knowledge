@@ -1,0 +1,12 @@
+id: smoked_trout
+name_en: smoked trout
+name_fr: truite fumée
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 75.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

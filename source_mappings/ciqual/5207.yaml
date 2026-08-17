@@ -1,0 +1,8 @@
+canonical_ingredient_id: champagne
+confidence: 0.95
+label: Champagne
+match_method: auto_exact
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '5207'

@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '53100'
+canonical_ingredient_id: plantain
+label: Banane plantain, crue
+cooking_method: raw
+match_method: manual
+confidence: 1.0

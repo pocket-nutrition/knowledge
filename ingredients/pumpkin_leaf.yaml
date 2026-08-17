@@ -1,0 +1,17 @@
+id: pumpkin_leaf
+name_en: pumpkin leaf
+name_fr: feuille de courge
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- pumpkin leaves
+aliases_fr:
+- feuilles de courge
+display_unit: g

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707112'
+canonical_ingredient_id: _composite
+label: Chicken and vegetable entree with rice, diet frozen meal
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Poultry mixed dishes

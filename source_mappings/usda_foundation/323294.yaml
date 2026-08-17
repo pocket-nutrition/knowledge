@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '323294'
+canonical_ingredient_id: almond
+label: Nuts, almonds, dry roasted, with salt added
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products

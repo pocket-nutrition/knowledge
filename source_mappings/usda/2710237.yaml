@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710237'
+canonical_ingredient_id: salad_dressing
+label: Salad dressing, fat free, NFS
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Salad dressings and vegetable oils

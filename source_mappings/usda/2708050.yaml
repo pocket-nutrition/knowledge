@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708050'
+canonical_ingredient_id: _composite
+label: Pastry, Chinese, made with rice flour
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Doughnuts, sweet rolls, pastries

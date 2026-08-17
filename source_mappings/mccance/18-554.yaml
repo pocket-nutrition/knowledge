@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pork, shoulder steaks (collar), raw, lean and fat
+match_method: auto_ai
+meta:
+  description: Calculated from 86% lean and 13% fat
+  food_group: MAG
+source: mccance
+source_id: 18-554

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707665'
+canonical_ingredient_id: sourdough_bread
+label: Roll, sour dough
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Rolls and buns

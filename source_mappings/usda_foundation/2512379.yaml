@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2512379'
+canonical_ingredient_id: millet
+label: Millet, whole grain
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

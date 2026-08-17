@@ -1,0 +1,8 @@
+canonical_ingredient_id: chocolate_candy
+confidence: 0.65
+label: Dark chocolate candy, other, NFS
+match_method: auto_token
+meta:
+  wweia_category: Candy containing chocolate
+source: usda
+source_id: '2710335'

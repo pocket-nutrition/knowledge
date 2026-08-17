@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '6584'
+canonical_ingredient_id: boneless_chicken
+label: Viande blanche, cuite (aliment moyen)
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

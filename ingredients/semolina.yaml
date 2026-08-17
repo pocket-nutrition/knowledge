@@ -1,0 +1,13 @@
+id: semolina
+name_en: semolina
+name_fr: semoule
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 75.0
+    density_g_ml: 0.7
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

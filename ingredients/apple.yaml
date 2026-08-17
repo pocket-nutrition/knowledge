@@ -1,0 +1,16 @@
+id: apple
+name_en: apple
+name_fr: pomme
+name_en_plural: apples
+name_fr_plural: pommes
+serving_mode: item
+unit_label_en: apple
+unit_label_fr: pomme
+food_group: fruit
+states:
+  raw:
+    portion_g: 167.0
+    density_g_ml: 1.051
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Dessert infantile lacté au riz ou à la semoule
+match_method: auto_name
+meta:
+  group: aliments infantiles
+source: ciqual
+source_id: '13165'

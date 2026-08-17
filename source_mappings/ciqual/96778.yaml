@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '96778'
+canonical_ingredient_id: pizza_dough
+label: Pâte à pizza, préemballée, cuite
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: produits céréaliers

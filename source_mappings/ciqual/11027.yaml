@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '11027'
+canonical_ingredient_id: mint
+label: Menthe, fraîche
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

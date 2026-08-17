@@ -1,0 +1,15 @@
+id: batavia
+name_en: batavia
+name_fr: batavia
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 1.013
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- batavia lettuce
+display_unit: g

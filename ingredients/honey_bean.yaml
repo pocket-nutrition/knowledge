@@ -1,0 +1,14 @@
+id: honey_bean
+name_en: honey bean
+name_fr: haricot sucré
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 150.0
+  raw:
+    portion_g: 70.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707526'
+canonical_ingredient_id: pine_nut
+label: Pine nuts
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Nuts and seeds

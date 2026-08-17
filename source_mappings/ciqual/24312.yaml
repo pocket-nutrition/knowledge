@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Gaufrette fourrée, aux fruits à coque (noisette, amande, praliné, etc.), avec
+  ou sans chocolat
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24312'

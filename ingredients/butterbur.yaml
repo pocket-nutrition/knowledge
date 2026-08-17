@@ -1,0 +1,15 @@
+id: butterbur
+name_en: Butterbur
+name_fr: pétasite
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- fuki
+aliases_fr:
+- fuki
+display_unit: g

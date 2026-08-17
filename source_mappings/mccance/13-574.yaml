@@ -1,0 +1,8 @@
+canonical_ingredient_id: quorn
+confidence: 0.8
+label: Quorn, pieces, as purchased
+match_method: auto_before_comma
+meta:
+  group: DG
+source: mccance
+source_id: 13-574

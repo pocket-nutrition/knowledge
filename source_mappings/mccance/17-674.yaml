@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-674
+canonical_ingredient_id: fruit_squash
+label: High juice drink, no added sugar, undiluted
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: PCC

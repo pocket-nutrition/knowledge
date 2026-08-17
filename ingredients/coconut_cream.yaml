@@ -1,0 +1,16 @@
+id: coconut_cream
+name_en: coconut cream
+name_fr: crème de noix de coco
+serving_mode: volume
+food_group: other
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

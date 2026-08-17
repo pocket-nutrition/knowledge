@@ -1,0 +1,13 @@
+id: bar_sugar
+name_en: bar sugar
+name_fr: sucre semoule fin
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 43.0
+    density_g_ml: 0.85
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

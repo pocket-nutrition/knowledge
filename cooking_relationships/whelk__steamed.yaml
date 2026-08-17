@@ -1,0 +1,9 @@
+confidence: 0.85
+cooking_method: steamed
+nutrient_retention:
+  iron_mg: 0.92
+  vitamin_b12_ug: 0.78
+  zinc_mg: 0.9
+raw_id: whelk
+source: usda_sr_pair
+yield_factor: 0.4982

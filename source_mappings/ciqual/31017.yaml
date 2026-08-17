@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '31017'
+canonical_ingredient_id: brown_sugar
+label: Sucre roux
+match_method: manual
+confidence: 1.0
+meta:
+  group: produits sucrés

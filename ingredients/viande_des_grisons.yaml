@@ -1,0 +1,12 @@
+id: viande_des_grisons
+name_en: Grisons cured beef
+name_fr: Viande des Grisons
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.144
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

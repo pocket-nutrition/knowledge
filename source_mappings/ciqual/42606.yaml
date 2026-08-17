@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Plat légumes, avec féculent et viande/poisson, dès 18 mois
+match_method: auto_name
+meta:
+  group: aliments infantiles
+source: ciqual
+source_id: '42606'

@@ -1,0 +1,6 @@
+source: usda
+source_id: '2707276'
+canonical_ingredient_id: _composite
+label: Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, NS as to fat
+match_method: name_en_partial
+confidence: 0.65

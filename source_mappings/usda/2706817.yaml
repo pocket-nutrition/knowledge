@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Asian chicken or turkey garden salad with crispy noodles, chicken and/or turkey,
+  lettuce, fruit, nuts, crispy noodles, no dressing
+match_method: auto_token
+meta:
+  wweia_category: Poultry mixed dishes
+source: usda
+source_id: '2706817'

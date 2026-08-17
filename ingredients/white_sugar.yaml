@@ -1,0 +1,22 @@
+id: white_sugar
+name_en: white sugar
+name_fr: sucre blanc
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.85
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- granulated sugar
+aliases_fr:
+- sucre en poudre
+- sucre semoule
+serving_unit_types:
+- teaspoon
+- tablespoon
+- cup
+display_unit: g

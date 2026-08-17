@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Chocolate nut sundae
+match_method: auto_name
+meta:
+  group: BP
+source: mccance
+source_id: 12-518

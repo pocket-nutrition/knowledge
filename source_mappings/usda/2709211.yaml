@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709211'
+canonical_ingredient_id: prune
+label: Prune, dried
+cooking_method: dry
+match_method: name_en_before_comma
+confidence: 0.75

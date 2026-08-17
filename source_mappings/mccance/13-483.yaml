@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+cooking_method: cooked
+label: Potato wedges, retail, cooked
+match_method: auto_ai
+meta:
+  group: DAR
+source: mccance
+source_id: 13-483

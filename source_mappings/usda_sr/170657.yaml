@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Cocoa, dry powder, hi-fat or breakfast, processed with alkali
+match_method: auto_before_comma
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '170657'

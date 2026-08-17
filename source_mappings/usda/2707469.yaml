@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707469'
+canonical_ingredient_id: _composite
+label: Chicken, meatless, breaded, fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Soy and meat-alternative products

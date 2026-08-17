@@ -1,0 +1,8 @@
+canonical_ingredient_id: kefir_milk
+confidence: 0.9
+label: Kéfir de lait
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19865'

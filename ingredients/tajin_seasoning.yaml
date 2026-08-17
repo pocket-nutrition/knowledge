@@ -1,0 +1,16 @@
+id: tajin_seasoning
+name_en: tajin seasoning
+name_fr: assaisonnement chili-citron vert (Tajín)
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 3.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Fromage à pâte molle et croûte mixte (lavée et fleurie) colorée
+match_method: auto_name
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12050'

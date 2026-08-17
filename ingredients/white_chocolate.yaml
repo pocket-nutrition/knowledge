@@ -1,0 +1,13 @@
+id: white_chocolate
+name_en: white chocolate
+name_fr: chocolat blanc
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.263
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

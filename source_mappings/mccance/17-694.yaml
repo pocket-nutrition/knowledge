@@ -1,0 +1,8 @@
+canonical_ingredient_id: twiglets
+confidence: 0.9
+label: Twiglets
+match_method: auto_ai
+meta:
+  group: SN
+source: mccance
+source_id: 17-694

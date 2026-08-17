@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: shellfish
+id: crab
+name_en: crab
+name_fr: crabe
+states:
+  raw:
+    density_g_ml: 1.059
+    portion_g: 100
+typical_state: raw

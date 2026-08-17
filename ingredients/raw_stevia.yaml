@@ -1,0 +1,15 @@
+id: raw_stevia
+name_en: raw stevia
+name_fr: feuille de stévia brute
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- teaspoon
+display_unit: g

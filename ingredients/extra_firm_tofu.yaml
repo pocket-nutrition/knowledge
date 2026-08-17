@@ -1,0 +1,11 @@
+id: extra_firm_tofu
+name_en: extra firm tofu
+name_fr: tofu extra ferme
+food_group: legume
+states:
+  raw:
+    portion_g: 85.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Beverages, Dairy drink mix, chocolate, reduced calorie, with low-calorie sweeteners,
+  powder
+match_method: auto_token
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '173649'

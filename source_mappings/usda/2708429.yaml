@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708429'
+canonical_ingredient_id: _composite
+label: Rice, white and wild, cooked, NS as to fat
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Rice

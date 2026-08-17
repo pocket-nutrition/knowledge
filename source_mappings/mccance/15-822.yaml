@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Mchicha, homemade
+match_method: auto_ai
+meta:
+  group: DR
+source: mccance
+source_id: 15-822

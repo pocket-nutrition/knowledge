@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Corn chips, plain (Fritos)
+match_method: auto_name
+meta:
+  wweia_category: Tortilla, corn, other chips
+source: usda
+source_id: '2708198'

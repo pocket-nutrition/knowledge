@@ -1,0 +1,6 @@
+canonical_ingredient_id: waffle
+confidence: 0.7
+label: Gaufre croustillante (fine ou sèche), nature ou sucrée, préemballée
+match_method: name_fr_partial
+source: ciqual
+source_id: '23853'

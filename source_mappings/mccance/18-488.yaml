@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Chicken, meat, average, raw
+match_method: auto_ai
+meta:
+  description: Calculated from 44% light meat and 56% dark meat
+  food_group: MCA
+source: mccance
+source_id: 18-488

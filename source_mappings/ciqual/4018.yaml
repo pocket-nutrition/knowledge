@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '4018'
+canonical_ingredient_id: mashed_potato
+label: Purée de pomme de terre, avec lait et beurre, sans sel ajouté
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

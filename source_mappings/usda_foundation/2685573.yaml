@@ -1,0 +1,8 @@
+canonical_ingredient_id: cauliflower
+confidence: 0.8
+label: Cauliflower, raw
+match_method: auto_before_comma
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_foundation
+source_id: '2685573'

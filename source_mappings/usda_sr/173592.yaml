@@ -1,0 +1,8 @@
+canonical_ingredient_id: buttermilk_ranch_dressing
+confidence: 0.65
+label: Salad dressing, ranch dressing, regular
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '173592'

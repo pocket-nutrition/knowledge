@@ -1,0 +1,7 @@
+food_group: vegetable
+id: taro_leaf
+name_en: Taro leaf
+name_fr: Feuilles de taro
+states:
+  raw:
+    portion_g: 145

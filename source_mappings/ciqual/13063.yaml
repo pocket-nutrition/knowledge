@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13063'
+canonical_ingredient_id: prickly_pear
+label: Figue de Barbarie, chair et peau, avec pépins, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

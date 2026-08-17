@@ -1,0 +1,7 @@
+source: mccance
+source_id: 16-302
+canonical_ingredient_id: roe
+label: Roe, herring, soft, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

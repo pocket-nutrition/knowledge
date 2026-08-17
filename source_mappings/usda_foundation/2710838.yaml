@@ -1,0 +1,7 @@
+source: usda_foundation
+source_id: '2710838'
+label: Rice, red, unenriched, dry, raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

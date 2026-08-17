@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Ice creams, regular, low carbohydrate, vanilla
+match_method: auto_name
+meta:
+  category: Sweets
+source: usda_sr
+source_id: '170671'

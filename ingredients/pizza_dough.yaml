@@ -1,0 +1,13 @@
+id: pizza_dough
+name_en: pizza dough
+name_fr: pâte à pizza
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.95
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710000'
+canonical_ingredient_id: summer_squash
+label: Summer squash, yellow or green, frozen, cooked with butter or margarine
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Other vegetables and combinations

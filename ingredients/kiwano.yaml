@@ -1,0 +1,15 @@
+id: kiwano
+name_en: kiwano
+name_fr: kiwano (concombre cornu)
+serving_mode: item
+unit_label_en: fruit
+unit_label_fr: fruit
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

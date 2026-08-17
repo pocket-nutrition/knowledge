@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Dessert glacé type mystère ou vacherin
+match_method: auto_name
+meta:
+  group: glaces et sorbets
+source: ciqual
+source_id: '39502'

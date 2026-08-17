@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707415'
+canonical_ingredient_id: chickpea
+label: Chickpeas, from dried, fat added
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Beans, peas, legumes

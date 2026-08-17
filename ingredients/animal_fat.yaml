@@ -1,0 +1,16 @@
+id: animal_fat
+name_en: animal fat
+name_fr: graisse animale
+serving_mode: measure
+food_group: fat
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.92
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

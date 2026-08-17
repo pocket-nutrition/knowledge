@@ -1,0 +1,8 @@
+source: usda
+source_id: '2710569'
+canonical_ingredient_id: _composite
+label: Fruit punch, made with fruit juice and soda
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Fruit drinks

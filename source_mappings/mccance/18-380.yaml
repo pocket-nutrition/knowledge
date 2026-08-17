@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Hare, meat only, stewed, weighed with bone
+match_method: auto_before_comma
+meta:
+  group: MEA
+source: mccance
+source_id: 18-380

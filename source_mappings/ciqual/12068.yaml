@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '12068'
+canonical_ingredient_id: cream_cheese
+label: Fromage frais ou spécialité fromagère non affinée, nature, à tartiner, en barquette, non allégée en matière grasse
+match_method: ai_review
+confidence: 0.9

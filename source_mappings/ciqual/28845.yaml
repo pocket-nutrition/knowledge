@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '28845'
+canonical_ingredient_id: serrano_ham
+label: Jambon sec Serrano
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

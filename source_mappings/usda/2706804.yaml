@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706804'
+canonical_ingredient_id: _composite
+label: Chicken or turkey salad, made with light mayonnaise-type salad dressing
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Poultry mixed dishes

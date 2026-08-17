@@ -1,0 +1,8 @@
+canonical_ingredient_id: molasses
+confidence: 0.9
+label: Mélasse de canne
+match_method: auto_ai
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31067'

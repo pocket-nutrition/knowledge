@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169712'
+canonical_ingredient_id: null
+label: Rice, white, steamed, Chinese restaurant
+cooking_method: steamed
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

@@ -1,0 +1,15 @@
+id: ham
+name_en: ham
+name_fr: jambon
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 55.0
+    density_g_ml: 1.072
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- gammon
+display_unit: g

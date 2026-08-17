@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Muesli croustillant aux fruits à coque et/ou graines uniquement, non enrichi
+  en vitamines et minéraux
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '32145'

@@ -1,0 +1,15 @@
+id: cob_loaf
+name_en: cob loaf
+name_fr: miche de pain
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: baked_good
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.3
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

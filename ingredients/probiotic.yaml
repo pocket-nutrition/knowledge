@@ -1,0 +1,14 @@
+id: probiotic
+name_en: probiotic
+name_fr: probiotique
+serving_mode: item
+unit_label_en: capsule
+unit_label_fr: gélule
+food_group: other
+states:
+  raw:
+    portion_g: 1.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

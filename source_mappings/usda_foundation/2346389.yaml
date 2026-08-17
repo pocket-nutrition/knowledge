@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2346389'
+canonical_ingredient_id: lettuce
+label: Lettuce, romaine, green, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Vegetables and Vegetable Products

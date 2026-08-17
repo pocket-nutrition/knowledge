@@ -1,0 +1,10 @@
+source: usda
+source_id: '2709272'
+canonical_ingredient_id: berry_mix
+label: Berries, frozen
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Blueberries and other berries
+notes: Generic frozen berries (e.g., blueberries, raspberries mix). Linked to the general 'Berry Mix' category as a canonical ingredient for unprocessed mixed berries.

@@ -1,0 +1,10 @@
+source: mccance
+source_id: 11-904
+canonical_ingredient_id: bulgur
+label: Wheat, bulgur, raw
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: 6 samples, 6 products
+  food_group: AA

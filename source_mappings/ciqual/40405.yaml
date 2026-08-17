@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '40405'
+canonical_ingredient_id: pig_kidney
+label: Rognon, porc, cuit
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

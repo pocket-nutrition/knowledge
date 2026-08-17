@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '2346414'
+canonical_ingredient_id: _composite
+label: Applesauce, unsweetened, with added vitamin C
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Fruits and Fruit Juices

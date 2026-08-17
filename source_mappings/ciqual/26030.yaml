@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26030'
+canonical_ingredient_id: battered_fish
+label: Poisson pané, frit
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

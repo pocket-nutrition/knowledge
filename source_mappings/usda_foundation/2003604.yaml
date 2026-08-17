@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2003604'
+canonical_ingredient_id: pioppini
+label: Mushroom, pioppini
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

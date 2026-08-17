@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705883'
+canonical_ingredient_id: pork_roll
+label: Pork, roll
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Cold cuts and cured meats

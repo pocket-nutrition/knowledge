@@ -1,0 +1,9 @@
+canonical_ingredient_id: egg
+confidence: 0.9
+label: Oeuf de cane, cru
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: oeufs
+source: ciqual
+source_id: '22060'

@@ -1,0 +1,15 @@
+id: soy_quark
+name_en: soy quark
+name_fr: quark de soja
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+display_unit: g

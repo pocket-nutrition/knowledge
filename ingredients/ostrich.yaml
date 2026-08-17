@@ -1,0 +1,13 @@
+id: ostrich
+name_en: ostrich
+name_fr: autruche
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 85.0
+    density_g_ml: 1.061
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

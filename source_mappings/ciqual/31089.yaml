@@ -1,0 +1,8 @@
+canonical_ingredient_id: agave_nectar
+confidence: 0.95
+label: Sirop d'agave
+match_method: auto_exact
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31089'

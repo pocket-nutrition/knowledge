@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Lamb, New Zealand, leg, whole, frozen, roasted, lean and fat, weighed with
+  bone
+match_method: auto_before_comma
+meta:
+  group: MAE
+source: mccance
+source_id: 18-193

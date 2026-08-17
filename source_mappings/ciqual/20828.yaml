@@ -1,0 +1,9 @@
+canonical_ingredient_id: massissi
+confidence: 0.9
+label: Massissi, chair, cru, prélevé à la Martinique
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumes
+source: ciqual
+source_id: '20828'

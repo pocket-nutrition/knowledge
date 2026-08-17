@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Peas, frozen, raw
+match_method: auto_ai
+meta:
+  description: 12 samples, 8 brands, garden peas and petit pois
+  food_group: DF
+source: mccance
+source_id: 13-527

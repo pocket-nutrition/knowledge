@@ -1,0 +1,18 @@
+id: jalapeno
+name_en: jalapeño
+name_fr: jalapeño
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 14.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- jalapeno
+- jalapeno pepper
+aliases_fr:
+- piment jalapeño
+- jalapeno
+display_unit: g

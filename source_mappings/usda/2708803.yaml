@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Lo mein, with chicken
+match_method: auto_name
+meta:
+  wweia_category: Fried rice and lo/chow mein
+source: usda
+source_id: '2708803'

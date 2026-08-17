@@ -1,0 +1,8 @@
+source: mccance
+source_id: 11-881
+canonical_ingredient_id: null
+label: Rice, savoury, including chicken, beef, mushroom and vegetable varieties, dried,
+  cooked
+cooking_method: cooked
+match_method: name_en_before_comma
+confidence: 0.75

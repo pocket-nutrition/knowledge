@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Porridge oats, unfortified
+match_method: auto_ai
+meta:
+  group: A
+source: mccance
+source_id: 11-788

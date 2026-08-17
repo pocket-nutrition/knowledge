@@ -1,0 +1,16 @@
+id: pumpkin_seed_oil
+name_en: pumpkin seed oil
+name_fr: huile de graines de courge
+serving_mode: measure
+food_group: fat
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.92
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: ml

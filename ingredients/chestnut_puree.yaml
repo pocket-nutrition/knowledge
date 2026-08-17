@@ -1,0 +1,15 @@
+id: chestnut_puree
+name_en: chestnut purée
+name_fr: purée de châtaignes
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.1
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

@@ -1,0 +1,21 @@
+id: buttermilk
+name_en: buttermilk
+name_fr: babeurre
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- cultured buttermilk
+aliases_fr:
+- lait ribot
+- lait fermenté
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

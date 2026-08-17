@@ -1,0 +1,7 @@
+source: usda
+source_id: '2705585'
+canonical_ingredient_id: milk_powder
+label: Milk, dry, not reconstituted
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9

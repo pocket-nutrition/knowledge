@@ -1,0 +1,15 @@
+id: beef_bacon
+name_en: beef bacon
+name_fr: bacon de bœuf
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 12.0
+    density_g_ml: 1.049
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

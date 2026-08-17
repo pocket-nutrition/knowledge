@@ -1,0 +1,8 @@
+canonical_ingredient_id: milk
+confidence: 0.9
+label: Lait demi-écrémé, UHT
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19041'

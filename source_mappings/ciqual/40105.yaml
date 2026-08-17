@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '40105'
+canonical_ingredient_id: beef_liver
+label: Foie, génisse, cuit
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

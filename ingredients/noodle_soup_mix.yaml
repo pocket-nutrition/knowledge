@@ -1,0 +1,15 @@
+id: noodle_soup_mix
+name_en: noodle soup mix
+name_fr: préparation pour soupe de nouilles
+serving_mode: weight
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

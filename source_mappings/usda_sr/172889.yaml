@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '172889'
+canonical_ingredient_id: beef_broth
+label: Soup, beef broth, less/reduced sodium, ready to serve
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soups, Sauces, and Gravies

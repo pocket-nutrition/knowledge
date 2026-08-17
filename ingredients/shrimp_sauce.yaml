@@ -1,0 +1,12 @@
+id: shrimp_sauce
+name_en: shrimp sauce
+name_fr: sauce aux crevettes
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 15.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

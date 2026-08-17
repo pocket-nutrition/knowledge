@@ -1,0 +1,17 @@
+id: almond_creamer
+name_en: almond creamer
+name_fr: crème végétale d'amande
+serving_mode: volume
+food_group: beverage
+states:
+  processed:
+    portion_g: 15.0
+    density_g_ml: 1.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: ml

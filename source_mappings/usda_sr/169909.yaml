@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169909'
+canonical_ingredient_id: mamey
+label: Mammy-apple, (mamey), raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Fruits and Fruit Juices

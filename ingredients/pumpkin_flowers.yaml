@@ -1,0 +1,17 @@
+id: pumpkin_flowers
+name_en: pumpkin flowers
+name_fr: fleurs de courge
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- squash blossom
+- zucchini flower
+aliases_fr:
+- fleurs de courgette
+display_unit: g

@@ -1,0 +1,5 @@
+source: usda
+source_id: '2709294'
+label: Apple, candied
+match_method: name_en_before_comma
+confidence: 0.75

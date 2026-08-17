@@ -1,0 +1,18 @@
+id: abalone
+name_en: abalone
+name_fr: ormeau
+serving_mode: weight
+food_group: shellfish
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.081
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- ormer
+- sea ear
+aliases_fr:
+- oreille de mer
+display_unit: g

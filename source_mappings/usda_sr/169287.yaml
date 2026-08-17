@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food
+  Distribution Program)
+match_method: auto_before_comma
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '169287'

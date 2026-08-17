@@ -1,0 +1,17 @@
+id: vanilla_soymilk
+name_en: vanilla soymilk
+name_fr: lait de soja à la vanille
+serving_mode: volume
+food_group: beverage
+states:
+  processed:
+    portion_g: 250.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '168954'
+canonical_ingredient_id: _composite
+label: Pasta mix, classic beef, unprepared
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Meals, Entrees, and Side Dishes

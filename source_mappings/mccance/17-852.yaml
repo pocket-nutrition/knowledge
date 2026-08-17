@@ -1,0 +1,8 @@
+canonical_ingredient_id: mincemeat
+confidence: 0.8
+label: Mincemeat, vegetarian, homemade
+match_method: auto_before_comma
+meta:
+  group: S
+source: mccance
+source_id: 17-852

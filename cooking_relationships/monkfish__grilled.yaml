@@ -1,0 +1,14 @@
+confidence: 0.9
+cooking_method: grilled
+nutrient_retention:
+  iron_mg: 0.95
+  niacin_mg: 0.82
+  phosphorus_mg: 0.88
+  potassium_mg: 0.82
+  vitamin_b12_ug: 0.8
+  vitamin_b6_mg: 0.75
+  vitamin_d_ug: 0.85
+  zinc_mg: 0.95
+raw_id: monkfish
+source: ciqual_pair
+yield_factor: 0.6565

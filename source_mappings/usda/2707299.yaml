@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707299'
+canonical_ingredient_id: liquid_egg_substitute
+label: Egg substitute, omelet, scrambled, or fried, no added fat
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Eggs and omelets

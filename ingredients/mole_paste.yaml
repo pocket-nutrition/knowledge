@@ -1,0 +1,16 @@
+id: mole_paste
+name_en: mole paste
+name_fr: pâte de mole
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 16.0
+    density_g_ml: 1.1
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

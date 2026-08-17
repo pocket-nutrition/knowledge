@@ -1,0 +1,9 @@
+source: usda
+source_id: '2705892'
+canonical_ingredient_id: pork_fat
+label: Fat back, cooked
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Butter and animal fats

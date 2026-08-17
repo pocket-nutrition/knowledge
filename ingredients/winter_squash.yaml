@@ -1,0 +1,12 @@
+id: winter_squash
+name_en: winter squash
+name_fr: courge d'hiver
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

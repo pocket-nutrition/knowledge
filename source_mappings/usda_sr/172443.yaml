@@ -1,0 +1,8 @@
+canonical_ingredient_id: natto
+confidence: 0.95
+label: Natto
+match_method: auto_exact
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '172443'

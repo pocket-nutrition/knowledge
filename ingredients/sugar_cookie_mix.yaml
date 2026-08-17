@@ -1,0 +1,12 @@
+id: sugar_cookie_mix
+name_en: sugar cookie mix
+name_fr: préparation pour biscuits au sucre
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 135.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

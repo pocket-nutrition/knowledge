@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Cheese spread, plain, reduced fat
+match_method: auto_before_comma
+meta:
+  group: BL
+source: mccance
+source_id: 12-537

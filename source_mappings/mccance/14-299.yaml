@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Peaches, raw, flesh and skin
+match_method: auto_ai
+meta:
+  description: 10 samples; flesh and skin
+  food_group: FA
+source: mccance
+source_id: 14-299

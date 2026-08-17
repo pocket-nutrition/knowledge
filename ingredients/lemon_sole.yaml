@@ -1,0 +1,13 @@
+id: lemon_sole
+name_en: lemon sole
+name_fr: limande-sole
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.051
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

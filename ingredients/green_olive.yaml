@@ -1,0 +1,17 @@
+id: green_olive
+name_en: green olive
+name_fr: olive verte
+name_en_plural: green olives
+name_fr_plural: olives vertes
+serving_mode: item
+unit_label_en: olive
+unit_label_fr: olive
+food_group: fruit
+states:
+  raw:
+    portion_g: 4.0
+    density_g_ml: 1.02
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

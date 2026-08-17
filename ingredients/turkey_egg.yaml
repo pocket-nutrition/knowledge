@@ -1,0 +1,15 @@
+id: turkey_egg
+name_en: turkey egg
+name_fr: œuf de dinde
+serving_mode: item
+unit_label_en: egg
+unit_label_fr: œuf
+food_group: egg
+states:
+  raw:
+    portion_g: 85.0
+    density_g_ml: 1.033
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

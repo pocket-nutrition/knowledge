@@ -1,0 +1,15 @@
+id: peppercorn
+name_en: peppercorn
+name_fr: poivre en grains
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

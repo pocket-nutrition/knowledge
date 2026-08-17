@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Burger, beef, 98-99% beef, fried in vegetable oil
+match_method: auto_token
+meta:
+  group: MBG
+source: mccance
+source_id: 19-490

@@ -1,0 +1,13 @@
+id: tuna
+name_en: tuna
+name_fr: thon
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

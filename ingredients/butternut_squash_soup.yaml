@@ -1,0 +1,17 @@
+id: butternut_squash_soup
+name_en: butternut squash soup
+name_fr: soupe de courge butternut
+serving_mode: volume
+food_group: prepared_dish
+states:
+  cooked:
+    portion_g: 250.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- bowl
+- cup
+display_unit: ml

@@ -1,0 +1,14 @@
+id: pimiento_stuffed_green_olive
+name_en: pimiento-stuffed green olive
+name_fr: olive verte farcie au piment
+serving_mode: item
+unit_label_en: olive
+unit_label_fr: olive
+food_group: fruit
+states:
+  raw:
+    portion_g: 4.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,20 @@
+id: applesauce
+name_en: applesauce
+name_fr: compote de pommes
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 244.0
+    density_g_ml: 1.031
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- apple sauce
+- apple puree
+aliases_fr:
+- compote
+- compote de pomme
+- purée de pomme
+display_unit: g

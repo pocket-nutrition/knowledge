@@ -1,0 +1,16 @@
+id: turkey_gravy
+name_en: turkey gravy
+name_fr: sauce au jus de dinde
+serving_mode: volume
+food_group: sauce
+states:
+  processed:
+    portion_g: 100.0
+    density_g_ml: 1.008
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: ml

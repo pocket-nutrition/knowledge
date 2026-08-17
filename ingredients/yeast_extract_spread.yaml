@@ -1,0 +1,15 @@
+id: yeast_extract_spread
+name_en: yeast extract spread
+name_fr: Extrait de levure
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 6.0
+    density_g_ml: 1.217
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- yeast extract
+display_unit: g

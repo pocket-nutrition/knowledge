@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Fried seafood sandwich
+match_method: auto_name
+meta:
+  category: Seafood sandwiches
+source: usda
+source_id: '2707024'

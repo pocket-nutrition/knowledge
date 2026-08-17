@@ -1,0 +1,13 @@
+id: muceau_de_boeuf
+name_en: beef snout
+name_fr: museau de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.08
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

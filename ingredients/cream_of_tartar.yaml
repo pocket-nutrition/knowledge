@@ -1,0 +1,16 @@
+id: cream_of_tartar
+name_en: cream of tartar
+name_fr: crème de tartre
+serving_mode: measure
+food_group: other
+states:
+  cooked:
+    portion_g: 3.0
+    density_g_ml: 0.9
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.75
+label: Pasta, wholewheat, spaghetti, dried, raw
+match_method: name_en_before_comma
+meta:
+  description: 10 samples, 9 products
+  food_group: AD
+source: mccance
+source_id: 11-718

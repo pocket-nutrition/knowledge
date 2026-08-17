@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, brisket, raw, lean and fat
+match_method: auto_before_comma
+meta:
+  description: Calculated from 79% lean and 19% fat
+  food_group: MAC
+source: mccance
+source_id: 18-013

@@ -1,0 +1,14 @@
+id: chocolate_collagen
+name_en: chocolate collagen
+name_fr: collagène au chocolat
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 12.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- scoop

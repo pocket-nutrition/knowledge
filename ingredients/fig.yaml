@@ -1,0 +1,12 @@
+id: fig
+name_en: fig
+name_fr: figue
+name_en_plural: figs
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.071
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

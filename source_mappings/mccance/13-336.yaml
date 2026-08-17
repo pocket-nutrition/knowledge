@@ -1,0 +1,8 @@
+canonical_ingredient_id: sauerkraut
+confidence: 0.95
+label: Sauerkraut
+match_method: auto_exact
+meta:
+  group: DR
+source: mccance
+source_id: 13-336

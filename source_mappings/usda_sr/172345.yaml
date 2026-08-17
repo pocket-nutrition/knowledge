@@ -1,0 +1,8 @@
+canonical_ingredient_id: bacon_grease
+confidence: 0.65
+label: Animal fat, bacon grease
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '172345'

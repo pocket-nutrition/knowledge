@@ -1,0 +1,15 @@
+id: lady_finger
+name_en: lady finger
+name_fr: gombo
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- okra
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Ice cream sauce, topping, strawberry and chocolate flavours
+match_method: auto_token
+meta:
+  group: SC
+source: mccance
+source_id: 17-689

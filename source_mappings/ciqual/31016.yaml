@@ -1,0 +1,8 @@
+canonical_ingredient_id: white_sugar
+confidence: 0.9
+label: Sucre blanc
+match_method: auto_ai
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '31016'

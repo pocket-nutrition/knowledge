@@ -1,0 +1,10 @@
+id: ice_cream_cone
+name_en: ice-cream cone
+name_fr: cornet à glace
+food_group: baked_good
+states:
+  raw:
+    portion_g: 96.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed

@@ -1,0 +1,12 @@
+id: lamb_neck
+name_en: lamb neck
+name_fr: cou d'agneau
+food_group: meat
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.034
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

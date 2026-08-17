@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-398
+canonical_ingredient_id: ox_heart
+label: Heart, ox, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: 10 samples
+  food_group: MG

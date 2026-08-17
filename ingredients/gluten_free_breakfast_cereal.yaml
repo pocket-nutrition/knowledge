@@ -1,0 +1,11 @@
+id: gluten_free_breakfast_cereal
+name_en: gluten-free breakfast cereal
+name_fr: céréale pour petit-déjeuner sans gluten
+food_group: cereal
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174571'
+canonical_ingredient_id: canned_pork
+label: Luncheon meat, pork, canned
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Sausages and Luncheon Meats

@@ -1,0 +1,13 @@
+id: angel_food_cake_mix
+name_en: angel food cake mix
+name_fr: préparation pour gâteau des anges
+serving_mode: weight
+food_group: other
+states:
+  cooked:
+    portion_g: 56.0
+    density_g_ml: 0.866
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: pretzel
+confidence: 0.9
+label: Pretzels, soft, from school lunch
+match_method: auto_ai
+meta:
+  wweia_category: Pretzels/snack mix
+source: usda
+source_id: '2708285'

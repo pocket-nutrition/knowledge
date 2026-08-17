@@ -1,0 +1,12 @@
+id: cress
+name_en: cress
+name_fr: cresson
+food_group: vegetable
+states:
+  raw:
+    portion_g: 135.0
+    density_g_ml: 1.012
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

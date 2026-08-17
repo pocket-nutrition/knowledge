@@ -1,0 +1,6 @@
+canonical_ingredient_id: sugar
+confidence: 0.75
+label: Sugar, NFS
+match_method: name_en_before_comma
+source: usda
+source_id: '2710257'

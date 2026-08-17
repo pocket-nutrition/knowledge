@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Crackers, Cuban
+match_method: auto_name
+meta:
+  wweia_category: Cookies and brownies
+source: usda
+source_id: '2708137'

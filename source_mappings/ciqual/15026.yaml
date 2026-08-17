@@ -1,0 +1,8 @@
+canonical_ingredient_id: pecan
+confidence: 0.8
+label: Noix de pécan, sans sel ajouté
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '15026'

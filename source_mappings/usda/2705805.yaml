@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Grilled cheese sandwich, cheddar cheese, on wheat bread
+match_method: auto_token
+meta:
+  category: Cheese sandwiches
+source: usda
+source_id: '2705805'

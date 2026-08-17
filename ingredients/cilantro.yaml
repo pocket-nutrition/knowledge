@@ -1,0 +1,20 @@
+id: cilantro
+name_en: cilantro
+name_fr: coriandre
+serving_mode: weight
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.23
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- coriander
+- coriander leaves
+- chinese parsley
+aliases_fr:
+- coriandre fraîche
+- persil arabe
+display_unit: g

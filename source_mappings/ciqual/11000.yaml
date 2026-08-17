@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '11000'
+canonical_ingredient_id: garlic
+label: Ail, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

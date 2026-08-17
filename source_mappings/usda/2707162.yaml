@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707162'
+canonical_ingredient_id: egg
+label: Egg, whole, fried, NS as to fat type
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Eggs and omelets

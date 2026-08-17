@@ -1,0 +1,8 @@
+canonical_ingredient_id: milk
+confidence: 0.8
+label: Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)
+match_method: auto_before_comma
+meta:
+  category: Dairy and Egg Products
+source: usda_foundation
+source_id: '746776'

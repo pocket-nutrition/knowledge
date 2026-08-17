@@ -1,0 +1,15 @@
+id: green_curry
+name_en: Green curry
+name_fr: curry vert
+serving_mode: measure
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 300.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- bowl
+- cup
+display_unit: g

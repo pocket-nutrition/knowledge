@@ -1,0 +1,8 @@
+canonical_ingredient_id: baby_cereal
+confidence: 0.9
+label: Baby Toddler cereal, NFS
+match_method: auto_ai
+meta:
+  wweia_category: 'Baby food: cereals'
+source: usda
+source_id: '2708498'

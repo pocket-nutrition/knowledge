@@ -1,0 +1,14 @@
+id: arame
+name_en: arame
+name_fr: aramé
+serving_mode: weight
+food_group: seaweed
+states:
+  processed:
+    portion_g: 10.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

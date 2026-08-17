@@ -1,0 +1,14 @@
+id: whole_wheat_roll
+name_en: Whole Wheat Roll
+name_fr: Pain à base de blé entier
+serving_mode: item
+unit_label_en: roll
+unit_label_fr: petit pain
+food_group: baked_good
+states:
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

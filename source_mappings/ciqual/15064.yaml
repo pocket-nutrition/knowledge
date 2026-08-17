@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '15064'
+canonical_ingredient_id: pumpkin_seed
+label: Courge, graine, séchée
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

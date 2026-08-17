@@ -1,0 +1,8 @@
+source: usda
+source_id: '2705754'
+canonical_ingredient_id: cottage_cheese
+label: Cheese, cottage, salted, dry curd
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Cottage/ricotta cheese

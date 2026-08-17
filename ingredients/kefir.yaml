@@ -1,0 +1,16 @@
+id: kefir
+name_en: kefir
+name_fr: kéfir
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 247.0
+    density_g_ml: 1.027
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

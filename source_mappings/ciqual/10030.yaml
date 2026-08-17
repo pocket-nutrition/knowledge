@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '10030'
+canonical_ingredient_id: crayfish
+label: Écrevisse, crue
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

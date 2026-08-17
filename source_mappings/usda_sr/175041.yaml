@@ -1,0 +1,8 @@
+canonical_ingredient_id: cream_of_tartar
+confidence: 0.65
+label: Leavening agents, cream of tartar
+match_method: auto_token
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '175041'

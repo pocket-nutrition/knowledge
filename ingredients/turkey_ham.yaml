@@ -1,0 +1,16 @@
+id: turkey_ham
+name_en: turkey ham
+name_fr: jambon de dinde
+serving_mode: item
+unit_label_en: slice
+unit_label_fr: tranche
+food_group: processed_meat
+states:
+  cooked: {}
+  processed:
+    portion_g: 30.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

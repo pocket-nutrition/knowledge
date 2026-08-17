@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708420'
+canonical_ingredient_id: yellow_rice
+label: Yellow rice, cooked, no added fat
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Rice

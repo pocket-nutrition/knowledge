@@ -1,0 +1,9 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Légumes pour potages, surgelés, crus
+match_method: auto_name
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumes
+source: ciqual
+source_id: '20263'

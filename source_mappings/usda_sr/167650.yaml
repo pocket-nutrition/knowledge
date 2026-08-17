@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '167650'
+canonical_ingredient_id: bearded_seal
+label: Seal, bearded (Oogruk), meat, partially dried (Alaska Native)
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

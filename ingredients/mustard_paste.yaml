@@ -1,0 +1,16 @@
+id: mustard_paste
+name_en: mustard paste
+name_fr: pâte de moutarde
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

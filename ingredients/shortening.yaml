@@ -1,0 +1,22 @@
+id: shortening
+name_en: shortening
+name_fr: graisse alimentaire
+serving_mode: measure
+food_group: fat
+states:
+  processed:
+    portion_g: 13.0
+    density_g_ml: 0.92
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- vegetable shortening
+aliases_fr:
+- graisse végétale solide
+serving_unit_types:
+- teaspoon
+- tablespoon
+- cup
+display_unit: g

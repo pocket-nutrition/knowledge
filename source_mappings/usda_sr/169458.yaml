@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Beef, top sirloin, steak, separable lean and fat, trimmed to 0" fat, choice,
+  cooked, broiled
+match_method: auto_before_comma
+meta:
+  category: Beef Products
+source: usda_sr
+source_id: '169458'

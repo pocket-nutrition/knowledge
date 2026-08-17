@@ -1,0 +1,11 @@
+id: eggplant
+name_en: eggplant
+name_fr: aubergine
+food_group: vegetable
+states:
+  raw:
+    portion_g: 458.0
+    density_g_ml: 1.038
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

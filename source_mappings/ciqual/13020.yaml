@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '13020'
+canonical_ingredient_id: gooseberry
+label: Groseille à maquereau, crue
+match_method: ai_review
+confidence: 0.9

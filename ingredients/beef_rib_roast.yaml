@@ -1,0 +1,13 @@
+id: beef_rib_roast
+name_en: beef rib roast
+name_fr: côtes de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

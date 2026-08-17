@@ -1,0 +1,13 @@
+id: mixed_greens
+name_en: mixed greens
+name_fr: mesclun
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

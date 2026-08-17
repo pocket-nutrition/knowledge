@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Fast foods, submarine sandwich, steak and cheese on white bread with cheese,
+  lettuce and tomato
+match_method: auto_name
+meta:
+  category: Fast Foods
+source: usda_sr
+source_id: '170311'

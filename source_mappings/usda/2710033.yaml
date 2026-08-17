@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710033'
+canonical_ingredient_id: _composite
+label: Broccoli, cauliflower and carrots, cooked, no added fat
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Other vegetables and combinations

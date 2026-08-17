@@ -1,0 +1,6 @@
+canonical_ingredient_id: camembert_cheese
+confidence: 0.7
+label: Camembert au lait cru ou thermisé
+match_method: name_fr_partial
+source: ciqual
+source_id: '12006'

@@ -1,0 +1,17 @@
+id: nance
+name_en: nance
+name_fr: nance
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 112.0
+    density_g_ml: 0.9
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- nanche
+aliases_fr:
+- nanche
+display_unit: g

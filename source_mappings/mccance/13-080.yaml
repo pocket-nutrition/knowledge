@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-080
+canonical_ingredient_id: cluster_bean
+label: Beans, cluster, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: 5 samples. Ends trimmed
+  food_group: DB

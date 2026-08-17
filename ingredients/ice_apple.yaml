@@ -1,0 +1,18 @@
+id: ice_apple
+name_en: ice-apple
+name_fr: fruit du palmier à sucre
+serving_mode: item
+unit_label_en: fruit
+unit_label_fr: fruit
+food_group: fruit
+states:
+  raw:
+    portion_g: 30.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- nungu
+- palmyra fruit
+- toddy palm fruit
+display_unit: g

@@ -1,0 +1,6 @@
+canonical_ingredient_id: pearl_barley
+confidence: 0.9
+label: Barley, pearl, raw
+match_method: auto_precise
+source: mccance
+source_id: 11-002

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708048'
+canonical_ingredient_id: _composite
+label: Pastry, made with bean or lotus seed paste filling, baked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Doughnuts, sweet rolls, pastries

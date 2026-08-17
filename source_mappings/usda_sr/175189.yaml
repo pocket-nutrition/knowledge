@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '175189'
+canonical_ingredient_id: cranberry_beans
+label: Beans, cranberry (roman), mature seeds, raw
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Legumes and Legume Products

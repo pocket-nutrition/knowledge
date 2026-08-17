@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Cookie aux pépites de chocolat et à la noix de coco, préemballé
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24687'

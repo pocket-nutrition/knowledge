@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Milk, whole, pasteurised, winter and spring
+match_method: auto_before_comma
+meta:
+  group: BAK
+source: mccance
+source_id: 12-597

@@ -1,0 +1,15 @@
+id: unpopped_popcorn
+name_en: unpopped popcorn
+name_fr: grains de maïs à éclater
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.75
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+display_unit: g

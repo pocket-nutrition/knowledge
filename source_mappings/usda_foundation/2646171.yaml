@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2646171'
+canonical_ingredient_id: chicken_thigh
+label: Chicken, thigh, boneless, skinless, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Poultry Products

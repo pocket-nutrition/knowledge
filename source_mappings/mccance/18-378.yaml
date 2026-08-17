@@ -1,0 +1,9 @@
+source: mccance
+source_id: 18-378
+canonical_ingredient_id: grouse
+label: Grouse, meat only, roasted, weighed with bone
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: MCG

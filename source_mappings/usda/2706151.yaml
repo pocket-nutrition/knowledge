@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706151'
+canonical_ingredient_id: _composite
+label: Baby Toddler chicken
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: 'Baby food: meat and dinners'

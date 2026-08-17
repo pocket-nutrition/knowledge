@@ -1,0 +1,6 @@
+canonical_ingredient_id: doughnut
+confidence: 0.75
+label: Doughnut, chocolate, with chocolate icing
+match_method: name_en_before_comma
+source: usda
+source_id: '2708068'

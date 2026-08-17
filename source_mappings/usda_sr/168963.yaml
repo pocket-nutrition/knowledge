@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Turnover, filled with egg, meat and cheese, frozen
+match_method: auto_name
+meta:
+  category: Meals, Entrees, and Side Dishes
+source: usda_sr
+source_id: '168963'

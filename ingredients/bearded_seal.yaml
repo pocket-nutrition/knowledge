@@ -1,0 +1,11 @@
+id: bearded_seal
+name_en: bearded seal meat
+name_fr: phoque barbu
+food_group: meat
+states:
+  raw:
+    portion_g: 130.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

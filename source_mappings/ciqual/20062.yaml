@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '20062'
+canonical_ingredient_id: canned_green_bean
+label: Haricot vert, appertisé, égoutté
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

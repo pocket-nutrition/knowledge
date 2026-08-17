@@ -1,0 +1,13 @@
+id: strawberry
+name_en: strawberry
+name_fr: fraise
+name_en_plural: Strawberries
+name_fr_plural: fraises
+food_group: fruit
+states:
+  raw:
+    portion_g: 185.0
+    density_g_ml: 1.032
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

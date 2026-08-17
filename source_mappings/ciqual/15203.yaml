@@ -1,0 +1,8 @@
+canonical_ingredient_id: tahini
+confidence: 0.9
+label: Tahin ou purée de sésame
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '15203'

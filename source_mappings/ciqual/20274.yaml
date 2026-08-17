@@ -1,0 +1,10 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Poêlée de légumes assaisonnés grillée, méridionale ou méditerranéenne, surgelée,
+  crue
+match_method: auto_name
+meta:
+  group: entrées et plats composés
+  subgroup: plats composés
+source: ciqual
+source_id: '20274'

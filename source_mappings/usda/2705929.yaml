@@ -1,0 +1,8 @@
+canonical_ingredient_id: chicken
+confidence: 0.9
+label: Chicken, NS as to part and cooking method, NS as to skin eaten
+match_method: auto_ai
+meta:
+  wweia_category: Chicken, whole pieces
+source: usda
+source_id: '2705929'

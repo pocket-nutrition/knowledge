@@ -1,0 +1,9 @@
+source: usda
+source_id: '2708353'
+canonical_ingredient_id: pasta
+label: Noodles, whole grain, cooked
+cooking_method: boiled
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Pasta, noodles, cooked grains

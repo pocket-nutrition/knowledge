@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Fast foods, submarine sandwich, roast beef on white bread with lettuce and
+  tomato
+match_method: auto_token
+meta:
+  category: Fast Foods
+source: usda_sr
+source_id: '170298'

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707399'
+canonical_ingredient_id: canned_bean
+label: Refried beans, from canned, reduced sodium
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Beans, peas, legumes

@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Fromage à pâte molle à croûte lavée, au lait pasteurisé (type Vieux Pané)
+match_method: auto_name
+meta:
+  group: produits laitiers et assimilés
+source: ciqual
+source_id: '12047'

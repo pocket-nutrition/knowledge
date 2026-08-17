@@ -1,0 +1,6 @@
+canonical_ingredient_id: cheese
+confidence: 0.75
+label: Cheese, paneer
+match_method: name_en_before_comma
+source: usda
+source_id: '2705740'

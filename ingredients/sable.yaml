@@ -1,0 +1,8 @@
+id: sable
+name_en: sable
+name_fr: sable
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+typical_state: raw

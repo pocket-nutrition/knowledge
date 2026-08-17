@@ -1,0 +1,8 @@
+canonical_ingredient_id: pressed_cheese
+confidence: 0.9
+label: Fromage à pâte pressée non cuite, enrobé de cire, non allégé en matière grasse
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12720'

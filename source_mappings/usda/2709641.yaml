@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709641'
+canonical_ingredient_id: bitter_melon
+label: Bitter melon, horseradish, jute, or radish leaves, cooked
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Other dark green vegetables

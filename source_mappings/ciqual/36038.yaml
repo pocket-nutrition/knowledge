@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36038'
+canonical_ingredient_id: chicken_leg
+label: Poulet, cuisse, viande et peau crues label rouge
+cooking_method: raw
+match_method: manual
+confidence: 1.0
+meta:
+  group: viandes, oeufs, poissons

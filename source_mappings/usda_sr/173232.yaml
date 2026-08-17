@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '173232'
+canonical_ingredient_id: herbal_tea
+label: Beverages, tea, herb, other than chamomile, brewed
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

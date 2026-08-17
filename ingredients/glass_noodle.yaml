@@ -1,0 +1,12 @@
+id: glass_noodle
+name_en: glass noodle
+name_fr: vermicelles de soja
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 100.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

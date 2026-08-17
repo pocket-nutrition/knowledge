@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13201'
+canonical_ingredient_id: pineapple
+label: Ananas Victoria ou Queen Victoria, chair sans peau, crue, prélevé à La Réunion
+cooking_method: raw
+match_method: name_fr_partial
+confidence: 0.7

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174663'
+canonical_ingredient_id: breakfast_cereal
+label: Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, pecan bunches
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Breakfast Cereals

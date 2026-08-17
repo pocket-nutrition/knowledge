@@ -1,0 +1,8 @@
+canonical_ingredient_id: dairy_fat_spread
+confidence: 0.9
+label: Matière grasse laitière à 25% MG, légère, "à tartiner", doux
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '16712'

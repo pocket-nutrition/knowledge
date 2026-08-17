@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20018'
+canonical_ingredient_id: hearts_of_palm
+label: Coeur de palmier, appertisé, égoutté
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

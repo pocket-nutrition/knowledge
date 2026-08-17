@@ -1,0 +1,16 @@
+id: mole_sauce
+name_en: mole sauce
+name_fr: sauce mole
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

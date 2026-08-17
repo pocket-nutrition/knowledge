@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '746759'
+canonical_ingredient_id: beef
+label: Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, choice, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Beef Products

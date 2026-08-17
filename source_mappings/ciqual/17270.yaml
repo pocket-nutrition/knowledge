@@ -1,0 +1,8 @@
+canonical_ingredient_id: extra_virgin_olive_oil
+confidence: 0.95
+label: Huile d'olive vierge extra
+match_method: auto_exact
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '17270'

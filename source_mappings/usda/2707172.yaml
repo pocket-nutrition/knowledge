@@ -1,0 +1,7 @@
+source: usda
+source_id: '2707172'
+canonical_ingredient_id: egg_yolk
+label: Egg, yolk only, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9

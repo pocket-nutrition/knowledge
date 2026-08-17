@@ -1,0 +1,8 @@
+canonical_ingredient_id: wholegrain_mustard
+confidence: 0.95
+label: Moutarde à l'ancienne
+match_method: auto_exact
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '11021'

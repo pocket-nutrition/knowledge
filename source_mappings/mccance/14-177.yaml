@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Ortaniques, flesh only
+match_method: auto_name
+meta:
+  group: FA
+source: mccance
+source_id: 14-177

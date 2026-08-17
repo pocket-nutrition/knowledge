@@ -1,0 +1,14 @@
+id: betel_leaf
+name_en: betel leaf
+name_fr: feuille de bétel
+serving_mode: item
+unit_label_en: leaf
+unit_label_fr: feuille
+food_group: vegetable
+states:
+  raw:
+    portion_g: 3.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

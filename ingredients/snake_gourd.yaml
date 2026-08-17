@@ -1,0 +1,14 @@
+id: snake_gourd
+name_en: snake gourd
+name_fr: courge serpent
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- serpent gourd
+display_unit: g

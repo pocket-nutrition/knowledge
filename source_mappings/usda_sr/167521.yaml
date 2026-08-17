@@ -1,0 +1,8 @@
+canonical_ingredient_id: pie_crust
+confidence: 0.8
+label: Pie Crust, Cookie-type, Chocolate, Ready Crust
+match_method: auto_before_comma
+meta:
+  category: Baked Products
+source: usda_sr
+source_id: '167521'

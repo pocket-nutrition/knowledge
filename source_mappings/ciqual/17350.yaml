@@ -1,0 +1,8 @@
+canonical_ingredient_id: grape_seed_oil
+confidence: 0.9
+label: Huile de pépins de raisin
+match_method: auto_ai
+meta:
+  group: matières grasses
+source: ciqual
+source_id: '17350'

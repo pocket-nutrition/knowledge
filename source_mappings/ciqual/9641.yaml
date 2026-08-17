@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '9641'
+canonical_ingredient_id: corn_bran
+label: Son de maïs
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: aides culinaires et ingrédients divers

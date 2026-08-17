@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '170921'
+canonical_ingredient_id: dried_cilantro
+label: Spices, coriander leaf, dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Spices and Herbs

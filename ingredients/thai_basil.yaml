@@ -1,0 +1,12 @@
+id: thai_basil
+name_en: thai basil
+name_fr: basilic thaï
+serving_mode: weight
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 5.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

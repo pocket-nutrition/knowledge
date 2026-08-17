@@ -1,0 +1,11 @@
+id: onion_salad_dressing
+name_en: onion salad dressing
+name_fr: vinaigrette à l'oignon
+food_group: sauce
+states:
+  raw:
+    portion_g: 136.0
+    density_g_ml: 1.15
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

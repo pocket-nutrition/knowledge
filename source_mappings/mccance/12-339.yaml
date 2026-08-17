@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Cream, dairy, UHT, half fat, canned spray
+match_method: auto_before_comma
+meta:
+  group: BJP
+source: mccance
+source_id: 12-339

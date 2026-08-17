@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '21523'
+canonical_ingredient_id: lamb
+label: Agneau, viande, cuite (aliment moyen)
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

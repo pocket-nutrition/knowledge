@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '19572'
+canonical_ingredient_id: _composite
+label: Fromage frais type petit suisse, aromatisé chocolat, sucré
+match_method: name_fr_partial
+confidence: 0.7

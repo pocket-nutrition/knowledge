@@ -1,0 +1,8 @@
+food_group: vegetable
+id: black_eye_beans
+name_en: Black-eyed peas
+name_fr: Haricots noirs à œil de chat
+states:
+  raw:
+    portion_g: 80
+typical_state: raw

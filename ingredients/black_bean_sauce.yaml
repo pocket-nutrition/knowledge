@@ -1,0 +1,16 @@
+id: black_bean_sauce
+name_en: black bean sauce
+name_fr: sauce aux haricots noirs
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.1
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

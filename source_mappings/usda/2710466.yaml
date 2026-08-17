@@ -1,0 +1,6 @@
+source: usda
+source_id: '2710466'
+canonical_ingredient_id: _composite
+label: Coffee, pre-sweetened with sugar
+match_method: name_en_before_comma
+confidence: 0.75

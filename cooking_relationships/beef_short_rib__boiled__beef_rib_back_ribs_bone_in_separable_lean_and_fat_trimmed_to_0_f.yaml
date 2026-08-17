@@ -1,0 +1,7 @@
+confidence: 0.75
+cooking_method: boiled
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Beef, rib, back
+  ribs, bone-in, separable lean and fat, trimmed to 0" fat, all grades / Braised
+raw_id: beef_short_rib
+source: usda_yield_mp_r2
+yield_factor: 0.753

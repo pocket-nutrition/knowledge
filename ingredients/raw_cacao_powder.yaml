@@ -1,0 +1,16 @@
+id: raw_cacao_powder
+name_en: raw cacao powder
+name_fr: poudre de cacao brut
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 5.0
+    density_g_ml: 0.45
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

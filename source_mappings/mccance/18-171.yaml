@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Lamb, shoulder, raw, lean and fat, weighed with bone
+match_method: auto_ai
+meta:
+  description: Calculated from 18-170
+  food_group: MAE
+source: mccance
+source_id: 18-171

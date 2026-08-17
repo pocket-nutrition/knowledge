@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707364'
+canonical_ingredient_id: canned_black_bean
+label: Black beans, from canned, reduced sodium
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Beans, peas, legumes

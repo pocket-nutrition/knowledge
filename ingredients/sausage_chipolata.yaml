@@ -1,0 +1,17 @@
+id: sausage_chipolata
+name_en: chipolata sausage
+name_fr: chipolata
+serving_mode: item
+unit_label_en: sausage
+unit_label_fr: saucisse
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 45.0
+    density_g_ml: 1.027
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- chipolata
+display_unit: g

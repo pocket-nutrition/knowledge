@@ -1,0 +1,17 @@
+id: radish_sprout
+name_en: radish sprout
+name_fr: radis germé
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 25.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- sprouted radish seeds
+aliases_fr:
+- pousses de radis
+- graines germées de radis
+display_unit: g

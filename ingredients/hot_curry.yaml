@@ -1,0 +1,17 @@
+id: hot_curry
+name_en: hot curry
+name_fr: curry épicé
+serving_mode: measure
+food_group: prepared_dish
+states:
+  cooked:
+    portion_g: 300.0
+    density_g_ml: 1.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

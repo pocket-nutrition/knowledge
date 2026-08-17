@@ -1,0 +1,13 @@
+id: turkey_heart
+name_en: turkey heart
+name_fr: cœur de dinde
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.043
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Chicken, light meat, raw
+match_method: auto_ai
+meta:
+  description: 31 samples, fresh and frozen
+  food_group: MCA
+source: mccance
+source_id: 18-290

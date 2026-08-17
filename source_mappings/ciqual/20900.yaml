@@ -1,0 +1,6 @@
+canonical_ingredient_id: soy_flour
+confidence: 0.9
+label: Farine de soja
+match_method: auto_ai
+source: ciqual
+source_id: '20900'

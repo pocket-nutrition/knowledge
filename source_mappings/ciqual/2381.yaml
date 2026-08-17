@@ -1,0 +1,8 @@
+canonical_ingredient_id: cranberry_juice
+confidence: 0.9
+label: Jus de canneberge ou cranberry
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '2381'

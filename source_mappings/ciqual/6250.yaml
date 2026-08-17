@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '6250'
+canonical_ingredient_id: ground_beef_5pct
+label: Boeuf, steak haché 5% MG, cru
+cooking_method: raw
+match_method: ciqual_pair_generator
+confidence: 0.8

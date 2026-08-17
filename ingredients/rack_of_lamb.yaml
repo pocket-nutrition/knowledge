@@ -1,0 +1,10 @@
+id: rack_of_lamb
+name_en: rack of lamb
+name_fr: carré d'agneau
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

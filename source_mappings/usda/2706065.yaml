@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706065'
+canonical_ingredient_id: chicken_wing
+label: Chicken wing, fried, coated, from raw
+cooking_method: fried
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Chicken, whole pieces

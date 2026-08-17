@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '9121'
+canonical_ingredient_id: _composite
+label: Riz, mélange de variétés (blanc, complet, rouge, sauvage, etc.), cru
+match_method: name_fr_before_comma
+confidence: 0.8

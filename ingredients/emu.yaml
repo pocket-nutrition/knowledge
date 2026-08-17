@@ -1,0 +1,10 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: meat
+id: emu
+name_en: emu
+name_fr: émeu
+states:
+  cooked:
+    portion_g: 150
+typical_state: grilled

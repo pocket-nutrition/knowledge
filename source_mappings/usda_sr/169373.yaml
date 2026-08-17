@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169373'
+canonical_ingredient_id: red_bell_pepper
+label: Peppers, sweet, red, freeze-dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '11025'
+canonical_ingredient_id: cinnamon
+label: Cannelle, poudre
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: aides culinaires et ingrédients divers

@@ -1,0 +1,16 @@
+id: bottarga
+name_en: bottarga
+name_fr: poutargue
+serving_mode: measure
+food_group: fish
+states:
+  cooked: {}
+  processed:
+    portion_g: 10.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: g

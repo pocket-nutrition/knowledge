@@ -1,0 +1,8 @@
+canonical_ingredient_id: egg_white
+confidence: 0.92
+label: Egg, white, dried
+match_method: auto_precise
+meta:
+  category: Dairy and Egg Products
+source: usda_sr
+source_id: '172204'

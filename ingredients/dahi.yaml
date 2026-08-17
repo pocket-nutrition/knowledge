@@ -1,0 +1,20 @@
+id: dahi
+name_en: dahi
+name_fr: dahi
+serving_mode: weight
+food_group: dairy
+states:
+  processed:
+    portion_g: 125.0
+    density_g_ml: 1.03
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- curd
+aliases_fr:
+- yaourt indien
+serving_unit_types:
+- tablespoon
+display_unit: g

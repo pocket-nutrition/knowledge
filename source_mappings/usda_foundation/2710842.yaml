@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2710842'
+canonical_ingredient_id: sorghum
+label: Sorghum, whole grain, white, dry, raw
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

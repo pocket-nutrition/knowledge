@@ -1,0 +1,14 @@
+id: baby_squash
+name_en: baby squash
+name_fr: courge miniature
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- jeune courge
+display_unit: g

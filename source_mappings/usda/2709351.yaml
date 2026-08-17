@@ -1,0 +1,6 @@
+canonical_ingredient_id: vinegar
+confidence: 0.9
+label: Vinegar
+match_method: name_en_exact
+source: usda
+source_id: '2709351'

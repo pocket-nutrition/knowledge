@@ -1,0 +1,10 @@
+id: prepared_crab_cake
+name_en: prepared crab cake
+name_fr: gâteau de crabe
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 38.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

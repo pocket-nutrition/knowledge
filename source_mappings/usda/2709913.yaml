@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709913'
+canonical_ingredient_id: corn
+label: Corn, NS as to form, cooked
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Corn

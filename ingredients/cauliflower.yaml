@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: vegetable
+id: cauliflower
+name_en: cauliflower
+name_fr: chou-fleur
+states:
+  raw:
+    density_g_ml: 1.015
+    portion_g: 180
+typical_state: raw

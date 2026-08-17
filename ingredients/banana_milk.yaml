@@ -1,0 +1,13 @@
+id: banana_milk
+name_en: banana milk
+name_fr: lait de banane
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 127.0
+    density_g_ml: 1.03
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: ml

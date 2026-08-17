@@ -1,0 +1,8 @@
+canonical_ingredient_id: blue_cheese
+confidence: 0.9
+label: Fromage bleu de Bresse
+match_method: auto_ai
+meta:
+  group: produits laitiers et assimilés
+source: ciqual
+source_id: '12527'

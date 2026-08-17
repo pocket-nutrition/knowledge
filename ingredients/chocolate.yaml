@@ -1,0 +1,13 @@
+id: chocolate
+name_en: chocolate
+name_fr: chocolat
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 65.0
+    density_g_ml: 1.251
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

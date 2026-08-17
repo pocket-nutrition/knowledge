@@ -1,0 +1,13 @@
+id: pulled_chicken
+name_en: pulled chicken
+name_fr: poulet effiloché
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 100.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

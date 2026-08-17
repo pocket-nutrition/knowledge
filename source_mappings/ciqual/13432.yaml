@@ -1,0 +1,6 @@
+canonical_ingredient_id: bitter_orange
+confidence: 0.8
+label: Orange amère, chair sans peau, sans pépins, crue, prélevée à la Martinique
+match_method: name_fr_before_comma
+source: ciqual
+source_id: '13432'

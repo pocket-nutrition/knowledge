@@ -1,0 +1,8 @@
+canonical_ingredient_id: focaccia
+confidence: 0.8
+label: Focaccia, garnie
+match_method: auto_before_comma
+meta:
+  group: entrées et plats composés
+source: ciqual
+source_id: '7811'

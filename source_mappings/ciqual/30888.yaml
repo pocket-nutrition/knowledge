@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Marmelade ou confiture d'autres agrumes ou mélange d'agrumes (extra ou classique)
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '30888'

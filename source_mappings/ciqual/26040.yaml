@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26040'
+canonical_ingredient_id: sardine
+label: Sardine, à l'huile d'olive, appertisée, égouttée
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

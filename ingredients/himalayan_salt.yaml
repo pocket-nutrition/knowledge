@@ -1,0 +1,16 @@
+id: himalayan_salt
+name_en: himalayan salt
+name_fr: sel de l'Himalaya
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 1.2
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

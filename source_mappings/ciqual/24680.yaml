@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Biscuit moelleux fourré à l'orange et enrobé de sucre glace
+match_method: auto_name
+meta:
+  group: produits sucrés
+source: ciqual
+source_id: '24680'

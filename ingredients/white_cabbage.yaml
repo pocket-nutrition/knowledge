@@ -1,0 +1,13 @@
+id: white_cabbage
+name_en: white cabbage
+name_fr: chou blanc
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.4
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

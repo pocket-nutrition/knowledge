@@ -1,0 +1,8 @@
+canonical_ingredient_id: chocolate_spread
+confidence: 0.95
+label: Chocolate spread
+match_method: auto_exact
+meta:
+  group: SC
+source: mccance
+source_id: 17-659

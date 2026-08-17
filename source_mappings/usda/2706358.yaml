@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706358'
+canonical_ingredient_id: scallop
+label: Scallops, steamed or boiled
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Shellfish

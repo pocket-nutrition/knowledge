@@ -1,0 +1,6 @@
+canonical_ingredient_id: biscuit
+confidence: 0.7
+label: Biscuit sec nature
+match_method: name_fr_partial
+source: ciqual
+source_id: '24001'

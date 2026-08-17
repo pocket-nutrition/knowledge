@@ -1,0 +1,9 @@
+canonical_ingredient_id: jackfish
+confidence: 0.9
+label: Jackfish, raw
+match_method: auto_ai
+meta:
+  description: Data from Seafish Industry Authority and literature sources
+  food_group: JC
+source: mccance
+source_id: 16-185

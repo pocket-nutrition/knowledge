@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Pie, Cottage/Shepherd's, reheated
+match_method: auto_name
+meta:
+  group: MR
+source: mccance
+source_id: 19-494

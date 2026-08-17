@@ -1,0 +1,8 @@
+canonical_ingredient_id: sunflower_seed
+confidence: 0.9
+label: Sunflower seeds, plain, unsalted
+match_method: auto_ai
+meta:
+  wweia_category: Nuts and seeds
+source: usda
+source_id: '2707582'

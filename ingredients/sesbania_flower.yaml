@@ -1,0 +1,17 @@
+id: sesbania_flower
+name_en: sesbania flower
+name_fr: fleur de sesbanie
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 20.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- agati flower
+- hummingbird tree flower
+aliases_fr:
+- fleur d'agati
+display_unit: g

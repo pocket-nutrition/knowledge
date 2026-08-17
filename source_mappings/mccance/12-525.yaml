@@ -1,0 +1,8 @@
+canonical_ingredient_id: feta_cheese
+confidence: 0.9
+label: Cheese, Feta
+match_method: auto_precise
+meta:
+  group: BL
+source: mccance
+source_id: 12-525

@@ -1,0 +1,18 @@
+id: wheat_flakes
+name_en: wheat flakes
+name_fr: flocons de blé
+serving_mode: weight
+food_group: cereal
+states:
+  processed:
+    portion_g: 40.0
+    density_g_ml: 0.4
+  raw:
+    portion_g: 60.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Bass, sea, flesh only, raw, weighed with bones and skin
+match_method: auto_ai
+meta:
+  description: Calculated from 16-385 using edible conversion factor of 0.86
+  food_group: JA
+source: mccance
+source_id: 16-464

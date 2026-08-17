@@ -1,0 +1,8 @@
+source: usda_foundation
+source_id: '746775'
+canonical_ingredient_id: salt
+label: Salt, table, iodized
+match_method: manual
+confidence: 1.0
+meta:
+  category: Spices and Herbs

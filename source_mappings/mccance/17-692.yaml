@@ -1,0 +1,8 @@
+canonical_ingredient_id: popcorn
+confidence: 0.92
+label: Popcorn, salted, retail
+match_method: auto_precise
+meta:
+  group: SN
+source: mccance
+source_id: 17-692

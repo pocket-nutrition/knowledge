@@ -1,0 +1,13 @@
+id: caesar_s_mushroom
+name_en: caesar's mushroom
+name_fr: oronge
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked: {}
+  raw:
+    portion_g: 80.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

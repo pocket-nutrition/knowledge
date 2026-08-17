@@ -1,0 +1,15 @@
+confidence: 0.75
+cooking_method: cooked
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Pork, cured, bacon
+  / Microwaved
+nutrient_retention:
+  iron_mg: 0.94
+  niacin_mg: 0.78
+  phosphorus_mg: 0.85
+  potassium_mg: 0.78
+  vitamin_b12_ug: 0.82
+  vitamin_b6_mg: 0.71
+  zinc_mg: 0.94
+raw_id: smoked_pork_bacon
+source: usda_yield_mp_r2
+yield_factor: 0.29

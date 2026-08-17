@@ -1,0 +1,8 @@
+canonical_ingredient_id: rice_bran
+confidence: 0.9
+label: Son de riz
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '9643'

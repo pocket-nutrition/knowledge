@@ -1,0 +1,15 @@
+confidence: 0.85
+cooking_method: steamed
+nutrient_retention:
+  calcium_mg: 0.95
+  iron_mg: 0.95
+  magnesium_mg: 0.88
+  niacin_mg: 0.85
+  phosphorus_mg: 0.88
+  potassium_mg: 0.87
+  vitamin_b6_mg: 0.75
+  vitamin_c_mg: 0.72
+  zinc_mg: 0.95
+raw_id: lambsquarters
+source: usda_sr_pair
+yield_factor: 0.9792

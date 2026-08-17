@@ -1,0 +1,12 @@
+id: crispy_chicken_strip
+name_en: crispy chicken strip
+name_fr: aiguillette de poulet panée
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 30.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

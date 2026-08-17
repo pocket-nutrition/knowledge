@@ -1,0 +1,15 @@
+id: gajjeralla
+name_en: gajrela
+name_fr: gajar halwa
+serving_mode: weight
+food_group: prepared_dish
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.9
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- gajar halwa
+- carrot halwa

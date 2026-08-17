@@ -1,0 +1,8 @@
+canonical_ingredient_id: potato
+confidence: 0.9
+label: Potatoes, russet, without skin, raw
+match_method: auto_ai
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_foundation
+source_id: '2346401'

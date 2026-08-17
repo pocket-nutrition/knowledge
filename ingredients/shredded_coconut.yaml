@@ -1,0 +1,17 @@
+id: shredded_coconut
+name_en: shredded coconut
+name_fr: noix de coco râpée
+serving_mode: weight
+food_group: nut_seed
+states:
+  cooked: {}
+  processed:
+    portion_g: 15.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

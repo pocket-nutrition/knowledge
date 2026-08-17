@@ -1,0 +1,8 @@
+canonical_ingredient_id: tete_de_moine
+confidence: 0.9
+label: Tête de moine
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12764'

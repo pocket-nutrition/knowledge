@@ -1,0 +1,15 @@
+id: maple_butter
+name_en: maple butter
+name_fr: beurre d'érable
+serving_mode: measure
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

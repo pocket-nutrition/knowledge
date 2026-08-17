@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709199'
+canonical_ingredient_id: dried_cherry
+label: Cherries, dried
+cooking_method: dry
+match_method: auto_ai
+confidence: 0.9
+meta:
+  wweia_category: Dried fruits

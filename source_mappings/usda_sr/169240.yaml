@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Kale, frozen, cooked, boiled, drained, without salt
+match_method: auto_before_comma
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '169240'

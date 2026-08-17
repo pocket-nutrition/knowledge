@@ -1,0 +1,13 @@
+id: goji_berry
+name_en: goji berry
+name_fr: baie de goji
+name_en_plural: Goji berries
+food_group: fruit
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.6
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

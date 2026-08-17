@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2684445'
+canonical_ingredient_id: fish_raw
+label: Fish, catfish, farm raised, raw
+cooking_method: raw
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Finfish and Shellfish Products

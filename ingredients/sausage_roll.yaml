@@ -1,0 +1,15 @@
+id: sausage_roll
+name_en: sausage roll
+name_fr: friand à la saucisse
+serving_mode: item
+unit_label_en: roll
+unit_label_fr: friand
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 100.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2710797'
+canonical_ingredient_id: button_mushroom
+label: Mushrooms, cooked, as ingredient
+cooking_method: grilled
+match_method: manual
+confidence: 1.0
+meta:
+  category: Not included in a food category

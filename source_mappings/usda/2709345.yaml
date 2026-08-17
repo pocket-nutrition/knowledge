@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709345'
+canonical_ingredient_id: nectar
+label: Mango nectar
+match_method: ai_review
+confidence: 0.9

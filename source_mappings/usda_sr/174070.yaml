@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Sauce, peanut, made from peanut butter, water, soy sauce
+match_method: auto_token
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_sr
+source_id: '174070'

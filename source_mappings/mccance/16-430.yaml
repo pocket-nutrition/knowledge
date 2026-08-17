@@ -1,0 +1,9 @@
+source: mccance
+source_id: 16-430
+canonical_ingredient_id: coley
+label: Coley, flesh only, grilled
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: JA

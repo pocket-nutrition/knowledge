@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '25992'
+canonical_ingredient_id: smoked_salmon
+label: Saumon fumé, aux cinq baies
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

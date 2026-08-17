@@ -1,0 +1,16 @@
+id: curry_sauce
+name_en: curry sauce
+name_fr: sauce au curry
+serving_mode: volume
+food_group: sauce
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: ml

@@ -1,0 +1,13 @@
+id: salmon_trout
+name_en: salmon trout
+name_fr: truite saumonée
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.053
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

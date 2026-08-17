@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '13499'
+canonical_ingredient_id: jackfruit
+label: Fruit du jacquier ou jacque, chair sans peau, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits

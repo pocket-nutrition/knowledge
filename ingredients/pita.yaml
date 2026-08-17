@@ -1,0 +1,19 @@
+id: pita
+name_en: pita
+name_fr: pita
+serving_mode: item
+unit_label_en: pita
+unit_label_fr: pita
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 60.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+aliases_en:
+- pita bread
+aliases_fr:
+- pain pita
+display_unit: g

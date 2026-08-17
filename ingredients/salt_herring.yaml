@@ -1,0 +1,15 @@
+id: salt_herring
+name_en: salt herring
+name_fr: hareng salé
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  processed:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- hareng saur
+display_unit: g

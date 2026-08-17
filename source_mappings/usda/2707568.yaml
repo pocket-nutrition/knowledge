@@ -1,0 +1,6 @@
+canonical_ingredient_id: coconut_milk
+confidence: 0.75
+label: Coconut milk, used in cooking
+match_method: name_en_before_comma
+source: usda
+source_id: '2707568'

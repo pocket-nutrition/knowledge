@@ -1,0 +1,10 @@
+source: usda_sr
+source_id: '170596'
+canonical_ingredient_id: cottonseed_kernel
+label: Seeds, cottonseed kernels, roasted (glandless)
+cooking_method: roasted
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Nut and Seed Products
+notes: Roasted cottonseed kernels (glandless)

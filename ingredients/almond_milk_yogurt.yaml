@@ -1,0 +1,13 @@
+id: almond_milk_yogurt
+name_en: almond-milk yogurt
+name_fr: yaourt au lait d'amande
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.082
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

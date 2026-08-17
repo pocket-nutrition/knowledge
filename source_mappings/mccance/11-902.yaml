@@ -1,0 +1,9 @@
+canonical_ingredient_id: couscous
+confidence: 0.92
+cooking_method: cooked
+label: Couscous, plain, cooked
+match_method: auto_precise
+meta:
+  group: AT
+source: mccance
+source_id: 11-902

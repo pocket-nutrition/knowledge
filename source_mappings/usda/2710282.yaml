@@ -1,0 +1,8 @@
+canonical_ingredient_id: agave_nectar
+confidence: 0.9
+label: Agave liquid sweetener
+match_method: auto_ai
+meta:
+  wweia_category: Sugars and honey
+source: usda
+source_id: '2710282'

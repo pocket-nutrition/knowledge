@@ -1,0 +1,12 @@
+id: spice_cake
+name_en: spice cake
+name_fr: gâteau aux épices
+food_group: baked_good
+states:
+  cooked:
+    portion_g: 80.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '28003'
+canonical_ingredient_id: pork_loin
+label: Porc, longe, crue
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, œufs, poissons et assimilés
+  subgroup: viandes crues

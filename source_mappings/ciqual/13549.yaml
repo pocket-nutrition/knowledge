@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '13549'
+canonical_ingredient_id: kumquat
+label: Kumquat, chair et peau, sans pépin, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

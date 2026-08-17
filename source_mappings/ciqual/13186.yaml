@@ -1,0 +1,8 @@
+canonical_ingredient_id: black_olive
+confidence: 0.9
+label: Olive noire (aliment moyen)
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '13186'

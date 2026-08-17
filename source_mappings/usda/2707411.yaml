@@ -1,0 +1,8 @@
+source: usda
+source_id: '2707411'
+canonical_ingredient_id: _composite
+label: Chili, vegetarian
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  wweia_category: Bean, pea, legume dishes

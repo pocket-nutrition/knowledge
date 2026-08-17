@@ -1,0 +1,21 @@
+id: cornmeal
+name_en: cornmeal
+name_fr: semoule de maïs
+serving_mode: weight
+food_group: cereal
+states:
+  cooked:
+    portion_g: 122.0
+    density_g_ml: 1.0
+  processed:
+    portion_g: 45.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- polenta
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

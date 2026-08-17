@@ -1,0 +1,7 @@
+source: usda
+source_id: '2708415'
+canonical_ingredient_id: cream_of_rice
+label: Cream of rice
+cooking_method: dry
+match_method: name_en_exact
+confidence: 0.9

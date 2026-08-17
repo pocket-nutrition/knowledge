@@ -1,0 +1,6 @@
+canonical_ingredient_id: cheese
+confidence: 0.7
+label: Fromage frais type petit suisse, nature, 0% MG
+match_method: name_fr_partial
+source: ciqual
+source_id: '19663'

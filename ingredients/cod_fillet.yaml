@@ -1,0 +1,21 @@
+id: cod_fillet
+name_en: cod fillet
+name_fr: cabillaud
+serving_mode: item
+unit_label_en: fillet
+unit_label_fr: filet
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.064
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- cod
+- cod loin
+aliases_fr:
+- filet de cabillaud
+- morue fraîche
+display_unit: g

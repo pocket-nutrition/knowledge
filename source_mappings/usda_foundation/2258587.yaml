@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2258587'
+canonical_ingredient_id: baby_carrot
+label: Carrots, baby, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '171334'
+canonical_ingredient_id: creamed_corn
+label: Babyfood, vegetables, corn, creamed, junior
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Baby Foods

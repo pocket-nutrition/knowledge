@@ -1,0 +1,12 @@
+id: sodium_alginate
+name_en: sodium alginate
+name_fr: alginate de sodium
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 2.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '168059'
+canonical_ingredient_id: steelhead_trout
+label: Steelhead trout, dried, flesh (Shoshone Bannock)
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: American Indian/Alaska Native Foods

@@ -1,0 +1,12 @@
+id: soup_bone
+name_en: soup bone
+name_fr: os à moelle
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

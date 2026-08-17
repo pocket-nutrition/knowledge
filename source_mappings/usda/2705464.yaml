@@ -1,0 +1,8 @@
+canonical_ingredient_id: plain_yogurt
+confidence: 0.9
+label: Baby Toddler yogurt, plain
+match_method: auto_ai
+meta:
+  wweia_category: 'Baby food: yogurt'
+source: usda
+source_id: '2705464'

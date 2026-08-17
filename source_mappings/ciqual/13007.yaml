@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '13007'
+canonical_ingredient_id: blackcurrant
+label: Cassis, cru
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: fruits

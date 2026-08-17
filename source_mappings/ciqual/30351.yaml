@@ -1,0 +1,8 @@
+canonical_ingredient_id: salami
+confidence: 0.9
+label: Salami pur porc
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '30351'

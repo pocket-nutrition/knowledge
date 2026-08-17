@@ -1,0 +1,22 @@
+id: berry_juice
+name_en: berry juice
+name_fr: jus de baies
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.05
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- mixed berry juice
+- berry blend juice
+aliases_fr:
+- jus de fruits rouges
+- jus de baies mélangées
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

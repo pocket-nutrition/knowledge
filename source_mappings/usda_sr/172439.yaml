@@ -1,0 +1,8 @@
+canonical_ingredient_id: meatless_bacon
+confidence: 0.9
+label: Bacon, meatless
+match_method: auto_precise
+meta:
+  category: Legumes and Legume Products
+source: usda_sr
+source_id: '172439'

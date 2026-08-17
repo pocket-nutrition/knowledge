@@ -1,0 +1,9 @@
+source: mccance
+source_id: 18-395
+canonical_ingredient_id: turkey_giblet
+label: Giblets, turkey, boiled
+cooking_method: boiled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: MG

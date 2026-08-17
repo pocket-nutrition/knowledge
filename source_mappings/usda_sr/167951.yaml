@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '167951'
+canonical_ingredient_id: granola_bar
+label: Snacks, crisped rice bar, chocolate chip
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Snacks

@@ -1,0 +1,18 @@
+id: corn_flake
+name_en: corn flakes
+name_fr: pétales de maïs
+name_en_plural: Corn Flakes
+name_fr_plural: corn flakes
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 33.0
+    density_g_ml: 0.13
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- cup
+- bowl
+display_unit: g

@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '20298'
+canonical_ingredient_id: _composite
+label: Carotte, purée cuisinée à la crème, préemballée
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

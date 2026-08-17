@@ -1,0 +1,19 @@
+id: pork_butt
+name_en: pork butt
+name_fr: épaule de porc
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.039
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- pork shoulder
+- boston butt
+aliases_fr:
+- échine de porc
+- crosse de porc
+display_unit: g

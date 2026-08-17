@@ -1,0 +1,21 @@
+id: battered_fish
+name_en: battered fish
+name_fr: poisson pané
+serving_mode: item
+unit_label_en: fillet
+unit_label_fr: filet
+food_group: fish
+states:
+  cooked:
+    portion_g: 120.0
+    density_g_ml: 1.1
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+aliases_en:
+- breaded fish
+- fish fillet
+aliases_fr:
+- filet de poisson pané
+- poisson frit
+display_unit: g

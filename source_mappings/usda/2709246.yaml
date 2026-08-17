@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709246'
+canonical_ingredient_id: papaya
+label: Papaya, raw
+cooking_method: raw
+match_method: name_en_before_comma
+confidence: 0.75

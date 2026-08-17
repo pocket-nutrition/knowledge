@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Restaurant, Chinese, sweet and sour chicken
+match_method: auto_token
+meta:
+  category: Restaurant Foods
+source: usda_sr
+source_id: '168081'

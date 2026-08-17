@@ -1,0 +1,6 @@
+canonical_ingredient_id: dragon_fruit
+confidence: 0.9
+label: Dragon fruit
+match_method: name_en_exact
+source: usda
+source_id: '2709234'

@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20810'
+canonical_ingredient_id: cress
+label: Cresson, feuille, cru, prélevé à la Martinique
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

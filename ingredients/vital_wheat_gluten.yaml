@@ -1,0 +1,19 @@
+id: vital_wheat_gluten
+name_en: vital wheat gluten
+name_fr: gluten de blé vital
+serving_mode: weight
+food_group: cereal
+states:
+  cooked: {}
+  processed:
+    portion_g: 10.0
+    density_g_ml: 0.6
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- gluten de blé
+serving_unit_types:
+- tablespoon
+- cup
+display_unit: g

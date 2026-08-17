@@ -1,0 +1,12 @@
+id: lamprey_egg
+name_en: lumpfish roe
+name_fr: œuf de lompe
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.084
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+display_unit: g

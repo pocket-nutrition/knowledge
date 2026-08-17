@@ -1,0 +1,14 @@
+id: pangasius
+name_en: pangasius
+name_fr: pangasius
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: roasted
+aliases_fr:
+- panga
+display_unit: g

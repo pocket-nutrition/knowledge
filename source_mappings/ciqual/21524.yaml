@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '21524'
+canonical_ingredient_id: lamb
+label: Agneau, côte ou côtelette, grillée/poêlée (aliment moyen)
+cooking_method: grilled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174547'
+canonical_ingredient_id: _composite
+label: CAMPBELL'S, Tomato Soup, condensed
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soups, Sauces, and Gravies

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Porridge, made with milk and water
+match_method: auto_name
+meta:
+  group: AI
+source: mccance
+source_id: 11-1106

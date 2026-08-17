@@ -1,0 +1,8 @@
+canonical_ingredient_id: french_dressing
+confidence: 0.65
+label: Salad dressing, french dressing, fat-free
+match_method: auto_token
+meta:
+  category: Fats and Oils
+source: usda_sr
+source_id: '171420'

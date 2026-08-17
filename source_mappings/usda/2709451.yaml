@@ -1,0 +1,6 @@
+source: usda
+source_id: '2709451'
+canonical_ingredient_id: _composite
+label: Potato, scalloped, from fresh, with meat
+match_method: name_en_before_comma
+confidence: 0.75

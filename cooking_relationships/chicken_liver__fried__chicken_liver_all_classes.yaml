@@ -1,0 +1,15 @@
+confidence: 0.75
+cooking_method: fried
+notes: USDA Cooking Yields for Meat and Poultry, Release 2 (2014) — Chicken, liver,
+  all classes / Pan-fried or Sauteed
+nutrient_retention:
+  iron_mg: 0.92
+  niacin_mg: 0.78
+  phosphorus_mg: 0.83
+  potassium_mg: 0.78
+  vitamin_b12_ug: 0.8
+  vitamin_b6_mg: 0.7
+  zinc_mg: 0.92
+raw_id: chicken_liver
+source: usda_yield_mp_r2
+yield_factor: 0.62

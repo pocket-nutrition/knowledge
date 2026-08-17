@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174536'
+canonical_ingredient_id: _composite
+label: Soup, chicken broth, ready-to-serve
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Soups, Sauces, and Gravies

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Soup, chicken corn chowder, chunky, ready-to-serve, single brand
+match_method: auto_token
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_sr
+source_id: '171585'

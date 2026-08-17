@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709953'
+canonical_ingredient_id: onion
+label: Onions, green, cooked
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Onions

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2706796'
+canonical_ingredient_id: _composite
+label: Kung pao chicken
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Stir-fry and soy-based sauce mixtures

@@ -1,0 +1,13 @@
+id: biscuit
+name_en: biscuit
+name_fr: biscuit
+serving_mode: weight
+food_group: baked_good
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.5
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

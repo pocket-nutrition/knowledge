@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: other
+id: low_carb_wrap
+name_en: low-carb wrap
+name_fr: low-carb wrap
+states:
+  raw:
+    density_g_ml: 0.997
+    portion_g: 354
+typical_state: raw

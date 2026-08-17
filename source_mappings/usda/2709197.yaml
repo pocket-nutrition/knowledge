@@ -1,0 +1,7 @@
+source: usda
+source_id: '2709197'
+canonical_ingredient_id: dried_apricot
+label: Apricot, dried
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9

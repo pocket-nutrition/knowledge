@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26046'
+canonical_ingredient_id: surimi
+label: Surimi, bâtonnets, tranche ou râpé saveur crabe
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

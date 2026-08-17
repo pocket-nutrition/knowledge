@@ -1,0 +1,22 @@
+id: sugarcane_juice
+name_en: sugarcane juice
+name_fr: jus de canne à sucre
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 200.0
+    density_g_ml: 1.06
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_en:
+- sugar cane juice
+- cane juice
+aliases_fr:
+- jus de canne
+- vésou
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

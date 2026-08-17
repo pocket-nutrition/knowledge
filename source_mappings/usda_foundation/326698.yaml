@@ -1,0 +1,8 @@
+canonical_ingredient_id: mustard
+confidence: 0.8
+label: Mustard, prepared, yellow
+match_method: auto_before_comma
+meta:
+  category: Spices and Herbs
+source: usda_foundation
+source_id: '326698'

@@ -1,0 +1,18 @@
+id: sisymbrium_sp_seeds
+name_en: sisymbrium seeds
+name_fr: graines de sisymbre
+serving_mode: measure
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.65
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- khakshir
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

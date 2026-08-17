@@ -1,0 +1,8 @@
+canonical_ingredient_id: doughnut
+confidence: 0.95
+label: Beignet
+match_method: auto_exact
+meta:
+  wweia_category: Doughnuts, sweet rolls, pastries
+source: usda
+source_id: '2708071'

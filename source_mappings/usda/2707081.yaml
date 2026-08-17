@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.65
+label: Chili hot dog sandwich, on wheat bread
+match_method: auto_token
+meta:
+  wweia_category: Frankfurter sandwiches
+source: usda
+source_id: '2707081'

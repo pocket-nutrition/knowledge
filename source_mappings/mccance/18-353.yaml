@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Turkey, whole, raw, weighed with bone
+match_method: auto_before_comma
+meta:
+  description: Calculated from 18-352
+  food_group: MCO
+source: mccance
+source_id: 18-353

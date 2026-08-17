@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added
+  ascorbic acid, includes SPAM, 25% less sodium
+match_method: auto_token
+meta:
+  category: Sausages and Luncheon Meats
+source: usda_sr
+source_id: '172950'

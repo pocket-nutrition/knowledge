@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '16080'
+canonical_ingredient_id: margarine
+label: Matière grasse ou graisse végétale solide (type margarine) pour friture ou graisse à frire
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: matières grasses

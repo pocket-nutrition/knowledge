@@ -1,0 +1,8 @@
+canonical_ingredient_id: pineapple_juice
+confidence: 0.9
+label: Jus d'ananas pour ananas appertisé au jus
+match_method: auto_ai
+meta:
+  group: aides culinaires et ingrédients divers
+source: ciqual
+source_id: '20920'

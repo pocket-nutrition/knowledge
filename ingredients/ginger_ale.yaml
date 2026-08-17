@@ -1,0 +1,18 @@
+id: ginger_ale
+name_en: ginger ale
+name_fr: ginger ale
+serving_mode: volume
+food_group: beverage
+states:
+  raw:
+    portion_g: 250.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_fr:
+- soda au gingembre
+serving_unit_types:
+- glass
+- cup
+display_unit: ml

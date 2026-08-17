@@ -1,0 +1,13 @@
+id: pearled_sorghum
+name_en: pearled sorghum
+name_fr: sorgho perlé
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 70.0
+    density_g_ml: 0.8
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

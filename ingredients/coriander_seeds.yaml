@@ -1,0 +1,19 @@
+id: coriander_seeds
+name_en: Coriander seeds
+name_fr: Graines de coriandre
+serving_mode: measure
+food_group: spice_herb
+states:
+  raw:
+    portion_g: 2.0
+    density_g_ml: 0.45
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- coriander seed
+- whole coriander
+serving_unit_types:
+- pinch
+- teaspoon
+display_unit: g

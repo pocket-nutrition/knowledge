@@ -1,0 +1,12 @@
+id: yam
+name_en: yam
+name_fr: Igname
+food_group: vegetable
+states:
+  raw:
+    portion_g: 136.0
+    density_g_ml: 1.117
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

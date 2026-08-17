@@ -1,0 +1,9 @@
+canonical_ingredient_id: butternut_squash
+confidence: 0.9
+cooking_method: roasted
+label: Squash, butternut, baked
+match_method: auto_precise
+meta:
+  group: DG
+source: mccance
+source_id: 13-644

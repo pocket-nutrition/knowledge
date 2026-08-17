@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708638'
+canonical_ingredient_id: _composite
+label: Pizza with pepperoni, from restaurant or fast food, NS as to type of crust
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Pizza

@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2644291'
+canonical_ingredient_id: canned_pea
+label: Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

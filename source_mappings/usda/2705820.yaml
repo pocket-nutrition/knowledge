@@ -1,0 +1,8 @@
+canonical_ingredient_id: mixed_ground_meat
+confidence: 0.9
+label: Meat, ground, NFS
+match_method: auto_ai
+meta:
+  wweia_category: Ground beef
+source: usda
+source_id: '2705820'

@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709582'
+canonical_ingredient_id: collard
+label: Collards, fresh, cooked with oil
+cooking_method: cooked
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Other dark green vegetables

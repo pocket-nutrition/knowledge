@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-622
+canonical_ingredient_id: sweetcorn
+label: Sweetcorn, kernels, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: IFR; removed from cob
+  food_group: DG

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Pork, shoulder joint (collar), raw, lean and fat
+match_method: auto_ai
+meta:
+  description: Calculated from 74% lean and 26% fat
+  food_group: MAG
+source: mccance
+source_id: 18-549

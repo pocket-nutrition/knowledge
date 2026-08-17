@@ -1,0 +1,15 @@
+id: lap_cheong
+name_en: lap cheong
+name_fr: saucisse chinoise
+serving_mode: weight
+food_group: processed_meat
+states:
+  raw:
+    portion_g: 40.0
+    density_g_ml: 1.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+aliases_en:
+- chinese sausage
+display_unit: g

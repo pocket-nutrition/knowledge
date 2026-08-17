@@ -1,0 +1,13 @@
+id: salt_pork
+name_en: salt pork
+name_fr: petit salé
+serving_mode: weight
+food_group: processed_meat
+states:
+  processed:
+    portion_g: 50.0
+  raw: {}
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

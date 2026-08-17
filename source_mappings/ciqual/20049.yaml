@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20049'
+canonical_ingredient_id: sweet_corn
+label: Maïs doux, en épis, cuit
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

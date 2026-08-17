@@ -1,0 +1,15 @@
+id: honey_greek_yogurt
+name_en: honey greek yogurt
+name_fr: yaourt grec au miel
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 125.0
+    density_g_ml: 1.04
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: g

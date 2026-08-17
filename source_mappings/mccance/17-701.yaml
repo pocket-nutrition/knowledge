@@ -1,0 +1,8 @@
+canonical_ingredient_id: french_dressing
+confidence: 0.9
+label: Dressing, French
+match_method: auto_precise
+meta:
+  group: WCG
+source: mccance
+source_id: 17-701

@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708155'
+canonical_ingredient_id: cracker
+label: Crackers, cheese, whole grain
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Crackers, excludes saltines

@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2346412'
+canonical_ingredient_id: grape
+label: Grapes, red, seedless, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: Fruits and Fruit Juices

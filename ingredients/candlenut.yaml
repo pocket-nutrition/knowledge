@@ -1,0 +1,16 @@
+id: candlenut
+name_en: candlenut
+name_fr: noix de bancoule
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 0.55
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

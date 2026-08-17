@@ -1,0 +1,10 @@
+id: french_fried_onion
+name_en: french-fried onion
+name_fr: oignons frits
+food_group: vegetable
+states:
+  raw:
+    portion_g: 153.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried

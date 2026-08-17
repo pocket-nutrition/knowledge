@@ -1,0 +1,22 @@
+id: chili_pepper
+name_en: chili pepper
+name_fr: piment
+serving_mode: item
+unit_label_en: chili
+unit_label_fr: piment
+food_group: vegetable
+states:
+  raw:
+    portion_g: 20.0
+    density_g_ml: 1.014
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- chilli
+- hot pepper
+- chili
+aliases_fr:
+- piment fort
+- piment rouge
+display_unit: g

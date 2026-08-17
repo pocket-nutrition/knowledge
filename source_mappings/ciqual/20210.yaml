@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20210'
+canonical_ingredient_id: cucumber
+label: Concombre, chair sans peau, cru
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

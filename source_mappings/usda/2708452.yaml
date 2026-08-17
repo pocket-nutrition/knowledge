@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708452'
+canonical_ingredient_id: breakfast_cereal
+label: Cereal, corn squares
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Ready-to-eat cereal, lower sugar (=<21.2g/100g)

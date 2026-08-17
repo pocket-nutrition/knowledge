@@ -1,0 +1,14 @@
+id: chocolate_chip_cookie
+name_en: chocolate chip cookie
+name_fr: cookie aux pépites de chocolat
+serving_mode: item
+unit_label_en: cookie
+unit_label_fr: cookie
+food_group: baked_good
+states:
+  raw:
+    portion_g: 51.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

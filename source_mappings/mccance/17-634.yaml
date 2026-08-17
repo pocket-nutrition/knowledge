@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Soup, carrot and coriander, carton, chilled
+match_method: auto_name
+meta:
+  group: WA
+source: mccance
+source_id: 17-634

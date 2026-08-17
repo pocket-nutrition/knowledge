@@ -1,0 +1,9 @@
+canonical_ingredient_id: dried_fig
+confidence: 0.9
+label: Figs, whole fruit, dried
+match_method: auto_ai
+meta:
+  description: Analysis and literature sources
+  food_group: FA
+source: mccance
+source_id: 14-092

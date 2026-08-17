@@ -1,0 +1,16 @@
+id: peppadew_pepper
+name_en: peppadew pepper
+name_fr: piment peppadew
+serving_mode: item
+unit_label_en: pepper
+unit_label_fr: piment
+food_group: vegetable
+states:
+  processed:
+    portion_g: 6.0
+  raw:
+    portion_g: 100.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

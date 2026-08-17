@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Quiche, cheese and egg, homemade
+match_method: auto_name
+meta:
+  group: CD
+source: mccance
+source_id: 12-948

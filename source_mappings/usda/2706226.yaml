@@ -1,0 +1,9 @@
+source: usda
+source_id: '2706226'
+canonical_ingredient_id: fish_raw
+label: Fish, NS as to type, baked or broiled, coated
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Fish

@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: shellfish
+id: scallop
+name_en: scallop
+name_fr: coquille Saint-Jacques
+states:
+  raw:
+    density_g_ml: 1.055
+    portion_g: 100
+typical_state: raw

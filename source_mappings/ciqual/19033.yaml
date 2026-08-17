@@ -1,0 +1,8 @@
+canonical_ingredient_id: semi_skimmed_milk
+confidence: 0.9
+label: Lait demi-écrémé (aliment moyen)
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19033'

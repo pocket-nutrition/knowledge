@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '19021'
+canonical_ingredient_id: milk_powder
+label: Lait en poudre, entier
+cooking_method: dry
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits laitiers

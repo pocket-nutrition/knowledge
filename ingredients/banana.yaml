@@ -1,0 +1,17 @@
+id: banana
+name_en: banana
+name_fr: banane
+name_en_plural: bananas
+name_fr_plural: bananes
+serving_mode: item
+unit_label_en: banana
+unit_label_fr: banane
+food_group: fruit
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 0.94
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

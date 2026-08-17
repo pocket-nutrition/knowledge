@@ -1,0 +1,8 @@
+canonical_ingredient_id: lamb_quarter
+confidence: 0.9
+label: Lambsquarter, cooked
+match_method: auto_ai
+meta:
+  category: Other dark green vegetables
+source: usda
+source_id: '2709605'

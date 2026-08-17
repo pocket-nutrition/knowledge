@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Tuna, flesh only, raw
+match_method: auto_ai
+meta:
+  description: 9 samples, 9 products, frozen and chilled
+  food_group: JC
+source: mccance
+source_id: 16-399

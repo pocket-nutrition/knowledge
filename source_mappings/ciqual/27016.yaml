@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '27016'
+canonical_ingredient_id: eel
+label: Anguille, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

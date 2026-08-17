@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-381
+canonical_ingredient_id: taro_leaves
+label: Taro leaves, steamed
+cooking_method: steamed
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: DG

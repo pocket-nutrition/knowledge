@@ -1,0 +1,9 @@
+source: mccance
+source_id: 14-347
+canonical_ingredient_id: null
+label: Bananas, raw, flesh only, weighed with skin
+match_method: manual
+confidence: 1.0
+meta:
+  description: Calculated from 14-318 using edible factor of 0.87
+  food_group: FA

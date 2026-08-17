@@ -1,0 +1,13 @@
+id: korean_rice_cake
+name_en: korean rice cake
+name_fr: gâteau de riz coréen
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 0.9
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+canonical_ingredient_id: ground_beef
+confidence: 0.9
+label: Beef, ground
+match_method: auto_ai
+meta:
+  wweia_category: Ground beef
+source: usda
+source_id: '2705854'

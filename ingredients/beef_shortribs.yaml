@@ -1,0 +1,18 @@
+id: beef_shortribs
+name_en: Beef short ribs
+name_fr: Plat de côtes de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- short ribs
+- beef ribs
+aliases_fr:
+- short ribs de bœuf
+- travers de bœuf
+display_unit: g

@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '40055'
+canonical_ingredient_id: turkey_heart
+label: Coeur, dinde, cru
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: viandes crues

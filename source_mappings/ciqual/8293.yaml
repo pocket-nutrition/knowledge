@@ -1,0 +1,8 @@
+canonical_ingredient_id: tarama
+confidence: 0.8
+label: Tarama, aux oeufs de cabillaud, préemballé
+match_method: auto_before_comma
+meta:
+  group: viandes, oeufs, poissons
+source: ciqual
+source_id: '8293'

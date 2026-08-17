@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169831'
+canonical_ingredient_id: sirloin_steak
+label: APPLEBEE'S, 9 oz house sirloin steak
+cooking_method: grilled
+match_method: auto_token
+confidence: 0.65
+meta:
+  category: Restaurant Foods

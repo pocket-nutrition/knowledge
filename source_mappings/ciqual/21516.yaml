@@ -1,0 +1,9 @@
+canonical_ingredient_id: lamb_loin
+confidence: 0.9
+label: Agneau, côte filet crue
+match_method: auto_ai
+meta:
+  group: viandes, oeufs, poissons
+  subgroup: viandes crues
+source: ciqual
+source_id: '21516'

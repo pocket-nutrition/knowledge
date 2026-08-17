@@ -1,0 +1,16 @@
+id: green_chilli_paste
+name_en: Green chilli paste
+name_fr: pâte de piment vert
+serving_mode: measure
+food_group: sauce
+states:
+  raw:
+    portion_g: 10.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- teaspoon
+- tablespoon
+display_unit: g

@@ -1,0 +1,11 @@
+id: grape_leaves
+name_en: grape leaves
+name_fr: feuilles de vigne
+food_group: vegetable
+states:
+  raw:
+    portion_g: 14.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '13121'
+canonical_ingredient_id: apple
+label: Pomme Granny Smith, chair sans peau, crue
+match_method: manual
+confidence: 1.0

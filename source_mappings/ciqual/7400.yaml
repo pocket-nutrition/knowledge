@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '7400'
+canonical_ingredient_id: wheat_bread
+label: Pain grillé au froment, tranches, préemballé
+cooking_method: grilled
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: produits céréaliers

@@ -1,0 +1,12 @@
+id: yeast
+name_en: yeast
+name_fr: levure
+food_group: other
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 0.65
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

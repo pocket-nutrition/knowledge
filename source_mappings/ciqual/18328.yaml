@@ -1,0 +1,10 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Boisson préparée à partir de sirop ou de boisson concentrée à diluer type menthe,
+  fraise, etc, diluée dans l'eau, sans précision sur la teneur en sucres et édulcorants
+  (aliment moyen)
+match_method: auto_name
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '18328'

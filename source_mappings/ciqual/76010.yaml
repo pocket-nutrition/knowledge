@@ -1,0 +1,9 @@
+canonical_ingredient_id: mineral_water
+confidence: 0.9
+label: Eau minérale Celtic, embouteillée, gazeuse ou plate, très faiblement minéralisée
+  (Niederbronn, 67)
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '76010'

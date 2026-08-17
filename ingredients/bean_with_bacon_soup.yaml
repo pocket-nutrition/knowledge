@@ -1,0 +1,11 @@
+can_eat_cooked: true
+can_eat_raw: true
+food_group: legume
+id: bean_with_bacon_soup
+name_en: bean with bacon soup
+name_fr: bean with bacon soup
+states:
+  raw:
+    density_g_ml: 0.541
+    portion_g: 128
+typical_state: raw

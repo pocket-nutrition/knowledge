@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Prunes, flesh and skin, weighed with stones
+match_method: auto_ai
+meta:
+  group: FA
+source: mccance
+source_id: 14-232

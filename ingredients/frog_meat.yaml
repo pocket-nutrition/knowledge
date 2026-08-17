@@ -1,0 +1,17 @@
+id: frog_meat
+name_en: frog meat
+name_fr: grenouille
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0
+    density_g_ml: 1.048
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- frog legs
+aliases_fr:
+- cuisses de grenouille
+display_unit: g

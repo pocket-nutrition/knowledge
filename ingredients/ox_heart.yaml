@@ -1,0 +1,13 @@
+id: ox_heart
+name_en: ox heart
+name_fr: cœur de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  cooked: {}
+  raw:
+    portion_g: 125.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

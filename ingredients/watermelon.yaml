@@ -1,0 +1,15 @@
+id: watermelon
+name_en: watermelon
+name_fr: pastèque
+serving_mode: weight
+food_group: fruit
+states:
+  raw:
+    portion_g: 280.0
+    density_g_ml: 1.046
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: raw
+aliases_fr:
+- melon d'eau
+display_unit: g

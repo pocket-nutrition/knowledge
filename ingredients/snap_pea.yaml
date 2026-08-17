@@ -1,0 +1,17 @@
+id: snap_pea
+name_en: snap pea
+name_fr: pois gourmand
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 60.0
+    density_g_ml: 1.026
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- sugar snap pea
+aliases_fr:
+- pois mange-tout
+display_unit: g

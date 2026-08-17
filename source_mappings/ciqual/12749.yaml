@@ -1,0 +1,8 @@
+canonical_ingredient_id: raclette_cheese
+confidence: 0.95
+label: Raclette (fromage)
+match_method: manual
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12749'

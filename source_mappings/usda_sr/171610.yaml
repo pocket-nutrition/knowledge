@@ -1,0 +1,8 @@
+canonical_ingredient_id: worcestershire
+confidence: 0.92
+label: Sauce, worcestershire
+match_method: auto_precise
+meta:
+  category: Soups, Sauces, and Gravies
+source: usda_sr
+source_id: '171610'

@@ -1,0 +1,13 @@
+id: pepper_jack_cheese
+name_en: pepper jack cheese
+name_fr: fromage pepper jack
+serving_mode: weight
+food_group: dairy
+states:
+  processed:
+    portion_g: 30.0
+  raw: {}
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

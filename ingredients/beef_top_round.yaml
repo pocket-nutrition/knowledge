@@ -1,0 +1,15 @@
+id: beef_top_round
+name_en: top round beef
+name_fr: tende de tranche de bœuf
+serving_mode: weight
+food_group: meat
+states:
+  raw:
+    portion_g: 85.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_fr:
+- rond de tranche
+- tranche grasse
+display_unit: g

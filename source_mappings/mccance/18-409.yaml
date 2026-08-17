@@ -1,0 +1,10 @@
+source: mccance
+source_id: 18-409
+canonical_ingredient_id: veal_liver
+label: Liver, calf, raw
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  description: 10 samples
+  food_group: MG

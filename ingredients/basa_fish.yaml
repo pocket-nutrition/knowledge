@@ -1,0 +1,19 @@
+id: basa_fish
+name_en: basa fish
+name_fr: poisson basa
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- pangasius
+- basa
+aliases_fr:
+- pangasius
+display_unit: g

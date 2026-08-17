@@ -1,0 +1,8 @@
+canonical_ingredient_id: cream
+confidence: 0.9
+label: Crème 12 à 25% MG, légère, semi-épaisse, UHT
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '19430'

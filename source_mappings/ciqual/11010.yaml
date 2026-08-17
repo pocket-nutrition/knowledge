@@ -1,0 +1,6 @@
+source: ciqual
+source_id: '11010'
+canonical_ingredient_id: yeast
+label: Levure de boulanger fraîche
+match_method: ai_review
+confidence: 0.9

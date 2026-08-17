@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '174203'
+canonical_ingredient_id: surimi
+label: Crustaceans, crab, alaska king, imitation, made from surimi
+cooking_method: cooked
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Finfish and Shellfish Products

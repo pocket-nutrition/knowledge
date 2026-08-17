@@ -1,0 +1,8 @@
+canonical_ingredient_id: guava
+confidence: 0.8
+label: Goyave, chair sans peau, purée, prélevée à la Martinique
+match_method: auto_before_comma
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '13407'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.65
+label: Chicken breast tenders, breaded, cooked, microwaved
+match_method: auto_token
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '171514'

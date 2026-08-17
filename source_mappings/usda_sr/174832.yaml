@@ -1,0 +1,8 @@
+source: usda_sr
+source_id: '174832'
+canonical_ingredient_id: almond_milk
+label: Beverages, almond milk, unsweetened, shelf stable
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Beverages

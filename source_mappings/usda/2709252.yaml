@@ -1,0 +1,8 @@
+canonical_ingredient_id: peach
+confidence: 0.8
+label: Peach, canned, juice pack
+match_method: auto_before_comma
+meta:
+  category: Peaches and nectarines
+source: usda
+source_id: '2709252'

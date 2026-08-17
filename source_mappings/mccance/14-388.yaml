@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Blackberries, raw
+match_method: auto_before_comma
+meta:
+  description: 11 samples, UK and imported
+  food_group: FA
+source: mccance
+source_id: 14-388

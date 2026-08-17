@@ -1,0 +1,8 @@
+source: mccance
+source_id: 14-805
+canonical_ingredient_id: hazelnut
+label: Barcelona nuts, kernel only, weighed with shells
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: GA

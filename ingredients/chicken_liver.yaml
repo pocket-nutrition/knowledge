@@ -1,0 +1,11 @@
+id: chicken_liver
+name_en: chicken liver
+name_fr: foie de volaille
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.05
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw

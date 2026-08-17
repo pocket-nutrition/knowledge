@@ -1,0 +1,8 @@
+source: usda
+source_id: '2709557'
+canonical_ingredient_id: _composite
+label: Soup, potato with meat
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Soups, cream-based

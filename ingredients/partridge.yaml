@@ -1,0 +1,7 @@
+id: partridge
+name_en: partridge
+name_fr: perdrix
+food_group: meat
+states:
+  raw:
+    portion_g: 150.0

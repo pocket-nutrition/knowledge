@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-650
+canonical_ingredient_id: swede
+label: Swede, flesh only, boiled in unsalted water
+cooking_method: boiled
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: DG

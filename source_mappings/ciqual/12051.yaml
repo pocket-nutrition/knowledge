@@ -1,0 +1,9 @@
+canonical_ingredient_id: mont_d_or_vacherin
+confidence: 0.9
+label: Mont d'or ou vacherin du Haut-Doubs (produit en France) ou vacherin-Mont d'Or
+  (produit en Suisse)
+match_method: auto_ai
+meta:
+  group: produits laitiers
+source: ciqual
+source_id: '12051'

@@ -1,0 +1,13 @@
+id: garoupa
+name_en: grouper
+name_fr: mérou
+food_group: fish
+states:
+  cooked: {}
+  raw:
+    portion_g: 130.0
+    density_g_ml: 1.057
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

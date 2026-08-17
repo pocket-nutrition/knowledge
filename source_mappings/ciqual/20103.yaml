@@ -1,0 +1,7 @@
+source: ciqual
+source_id: '20103'
+canonical_ingredient_id: mixed_mushroom
+label: Champignon, chanterelle ou girolle, crue
+cooking_method: raw
+match_method: name_fr_before_comma
+confidence: 0.8

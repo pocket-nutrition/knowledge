@@ -1,0 +1,10 @@
+source: ciqual
+source_id: '20536'
+canonical_ingredient_id: broad_bean
+label: Fève, fraîche, surgelée
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+  subgroup: légumineuses

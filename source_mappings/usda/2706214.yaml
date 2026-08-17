@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Luncheon meat, loaf type
+match_method: auto_name
+meta:
+  wweia_category: Cold cuts and cured meats
+source: usda
+source_id: '2706214'

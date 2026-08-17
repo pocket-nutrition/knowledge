@@ -1,0 +1,13 @@
+id: baby_squid
+name_en: baby squid
+name_fr: jeune calamar
+serving_mode: weight
+food_group: fish
+states:
+  raw:
+    portion_g: 100.0
+    density_g_ml: 1.116
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '747997'
+canonical_ingredient_id: egg_white
+label: Eggs, Grade A, Large, egg white
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Dairy and Egg Products

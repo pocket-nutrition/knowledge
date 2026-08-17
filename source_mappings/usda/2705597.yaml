@@ -1,0 +1,6 @@
+canonical_ingredient_id: cream
+confidence: 0.75
+label: Cream, heavy
+match_method: name_en_before_comma
+source: usda
+source_id: '2705597'

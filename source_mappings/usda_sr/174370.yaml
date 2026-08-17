@@ -1,0 +1,8 @@
+canonical_ingredient_id: ground_lamb
+confidence: 0.9
+label: Lamb, ground, raw
+match_method: auto_precise
+meta:
+  category: Lamb, Veal, and Game Products
+source: usda_sr
+source_id: '174370'

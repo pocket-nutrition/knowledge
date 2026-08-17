@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.0
+label: Peas and carrots, cooked, NS as to form
+match_method: auto_name
+meta:
+  category: Other vegetables and combinations
+source: usda
+source_id: '2709687'

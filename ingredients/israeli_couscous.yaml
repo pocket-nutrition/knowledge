@@ -1,0 +1,12 @@
+id: israeli_couscous
+name_en: israeli couscous
+name_fr: couscous israélien
+serving_mode: weight
+food_group: cereal
+states:
+  raw:
+    portion_g: 70.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

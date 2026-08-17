@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708788'
+canonical_ingredient_id: _composite
+label: Tortellini, cheese-filled, meatless, with tomato sauce, canned
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Pasta mixed dishes, excludes macaroni and cheese

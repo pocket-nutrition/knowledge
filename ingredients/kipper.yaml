@@ -1,0 +1,11 @@
+id: kipper
+name_en: kipper
+name_fr: hareng kipper
+food_group: fish
+states:
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

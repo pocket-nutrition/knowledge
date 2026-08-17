@@ -1,0 +1,8 @@
+source: mccance
+source_id: 15-188
+canonical_ingredient_id: _composite
+label: Lasagne, vegetable, wholemeal, homemade
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: DR

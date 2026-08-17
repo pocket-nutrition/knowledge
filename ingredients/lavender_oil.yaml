@@ -1,0 +1,15 @@
+id: lavender_oil
+name_en: lavender oil
+name_fr: huile de lavande
+serving_mode: measure
+food_group: other
+states:
+  raw:
+    portion_g: 1.0
+    density_g_ml: 0.88
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- teaspoon
+display_unit: ml

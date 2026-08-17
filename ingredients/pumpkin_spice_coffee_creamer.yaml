@@ -1,0 +1,15 @@
+id: pumpkin_spice_coffee_creamer
+name_en: pumpkin spice coffee creamer
+name_fr: crème à café épicé à la citrouille
+serving_mode: measure
+food_group: dairy
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 1.02
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: ml

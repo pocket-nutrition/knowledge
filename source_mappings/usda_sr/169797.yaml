@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '169797'
+canonical_ingredient_id: beluga_whale_meat
+label: Whale, beluga, meat, raw (Alaska Native)
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  category: American Indian/Alaska Native Foods

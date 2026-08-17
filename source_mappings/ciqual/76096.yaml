@@ -1,0 +1,9 @@
+canonical_ingredient_id: mineral_water
+confidence: 0.9
+label: Eau minérale Vals, embouteillée, gazeuse, moyennement minéralisée (Vals-les-Bains,
+  07)
+match_method: auto_ai
+meta:
+  group: eaux et autres boissons
+source: ciqual
+source_id: '76096'

@@ -1,0 +1,9 @@
+canonical_ingredient_id: ground_turkey
+confidence: 0.9
+cooking_method: cooked
+label: Turkey, Ground, cooked
+match_method: auto_precise
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '171506'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Haddock, flesh only, poached
+match_method: auto_before_comma
+meta:
+  group: JA
+source: mccance
+source_id: 16-473

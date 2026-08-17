@@ -1,0 +1,10 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Dates, dried, flesh and skin
+match_method: auto_ai
+meta:
+  description: 10 samples, 9 products, including whole and chopped, not including
+    partially rehydrated dates. No added glucose syrup
+  food_group: FA
+source: mccance
+source_id: 14-394

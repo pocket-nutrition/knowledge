@@ -1,0 +1,8 @@
+canonical_ingredient_id: hazelnut
+confidence: 0.9
+label: Nuts, hazelnuts or filberts, raw
+match_method: auto_ai
+meta:
+  category: Nut and Seed Products
+source: usda_foundation
+source_id: '2515375'

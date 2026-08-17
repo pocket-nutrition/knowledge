@@ -1,0 +1,9 @@
+source: usda
+source_id: '2709713'
+canonical_ingredient_id: sweet_potato_fry
+label: Sweet potato fries, fast food / restaurant
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  wweia_category: Fried vegetables

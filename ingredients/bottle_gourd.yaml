@@ -1,0 +1,15 @@
+id: bottle_gourd
+name_en: bottle gourd
+name_fr: calebasse
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- calabash
+- lauki
+display_unit: g

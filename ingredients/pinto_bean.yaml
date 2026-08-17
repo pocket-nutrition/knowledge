@@ -1,0 +1,16 @@
+id: pinto_bean
+name_en: pinto bean
+name_fr: haricot pinto
+name_en_plural: pinto beans
+name_fr_plural: haricots pinto
+serving_mode: weight
+food_group: legume
+states:
+  cooked:
+    portion_g: 227.0
+  raw:
+    portion_g: 284.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

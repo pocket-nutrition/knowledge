@@ -1,0 +1,17 @@
+id: rice_cake
+name_en: rice cake
+name_fr: galette de riz
+name_en_plural: rice cakes
+name_fr_plural: galettes de riz
+serving_mode: item
+unit_label_en: cake
+unit_label_fr: galette
+food_group: baked_good
+states:
+  raw:
+    portion_g: 9.0
+    density_g_ml: 0.12
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

@@ -1,0 +1,6 @@
+canonical_ingredient_id: brioche
+confidence: 0.7
+label: Brioche nature, artisanale
+match_method: name_fr_partial
+source: ciqual
+source_id: '7742'

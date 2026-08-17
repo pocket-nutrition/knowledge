@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Ostrich, tip trimmed, cooked
+match_method: auto_before_comma
+meta:
+  category: Poultry Products
+source: usda_sr
+source_id: '174488'

@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, liquid concentrate
+  not reconstituted, with ARA and DHA
+match_method: auto_name
+meta:
+  category: Baby Foods
+source: usda_sr
+source_id: '173544'

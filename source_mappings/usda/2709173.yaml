@@ -1,0 +1,8 @@
+canonical_ingredient_id: orange
+confidence: 0.8
+label: Orange, canned, juice pack
+match_method: auto_before_comma
+meta:
+  category: Citrus fruits
+source: usda
+source_id: '2709173'

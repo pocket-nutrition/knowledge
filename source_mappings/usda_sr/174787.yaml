@@ -1,0 +1,8 @@
+canonical_ingredient_id: null
+confidence: 0.0
+label: Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE
+match_method: auto_name
+meta:
+  category: Snacks
+source: usda_sr
+source_id: '174787'

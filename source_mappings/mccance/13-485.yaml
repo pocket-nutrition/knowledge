@@ -1,0 +1,8 @@
+source: mccance
+source_id: 13-485
+canonical_ingredient_id: french_fries
+label: Potato chips, fried in commercial oil, from takeaway fish and chip shops
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: DAP

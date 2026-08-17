@@ -1,0 +1,8 @@
+canonical_ingredient_id: hard_cider
+confidence: 0.9
+label: Beverages, AMBER, hard cider
+match_method: auto_ai
+meta:
+  category: Beverages
+source: usda_sr
+source_id: '174146'

@@ -1,0 +1,8 @@
+canonical_ingredient_id: almond_milk
+confidence: 0.8
+label: Almond milk, unsweetened, plain, shelf stable
+match_method: auto_before_comma
+meta:
+  category: Beverages
+source: usda_foundation
+source_id: '1999631'

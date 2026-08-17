@@ -1,0 +1,13 @@
+id: carp
+name_en: carp
+name_fr: carpe
+serving_mode: weight
+food_group: fish
+states:
+  cooked:
+    portion_g: 130.0
+    density_g_ml: 1.042
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

@@ -1,0 +1,11 @@
+id: cannabi
+name_en: cannabis
+name_fr: cannabis
+serving_mode: weight
+food_group: other
+states:
+  raw:
+    portion_g: 5.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw

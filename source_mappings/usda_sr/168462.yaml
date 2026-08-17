@@ -1,0 +1,8 @@
+canonical_ingredient_id: spinach
+confidence: 0.92
+label: Spinach, raw
+match_method: auto_precise
+meta:
+  category: Vegetables and Vegetable Products
+source: usda_sr
+source_id: '168462'

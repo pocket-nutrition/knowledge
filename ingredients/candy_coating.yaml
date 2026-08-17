@@ -1,0 +1,12 @@
+id: candy_coating
+name_en: candy coating
+name_fr: enrobage à confiserie
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 20.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+display_unit: g

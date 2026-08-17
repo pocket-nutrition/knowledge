@@ -1,0 +1,13 @@
+id: wild_game_bird
+name_en: wild game bird
+name_fr: gibier à plumes sauvage
+serving_mode: weight
+food_group: meat
+states:
+  cooked:
+    portion_g: 150.0
+    density_g_ml: 1.05
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

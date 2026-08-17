@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20122'
+canonical_ingredient_id: cauliflower
+label: Chou-fleur, surgelé, cuit
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

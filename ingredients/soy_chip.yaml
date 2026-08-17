@@ -1,0 +1,16 @@
+id: soy_chip
+name_en: soy chips
+name_fr: chips de soja
+serving_mode: weight
+food_group: legume
+states:
+  processed:
+    portion_g: 30.0
+    density_g_ml: 0.2
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: fried
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

@@ -1,0 +1,15 @@
+id: pont_leveque
+name_en: Pont l'Évêque
+name_fr: Pont l'Évêque
+serving_mode: weight
+food_group: dairy
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 1.056
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+aliases_fr:
+- fromage Pont-l'Évêque
+display_unit: g

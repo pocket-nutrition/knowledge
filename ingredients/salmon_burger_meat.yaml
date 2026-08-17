@@ -1,0 +1,13 @@
+id: salmon_burger_meat
+name_en: salmon burger meat
+name_fr: steak haché de saumon
+serving_mode: weight
+food_group: fish
+states:
+  cooked: {}
+  raw:
+    portion_g: 130.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

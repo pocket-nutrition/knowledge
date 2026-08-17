@@ -1,0 +1,9 @@
+source: usda_foundation
+source_id: '2710835'
+canonical_ingredient_id: corn_flour
+label: Corn flour, masa harina, white or yellow, dry, raw
+cooking_method: dry
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  category: Cereal Grains and Pasta

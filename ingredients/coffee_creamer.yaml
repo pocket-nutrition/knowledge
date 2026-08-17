@@ -1,0 +1,15 @@
+id: coffee_creamer
+name_en: coffee creamer
+name_fr: crème non laitière
+serving_mode: volume
+food_group: dairy
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 1.0
+can_eat_raw: true
+can_eat_cooked: false
+typical_state: processed
+serving_unit_types:
+- tablespoon
+display_unit: ml

@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '20317'
+canonical_ingredient_id: fennel
+label: Fenouil, cuit à l'étouffée
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: fruits, légumes, légumineuses et oléagineux

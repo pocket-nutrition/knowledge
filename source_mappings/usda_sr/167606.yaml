@@ -1,0 +1,9 @@
+source: usda_sr
+source_id: '167606'
+canonical_ingredient_id: sweet_potato
+label: Sweet Potatoes, french fried, frozen as packaged, salt added in processing
+cooking_method: fried
+match_method: ai_review
+confidence: 0.9
+meta:
+  category: Vegetables and Vegetable Products

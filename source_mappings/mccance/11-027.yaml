@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Tapioca, raw
+match_method: auto_ai
+meta:
+  description: 4 varieties, medium pearl, seed pearl, coarse and flake
+  food_group: AA
+source: mccance
+source_id: 11-027

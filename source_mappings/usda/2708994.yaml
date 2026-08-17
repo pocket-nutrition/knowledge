@@ -1,0 +1,8 @@
+source: usda
+source_id: '2708994'
+canonical_ingredient_id: _composite
+label: Black beans and white rice
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Bean, pea, legume dishes

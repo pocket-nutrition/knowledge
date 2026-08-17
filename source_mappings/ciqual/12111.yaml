@@ -1,0 +1,8 @@
+source: ciqual
+source_id: '12111'
+canonical_ingredient_id: string_cheese
+label: Fromage à effilocher ou à dérouler
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: produits laitiers

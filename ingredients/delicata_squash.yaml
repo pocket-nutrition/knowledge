@@ -1,0 +1,13 @@
+id: delicata_squash
+name_en: delicata squash
+name_fr: courge delicata
+serving_mode: weight
+food_group: vegetable
+states:
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

@@ -1,0 +1,8 @@
+source: mccance
+source_id: 14-879
+canonical_ingredient_id: walnut
+label: Walnuts, kernel only
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: GA

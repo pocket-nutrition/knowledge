@@ -1,0 +1,6 @@
+canonical_ingredient_id: tomato_sauce
+confidence: 0.75
+label: Tomato sauce, for use with vegetables
+match_method: name_en_before_comma
+source: usda
+source_id: '2710247'

@@ -1,0 +1,19 @@
+id: walnut
+name_en: walnut
+name_fr: noix
+name_en_plural: walnuts
+serving_mode: weight
+food_group: nut_seed
+states:
+  raw:
+    portion_g: 30.0
+    density_g_ml: 0.5
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: raw
+aliases_en:
+- English walnut
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

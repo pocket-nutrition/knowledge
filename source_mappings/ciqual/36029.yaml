@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '36029'
+canonical_ingredient_id: chicken_breast
+label: Poulet, poitrine, viande et peau crues
+cooking_method: raw
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: viandes, oeufs, poissons

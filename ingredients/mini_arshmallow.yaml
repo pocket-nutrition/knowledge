@@ -1,0 +1,16 @@
+id: mini_arshmallow
+name_en: mini marshmallow
+name_fr: mini guimauve
+serving_mode: weight
+food_group: sweetener
+states:
+  raw:
+    portion_g: 15.0
+    density_g_ml: 0.3
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: processed
+serving_unit_types:
+- small_handful
+- handful
+display_unit: g

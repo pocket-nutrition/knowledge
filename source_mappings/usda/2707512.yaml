@@ -1,0 +1,8 @@
+canonical_ingredient_id: peanut
+confidence: 0.9
+label: Peanuts, NFS
+match_method: auto_ai
+meta:
+  wweia_category: Nuts and seeds
+source: usda
+source_id: '2707512'

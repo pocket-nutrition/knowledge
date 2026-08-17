@@ -1,0 +1,8 @@
+canonical_ingredient_id: _composite
+confidence: 0.8
+label: Chicken salad spread
+match_method: auto_name
+meta:
+  wweia_category: Cold cuts and cured meats
+source: usda
+source_id: '2706221'

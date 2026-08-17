@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '27029'
+canonical_ingredient_id: trout
+label: Truite, élevage, fumée
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

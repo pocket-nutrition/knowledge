@@ -1,0 +1,8 @@
+canonical_ingredient_id: cream
+confidence: 0.8
+label: Cream, heavy
+match_method: auto_before_comma
+meta:
+  category: Dairy and Egg Products
+source: usda_foundation
+source_id: '2346386'

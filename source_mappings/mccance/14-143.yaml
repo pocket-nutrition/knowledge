@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.9
+label: Lychees, flesh only, raw, weighed with skin and stone
+match_method: auto_ai
+meta:
+  description: Calculated from 14-143
+  food_group: FA
+source: mccance
+source_id: 14-143

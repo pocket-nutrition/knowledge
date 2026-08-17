@@ -1,0 +1,8 @@
+canonical_ingredient_id: hemp_seed
+confidence: 0.9
+label: Chanvre ou chènevis, graine décortiquée
+match_method: auto_ai
+meta:
+  group: fruits, légumes, légumineuses et oléagineux
+source: ciqual
+source_id: '15063'

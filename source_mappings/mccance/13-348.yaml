@@ -1,0 +1,10 @@
+source: mccance
+source_id: 13-348
+canonical_ingredient_id: spring_greens
+label: Spring greens, raw
+cooking_method: raw
+match_method: auto_ai
+confidence: 0.9
+meta:
+  description: Main ribs and stems removed
+  food_group: DG

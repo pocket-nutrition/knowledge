@@ -1,0 +1,9 @@
+source: mccance
+source_id: 13-591
+canonical_ingredient_id: french_fried_onion
+label: Onions, fried in rapeseed oil
+cooking_method: fried
+match_method: auto_ai
+confidence: 0.9
+meta:
+  group: DG

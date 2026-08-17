@@ -1,0 +1,14 @@
+id: cowpea
+name_en: cowpea
+name_fr: haricot coco
+name_en_plural: cowpeas
+serving_mode: weight
+food_group: legume
+states:
+  raw:
+    portion_g: 120.0
+    density_g_ml: 1.124
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

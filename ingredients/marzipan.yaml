@@ -1,0 +1,12 @@
+id: marzipan
+name_en: marzipan
+name_fr: massepain
+serving_mode: weight
+food_group: sweetener
+states:
+  cooked:
+    portion_g: 60.0
+can_eat_raw: true
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

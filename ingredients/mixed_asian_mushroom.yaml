@@ -1,0 +1,15 @@
+id: mixed_asian_mushroom
+name_en: mixed asian mushroom
+name_fr: champignons asiatiques mélangés
+serving_mode: weight
+food_group: vegetable
+states:
+  cooked:
+    portion_g: 80.0
+  raw:
+    portion_g: 80.0
+    density_g_ml: 0.4
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: raw
+display_unit: g

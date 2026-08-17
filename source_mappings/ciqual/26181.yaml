@@ -1,0 +1,9 @@
+source: ciqual
+source_id: '26181'
+canonical_ingredient_id: albacore_tuna
+label: Thon albacore, au naturel, appertisé, égoutté
+cooking_method: cooked
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: viandes, oeufs, poissons

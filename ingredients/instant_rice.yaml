@@ -1,0 +1,10 @@
+id: instant_rice
+name_en: instant rice
+name_fr: riz instantané
+food_group: cereal
+states:
+  raw:
+    portion_g: 45.0
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled

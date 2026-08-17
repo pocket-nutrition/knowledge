@@ -1,0 +1,9 @@
+source: mccance
+source_id: 19-468
+canonical_ingredient_id: sausage_roll
+label: Sausage roll, flaky pastry, ready-to-eat, retail
+cooking_method: roasted
+match_method: auto_before_comma
+confidence: 0.8
+meta:
+  group: MI

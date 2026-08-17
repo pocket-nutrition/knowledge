@@ -1,0 +1,13 @@
+id: snail
+name_en: snail
+name_fr: escargot
+serving_mode: weight
+food_group: shellfish
+states:
+  raw:
+    portion_g: 85.0
+    density_g_ml: 1.058
+can_eat_raw: false
+can_eat_cooked: true
+typical_state: grilled
+display_unit: g

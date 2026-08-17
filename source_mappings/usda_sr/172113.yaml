@@ -1,0 +1,9 @@
+canonical_ingredient_id: null
+confidence: 0.8
+label: Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and
+  light entrees
+match_method: auto_before_comma
+meta:
+  category: Meals, Entrees, and Side Dishes
+source: usda_sr
+source_id: '172113'

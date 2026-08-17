@@ -1,0 +1,8 @@
+canonical_ingredient_id: desiccated_coconut
+confidence: 0.9
+label: Coconut, desiccated
+match_method: auto_precise
+meta:
+  group: GA
+source: mccance
+source_id: 14-873

@@ -1,0 +1,8 @@
+source: mccance
+source_id: 17-788
+canonical_ingredient_id: salad_dressing
+label: Dressing, oil and lemon, homemade
+match_method: ai_review
+confidence: 0.9
+meta:
+  group: WC

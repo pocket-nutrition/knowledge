@@ -1,0 +1,9 @@
+source: usda
+source_id: '2707854'
+canonical_ingredient_id: angel_food_cake
+label: Cake, angel food
+cooking_method: cooked
+match_method: auto_token
+confidence: 0.65
+meta:
+  wweia_category: Cakes and pies
