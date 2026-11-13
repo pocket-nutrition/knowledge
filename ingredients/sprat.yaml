@@ -9,7 +9,7 @@ states:
     density_g_ml: 1.049
 can_eat_raw: false
 can_eat_cooked: true
-typical_state: raw
+typical_state: fried
 aliases_en:
 - brisling
 display_unit: g

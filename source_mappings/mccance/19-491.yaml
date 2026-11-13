@@ -1,7 +1,8 @@
-canonical_ingredient_id: null
-confidence: 0.0
+canonical_ingredient_id: burger_patty
+cooking_method: grilled
+confidence: 0.9
 label: Burger, beef, 98-99% beef, grilled
-match_method: auto_name
+match_method: manual
 meta:
   group: MBG
 source: mccance

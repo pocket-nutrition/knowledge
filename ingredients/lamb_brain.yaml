@@ -7,5 +7,5 @@ states:
     portion_g: 100.0
 can_eat_raw: false
 can_eat_cooked: true
-typical_state: raw
+typical_state: fried
 display_unit: g

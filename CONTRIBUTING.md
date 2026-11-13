@@ -160,3 +160,13 @@ effort, but not required to submit a PR.
 Use the issue templates under `.github/ISSUE_TEMPLATE/`:
 - **Bug report** — wrong, missing, or inconsistent ingredient/mapping/relationship data.
 - **Feature request** — propose a new ingredient, source mapping, or recipe to add.
+
+## CI and releases
+
+- Every pull request runs `.github/workflows/ci.yml`. The `ci-success` check must be green before a pull
+  request can be merged, the branch must be up to date with `main`, and pull requests are squash-merged
+  so history stays linear.
+- If you contribute from a fork, the workflow waits for a maintainer to approve it. It runs with a
+  read-only token and no secrets.
+- This repository ships data and is not versioned automatically: CI only validates it, so there are no tags or
+  releases to produce.

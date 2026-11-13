@@ -9,6 +9,6 @@ states:
     density_g_ml: 0.85
 can_eat_raw: false
 can_eat_cooked: true
-typical_state: raw
+typical_state: boiled
 aliases_fr:
 - pois cajan

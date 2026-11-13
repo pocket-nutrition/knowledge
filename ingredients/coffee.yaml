@@ -9,7 +9,7 @@ states:
     density_g_ml: 1.0
 can_eat_raw: false
 can_eat_cooked: false
-typical_state: raw
+typical_state: processed
 serving_unit_types:
 - glass
 - cup

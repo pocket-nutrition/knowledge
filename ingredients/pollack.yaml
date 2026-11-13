@@ -9,7 +9,7 @@ states:
     density_g_ml: 1.061
 can_eat_raw: false
 can_eat_cooked: true
-typical_state: raw
+typical_state: grilled
 aliases_fr:
 - colin jaune
 display_unit: g

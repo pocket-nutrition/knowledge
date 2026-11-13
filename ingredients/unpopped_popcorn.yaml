@@ -9,7 +9,7 @@ states:
     density_g_ml: 0.75
 can_eat_raw: false
 can_eat_cooked: true
-typical_state: raw
+typical_state: boiled
 serving_unit_types:
 - tablespoon
 display_unit: g

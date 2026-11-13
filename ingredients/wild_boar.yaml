@@ -9,7 +9,7 @@ states:
     density_g_ml: 1.05
 can_eat_raw: false
 can_eat_cooked: true
-typical_state: raw
+typical_state: roasted
 aliases_en:
 - wild boar
 - wild pig

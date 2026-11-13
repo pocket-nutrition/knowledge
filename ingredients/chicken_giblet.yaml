@@ -12,7 +12,7 @@ states:
     portion_g: 150.0
 can_eat_raw: false
 can_eat_cooked: true
-typical_state: raw
+typical_state: fried
 aliases_en:
 - chicken giblets
 - giblets
