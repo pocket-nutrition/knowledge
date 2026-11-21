@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MPL-2.0
+# SPDX-License-Identifier: AGPL-3.0-or-later
 name: CI
 
 # This repository ships data, not a build: CI validates the YAML against the schemas and nothing is
